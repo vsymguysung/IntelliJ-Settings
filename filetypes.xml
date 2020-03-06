@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="files/logrotate" type="PLAIN_TEXT" />
+      <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping pattern="third-party-api-requests.js" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
