@@ -112,6 +112,9 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1586368462290">
         <mark key="'" line="563" column="18" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" timestamp="1586452560698">
+        <mark key="'" line="57" column="30" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSettings.java" timestamp="1586052117409">
         <mark key="'" line="36" column="38" />
       </file>
@@ -152,8 +155,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1586375872591">
         <mark key="'" line="2000" column="55" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586435789423">
-        <mark key="'" line="44" column="34" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586452552916">
+        <mark key="'" line="29" column="62" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586435869837">
         <mark key="'" line="56" column="43" />
@@ -170,8 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="86" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
-      <jump line="22" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
       <jump line="39" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
       <jump line="83" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
       <jump line="17" column="112" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" />
@@ -270,6 +271,8 @@
       <jump line="131" column="8" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="125" column="22" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="126" column="22" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="29" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="57" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
