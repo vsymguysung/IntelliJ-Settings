@@ -106,6 +106,9 @@
         <mark key="[" line="114" column="22" />
         <mark key="]" line="114" column="52" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586443324268">
+        <mark key="'" line="71" column="45" />
+      </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1586368462290">
         <mark key="'" line="563" column="18" />
       </file>
@@ -163,10 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="35" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" />
-      <jump line="147" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
-      <jump line="46" column="30" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" />
-      <jump line="115" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="111" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="59" column="89" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleStartBotSessionResponse.js" />
       <jump line="52" column="74" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
@@ -263,6 +262,10 @@
       <jump line="44" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="56" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="123" column="11" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="254" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="228" column="150" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="258" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="71" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
