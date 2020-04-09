@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0VtcHR5XD4=</entry>
-        <entry encoding="base64">XDxjcmVkZW50aWFsc0hhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxjcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxhdXRoRGF0YVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0V2VhdGhlckJ5WmlwY29kZVw+</entry>
@@ -25,6 +23,8 @@
         <entry>clientStream</entry>
         <entry encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VBc3luY1w+</entry>
         <entry>mdc</entry>
+        <entry encoding="base64">XDxjb250ZXh0U3RhY2tcPg==</entry>
+        <entry encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -161,8 +161,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1586052324301">
         <mark key="'" line="129" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" timestamp="1586444612544">
-        <mark key="'" line="123" column="11" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" timestamp="1586445997244">
+        <mark key="'" line="131" column="8" />
         <mark key="[" line="370" column="99" />
         <mark key="]" line="370" column="99" />
         <mark key="^" line="370" column="99" />
@@ -170,11 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="89" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleStartBotSessionResponse.js" />
-      <jump line="52" column="74" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="7" column="71" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.4.18-SNAPSHOT/app-management-core-0.4.18-20170927.184714-1-sources.jar!/com/inin/app/management/config/GlobalConfigKey.java" />
-      <jump line="51" column="4" filename="$USER_HOME$/GenDev/loquentia/deploy/lambda/src/lambda_function.py" />
-      <jump line="62" column="40" filename="$USER_HOME$/GenDev/voicebot-examples/dialogflow-fulfillment/src/public-api-v2/auth/authorization.js" />
       <jump line="67" column="52" filename="$USER_HOME$/GenDev/loquentia-examples/dialogflow-fulfillment/src/public-api-v2/auth/authorization.js" />
       <jump line="339" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="21" column="86" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
@@ -270,6 +265,11 @@
       <jump line="258" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="71" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="137" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="388" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="17" column="53" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="370" column="12" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="111" column="38" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="131" column="8" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,7 +281,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>mdc</text>
+        <text encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3VjY2Vzc2Z1bGx5IGNyZWF0ZWQgYSBzZXNzaW9uIA==</text>
@@ -320,12 +320,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mdc</last-search>
+      <last-search encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern>mdc</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
