@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRoRGF0YVw+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0V2VhdGhlckJ5WmlwY29kZVw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVXZWJTb2NrZXRVUkxcPg==</entry>
         <entry>Key</entry>
         <entry encoding="base64">XDxNRENcPg==</entry>
         <entry encoding="base64">XDxnZXRCb3ROYW1lXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxjb250ZXh0U3RhY2tcPg==</entry>
         <entry>MDC</entry>
         <entry encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDxpbml0aWFsVmFsdWVcPg==</entry>
+        <entry>initialValue</entry>
+        <entry encoding="base64">XDxpbmhlcml0YWJsZVRocmVhZExvY2FsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -124,7 +124,7 @@
         <mark key="^" line="12" column="72" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/MDC.java" timestamp="1586465263752">
+      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/MDC.java" timestamp="1586467129808">
         <mark key="'" line="263" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586370596781">
@@ -145,13 +145,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProviderTest.java" timestamp="1585940418434">
-        <mark key="'" line="140" column="39" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="101" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="32" column="61" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1585942307681">
         <mark key="'" line="52" column="74" />
       </file>
@@ -162,14 +155,17 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586452552916">
         <mark key="'" line="29" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" timestamp="1586466662244">
+        <mark key="'" line="46" column="39" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586435869837">
         <mark key="'" line="56" column="43" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1586052324301">
         <mark key="'" line="129" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" timestamp="1586466271629">
-        <mark key="'" line="373" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" timestamp="1586467230127">
+        <mark key="'" line="370" column="17" />
         <mark key="[" line="383" column="12" />
         <mark key="]" line="383" column="12" />
         <mark key="^" line="383" column="12" />
@@ -177,21 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
-      <jump line="66" column="141" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSessionTest.java" />
-      <jump line="34" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
-      <jump line="37" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
-      <jump line="28" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" />
-      <jump line="110" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="81" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
-      <jump line="82" column="112" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
-      <jump line="126" column="72" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProviderTest.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProviderTest.java" />
-      <jump line="31" column="38" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProviderTest.java" />
-      <jump line="127" column="99" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProviderTest.java" />
-      <jump line="86" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
-      <jump line="70" column="74" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
-      <jump line="89" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="67" column="104" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="71" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="133" column="39" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProviderTest.java" />
@@ -269,14 +250,29 @@
       <jump line="67" column="18" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/MDC.java" />
       <jump line="263" column="19" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/MDC.java" />
       <jump line="134" column="32" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
-      <jump line="370" column="26" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="131" column="8" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="111" column="38" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="385" column="21" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="386" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="365" column="4" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
-      <jump line="388" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
       <jump line="373" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="379" column="18" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="19" column="39" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="26" column="4" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="72" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="75" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="84" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="85" column="30" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="96" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="106" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="109" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="120" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="134" column="37" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="143" column="8" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="46" column="39" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
+      <jump line="319" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="388" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
+      <jump line="370" column="17" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,7 +284,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</text>
+        <text encoding="base64">XDxpbmhlcml0YWJsZVRocmVhZExvY2FsXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3VjY2Vzc2Z1bGx5IGNyZWF0ZWQgYSBzZXNzaW9uIA==</text>
@@ -327,9 +323,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</last-search>
+      <last-search encoding="base64">XDxpbmhlcml0YWJsZVRocmVhZExvY2FsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbmhlcml0YWJsZVRocmVhZExvY2FsXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
       <last-dir>-1</last-dir>
