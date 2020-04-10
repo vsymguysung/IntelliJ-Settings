@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</entry>
         <entry>clientStream</entry>
         <entry encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VBc3luY1w+</entry>
         <entry>mdc</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxsb29wYmFja0JvdENsaWVudFw+</entry>
         <entry>stop</entry>
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
+        <entry encoding="base64">XDxqd3RWYWxpZGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -104,10 +104,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586548600982">
         <mark key="'" line="71" column="44" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1586556757022">
+        <mark key="'" line="105" column="55" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" timestamp="1586555376435">
         <mark key="'" line="45" column="132" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586539756767" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/authentication/LoopbackAuthProvider.java" timestamp="1586555322666">
         <mark key="'" line="32" column="40" />
       </file>
@@ -120,9 +122,6 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="115" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" timestamp="1586536103647">
-        <mark key="'" line="80" column="20" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586555120930">
         <mark key="'" line="93" column="16" />
         <mark key="[" line="9" column="0" />
@@ -131,8 +130,11 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1586548451237" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1586553859590">
-        <mark key="'" line="93" column="28" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586556424708">
+        <mark key="'" line="67" column="22" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1586556562053">
+        <mark key="'" line="94" column="84" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586550395362">
         <mark key="'" line="145" column="64" />
@@ -152,8 +154,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586548759098">
         <mark key="'" line="145" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586553855245">
-        <mark key="'" line="23" column="33" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586556767852">
+        <mark key="'" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586553491228">
         <mark key="'" line="103" column="80" />
@@ -163,14 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="249" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="95" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="106" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="161" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="49" column="114" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
-      <jump line="52" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="146" column="59" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="162" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="58" column="4" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-core/0.6.2-SNAPSHOT/inin-core-0.6.2-20180112.173738-5-sources.jar!/com/inin/framework/concurrent/SerializedExecutor.java" />
       <jump line="331" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
@@ -263,6 +257,14 @@
       <jump line="59" column="80" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" />
       <jump line="45" column="132" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" />
       <jump line="143" column="87" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="82" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" />
+      <jump line="49" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
+      <jump line="67" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
+      <jump line="95" column="61" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" />
+      <jump line="94" column="84" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" />
+      <jump line="37" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" />
+      <jump line="105" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" />
+      <jump line="31" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -274,7 +276,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tb25cPg==</text>
+        <text encoding="base64">XDxqd3RWYWxpZGF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExvb3BiYWNrVVJMKCJsb29wYmFjay51cmwiKSwK</text>
@@ -313,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb21tb25cPg==</last-search>
+      <last-search encoding="base64">XDxqd3RWYWxpZGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxqd3RWYWxpZGF0b3JcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
       <last-dir>-1</last-dir>
