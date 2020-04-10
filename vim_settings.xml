@@ -156,8 +156,12 @@
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" timestamp="1586466662244">
         <mark key="'" line="46" column="39" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586435869837">
-        <mark key="'" line="56" column="43" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586524980235">
+        <mark key="'" line="63" column="18" />
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="85" column="19" />
+        <mark key="^" line="85" column="19" />
+        <mark key="." line="85" column="18" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1586052324301">
         <mark key="'" line="129" column="12" />
@@ -171,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="72" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="75" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="69" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
@@ -271,12 +274,13 @@
       <jump line="23" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
       <jump line="75" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
       <jump line="55" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="63" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtWFg6SGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgXAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBhc3luYyhSdW5uYWJsZSBydW5uYWJsZSwgTG9xdWVudGlhU2Vzc2lvbiBsb3F1ZW50aWFTZXNzaW9uKSB7CiAgICAgICAgcmV0dXJuIENvbXBsZXRhYmxlRnV0dXJlLnJ1bkFzeW5jKCgpIC0+IHsKICAgICAgICAgICAgdHJ5IChDb250ZXh0TG9nZ2VyIGN0eCA9IG5ldyBDb250ZXh0TG9nZ2VyKCkpIHsKICAgICAgICAgICAgICAgIGlmKGxvcXVlbnRpYVNlc3Npb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGxvcXVlbnRpYVNlc3Npb24uc2V0Q29udGV4dChjdHgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcnVubmFibGUucnVuKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -285,7 +289,7 @@
         <text>Completable</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U3VjY2Vzc2Z1bGx5IGNyZWF0ZWQgYSBzZXNzaW9uIA==</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBhc3luYyhSdW5uYWJsZSBydW5uYWJsZSwgTG9xdWVudGlhU2Vzc2lvbiBsb3F1ZW50aWFTZXNzaW9uKSB7CiAgICAgICAgcmV0dXJuIENvbXBsZXRhYmxlRnV0dXJlLnJ1bkFzeW5jKCgpIC0+IHsKICAgICAgICAgICAgdHJ5IChDb250ZXh0TG9nZ2VyIGN0eCA9IG5ldyBDb250ZXh0TG9nZ2VyKCkpIHsKICAgICAgICAgICAgICAgIGlmKGxvcXVlbnRpYVNlc3Npb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGxvcXVlbnRpYVNlc3Npb24uc2V0Q29udGV4dChjdHgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcnVubmFibGUucnVuKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAtWFg6SGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgXAo=</text>
