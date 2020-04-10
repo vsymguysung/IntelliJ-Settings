@@ -107,6 +107,9 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" timestamp="1586535904668">
         <mark key="'" line="204" column="18" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586545514632">
+        <mark key="'" line="2195" column="11" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586538642544">
         <mark key="'" line="145" column="63" />
       </file>
@@ -138,12 +141,12 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" timestamp="1586536103647">
         <mark key="'" line="80" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586539398425">
-        <mark key="'" line="59" column="38" />
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="53" />
-        <mark key="^" line="50" column="53" />
-        <mark key="." line="50" column="52" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586545547181">
+        <mark key="'" line="88" column="43" />
+        <mark key="[" line="88" column="4" />
+        <mark key="]" line="88" column="4" />
+        <mark key="^" line="88" column="17" />
+        <mark key="." line="88" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/WebSocketSession.java" timestamp="1586535340398">
         <mark key="'" line="122" column="12" />
@@ -153,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
-      <jump line="84" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
       <jump line="85" column="30" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
       <jump line="96" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
       <jump line="106" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
@@ -253,12 +254,25 @@
       <jump line="23" column="94" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="59" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="55" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="99" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="2195" column="11" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>final ForkJoinPool.ForkJoinWorkerThreadFactory factory = new ForkJoinPool.ForkJoinWorkerThreadFactory()
+    {
+        @Override
+        public ForkJoinWorkerThread newThread(ForkJoinPool pool)
+        {
+            final ForkJoinWorkerThread worker = ForkJoinPool.defaultForkJoinWorkerThreadFactory.newThread(pool);
+            worker.setName(&quot;my-thread-prefix-name-&quot; + worker.getPoolIndex());
+            return worker;
+        }
+    };
+
+    ForkJoinPool forkJoinPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors(), factory, null, false);</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -267,34 +281,45 @@
         <text>stop</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJHb29nbGVUVFNTZXNzaW9uLSVkIikKICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+CiAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBDb21wbGV0YWJsZUZ1dHVyZSBmb3IgR29vZ2xlVFRTLiIsIGV4Y2VwdGlvbikKICAgICAgICAgICAgKQogICAgICAgICAgICAuc2V0RGFlbW9uKHRydWUpCiAgICAgICAgICAgIC5idWlsZCgpKTs=</text>
+        <text>ForkJoinPool</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yOwo=</text>
+      <register name="1" type="4">
+        <text>final ForkJoinPool.ForkJoinWorkerThreadFactory factory = new ForkJoinPool.ForkJoinWorkerThreadFactory()
+    {
+        @Override
+        public ForkJoinWorkerThread newThread(ForkJoinPool pool)
+        {
+            final ForkJoinWorkerThread worker = ForkJoinPool.defaultForkJoinWorkerThreadFactory.newThread(pool);
+            worker.setName(&quot;my-thread-prefix-name-&quot; + worker.getPoolIndex());
+            return worker;
+        }
+    };
+
+    ForkJoinPool forkJoinPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors(), factory, null, false);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2VydmljZSA9IAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbmluLmZyYW1ld29yay5jb25jdXJyZW50LlNlcmlhbGl6ZWRFeGVjdXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2VydmljZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbmluLmZyYW1ld29yay5jb25jdXJyZW50LlNlcmlhbGl6ZWRFeGVjdXRvcjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Ly8gICAgICAgIHRoaXMuY2ZFeGVjdXRvciA9IG5ldyBTZXJpYWxpemVkRXhlY3V0b3IoRXhlY3V0b3JzLm5ld0ZpeGVkVGhyZWFkUG9vbChudW1Db3JlcyAqIDI1LAovLyAgICAgICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJ3cy1tZXNzYWdlLSVkIikKLy8gICAgICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+Ci8vICAgICAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBkZWxpdmVyIG91dGdvaW5nIEpTT04gbWVzc2FnZS4iLCBleGNlcHRpb24pCi8vICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQovLyAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICApKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAtWFg6SGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgXAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVmYXVsdFZhbHVlIjogIiIK</text>
+        <text encoding="base64">ICAtWFg6SGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
