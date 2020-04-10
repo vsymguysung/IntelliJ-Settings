@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>knowledge</entry>
-        <entry>converter</entry>
         <entry encoding="base64">XDxpbnRlbnRDb252ZXJ0ZXJzXD4=</entry>
         <entry encoding="base64">XDxESUFMT0dFTkdJTkVfV0hJVEVMSVNUX09SR0FOSVpBVElPTlNfV0lUSF9CT1RfSURfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDx3aGl0ZWxpc3RlZE9yZ1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxydW5Bc3luY1w+</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxUaHJlYWRQb29sRXhlY3V0b3JGYWN0b3J5QmVhblw+</entry>
+        <entry encoding="base64">XDxyZWdpc3RlclRocmVhZFBvb2xNZXRyaWNzXD4=</entry>
+        <entry encoding="base64">XDxQT09MX1JFSkVDVEVEX1RBU0tfTUVUUklDXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,6 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/IntegrationChangedEventConsumer.java" timestamp="1586534663319">
+        <mark key="'" line="37" column="16" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586528668567">
         <mark key="'" line="72" column="39" />
         <mark key="[" line="36" column="4" />
@@ -121,17 +124,13 @@
         <mark key="." line="109" column="25" />
         <mark key="^" line="109" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586528825406">
-        <mark key="'" line="48" column="41" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586534575999">
+        <mark key="'" line="48" column="69" />
         <mark key="[" line="50" column="38" />
         <mark key="]" line="50" column="54" />
         <mark key="^" line="50" column="54" />
         <mark key="." line="50" column="53" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586370596781">
-        <mark key="'" line="106" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" timestamp="1586453406924" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586528522451">
         <mark key="'" line="55" column="35" />
         <mark key="[" line="41" column="0" />
@@ -154,10 +153,7 @@
         <mark key="[" line="114" column="22" />
         <mark key="]" line="114" column="52" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" timestamp="1586452560698">
-        <mark key="'" line="57" column="30" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586533295273">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586534690090">
         <mark key="'" line="158" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586527432426">
@@ -166,9 +162,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1586527038597">
         <mark key="'" line="232" column="29" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1586534640787">
+        <mark key="'" line="114" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1586527316462">
         <mark key="'" line="2028" column="51" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.4.18-SNAPSHOT/app-management-core-0.4.18-20170927.184714-1-sources.jar!/com/inin/app/management/metrics/MetricsRegistry.java" timestamp="1586534132685" />
       <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" timestamp="1586467230127">
         <mark key="'" line="370" column="17" />
         <mark key="[" line="383" column="12" />
@@ -181,14 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="139" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="83" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="55" column="108" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
-      <jump line="563" column="18" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="148" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="53" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="106" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="38" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="2000" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="199" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
@@ -273,13 +265,21 @@
       <jump line="95" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="106" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="161" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="48" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
       <jump line="49" column="114" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="52" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="154" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="146" column="59" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="162" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="58" column="4" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-core/0.6.2-SNAPSHOT/inin-core-0.6.2-20180112.173738-5-sources.jar!/com/inin/framework/concurrent/SerializedExecutor.java" />
+      <jump line="331" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="167" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="160" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="153" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="154" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="160" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
+      <jump line="48" column="69" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="37" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/IntegrationChangedEventConsumer.java" />
+      <jump line="75" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="158" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
@@ -292,7 +292,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaHJlYWRQb29sRXhlY3V0b3JGYWN0b3J5QmVhblw+</text>
+        <text encoding="base64">XDxQT09MX1JFSkVDVEVEX1RBU0tfTUVUUklDXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJHb29nbGVUVFNTZXNzaW9uLSVkIikKICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+CiAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBDb21wbGV0YWJsZUZ1dHVyZSBmb3IgR29vZ2xlVFRTLiIsIGV4Y2VwdGlvbikKICAgICAgICAgICAgKQogICAgICAgICAgICAuc2V0RGFlbW9uKHRydWUpCiAgICAgICAgICAgIC5idWlsZCgpKTs=</text>
@@ -331,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUaHJlYWRQb29sRXhlY3V0b3JGYWN0b3J5QmVhblw+</last-search>
+      <last-search encoding="base64">XDxQT09MX1JFSkVDVEVEX1RBU0tfTUVUUklDXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaHJlYWRQb29sRXhlY3V0b3JGYWN0b3J5QmVhblw+</last-pattern>
+      <last-pattern encoding="base64">XDxQT09MX1JFSkVDVEVEX1RBU0tfTUVUUklDXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
       <last-dir>-1</last-dir>
