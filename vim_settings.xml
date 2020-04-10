@@ -139,13 +139,6 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" timestamp="1586536103647">
         <mark key="'" line="80" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586546867099">
-        <mark key="'" line="88" column="78" />
-        <mark key="[" line="99" column="115" />
-        <mark key="]" line="100" column="4" />
-        <mark key="^" line="100" column="4" />
-        <mark key="." line="100" column="3" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/WebSocketSession.java" timestamp="1586535340398">
         <mark key="'" line="122" column="12" />
       </file>
