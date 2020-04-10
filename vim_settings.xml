@@ -126,15 +126,18 @@
         <mark key="^" line="63" column="15" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/WebSocketSession.java" timestamp="1586535340398">
-        <mark key="'" line="122" column="12" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1586548451237" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1586553859590">
+        <mark key="'" line="93" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.java" timestamp="1586535796921">
         <mark key="'" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586550395362">
         <mark key="'" line="145" column="64" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebSocketConfig.java" timestamp="1586553906282">
+        <mark key="'" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1586552896010">
         <mark key="'" line="46" column="60" />
@@ -148,21 +151,17 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586548759098">
         <mark key="'" line="145" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586553232510">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586553855245">
         <mark key="'" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586552868190">
-        <mark key="'" line="98" column="63" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586553491228">
+        <mark key="'" line="103" column="80" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" timestamp="1586536085599">
         <mark key="'" line="60" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="32" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="41" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="36" column="22" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" />
       <jump line="64" column="39" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" />
       <jump line="77" column="27" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" />
       <jump line="36" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
@@ -259,6 +258,10 @@
       <jump line="98" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="46" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="23" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
+      <jump line="103" column="80" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="33" column="69" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebSocketConfig.java" />
+      <jump line="93" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" />
+      <jump line="16" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebSocketConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
