@@ -119,6 +119,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/BaseWebSocketHandler.java" timestamp="1586535844165">
         <mark key="'" line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586539756767" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackWebsocketHandler.java" timestamp="1586535775762">
         <mark key="'" line="25" column="53" />
       </file>
@@ -131,8 +132,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1586527316462">
         <mark key="'" line="2028" column="51" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586539179359">
-        <mark key="'" line="55" column="34" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586539619611">
+        <mark key="'" line="55" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" timestamp="1586536103647">
         <mark key="'" line="80" column="20" />
@@ -247,11 +248,11 @@
       <jump line="80" column="20" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" />
       <jump line="143" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="145" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="55" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="96" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="29" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="23" column="94" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="59" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="55" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
