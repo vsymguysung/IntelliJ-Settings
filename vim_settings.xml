@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aGl0ZWxpc3RlZE9yZ1w+</entry>
         <entry encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</entry>
         <entry>clientStream</entry>
         <entry encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VBc3luY1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxQT09MX1JFSkVDVEVEX1RBU0tfTUVUUklDXD4=</entry>
         <entry encoding="base64">XDxsb29wYmFja0JvdENsaWVudFw+</entry>
         <entry>stop</entry>
+        <entry encoding="base64">XDxjb21tb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -99,29 +99,29 @@
         <mark key="'" line="37" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1586548451237" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586550228924">
+        <mark key="'" line="72" column="44" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.java" timestamp="1586535796921">
         <mark key="'" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586548600982">
         <mark key="'" line="71" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-core/0.6.2-SNAPSHOT/inin-core-0.6.2-20180112.173738-5-sources.jar!/com/inin/framework/concurrent/SerializedExecutor.java" timestamp="1586533286320">
-        <mark key="'" line="58" column="4" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586550395362">
+        <mark key="'" line="145" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" timestamp="1586535904668">
         <mark key="'" line="204" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586546574207">
-        <mark key="'" line="3231" column="0" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586550473677">
+        <mark key="'" line="2332" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586548759098">
         <mark key="'" line="145" column="63" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1586528749572">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/BaseWebSocketHandler.java" timestamp="1586535844165">
         <mark key="'" line="14" column="22" />
@@ -133,11 +133,19 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1586534640787">
         <mark key="'" line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586539619611">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586549732658">
         <mark key="'" line="55" column="25" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="115" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" timestamp="1586536103647">
         <mark key="'" line="80" column="20" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586550827167">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="63" column="15" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/WebSocketSession.java" timestamp="1586535340398">
         <mark key="'" line="122" column="12" />
@@ -147,28 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
-      <jump line="120" column="34" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
-      <jump line="134" column="37" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
-      <jump line="143" column="8" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
-      <jump line="46" column="39" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar!/org/slf4j/helpers/BasicMDCAdapter.java" />
-      <jump line="319" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
-      <jump line="388" column="0" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
-      <jump line="370" column="17" filename="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/0.6.2-SNAPSHOT/inin-logging-0.6.2-20180112.173610-5-sources.jar!/com/inin/logging/ContextLogger.java" />
-      <jump line="61" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
-      <jump line="50" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="154" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="70" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="23" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="75" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
-      <jump line="63" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
-      <jump line="42" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="65" column="101" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="24" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="70" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="67" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
-      <jump line="69" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="35" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="232" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
       <jump line="137" column="41" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" />
       <jump line="66" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
@@ -247,70 +233,70 @@
       <jump line="3231" column="0" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="88" column="78" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="71" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="74" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
+      <jump line="1183" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="62" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="72" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
+      <jump line="139" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="121" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="164" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="145" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="84" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="2396" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="586" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1198" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1202" column="12" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1203" column="7" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1241" column="42" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1265" column="39" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1925" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1928" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2047" column="35" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2235" column="60" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2237" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2332" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>final ForkJoinPool.ForkJoinWorkerThreadFactory factory = new ForkJoinPool.ForkJoinWorkerThreadFactory()
-    {
-        @Override
-        public ForkJoinWorkerThread newThread(ForkJoinPool pool)
-        {
-            final ForkJoinWorkerThread worker = ForkJoinPool.defaultForkJoinWorkerThreadFactory.newThread(pool);
-            worker.setName(&quot;my-thread-prefix-name-&quot; + worker.getPoolIndex());
-            return worker;
-        }
-    };
-
-    ForkJoinPool forkJoinPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors(), factory, null, false);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text encoding="base64">XDxjb21tb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ForkJoinPool</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFQ+IENvbXBsZXRhYmxlRnV0dXJlPFQ+IGFzeW5jKFN1cHBsaWVyPFQ+IHN1cHBsaWVyLCBMb3F1ZW50aWFTZXNzaW9uIGxvcXVlbnRpYVNlc3Npb24sIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvclNlcnZpY2UpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>final ForkJoinPool.ForkJoinWorkerThreadFactory factory = new ForkJoinPool.ForkJoinWorkerThreadFactory()
-    {
-        @Override
-        public ForkJoinWorkerThread newThread(ForkJoinPool pool)
-        {
-            final ForkJoinWorkerThread worker = ForkJoinPool.defaultForkJoinWorkerThreadFactory.newThread(pool);
-            worker.setName(&quot;my-thread-prefix-name-&quot; + worker.getPoolIndex());
-            return worker;
-        }
-    };
-
-    ForkJoinPool forkJoinPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors(), factory, null, false);</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2VydmljZSA9IAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBTZXRzIHRoZSBjb250ZXh0IGxvZ2dlciBhbmQgcnVucyBhIHN1cHBsaWVyIGFzeW5jaHJvbm91c2x5LgogICAgICogQHBhcmFtIHN1cHBsaWVyICB0aGUgc3VwcGxpZXIKICAgICAqIEBwYXJhbSBsb3F1ZW50aWFTZXNzaW9uICB0aGUgaW5zdGFuY2Ugb2Yge0BsaW5rIExvcXVlbnRpYVNlc3Npb259CiAgICAgKiBAcGFyYW0gPFQ+IHRoZSB0eXBlIHBhcmFtZXRlcgogICAgICogQHJldHVybiB0aGUgY29tcGxldGFibGUgZnV0dXJlCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgPFQ+IENvbXBsZXRhYmxlRnV0dXJlPFQ+IGFzeW5jKFN1cHBsaWVyPFQ+IHN1cHBsaWVyLCBMb3F1ZW50aWFTZXNzaW9uIGxvcXVlbnRpYVNlc3Npb24pIHsKICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUuc3VwcGx5QXN5bmMoKCkgLT4gewogICAgICAgICAgICB0cnkgKENvbnRleHRMb2dnZXIgY3R4ID0gbmV3IENvbnRleHRMb2dnZXIoKSkgewogICAgICAgICAgICAgICAgaWYobG9xdWVudGlhU2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbG9xdWVudGlhU2Vzc2lvbi5zZXRDb250ZXh0KGN0eCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gc3VwcGxpZXIuZ2V0KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbmluLmZyYW1ld29yay5jb25jdXJyZW50LlNlcmlhbGl6ZWRFeGVjdXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsKICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlID0gRm9ya0pvaW5Qb29sLmNvbW1vblBvb2woKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuY2ZFeGVjdXRvciA9IG5ldyBTZXJpYWxpemVkRXhlY3V0b3IoRXhlY3V0b3JzLm5ld0ZpeGVkVGhyZWFkUG9vbChudW1Db3JlcyAqIDI1LAovLyAgICAgICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJ3cy1tZXNzYWdlLSVkIikKLy8gICAgICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+Ci8vICAgICAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBkZWxpdmVyIG91dGdvaW5nIEpTT04gbWVzc2FnZS4iLCBleGNlcHRpb24pCi8vICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQovLyAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtWFg6SGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -319,12 +305,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>stop</last-search>
+      <last-search encoding="base64">XDxjb21tb25cPg==</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern encoding="base64">XDxjb21tb25cPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
