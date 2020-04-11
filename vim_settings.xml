@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZXh0U3RhY2tcPg==</entry>
         <entry>MDC</entry>
         <entry encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsVmFsdWVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx2YWxpZGF0ZUp3dFw+</entry>
         <entry encoding="base64">XDxwdWJsaWNLZXlSZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhdXRoU2VydmljZVByb3h5XD4=</entry>
+        <entry encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -129,7 +129,6 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1586548451237" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586556424708">
         <mark key="'" line="67" column="22" />
       </file>
@@ -141,6 +140,9 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebSocketConfig.java" timestamp="1586553906282">
         <mark key="'" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1586607907398">
+        <mark key="'" line="57" column="6" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" timestamp="1586555369964">
         <mark key="'" line="59" column="80" />
@@ -157,7 +159,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586557187896">
         <mark key="'" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586558018405">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586559052843">
         <mark key="'" line="103" column="60" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1586555385927">
@@ -165,10 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="48" column="69" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="37" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/IntegrationChangedEventConsumer.java" />
       <jump line="75" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="158" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="101" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
@@ -265,6 +263,10 @@
       <jump line="46" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="93" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="103" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="464" column="71" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="458" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="472" column="38" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="57" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -276,7 +278,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoU2VydmljZVByb3h5XD4=</text>
+        <text encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExvb3BiYWNrVVJMKCJsb29wYmFjay51cmwiKSwK</text>
@@ -315,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdXRoU2VydmljZVByb3h5XD4=</last-search>
+      <last-search encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoU2VydmljZVByb3h5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
       <last-dir>-1</last-dir>
