@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MDC</entry>
         <entry encoding="base64">XDxpbml0aWFsQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsVmFsdWVcPg==</entry>
         <entry>initialValue</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwdWJsaWNLZXlSZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhdXRoU2VydmljZVByb3h5XD4=</entry>
         <entry encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</entry>
+        <entry encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -153,8 +153,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586550473677">
         <mark key="'" line="2332" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586548759098">
-        <mark key="'" line="145" column="63" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586620056511">
+        <mark key="'" line="66" column="1" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586617123528">
         <mark key="'" line="88" column="50" />
@@ -167,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="20" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="29" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="31" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
       <jump line="146" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
@@ -267,6 +265,8 @@
       <jump line="23" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
       <jump line="32" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="88" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
+      <jump line="65" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="66" column="1" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,7 +278,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</text>
+        <text encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExvb3BiYWNrVVJMKCJsb29wYmFjay51cmwiKSwK</text>
@@ -317,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</last-search>
+      <last-search encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</last-pattern>
+      <last-pattern encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>host\.docker\.internal</last-substitute>
       <last-dir>-1</last-dir>
