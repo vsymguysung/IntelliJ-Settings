@@ -95,12 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586550228924">
-        <mark key="'" line="72" column="44" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586614562625">
         <mark key="'" line="108" column="56" />
       </file>
@@ -110,17 +104,21 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" timestamp="1586555376435">
         <mark key="'" line="45" column="132" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586784468875">
+        <mark key="'" line="244" column="19" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586784436781">
+        <mark key="'" line="73" column="50" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/authentication/LoopbackAuthProvider.java" timestamp="1586555322666">
         <mark key="'" line="32" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaConfigKey.java" timestamp="1586555823788">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586549732658">
-        <mark key="'" line="55" column="25" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="115" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586783392855">
         <mark key="'" line="94" column="4" />
@@ -135,7 +133,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1586556562053">
         <mark key="'" line="94" column="84" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586550395362">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586784462414">
         <mark key="'" line="145" column="64" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebSocketConfig.java" timestamp="1586553906282">
@@ -167,10 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="19" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" />
-      <jump line="87" column="19" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" />
-      <jump line="196" column="21" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" />
-      <jump line="25" column="53" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackWebsocketHandler.java" />
       <jump line="33" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.java" />
       <jump line="14" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/BaseWebSocketHandler.java" />
       <jump line="205" column="18" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" />
@@ -267,48 +261,52 @@
       <jump line="92" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="91" column="102" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="94" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="246" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
+      <jump line="162" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
+      <jump line="73" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
+      <jump line="244" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvb3BiYWNrVVJMKCJsb29wYmFjay51cmwiKSwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbmluLmxvZ2dpbmcuQ29udGV4dExvZ2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvb3BiYWNrVVJMKCJsb29wYmFjay51cmwiKSwK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9xdWVudGlhU2Vzc2lvbiBsb3F1ZW50aWFTZXNzaW9uID0gcGFyYW1ldGVycy5nZXRMb3F1ZW50aWFTZXNzaW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbmluLmxvZ2dpbmcuQ29udGV4dExvZ2dlcjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBTZXRzIHRoZSBjb250ZXh0IGxvZ2dlciBhbmQgcnVucyBhIHN1cHBsaWVyIGFzeW5jaHJvbm91c2x5LgogICAgICogQHBhcmFtIHN1cHBsaWVyICB0aGUgc3VwcGxpZXIKICAgICAqIEBwYXJhbSBsb3F1ZW50aWFTZXNzaW9uICB0aGUgaW5zdGFuY2Ugb2Yge0BsaW5rIExvcXVlbnRpYVNlc3Npb259CiAgICAgKiBAcGFyYW0gPFQ+IHRoZSB0eXBlIHBhcmFtZXRlcgogICAgICogQHJldHVybiB0aGUgY29tcGxldGFibGUgZnV0dXJlCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgPFQ+IENvbXBsZXRhYmxlRnV0dXJlPFQ+IGFzeW5jKFN1cHBsaWVyPFQ+IHN1cHBsaWVyLCBMb3F1ZW50aWFTZXNzaW9uIGxvcXVlbnRpYVNlc3Npb24pIHsKICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUuc3VwcGx5QXN5bmMoKCkgLT4gewogICAgICAgICAgICB0cnkgKENvbnRleHRMb2dnZXIgY3R4ID0gbmV3IENvbnRleHRMb2dnZXIoKSkgewogICAgICAgICAgICAgICAgaWYobG9xdWVudGlhU2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbG9xdWVudGlhU2Vzc2lvbi5zZXRDb250ZXh0KGN0eCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gc3VwcGxpZXIuZ2V0KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBDb21wbGV0YWJsZUZ1dHVyZS5zdXBwbHlBc3luYygoKSAtPiB7Ci8vICAgICAgICAgICAgdHJ5IChDb250ZXh0TG9nZ2VyIGN0eCA9IG5ldyBDb250ZXh0TG9nZ2VyKCkpIHsKLy8gICAgICAgICAgICAgICAgTG9xdWVudGlhU2Vzc2lvbiBsb3F1ZW50aWFTZXNzaW9uID0gcGFyYW1ldGVycy5nZXRMb3F1ZW50aWFTZXNzaW9uKCk7Ci8vICAgICAgICAgICAgICAgIGxvcXVlbnRpYVNlc3Npb24uc2V0Q29udGV4dChjdHgpOwovLwovLwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0sIGV4ZWN1dG9yU2VydmljZSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsKICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlID0gRm9ya0pvaW5Qb29sLmNvbW1vblBvb2woKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBTZXRzIHRoZSBjb250ZXh0IGxvZ2dlciBhbmQgcnVucyBhIHN1cHBsaWVyIGFzeW5jaHJvbm91c2x5LgogICAgICogQHBhcmFtIHN1cHBsaWVyICB0aGUgc3VwcGxpZXIKICAgICAqIEBwYXJhbSBsb3F1ZW50aWFTZXNzaW9uICB0aGUgaW5zdGFuY2Ugb2Yge0BsaW5rIExvcXVlbnRpYVNlc3Npb259CiAgICAgKiBAcGFyYW0gPFQ+IHRoZSB0eXBlIHBhcmFtZXRlcgogICAgICogQHJldHVybiB0aGUgY29tcGxldGFibGUgZnV0dXJlCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgPFQ+IENvbXBsZXRhYmxlRnV0dXJlPFQ+IGFzeW5jKFN1cHBsaWVyPFQ+IHN1cHBsaWVyLCBMb3F1ZW50aWFTZXNzaW9uIGxvcXVlbnRpYVNlc3Npb24pIHsKICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUuc3VwcGx5QXN5bmMoKCkgLT4gewogICAgICAgICAgICB0cnkgKENvbnRleHRMb2dnZXIgY3R4ID0gbmV3IENvbnRleHRMb2dnZXIoKSkgewogICAgICAgICAgICAgICAgaWYobG9xdWVudGlhU2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbG9xdWVudGlhU2Vzc2lvbi5zZXRDb250ZXh0KGN0eCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gc3VwcGxpZXIuZ2V0KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
