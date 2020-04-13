@@ -102,37 +102,37 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586803855125">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586804916937">
         <mark key="'" line="76" column="34" />
-        <mark key="[" line="77" column="29" />
-        <mark key="]" line="78" column="12" />
-        <mark key="^" line="78" column="12" />
-        <mark key="." line="78" column="11" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="64" />
+        <mark key="^" line="43" column="64" />
+        <mark key="." line="43" column="63" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1586614615932">
         <mark key="'" line="52" column="71" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1586804691341">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1586804930024">
         <mark key="'" line="90" column="39" />
-        <mark key="[" line="90" column="27" />
-        <mark key="]" line="90" column="44" />
-        <mark key="^" line="90" column="44" />
-        <mark key="." line="90" column="43" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="64" />
+        <mark key="^" line="24" column="64" />
+        <mark key="." line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1586803100936">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="49" column="67" />
-        <mark key="]" line="49" column="67" />
-        <mark key="^" line="49" column="64" />
-        <mark key="." line="49" column="67" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1586805934927">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="106" column="20" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionTest.java" timestamp="1586796353666" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586803090289">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586804954147">
         <mark key="'" line="243" column="42" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="23" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="53" column="64" />
+        <mark key="^" line="53" column="64" />
+        <mark key="." line="53" column="63" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586804566340">
         <mark key="'" line="122" column="24" />
@@ -141,12 +141,12 @@
         <mark key="^" line="87" column="27" />
         <mark key="." line="87" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586804440090">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586804942740">
         <mark key="'" line="29" column="46" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="29" column="90" />
-        <mark key="^" line="25" column="10" />
-        <mark key="." line="25" column="9" />
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="64" />
+        <mark key="^" line="29" column="64" />
+        <mark key="." line="29" column="63" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586797920454">
         <mark key="'" line="49" column="16" />
@@ -188,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="132" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" />
-      <jump line="143" column="87" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="82" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" />
       <jump line="49" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
       <jump line="67" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
@@ -241,7 +239,6 @@
       <jump line="107" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="42" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="27" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="133" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="79" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
       <jump line="50" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="41" column="139" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
@@ -288,15 +285,18 @@
       <jump line="85" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="122" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="90" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Runtime.getRuntime().availableProcessors()</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -308,35 +308,35 @@
     private static final ForkJoinPool forkJoinPoolExecutorService =
         new ForkJoinPool(Runtime.getRuntime().availableProcessors(), factory, null, false);</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
+      </register>
+      <register name="4" type="8">
         <text>+
 +
 +
 +</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEV4ZWN1dG9ycy4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJrYWZrYS1wdWJsaXNoZXItJWQiKQogICAgICAgICAgICAuc2V0VW5jYXVnaHRFeGNlcHRpb25IYW5kbGVyKCh0aHJlYWQsIGV4Y2VwdGlvbikgLT4KICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIENvbXBsZXRhYmxlRnV0dXJlIGZvciBLYWZrYSBFdmVudCBQdWJsaXNoZXIuIiwgZXhjZXB0aW9uKQogICAgICAgICAgICApCiAgICAgICAgICAgIC5zZXREYWVtb24odHJ1ZSkKICAgICAgICAgICAgLmJ1aWxkKCkpOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJHb29nbGVUVFNTZXNzaW9uLSVkIikKICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+CiAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBDb21wbGV0YWJsZUZ1dHVyZSBmb3IgR29vZ2xlVFRTLiIsIGV4Y2VwdGlvbikKICAgICAgICAgICAgKQogICAgICAgICAgICAuc2V0RGFlbW9uKHRydWUpCiAgICAgICAgICAgIC5idWlsZCgpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
