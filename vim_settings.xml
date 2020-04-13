@@ -101,14 +101,17 @@
         <mark key="^" line="16" column="58" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586792447201">
+        <mark key="'" line="71" column="43" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586614562625">
         <mark key="'" line="108" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1586614615932">
         <mark key="'" line="52" column="71" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" timestamp="1586555376435">
-        <mark key="'" line="45" column="132" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586785898832">
         <mark key="'" line="245" column="34" />
@@ -118,9 +121,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586784436781">
         <mark key="'" line="73" column="50" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/authentication/LoopbackAuthProvider.java" timestamp="1586555322666">
-        <mark key="'" line="32" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaConfigKey.java" timestamp="1586555823788">
         <mark key="[" line="22" column="0" />
@@ -145,21 +145,20 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1586607907398">
         <mark key="'" line="57" column="6" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" timestamp="1586555369964">
-        <mark key="'" line="59" column="80" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1586614631414">
         <mark key="'" line="32" column="30" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586789241089">
         <mark key="'" line="2332" column="23" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSettings.java" timestamp="1586792302888" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586620056511">
         <mark key="'" line="66" column="1" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1586617123528">
         <mark key="'" line="88" column="50" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1586792545959" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586614353199">
         <mark key="'" line="96" column="34" />
       </file>
@@ -168,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" />
       <jump line="113" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" />
       <jump line="60" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" />
       <jump line="66" column="0" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" />
@@ -268,6 +266,7 @@
       <jump line="99" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="98" column="9" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="97" column="85" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="71" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
