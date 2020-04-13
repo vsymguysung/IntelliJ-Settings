@@ -101,11 +101,12 @@
         <mark key="^" line="16" column="58" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586792447201">
-        <mark key="'" line="71" column="43" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586794685401">
+        <mark key="'" line="79" column="34" />
+        <mark key="[" line="70" column="59" />
+        <mark key="]" line="71" column="49" />
+        <mark key="." line="71" column="48" />
+        <mark key="^" line="71" column="49" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586614562625">
         <mark key="'" line="108" column="56" />
@@ -126,6 +127,10 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586794307993">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="115" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1586790341413">
         <mark key="'" line="97" column="85" />
         <mark key="[" line="9" column="0" />
@@ -145,9 +150,7 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1586607907398">
         <mark key="'" line="57" column="6" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1586614631414">
-        <mark key="'" line="32" column="30" />
-      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1586793273298" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586789241089">
         <mark key="'" line="2332" column="23" />
       </file>
@@ -162,12 +165,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1586614353199">
         <mark key="'" line="96" column="34" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1586555385927">
-        <mark key="'" line="143" column="87" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" />
       <jump line="60" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" />
       <jump line="66" column="0" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" />
       <jump line="710" column="68" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830-sources.jar!/org/eclipse/jetty/websocket/client/WebSocketClient.java" />
@@ -267,35 +266,48 @@
       <jump line="98" column="9" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="97" column="85" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="71" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
+      <jump line="79" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KCkgLT4gbG9vcGJhY2tCb3RDbGllbnQuc2VuZChhdWRpb0J5dGVzKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9xdWVudGlhU2Vzc2lvbiBsb3F1ZW50aWFTZXNzaW9uID0gcGFyYW1ldGVycy5nZXRMb3F1ZW50aWFTZXNzaW9uKCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">KCkgLT4gY2lyY3VpdEJyZWFrZXIuZXhlY3V0ZVN1cHBsaWVyKCgpIC0+IHN5bnRoZXNpemVJbnRlcm5hbCh0dHNSZXF1ZXN0KSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUuc3VwcGx5QXN5bmMoKCkgLT4gY2lyY3VpdEJyZWFrZXIuZXhlY3V0ZVN1cHBsaWVyKCgpIC0+IHN5bnRoZXNpemVJbnRlcm5hbCh0dHNSZXF1ZXN0KSksCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
         @Override
         public ForkJoinWorkerThread newThread(ForkJoinPool pool)
@@ -305,18 +317,6 @@
             return worker;
         }
     };</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbmluLmxvZ2dpbmcuQ29udGV4dExvZ2dlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
