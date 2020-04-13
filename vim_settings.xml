@@ -122,12 +122,12 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionTest.java" timestamp="1586796353666" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586799705820">
-        <mark key="'" line="160" column="34" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="49" />
-        <mark key="^" line="52" column="64" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1586800447602">
+        <mark key="'" line="49" column="69" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586784436781">
         <mark key="'" line="73" column="50" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="586" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1198" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1202" column="12" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1203" column="7" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -279,15 +278,16 @@
       <jump line="2552" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="28" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="160" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
+      <jump line="49" column="69" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEluc3RhbnRpYXRlIEZvcmtKb2luUG9vbCBFeGVjdXRvciBTZXJ2aWNlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>Runtime.getRuntime().availableProcessors()</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25cPg==</text>
@@ -295,23 +295,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIEluc3RhbnRpYXRlIEZvcmtKb2luUG9vbCBFeGVjdXRvciBTZXJ2aWNlLgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="8">
+        <text>+
++
++
++</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJrYWZrYS1wdWJsaXNoZXItJWQiKQogICAgICAgICAgICAuc2V0VW5jYXVnaHRFeGNlcHRpb25IYW5kbGVyKCh0aHJlYWQsIGV4Y2VwdGlvbikgLT4KICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIENvbXBsZXRhYmxlRnV0dXJlIGZvciBLYWZrYSBFdmVudCBQdWJsaXNoZXIuIiwgZXhjZXB0aW9uKQogICAgICAgICAgICApCiAgICAgICAgICAgIC5zZXREYWVtb24odHJ1ZSkKICAgICAgICAgICAgLmJ1aWxkKCkpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEV4ZWN1dG9ycy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJrYWZrYS1wdWJsaXNoZXItJWQiKQogICAgICAgICAgICAuc2V0VW5jYXVnaHRFeGNlcHRpb25IYW5kbGVyKCh0aHJlYWQsIGV4Y2VwdGlvbikgLT4KICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIENvbXBsZXRhYmxlRnV0dXJlIGZvciBLYWZrYSBFdmVudCBQdWJsaXNoZXIuIiwgZXhjZXB0aW9uKQogICAgICAgICAgICApCiAgICAgICAgICAgIC5zZXREYWVtb24odHJ1ZSkKICAgICAgICAgICAgLmJ1aWxkKCkpOw==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJHb29nbGVUVFNTZXNzaW9uLSVkIikKICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+CiAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBDb21wbGV0YWJsZUZ1dHVyZSBmb3IgR29vZ2xlVFRTLiIsIGV4Y2VwdGlvbikKICAgICAgICAgICAgKQogICAgICAgICAgICAuc2V0RGFlbW9uKHRydWUpCiAgICAgICAgICAgIC5idWlsZCgpKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
@@ -319,8 +322,8 @@
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IEV4ZWN1dG9ycy5uZXdDYWNoZWRUaHJlYWRQb29sKAogICAgICAgIG5ldyBUaHJlYWRGYWN0b3J5QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KCJHb29nbGVUVFNTZXNzaW9uLSVkIikKICAgICAgICAgICAgLnNldFVuY2F1Z2h0RXhjZXB0aW9uSGFuZGxlcigodGhyZWFkLCBleGNlcHRpb24pIC0+CiAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIkZhaWxlZCB0byBDb21wbGV0YWJsZUZ1dHVyZSBmb3IgR29vZ2xlVFRTLiIsIGV4Y2VwdGlvbikKICAgICAgICAgICAgKQogICAgICAgICAgICAuc2V0RGFlbW9uKHRydWUpCiAgICAgICAgICAgIC5idWlsZCgpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
