@@ -102,12 +102,12 @@
         <mark key="^" line="17" column="62" />
         <mark key="." line="17" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1586811563516">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1586812399312">
         <mark key="'" line="24" column="16" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="12" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="25" column="11" />
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="15" />
+        <mark key="^" line="72" column="15" />
+        <mark key="." line="72" column="15" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586804916937">
         <mark key="'" line="76" column="34" />
@@ -138,10 +138,10 @@
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586810317697">
-        <mark key="'" line="122" column="24" />
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="64" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1586811709055">
+        <mark key="'" line="136" column="12" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="87" />
         <mark key="^" line="38" column="64" />
         <mark key="." line="38" column="63" />
       </file>
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
       <jump line="33" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="93" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="103" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
@@ -293,52 +292,49 @@
       <jump line="177" column="34" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="25" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="24" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="136" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KyAgICAgICAgICAgIA==</text>
+        <text>getCachedThreadPoolExecutorService</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAgICAgICAgICAgIA==</text>
+        <text>getCachedThreadPoolExecutorService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>executorServiceHashMap</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRXhlY3V0b3JTZXJ2aWNlIGdldEV4ZWN1dG9yU2VydmljZShTdHJpbmcgdHlwZSwgU3RyaW5nIG5hbWVQcmVmaXgpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>// Instantiate ForkJoinPool Executor Service.
-        ForkJoinPool.ForkJoinWorkerThreadFactory factory = new CustomForkJoinWorkerThreadFactory(namePrefix);
-        ForkJoinPool forkJoinPoolExecutorService =
-            new ForkJoinPool(ForkJoinPool.getCommonPoolParallelism(), factory, null, false);</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>// Check the executor service hashmap.
+        if (executorServiceHashMap.containsKey(namePrefix)) {
+            return executorServiceHashMap.get(namePrefix);
+        }</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>//    // Instantiate ForkJoinPool Executor Service.
-//    private static final ForkJoinPool.ForkJoinWorkerThreadFactory factory =
-//        new CustomForkJoinWorkerThreadFactory(&quot;dialogengine-proxy&quot;);
-//    private static final ForkJoinPool forkJoinPoolExecutorService =
-//        new ForkJoinPool(Runtime.getRuntime().availableProcessors(), factory, null, false);</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlID0gRm9ya0pvaW5Qb29sLmNvbW1vblBvb2woKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlID0gRm9ya0pvaW5Qb29sLmNvbW1vblBvb2woKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5ib3Rwcm92aWRlcnMuZGlhbG9nZW5naW5lLkRpYWxvZ0VuZ2luZVByb3h5Owo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
