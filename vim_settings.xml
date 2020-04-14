@@ -155,12 +155,12 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1586883607573">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1586884338625">
         <mark key="'" line="16" column="7" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="41" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="12" />
         <mark key="^" line="38" column="41" />
-        <mark key="." line="38" column="40" />
+        <mark key="." line="39" column="12" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586880516685">
         <mark key="'" line="70" column="12" />
@@ -169,12 +169,12 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586883685025">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586884352813">
         <mark key="'" line="31" column="70" />
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="51" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="12" />
         <mark key="^" line="35" column="51" />
-        <mark key="." line="35" column="50" />
+        <mark key="." line="51" column="12" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586877517717">
         <mark key="'" line="62" column="47" />
@@ -305,11 +305,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>cache-configuration</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZVw+</text>
