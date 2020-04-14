@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>stop</entry>
         <entry encoding="base64">XDxqd3RWYWxpZGF0b3JcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUp3dFw+</entry>
         <entry encoding="base64">XDxwdWJsaWNLZXlSZWFkZXJcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>thenRun</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxRdWV1ZWRUaHJlYWRQb29sXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -114,7 +114,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1586877839896">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1586890500234">
         <mark key="'" line="168" column="75" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586879842793">
@@ -155,14 +155,14 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1586884338625">
-        <mark key="'" line="16" column="7" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1586890030172">
+        <mark key="'" line="18" column="32" />
         <mark key="[" line="39" column="12" />
         <mark key="]" line="39" column="12" />
         <mark key="^" line="38" column="41" />
         <mark key="." line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586880516685">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586890117618">
         <mark key="'" line="70" column="12" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="27" column="59" />
@@ -182,9 +182,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586880141620">
         <mark key="'" line="177" column="34" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" timestamp="1586831001148">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="68" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586890983177">
+        <mark key="'" line="39" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586868677545">
         <mark key="'" line="36" column="13" />
@@ -201,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="106" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="97" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="144" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="35" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
@@ -301,6 +297,9 @@
       <jump line="17" column="7" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="16" column="7" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="25" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="18" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="39" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +311,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZVw+</text>
+        <text encoding="base64">XDxRdWV1ZWRUaHJlYWRQb29sXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICBHZXQgRXhlY3V0b3IgU2VydmljZS4KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvclNlcnZpY2UgPQogICAgICAgIEV4ZWN1dG9yU2VydmljZUZhY3RvcnkuZ2V0Rm9ya0pvaW5Qb29sKCJjYWNoZS1jb25maWd1cmF0aW9uIik7Cg==</text>
@@ -351,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWNoZVw+</last-search>
+      <last-search encoding="base64">XDxRdWV1ZWRUaHJlYWRQb29sXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxRdWV1ZWRUaHJlYWRQb29sXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
