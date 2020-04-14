@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5Bc3luY1w+</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxUaHJlYWRQb29sRXhlY3V0b3JGYWN0b3J5QmVhblw+</entry>
         <entry encoding="base64">XDxyZWdpc3RlclRocmVhZFBvb2xNZXRyaWNzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxFeGVjdXRvclNlcnZpY2VGYWN0b3J5XD4=</entry>
         <entry>getExecutor</entry>
         <entry encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxnZXRGb3JKb2luUG9vbEV4ZWN1dG9yU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -110,12 +110,12 @@
         <mark key="^" line="17" column="62" />
         <mark key="." line="17" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1586832768862">
-        <mark key="'" line="53" column="49" />
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="^" line="54" column="35" />
-        <mark key="." line="50" column="39" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1586834523792">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="52" />
+        <mark key="^" line="39" column="52" />
+        <mark key="." line="39" column="51" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1586804916937">
         <mark key="'" line="76" column="34" />
@@ -194,13 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
-      <jump line="98" column="9" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
-      <jump line="97" column="85" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
-      <jump line="71" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
-      <jump line="90" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="113" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="107" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="42" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="27" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
       <jump line="79" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
@@ -277,7 +270,6 @@
       <jump line="17" column="68" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" />
       <jump line="3" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/model/LoopbackRequest.java" />
       <jump line="96" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="24" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="77" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="33" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="106" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -294,53 +286,56 @@
       <jump line="69" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="54" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="53" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="49" column="78" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="37" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="24" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="22" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="39" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text encoding="base64">bmV3IFRocmVhZEZhY3RvcnlCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KG5hbWVQcmVmaXggKyAiLSVkIikKICAgICAgICAgICAgICAgIC5zZXRVbmNhdWdodEV4Y2VwdGlvbkhhbmRsZXIoKHRocmVhZCwgZXhjZXB0aW9uKSAtPgogICAgICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIGNhY2hlZFRocmVhZFBvb2w6ICIgKyBuYW1lUHJlZml4ICwgZXhjZXB0aW9uKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</text>
+        <text encoding="base64">XDxnZXRGb3JKb2luUG9vbEV4ZWN1dG9yU2VydmljZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIFN1cHByZXNzZXMgZGVmYXVsdCBjb25zdHJ1Y3RvciwgZW5zdXJpbmcgbm9uLWluc3RhbnRpYWJpbGl0eS4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV3IFRocmVhZEZhY3RvcnlCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KG5hbWVQcmVmaXggKyAiLSVkIikKICAgICAgICAgICAgICAgIC5zZXRVbmNhdWdodEV4Y2VwdGlvbkhhbmRsZXIoKHRocmVhZCwgZXhjZXB0aW9uKSAtPgogICAgICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIGNhY2hlZFRocmVhZFBvb2w6ICIgKyBuYW1lUHJlZml4ICwgZXhjZXB0aW9uKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IFRocmVhZEZhY3RvcnlCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KG5hbWVQcmVmaXggKyAiLSVkIikKICAgICAgICAgICAgICAgIC5zZXRVbmNhdWdodEV4Y2VwdGlvbkhhbmRsZXIoKHRocmVhZCwgZXhjZXB0aW9uKSAtPgogICAgICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIGNhY2hlZFRocmVhZFBvb2w6ICIgKyBuYW1lUHJlZml4ICwgZXhjZXB0aW9uKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlSGFzaE1hcC5jb250YWluc0tleShuYW1lUHJlZml4KSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBGb3JrSm9pblBvb2wuRm9ya0pvaW5Xb3JrZXJUaHJlYWRGYWN0b3J5IGZhY3RvcnkgPSBuZXcgQ3VzdG9tRm9ya0pvaW5Xb3JrZXJUaHJlYWRGYWN0b3J5KG5hbWVQcmVmaXgpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGV4ZWN1dG9yU2VydmljZUhhc2hNYXAuZ2V0KG5hbWVQcmVmaXgpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3IFRocmVhZEZhY3RvcnlCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KG5hbWVQcmVmaXggKyAiLSVkIikKICAgICAgICAgICAgICAgIC5zZXRVbmNhdWdodEV4Y2VwdGlvbkhhbmRsZXIoKHRocmVhZCwgZXhjZXB0aW9uKSAtPgogICAgICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIGNhY2hlZFRocmVhZFBvb2w6ICIgKyBuYW1lUHJlZml4ICwgZXhjZXB0aW9uKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">bmV3IFRocmVhZEZhY3RvcnlCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXROYW1lRm9ybWF0KG5hbWVQcmVmaXggKyAiLSVkIikKICAgICAgICAgICAgICAgIC5zZXRVbmNhdWdodEV4Y2VwdGlvbkhhbmRsZXIoKHRocmVhZCwgZXhjZXB0aW9uKSAtPgogICAgICAgICAgICAgICAgICAgIExPRy5lcnJvcigiRmFpbGVkIHRvIGNhY2hlZFRocmVhZFBvb2w6ICIgKyBuYW1lUHJlZml4ICwgZXhjZXB0aW9uKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgLnNldERhZW1vbih0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk=</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-     * Gets executor service.
-     *
-     * @param namePrefix the name prefix
-     * @return the executor service
-     */</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBGb3JrSm9pblBvb2wgRXhlY3V0b3IgU2VydmljZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5jb21tb24uQ3VzdG9tRm9ya0pvaW5Xb3JrZXJUaHJlYWRGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlSGFzaE1hcC5jb250YWluc0tleShuYW1lUHJlZml4KSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luUG9vbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGV4ZWN1dG9yU2VydmljZUhhc2hNYXAuZ2V0KG5hbWVQcmVmaXgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -349,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRGb3JKb2luUG9vbEV4ZWN1dG9yU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRGb3JKb2luUG9vbEV4ZWN1dG9yU2VydmljZVw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
