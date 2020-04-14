@@ -169,8 +169,8 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586884352813">
-        <mark key="'" line="31" column="70" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586887969287">
+        <mark key="'" line="25" column="18" />
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="12" />
         <mark key="^" line="35" column="51" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/model/LoopbackRequest.java" />
       <jump line="96" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="77" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="106" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -301,6 +300,7 @@
       <jump line="30" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="17" column="7" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="16" column="7" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="25" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
