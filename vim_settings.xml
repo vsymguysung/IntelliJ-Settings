@@ -95,11 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/model/LoopbackRequest.java" timestamp="1586831029947">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1586870361155">
         <mark key="'" line="33" column="5" />
         <mark key="[" line="35" column="40" />
@@ -162,13 +157,14 @@
         <mark key="^" line="38" column="41" />
         <mark key="." line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586890117618">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586892666029">
         <mark key="'" line="70" column="12" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="27" column="59" />
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="41" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/configure.yml" timestamp="1586895287703" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1586887969287">
         <mark key="'" line="25" column="18" />
         <mark key="[" line="51" column="12" />
@@ -179,14 +175,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586877517717">
         <mark key="'" line="62" column="47" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/metrics/newrelic.yml" timestamp="1586895080718">
+        <mark key="'" line="76" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586880141620">
         <mark key="'" line="177" column="34" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586890983177">
         <mark key="'" line="39" column="37" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586868677545">
-        <mark key="'" line="36" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1586878660785">
         <mark key="'" line="156" column="0" />
@@ -200,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="144" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="35" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="81" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
@@ -300,6 +295,7 @@
       <jump line="46" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="18" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="39" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/metrics/newrelic.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
