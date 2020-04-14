@@ -111,6 +111,9 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" timestamp="1586904279287">
+        <mark key="'" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1586880991955">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -153,9 +156,6 @@
         <mark key="^" line="35" column="51" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1586877517717">
-        <mark key="'" line="62" column="47" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/metrics/newrelic.yml" timestamp="1586895080718">
         <mark key="'" line="76" column="0" />
       </file>
@@ -183,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="53" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="49" column="78" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="73" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="37" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -283,6 +281,8 @@
       <jump line="9" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineIntentConverter.java" />
       <jump line="8" column="72" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowIntentConverter.java" />
       <jump line="25" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentConverter.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
+      <jump line="7" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
