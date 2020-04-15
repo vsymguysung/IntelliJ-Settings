@@ -95,6 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1586966869772" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1586906155658">
         <mark key="'" line="37" column="57" />
         <mark key="[" line="17" column="53" />
@@ -113,11 +114,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" timestamp="1586904279287">
         <mark key="'" line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1586880991955">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" timestamp="1586899104230">
         <mark key="'" line="7" column="51" />
@@ -140,6 +136,9 @@
         <mark key="." line="26" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/configure.yml" timestamp="1586895287703" />
+      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1586967463876">
+        <mark key="'" line="58" column="30" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineIntentConverter.java" timestamp="1586899563565">
         <mark key="'" line="9" column="79" />
       </file>
@@ -165,15 +164,11 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586906282093">
         <mark key="'" line="71" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1586879745418">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowIntentConverter.java" timestamp="1586899593109">
         <mark key="'" line="8" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="82" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="16" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -273,6 +268,7 @@
       <jump line="102" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="71" column="98" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="68" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="58" column="30" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
