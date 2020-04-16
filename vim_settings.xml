@@ -124,10 +124,16 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1587039886670">
         <mark key="'" line="1179" column="23" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1587043285942">
+        <mark key="'" line="173" column="12" />
+        <mark key="[" line="50" column="41" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="41" />
+        <mark key="^" line="50" column="42" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
         <mark key="'" line="337" column="64" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/configure.yml" timestamp="1586895287703" />
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1586969891636">
         <mark key="'" line="58" column="30" />
       </file>
@@ -154,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="36" column="13" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" />
       <jump line="62" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="6" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="26" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
@@ -254,6 +258,8 @@
       <jump line="175" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
       <jump line="1179" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="356" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
+      <jump line="180" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
+      <jump line="173" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
