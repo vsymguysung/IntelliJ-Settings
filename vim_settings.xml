@@ -114,12 +114,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586908559934">
-        <mark key="'" line="68" column="36" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1587039886670">
         <mark key="'" line="1179" column="23" />
       </file>
@@ -133,11 +127,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
         <mark key="'" line="1056" column="17" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" timestamp="1587058966180">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="8" />
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" timestamp="1587064972360">
+        <mark key="'" line="24" column="43" />
       </file>
       <file name="/JavaScript Console" timestamp="1587058879971">
         <mark key="[" line="0" column="0" />
@@ -151,11 +142,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" timestamp="1586982618117">
         <mark key="'" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" timestamp="1587065007655">
+        <mark key="'" line="26" column="36" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587050024737">
         <mark key="'" line="1539" column="15" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586906282093">
-        <mark key="'" line="71" column="19" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1587052757840">
         <mark key="'" line="356" column="32" />
@@ -174,10 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="84" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="251" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="177" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="97" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="165" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="168" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="24" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
@@ -274,6 +261,10 @@
       <jump line="167" column="35" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
       <jump line="72" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="75" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="10" column="40" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
+      <jump line="26" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
+      <jump line="24" column="43" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
+      <jump line="26" column="36" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
