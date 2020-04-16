@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21wb25lbnRTY2FuXD4=</entry>
         <entry>commonPool</entry>
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry>async</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjbGllbnRTdHJlYW1Mb2NrXD4=</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VIYXNoTWFwXD4=</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9ja1w+</entry>
+        <entry encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -101,19 +101,19 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineIntentConverter.java" timestamp="1586899563565">
         <mark key="'" line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1586906155658">
-        <mark key="'" line="37" column="57" />
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="62" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587050719473">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="48" />
         <mark key="^" line="17" column="62" />
-        <mark key="." line="17" column="61" />
+        <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587048292206">
-        <mark key="'" line="74" column="44" />
-        <mark key="[" line="102" column="88" />
-        <mark key="]" line="103" column="9" />
-        <mark key="^" line="103" column="9" />
-        <mark key="." line="103" column="8" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587051004795">
+        <mark key="'" line="22" column="63" />
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="76" column="12" />
+        <mark key="^" line="76" column="12" />
+        <mark key="." line="76" column="11" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586908559934">
         <mark key="'" line="68" column="36" />
@@ -126,12 +126,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" timestamp="1586982618117">
         <mark key="'" line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" timestamp="1586899389795">
-        <mark key="'" line="34" column="72" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" timestamp="1586899104230">
-        <mark key="'" line="7" column="51" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586906101660">
         <mark key="'" line="2196" column="24" />
@@ -148,6 +142,12 @@
         <mark key="]" line="50" column="42" />
         <mark key="." line="50" column="41" />
         <mark key="^" line="50" column="42" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
+        <mark key="'" line="1056" column="17" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587050024737">
+        <mark key="'" line="1539" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586906282093">
         <mark key="'" line="71" column="19" />
@@ -171,16 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="84" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="203" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="204" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="43" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="103" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
-      <jump line="65" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="51" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="69" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="131" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="14" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
       <jump line="22" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
@@ -271,48 +261,86 @@
       <jump line="99" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="16" column="83" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="72" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="1540" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="1539" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="1056" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" />
+      <jump line="79" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="75" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="74" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="90" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="22" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="16" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>namePrefix + type.toString()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9ja1w+</text>
+        <text encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>executorServiceHashKey</text>
+        <text encoding="base64">ZXhlY3V0b3JTZXJ2aWNlID0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsK</text>
+      <register name="3" type="4">
+        <text>//        synchronized (executorServiceFactoryLock) {
+//            if (executorService != null) {
+//                return executorService;
+//            }
+//            // No Cache in the executor service hashmap.
+//            // Instantiate executor service per type.
+//            switch (type) {
+//                case CACHED:
+//                    executorService = getCachedThreadPoolExecutorService(namePrefix);
+//                    break;
+//                case FIXED:
+//                    executorService = getFixedThreadPoolExecutorService(namePrefix, numThreads);
+//                    break;
+//                case SCHEDULED:
+//                    executorService = getScheduledThreadPoolExecutorService(namePrefix, numThreads);
+//                    break;
+//                case FORK_JOIN:
+//                default:
+//                    executorService = getForJoinPoolExecutorService(namePrefix);
+//                    break;
+//            }
+//
+//            // Cache executor service per namePrefix.
+//            executorServiceHashMap.putIfAbsent(executorServiceHashKey, executorService);
+//        }
+
+//        return  executorService;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY3V0b3JTZXJ2aWNlID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2VIYXNoTWFwLnB1Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UgPSBleGVjdXRvclNlcnZpY2VIYXNoTWFwLmdldChleGVjdXRvclNlcnZpY2VIYXNoS2V5KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2VIYXNoTWFwLmcK</text>
+      <register name="6" type="4">
+        <text>if (executorService != null) {
+            return executorService;
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -321,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9ja1w+</last-search>
+      <last-search encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9ja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
