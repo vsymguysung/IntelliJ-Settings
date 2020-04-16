@@ -96,15 +96,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1586969659698" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/ParallelAsyncConsumer.java" timestamp="1587039737012">
+        <mark key="'" line="43" column="56" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1586906155658">
         <mark key="'" line="37" column="57" />
         <mark key="[" line="17" column="53" />
         <mark key="]" line="17" column="62" />
         <mark key="^" line="17" column="62" />
         <mark key="." line="17" column="61" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1586890500234">
-        <mark key="'" line="168" column="75" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1586908559934">
         <mark key="'" line="68" column="36" />
@@ -121,19 +121,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentConverter.java" timestamp="1586899653178">
         <mark key="'" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1586890030172">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="12" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="39" column="12" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1587039886670">
+        <mark key="'" line="1179" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1586892666029">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="59" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="26" column="41" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
+        <mark key="'" line="337" column="64" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/configure.yml" timestamp="1586895287703" />
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1586969891636">
@@ -154,22 +146,17 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586906101660">
         <mark key="'" line="2196" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1586890983177">
-        <mark key="'" line="39" column="37" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" timestamp="1586906282093">
         <mark key="'" line="71" column="19" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1587039888536">
+        <mark key="'" line="356" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowIntentConverter.java" timestamp="1586899593109">
         <mark key="'" line="8" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="144" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="161" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="94" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="48" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="36" column="13" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/28.2-jre/guava-28.2-jre.jar!/com/google/common/util/concurrent/ThreadFactoryBuilder.class" />
       <jump line="62" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
@@ -265,6 +252,11 @@
       <jump line="58" column="30" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="23" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" />
       <jump line="16" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" />
+      <jump line="43" column="56" filename="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/ParallelAsyncConsumer.java" />
+      <jump line="337" column="64" filename="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" />
+      <jump line="175" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
+      <jump line="1179" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="356" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
