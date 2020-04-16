@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>commonPool</entry>
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry>async</entry>
         <entry encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VIYXNoTWFwXD4=</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9ja1w+</entry>
         <entry encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uT2JqZWN0T25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -98,15 +98,15 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/ParallelAsyncConsumer.java" timestamp="1587039737012">
         <mark key="'" line="43" column="56" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineIntentConverter.java" timestamp="1586899563565">
-        <mark key="'" line="9" column="79" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587050719473">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="48" />
         <mark key="^" line="17" column="62" />
         <mark key="." line="17" column="48" />
+      </file>
+      <file name="/fragment.js" timestamp="1587058271814">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587056455381">
         <mark key="'" line="65" column="46" />
@@ -119,18 +119,6 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" timestamp="1586904279287">
-        <mark key="'" line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" timestamp="1586982618117">
-        <mark key="'" line="16" column="14" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1586906101660">
-        <mark key="'" line="2196" column="24" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentConverter.java" timestamp="1586899653178">
-        <mark key="'" line="25" column="11" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1587039886670">
         <mark key="'" line="1179" column="23" />
@@ -145,6 +133,24 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
         <mark key="'" line="1056" column="17" />
       </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" timestamp="1587058966180">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="8" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1587058879971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
+        <mark key="'" line="337" column="64" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1586969891636">
+        <mark key="'" line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" timestamp="1586982618117">
+        <mark key="'" line="16" column="14" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587050024737">
         <mark key="'" line="1539" column="15" />
       </file>
@@ -154,14 +160,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1587052757840">
         <mark key="'" line="356" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
-        <mark key="'" line="337" column="64" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1586969891636">
-        <mark key="'" line="58" column="30" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowIntentConverter.java" timestamp="1586899593109">
-        <mark key="'" line="8" column="72" />
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1587058772694">
+        <mark key="'" line="167" column="35" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="167" column="38" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587044773390">
         <mark key="'" line="168" column="30" />
@@ -170,10 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="40" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
-      <jump line="76" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" />
-      <jump line="62" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
       <jump line="231" column="84" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="251" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="177" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
@@ -270,86 +270,64 @@
       <jump line="79" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="82" column="56" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="65" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="125" column="42" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
+      <jump line="46" column="19" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
+      <jump line="170" column="27" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
+      <jump line="167" column="35" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>WebSocket</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>WebSocket</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</text>
+        <text encoding="base64">XDxjcmVhdGVTZXNzaW9uT2JqZWN0T25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>initialNumThreads</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-     * Gets executor service.
-     *
-     * @param type       the type
-     * @param namePrefix the name prefix
-     * @return the executor service. Default to ForkJoinPool executor service.
-     */</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgX3NvY2tldDogYW55ID0gc29ja2V0IGFzIGFueTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-     * Gets executor service.
-     *
-     * @param type       the type
-     * @param namePrefix the name prefix
-     * @return the executor service. Default to ForkJoinPool executor service.
-     */</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJ5dGVbXSBleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9jayA9IG5ldyBieXRlWzBdOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTm8gQ2FjaGUgaW4gdGhlIGV4ZWN1dG9yIHNlcnZpY2UgaGFzaG1hcC4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//        synchronized (executorServiceFactoryLock) {
-//            if (executorService != null) {
-//                return executorService;
-//            }
-//            // No Cache in the executor service hashmap.
-//            // Instantiate executor service per type.
-//            switch (type) {
-//                case CACHED:
-//                    executorService = getCachedThreadPoolExecutorService(namePrefix);
-//                    break;
-//                case FIXED:
-//                    executorService = getFixedThreadPoolExecutorService(namePrefix, numThreads);
-//                    break;
-//                case SCHEDULED:
-//                    executorService = getScheduledThreadPoolExecutorService(namePrefix, numThreads);
-//                    break;
-//                case FORK_JOIN:
-//                default:
-//                    executorService = getForJoinPoolExecutorService(namePrefix);
-//                    break;
-//            }
-//
-//            // Cache executor service per namePrefix.
-//            executorServiceHashMap.putIfAbsent(executorServiceHashKey, executorService);
-//        }
-
-//        return  executorService;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzb2NrZXQubG9vcGJhY2tTZXNzaW9uW0NPTlZFUlNBVElPTl9JRF9LRVldKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+     * Gets executor service.
+     *
+     * @param type       the type
+     * @param namePrefix the name prefix
+     * @return the executor service. Default to ForkJoinPool executor service.
+     */</text>
+      </register>
+      <register name="7" type="4">
+        <text>/**
+     * Gets executor service.
+     *
+     * @param type       the type
+     * @param namePrefix the name prefix
+     * @return the executor service. Default to ForkJoinPool executor service.
+     */</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJ5dGVbXSBleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9jayA9IG5ldyBieXRlWzBdOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,9 +336,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTZXNzaW9uT2JqZWN0T25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lVGhyZWFkUHJlZml4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTZXNzaW9uT2JqZWN0T25cPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
