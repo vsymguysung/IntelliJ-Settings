@@ -114,6 +114,9 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587074303317">
+        <mark key="'" line="3" column="26" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1587039886670">
         <mark key="'" line="1179" column="23" />
       </file>
@@ -135,9 +138,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
         <mark key="'" line="337" column="64" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1586969891636">
-        <mark key="'" line="58" column="30" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" timestamp="1586982618117">
         <mark key="'" line="16" column="14" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="168" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="24" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="155" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
@@ -269,6 +268,7 @@
       <jump line="26" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="24" column="43" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="26" column="36" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" />
+      <jump line="3" column="26" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
