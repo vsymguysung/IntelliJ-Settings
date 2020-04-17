@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getExecutor</entry>
         <entry encoding="base64">XDxnZXRGb3JKb2luUG9vbEV4ZWN1dG9yU2VydmljZVw+</entry>
         <entry encoding="base64">XDxsb3F1ZW50aWFTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzaG91bGRJZ25vcmVJbnB1dENvbW1hbmRcPg==</entry>
         <entry>stub</entry>
         <entry encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</entry>
+        <entry encoding="base64">XDxhdWRpb1BhcmFtZXRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -102,21 +102,14 @@
         <mark key="^" line="44" column="42" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587062400963">
-        <mark key="'" line="75" column="57" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587074303317">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587128022106" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587058879971">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587150397065">
+        <mark key="'" line="66" column="42" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587148549699">
         <mark key="'" line="6" column="28" />
@@ -130,6 +123,9 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1587132824930">
         <mark key="'" line="1902" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1587150400472">
+        <mark key="'" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1587133630995">
         <mark key="'" line="97" column="37" />
@@ -164,10 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineIntentConverter.java" />
-      <jump line="8" column="72" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowIntentConverter.java" />
-      <jump line="25" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentConverter.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
       <jump line="7" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
       <jump line="2196" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="37" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
@@ -264,6 +256,10 @@
       <jump line="1160" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="4" column="16" filename="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" />
       <jump line="6" column="28" filename="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" />
+      <jump line="58" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
+      <jump line="61" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
+      <jump line="66" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="26" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,7 +271,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</text>
+        <text encoding="base64">XDxhdWRpb1BhcmFtZXRlclw+</text>
       </register>
       <register name="0" type="4">
         <text>initialNumThreads</text>
@@ -326,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</last-search>
+      <last-search encoding="base64">XDxhdWRpb1BhcmFtZXRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpb1BhcmFtZXRlclw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
