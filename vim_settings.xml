@@ -101,13 +101,6 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1587132824930">
         <mark key="'" line="1902" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587050719473">
-        <mark key="'" line="17" column="13" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="48" />
-        <mark key="^" line="17" column="62" />
-        <mark key="." line="17" column="48" />
-      </file>
       <file name="/fragment.js" timestamp="1587058271814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,6 +124,9 @@
         <mark key="'" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587128022106" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1587135750910">
+        <mark key="'" line="1160" column="33" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
       </file>
@@ -146,9 +142,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1587058879971">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1587052757840">
-        <mark key="'" line="356" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1587125440621">
         <mark key="'" line="187" column="39" />
@@ -173,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" />
       <jump line="18" column="108" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
       <jump line="34" column="72" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
       <jump line="9" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineIntentConverter.java" />
@@ -273,6 +265,7 @@
       <jump line="97" column="37" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
       <jump line="70" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="86" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="1160" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
