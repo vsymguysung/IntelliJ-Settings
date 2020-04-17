@@ -126,6 +126,7 @@
       <file name="/JavaScript Console" timestamp="1587058879971">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1587124317363" />
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" timestamp="1587065693521">
         <mark key="'" line="26" column="36" />
         <mark key="[" line="11" column="54" />
@@ -149,8 +150,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1587088509789">
         <mark key="'" line="128" column="73" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587089616909">
-        <mark key="'" line="188" column="12" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587123804887">
+        <mark key="'" line="93" column="12" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="56" />
       </file>
@@ -159,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="236" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="43" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="47" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
@@ -259,6 +259,7 @@
       <jump line="4" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" />
       <jump line="167" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="188" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
+      <jump line="93" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
