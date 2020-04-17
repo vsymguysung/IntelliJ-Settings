@@ -108,11 +108,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" timestamp="1587150502322">
-        <mark key="'" line="80" column="49" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587150397065">
-        <mark key="'" line="66" column="42" />
+        <mark key="'" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587148549699">
         <mark key="'" line="6" column="28" />
@@ -135,13 +132,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1587135750910">
         <mark key="'" line="1160" column="33" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" timestamp="1587065693521">
-        <mark key="'" line="26" column="36" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1587125440621">
         <mark key="'" line="187" column="39" />
