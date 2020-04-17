@@ -117,16 +117,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
-        <mark key="'" line="1056" column="17" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" timestamp="1587064972360">
-        <mark key="'" line="24" column="43" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1587058879971">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1587124317363" />
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" timestamp="1587065693521">
         <mark key="'" line="26" column="36" />
         <mark key="[" line="11" column="54" />
@@ -134,18 +124,30 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="30" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
+        <mark key="'" line="1056" column="17" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" timestamp="1587064972360">
+        <mark key="'" line="24" column="43" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587050024737">
         <mark key="'" line="1539" column="15" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1587058879971">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1587052757840">
         <mark key="'" line="356" column="32" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1587058772694">
-        <mark key="'" line="167" column="35" />
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1587125440621">
+        <mark key="'" line="187" column="39" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="^" line="167" column="38" />
         <mark key="." line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1587125522195">
+        <mark key="'" line="70" column="58" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1587088509789">
         <mark key="'" line="128" column="73" />
@@ -160,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="43" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="47" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
       <jump line="49" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
       <jump line="44" column="110" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
@@ -260,6 +260,8 @@
       <jump line="167" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="188" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="93" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
+      <jump line="187" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
+      <jump line="70" column="58" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
