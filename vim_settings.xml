@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxFeGVjdXRvclNlcnZpY2VGYWN0b3J5XD4=</entry>
         <entry>getExecutor</entry>
         <entry encoding="base64">XDxnZXRGb3JKb2luUG9vbEV4ZWN1dG9yU2VydmljZVw+</entry>
         <entry encoding="base64">XDxsb3F1ZW50aWFTZXNzaW9uXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uT2JqZWN0T25cPg==</entry>
         <entry encoding="base64">XDxjYW5CYXJnZUluXD4=</entry>
         <entry encoding="base64">XDxzaG91bGRJZ25vcmVJbnB1dENvbW1hbmRcPg==</entry>
+        <entry>stub</entry>
+        <entry encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -98,6 +98,9 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1587127821337">
         <mark key="'" line="551" column="35" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1587132824930">
+        <mark key="'" line="1902" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587050719473">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="17" column="48" />
@@ -108,11 +111,15 @@
       <file name="/fragment.js" timestamp="1587058271814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587132012259">
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587133851324">
+        <mark key="'" line="86" column="38" />
         <mark key="[" line="6" column="68" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="49" />
+        <mark key="]" line="44" column="42" />
+        <mark key="^" line="44" column="42" />
+        <mark key="." line="44" column="41" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1587133630995">
+        <mark key="'" line="97" column="37" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587062400963">
         <mark key="'" line="75" column="57" />
@@ -134,14 +141,8 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
-        <mark key="'" line="1056" column="17" />
-      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" timestamp="1587064972360">
         <mark key="'" line="24" column="43" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587050024737">
-        <mark key="'" line="1539" column="15" />
       </file>
       <file name="/JavaScript Console" timestamp="1587058879971">
         <mark key="[" line="0" column="0" />
@@ -172,25 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="70" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="73" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="74" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="7" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="8" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="9" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="21" column="110" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="31" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="17" column="7" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="16" column="7" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="25" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="18" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="39" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/metrics/newrelic.yml" />
-      <jump line="50" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="2197" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="7" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" />
       <jump line="18" column="108" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
       <jump line="34" column="72" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" />
@@ -272,6 +254,25 @@
       <jump line="160" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="197" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="551" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="1902" column="0" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
+      <jump line="87" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="75" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="91" column="17" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="94" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="105" column="8" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="115" column="39" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="129" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="141" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="147" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="148" column="27" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
+      <jump line="147" column="103" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
+      <jump line="26" column="46" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
+      <jump line="97" column="37" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
+      <jump line="70" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="86" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +284,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG91bGRJZ25vcmVJbnB1dENvbW1hbmRcPg==</text>
+        <text encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</text>
       </register>
       <register name="0" type="4">
         <text>initialNumThreads</text>
@@ -334,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaG91bGRJZ25vcmVJbnB1dENvbW1hbmRcPg==</last-search>
+      <last-search encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG91bGRJZ25vcmVJbnB1dENvbW1hbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
