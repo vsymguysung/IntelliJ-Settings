@@ -149,8 +149,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1587088509789">
         <mark key="'" line="128" column="73" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587089416325">
-        <mark key="'" line="168" column="30" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587089616909">
+        <mark key="'" line="188" column="12" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="56" />
       </file>
@@ -159,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="47" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
       <jump line="237" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="236" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="43" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
@@ -259,6 +257,8 @@
       <jump line="28" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/ObjectMapperEnum.java" />
       <jump line="128" column="73" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" />
       <jump line="4" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" />
+      <jump line="167" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
+      <jump line="188" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
