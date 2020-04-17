@@ -95,9 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/ParallelAsyncConsumer.java" timestamp="1587039737012">
-        <mark key="'" line="43" column="56" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587050719473">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="17" column="48" />
@@ -138,9 +135,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
         <mark key="'" line="337" column="64" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" timestamp="1586982618117">
-        <mark key="'" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" timestamp="1587065693521">
         <mark key="'" line="26" column="36" />
