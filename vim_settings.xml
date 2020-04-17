@@ -117,6 +117,7 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587074303317">
         <mark key="'" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587128022106" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
       </file>
