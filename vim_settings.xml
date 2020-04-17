@@ -114,15 +114,8 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587074303317">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1587039886670">
-        <mark key="'" line="1179" column="23" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" timestamp="1587043285942">
-        <mark key="'" line="173" column="12" />
-        <mark key="[" line="50" column="41" />
-        <mark key="]" line="50" column="42" />
-        <mark key="." line="50" column="41" />
-        <mark key="^" line="50" column="42" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
+        <mark key="'" line="4" column="33" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1587050068963">
         <mark key="'" line="1056" column="17" />
@@ -132,9 +125,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1587058879971">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" timestamp="1587039858179">
-        <mark key="'" line="337" column="64" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" timestamp="1587065693521">
         <mark key="'" line="26" column="36" />
@@ -156,16 +146,19 @@
         <mark key="^" line="167" column="38" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587044773390">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1587088509789">
+        <mark key="'" line="128" column="73" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587089416325">
         <mark key="'" line="168" column="30" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="56" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/ObjectMapperEnum.java" timestamp="1587088463182">
+        <mark key="'" line="28" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="256" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="47" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
       <jump line="237" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
@@ -263,6 +256,9 @@
       <jump line="24" column="43" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="26" column="36" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" />
       <jump line="3" column="26" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" />
+      <jump line="28" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/ObjectMapperEnum.java" />
+      <jump line="128" column="73" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" />
+      <jump line="4" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
