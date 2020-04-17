@@ -95,9 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587133851324">
-        <mark key="'" line="86" column="38" />
-        <mark key="[" line="6" column="68" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587153767834">
+        <mark key="'" line="141" column="25" />
+        <mark key="[" line="150" column="43" />
         <mark key="]" line="44" column="42" />
         <mark key="^" line="44" column="42" />
         <mark key="." line="44" column="41" />
@@ -239,13 +239,10 @@
       <jump line="46" column="16" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1902" column="0" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
       <jump line="87" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="75" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="91" column="17" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="94" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="105" column="8" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="115" column="39" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="129" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="141" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="147" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="148" column="27" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
       <jump line="147" column="103" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
@@ -263,6 +260,9 @@
       <jump line="66" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="26" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
       <jump line="80" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
+      <jump line="129" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="75" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="141" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
