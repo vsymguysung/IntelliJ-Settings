@@ -124,6 +124,16 @@
       <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" timestamp="1587235045194">
         <mark key="'" line="26" column="45" />
       </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1587235910085">
+        <mark key="'" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" timestamp="1587236176458">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
       </file>
@@ -146,9 +156,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587150397065">
         <mark key="'" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1587088509789">
-        <mark key="'" line="128" column="73" />
-      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/log.ts" timestamp="1587218143332">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="24" />
@@ -168,14 +175,8 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/ObjectMapperEnum.java" timestamp="1587088463182">
-        <mark key="'" line="28" column="30" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" />
-      <jump line="43" column="56" filename="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/ParallelAsyncConsumer.java" />
-      <jump line="337" column="64" filename="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" />
       <jump line="175" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
       <jump line="1179" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="356" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
@@ -273,12 +274,15 @@
       <jump line="16" column="32" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/EnumMain.java" />
       <jump line="18" column="40" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/EnumMain.java" />
       <jump line="26" column="45" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" />
+      <jump line="39" column="18" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" />
+      <jump line="24" column="23" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -290,28 +294,22 @@
         <text>LoggerInstance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgX3NvY2tldDogYW55ID0gc29ja2V0IGFzIGFueTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgX3NvY2tldDogYW55ID0gc29ja2V0IGFzIGFueTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzb2NrZXQubG9vcGJhY2tTZXNzaW9uW0NPTlZFUlNBVElPTl9JRF9LRVldKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzb2NrZXQubG9vcGJhY2tTZXNzaW9uW0NPTlZFUlNBVElPTl9JRF9LRVldKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-     * Gets executor service.
-     *
-     * @param type       the type
-     * @param namePrefix the name prefix
-     * @return the executor service. Default to ForkJoinPool executor service.
-     */</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
         <text>/**
@@ -322,11 +320,17 @@
      * @return the executor service. Default to ForkJoinPool executor service.
      */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJ5dGVbXSBleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9jayA9IG5ldyBieXRlWzBdOwo=</text>
+      <register name="8" type="4">
+        <text>/**
+     * Gets executor service.
+     *
+     * @param type       the type
+     * @param namePrefix the name prefix
+     * @return the executor service. Default to ForkJoinPool executor service.
+     */</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJ5dGVbXSBleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9jayA9IG5ldyBieXRlWzBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
