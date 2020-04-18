@@ -117,11 +117,12 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1587133630995">
         <mark key="'" line="97" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587074303317">
-        <mark key="'" line="3" column="26" />
-      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/proto/complex.proto" timestamp="1587235154774" />
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1587135750910">
         <mark key="'" line="1160" column="33" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" timestamp="1587235045194">
+        <mark key="'" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
         <mark key="'" line="4" column="33" />
@@ -172,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" />
       <jump line="16" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/EventConsumer.java" />
       <jump line="43" column="56" filename="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/ParallelAsyncConsumer.java" />
       <jump line="337" column="64" filename="$MAVEN_REPOSITORY$/com/inin/integration/inin-integration-kafka/0.8.0-SNAPSHOT/inin-integration-kafka-0.8.0-20171214.185619-2-sources.jar!/com/inin/integration/kafka/consumer/SimpleAsyncConsumer.java" />
@@ -272,6 +272,7 @@
       <jump line="29" column="46" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" />
       <jump line="16" column="32" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/EnumMain.java" />
       <jump line="18" column="40" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/EnumMain.java" />
+      <jump line="26" column="45" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
