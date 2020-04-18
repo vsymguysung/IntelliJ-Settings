@@ -95,6 +95,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587154521775">
+        <mark key="'" line="167" column="29" />
+        <mark key="[" line="160" column="100" />
+        <mark key="]" line="162" column="37" />
+        <mark key="^" line="162" column="37" />
+        <mark key="." line="162" column="36" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/proto/complex.proto" timestamp="1587235154774" />
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1587235910085">
+        <mark key="'" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1587232767111">
+        <mark key="'" line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-java-example/pom.xml.bk.xml" timestamp="1587237115297" />
+      <file name="$USER_HOME$/GenDev/protobuf-java-example/pom.xml" timestamp="1587237802149">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587150397065">
+        <mark key="'" line="40" column="42" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587218642137">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587236959313">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1587127821337">
         <mark key="'" line="551" column="35" />
       </file>
@@ -107,25 +140,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1587150400472">
         <mark key="'" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587154521775">
-        <mark key="'" line="167" column="29" />
-        <mark key="[" line="160" column="100" />
-        <mark key="]" line="162" column="37" />
-        <mark key="^" line="162" column="37" />
-        <mark key="." line="162" column="36" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1587133630995">
         <mark key="'" line="97" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/proto/complex.proto" timestamp="1587235154774" />
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1587135750910">
         <mark key="'" line="1160" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" timestamp="1587235045194">
         <mark key="'" line="26" column="45" />
-      </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1587235910085">
-        <mark key="'" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" timestamp="1587236176458">
         <mark key="'" line="19" column="0" />
@@ -134,46 +156,18 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1587088523642">
-        <mark key="'" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1587232767111">
-        <mark key="'" line="29" column="46" />
-      </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/build.gradle" timestamp="1587230044608">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="14" column="53" />
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1587125440621">
-        <mark key="'" line="187" column="39" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="167" column="38" />
-        <mark key="." line="170" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587150397065">
-        <mark key="'" line="40" column="42" />
-      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/log.ts" timestamp="1587218143332">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1587123804887">
-        <mark key="'" line="93" column="12" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="56" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587227185893">
         <mark key="'" line="59" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587218642137">
-        <mark key="'" line="20" column="21" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="6" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -282,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>5.0.Final</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjdXRlX3JlcXVlc3RcPg==</text>
@@ -294,24 +288,30 @@
         <text>LoggerInstance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4uCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGV4dGVuc2lvbnM+CiAgICAgICAgICAgIDxleHRlbnNpb24+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5rci5tb3RkLm1hdmVuPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+b3MtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MS42LjI8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZXh0ZW5zaW9uPgogICAgICAgIDwvZXh0ZW5zaW9ucz4KICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy54b2xzdGljZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cHJvdG9idWYtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MC42LjE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXh0ZW5zaW9ucz50cnVlPC9leHRlbnNpb25zPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHByb3RvY0FydGlmYWN0PmNvbS5nb29nbGUucHJvdG9idWY6cHJvdG9jOjMuNS4xLTE6ZXhlOiR7b3MuZGV0ZWN0ZWQuY2xhc3NpZmllcn08L3Byb3RvY0FydGlmYWN0PgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Y29tcGlsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnRlc3QtY29tcGlsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgX3NvY2tldDogYW55ID0gc29ja2V0IGFzIGFueTsK</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzb2NrZXQubG9vcGJhY2tTZXNzaW9uW0NPTlZFUlNBVElPTl9JRF9LRVldKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgX3NvY2tldDogYW55ID0gc29ja2V0IGFzIGFueTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzb2NrZXQubG9vcGJhY2tTZXNzaW9uW0NPTlZFUlNBVElPTl9JRF9LRVldKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>/**
      * Gets executor service.
      *
@@ -319,18 +319,6 @@
      * @param namePrefix the name prefix
      * @return the executor service. Default to ForkJoinPool executor service.
      */</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-     * Gets executor service.
-     *
-     * @param type       the type
-     * @param namePrefix the name prefix
-     * @return the executor service. Default to ForkJoinPool executor service.
-     */</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJ5dGVbXSBleGVjdXRvclNlcnZpY2VGYWN0b3J5TG9jayA9IG5ldyBieXRlWzBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
