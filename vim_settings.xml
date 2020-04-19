@@ -95,6 +95,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" timestamp="1587315184482">
+        <mark key="'" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587154521775">
+        <mark key="'" line="167" column="29" />
+        <mark key="[" line="160" column="100" />
+        <mark key="]" line="162" column="37" />
+        <mark key="^" line="162" column="37" />
+        <mark key="." line="162" column="36" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587315244510">
+        <mark key="'" line="6" column="23" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponseOrBuilder.class" timestamp="1587315170758">
+        <mark key="'" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1587235910085">
+        <mark key="'" line="24" column="23" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponse.class" timestamp="1587315167125">
+        <mark key="'" line="35" column="87" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar!/com/google/protobuf/GeneratedMessageV3.class" timestamp="1587315156423">
+        <mark key="'" line="40" column="22" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1587232767111">
+        <mark key="'" line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-java-example/pom.xml" timestamp="1587239531016">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587218642137">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587236959313">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,30 +147,8 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1587132824930">
-        <mark key="'" line="1902" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1587150400472">
-        <mark key="'" line="26" column="41" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587154521775">
-        <mark key="'" line="167" column="29" />
-        <mark key="[" line="160" column="100" />
-        <mark key="]" line="162" column="37" />
-        <mark key="^" line="162" column="37" />
-        <mark key="." line="162" column="36" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1587133630995">
-        <mark key="'" line="97" column="37" />
-      </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1587135750910">
-        <mark key="'" line="1160" column="33" />
-      </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" timestamp="1587235045194">
         <mark key="'" line="26" column="45" />
-      </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1587235910085">
-        <mark key="'" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" timestamp="1587236176458">
         <mark key="'" line="19" column="0" />
@@ -139,22 +157,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1587232767111">
-        <mark key="'" line="29" column="46" />
-      </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/build.gradle" timestamp="1587230044608">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="14" column="53" />
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
-      </file>
-      <file name="$USER_HOME$/GenDev/protobuf-java-example/pom.xml" timestamp="1587239531016">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587150397065">
-        <mark key="'" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/log.ts" timestamp="1587218143332">
         <mark key="[" line="40" column="11" />
@@ -163,21 +170,8 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587227185893">
         <mark key="'" line="59" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587218642137">
-        <mark key="'" line="20" column="21" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="6" column="21" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
-      <jump line="1179" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
-      <jump line="356" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
-      <jump line="180" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="173" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSessionFactory.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="48" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="168" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="81" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -272,6 +266,12 @@
       <jump line="39" column="18" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" />
       <jump line="24" column="23" filename="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" />
       <jump line="19" column="0" filename="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" />
+      <jump line="40" column="22" filename="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar!/com/google/protobuf/GeneratedMessageV3.class" />
+      <jump line="35" column="87" filename="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponse.class" />
+      <jump line="8" column="17" filename="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponseOrBuilder.class" />
+      <jump line="29" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="8" column="0" filename="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" />
+      <jump line="6" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
