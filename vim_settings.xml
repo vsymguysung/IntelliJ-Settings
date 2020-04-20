@@ -98,6 +98,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" timestamp="1587315184482">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1587411972269" />
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587394877273">
         <mark key="'" line="167" column="29" />
         <mark key="[" line="160" column="100" />
@@ -122,9 +123,6 @@
         <mark key="]" line="15" column="57" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="15" column="57" />
-      </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1587235910085">
-        <mark key="'" line="24" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponse.class" timestamp="1587315167125">
         <mark key="'" line="35" column="87" />
