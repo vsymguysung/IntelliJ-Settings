@@ -118,11 +118,17 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/tts/v1/nuance_tts.proto" timestamp="1587398468469">
         <mark key="'" line="12" column="56" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" timestamp="1587415579253">
+        <mark key="'" line="40" column="48" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587396549783">
         <mark key="[" line="15" column="57" />
         <mark key="]" line="15" column="57" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="15" column="57" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" timestamp="1587415593713">
+        <mark key="'" line="7" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponse.class" timestamp="1587315167125">
         <mark key="'" line="35" column="87" />
@@ -135,9 +141,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587236959313">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/pom.xml" timestamp="1587308440280">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="24" />
@@ -148,13 +151,6 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" timestamp="1587398698046">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" timestamp="1587236176458">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="4" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" timestamp="1587395116991">
         <mark key="'" line="62" column="20" />
       </file>
@@ -164,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="16" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
       <jump line="17" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
       <jump line="57" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="21" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -264,6 +258,8 @@
       <jump line="30" column="63" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" />
       <jump line="26" column="27" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
       <jump line="27" column="16" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
+      <jump line="40" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" />
+      <jump line="7" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
