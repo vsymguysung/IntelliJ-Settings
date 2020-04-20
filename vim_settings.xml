@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>thenRun</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhdWRpb1BhcmFtZXRlclw+</entry>
         <entry encoding="base64">XDxleGVjdXRlX3JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0RGF0YVw+</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -108,8 +108,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587315244510">
         <mark key="'" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587398666485">
+        <mark key="'" line="30" column="63" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponseOrBuilder.class" timestamp="1587315170758">
         <mark key="'" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/tts/v1/nuance_tts.proto" timestamp="1587398468469">
+        <mark key="'" line="12" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587396549783">
         <mark key="[" line="15" column="57" />
@@ -126,9 +132,6 @@
       <file name="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar!/com/google/protobuf/GeneratedMessageV3.class" timestamp="1587315156423">
         <mark key="'" line="40" column="22" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1587232767111">
-        <mark key="'" line="29" column="46" />
-      </file>
       <file name="$USER_HOME$/GenDev/protobuf-java-example/pom.xml" timestamp="1587239531016">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -137,9 +140,6 @@
       <file name="/Dummy.txt" timestamp="1587236959313">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/EnumMain.java" timestamp="1587233346855">
-        <mark key="'" line="18" column="40" />
-      </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/pom.xml" timestamp="1587308440280">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="24" />
@@ -147,11 +147,8 @@
         <mark key="^" line="14" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/core/BackgroundResourceAggregation.class" timestamp="1587388410189" />
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" timestamp="1587395024227">
-        <mark key="'" line="65" column="23" />
-      </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" timestamp="1587235045194">
-        <mark key="'" line="26" column="45" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" timestamp="1587398698046">
+        <mark key="'" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/pom.xml" timestamp="1587236176458">
         <mark key="'" line="19" column="0" />
@@ -163,16 +160,11 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" timestamp="1587395116991">
         <mark key="'" line="62" column="20" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587398499678">
+        <mark key="'" line="153" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="99" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="16" column="83" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="1540" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1539" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1056" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" />
-      <jump line="74" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="90" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="22" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="16" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
       <jump line="17" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
@@ -265,6 +257,14 @@
       <jump line="60" column="8" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
       <jump line="36" column="2" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
       <jump line="62" column="20" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
+      <jump line="10" column="0" filename="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" />
+      <jump line="8" column="22" filename="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" />
+      <jump line="12" column="56" filename="$USER_HOME$/GenDev/nuance-sample/nuance/tts/v1/nuance_tts.proto" />
+      <jump line="11" column="65" filename="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" />
+      <jump line="153" column="8" filename="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" />
+      <jump line="30" column="63" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" />
+      <jump line="26" column="27" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
+      <jump line="27" column="16" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -276,7 +276,7 @@
         <text>[&quot;access_token&quot;]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXF1ZXN0RGF0YVw+</text>
+        <text encoding="base64">XDxzZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TVlfVE9LRU49ImBjdXJsIC1zIC11ICIkQ0xJRU5UX0lEOiRTRUNSRVQiICJodHRwczovL2F1dGguY3J0Lm51YW5jZS5jb20vb2F1dGgyL3Rva2VuIiBcCi1kICdncmFudF90eXBlPWNsaWVudF9jcmVkZW50aWFscycgLWQgJ3Njb3BlPWRsZycgXAp8IHB5dGhvbiAtYyAnaW1wb3J0IHN5cywganNvbjsgcHJpbnQoanNvbi5sb2FkKHN5cy5zdGRpbilbImFjY2Vzc190b2tlbiJdKSdgIgo=</text>
@@ -315,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSZXF1ZXN0RGF0YVw+</last-search>
+      <last-search encoding="base64">XDxzZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXF1ZXN0RGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2aWNlXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
