@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3F1ZW50aWFTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxmb3JrSm9pblBvb2xFeGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxFeGVjdXRlU3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxhdWRpb1BhcmFtZXRlclw+</entry>
         <entry encoding="base64">XDxleGVjdXRlX3JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0RGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -98,6 +98,13 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" timestamp="1587315184482">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587394877273">
+        <mark key="'" line="167" column="29" />
+        <mark key="[" line="160" column="100" />
+        <mark key="]" line="162" column="37" />
+        <mark key="^" line="162" column="37" />
+        <mark key="." line="162" column="36" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587315244510">
         <mark key="'" line="6" column="23" />
       </file>
@@ -121,13 +128,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/common/common.functions.ts" timestamp="1587218642137">
-        <mark key="'" line="20" column="21" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="6" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587236959313">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +141,9 @@
         <mark key="^" line="14" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/core/BackgroundResourceAggregation.class" timestamp="1587388410189" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" timestamp="1587395024227">
+        <mark key="'" line="65" column="23" />
+      </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/src/main/java/com/github/simplesteph/protobuf/ComplexMain.java" timestamp="1587235045194">
         <mark key="'" line="26" column="45" />
       </file>
@@ -151,28 +154,17 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="4" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" timestamp="1587395116991">
+        <mark key="'" line="62" column="20" />
+      </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java/build.gradle" timestamp="1587230044608">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="14" column="53" />
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/log.ts" timestamp="1587218143332">
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="24" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587227185893">
-        <mark key="'" line="59" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="168" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="81" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="17" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="83" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="93" column="53" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="87" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="14" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="99" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="16" column="83" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -266,6 +258,13 @@
       <jump line="29" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="8" column="0" filename="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" />
       <jump line="6" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
+      <jump line="47" column="31" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
+      <jump line="34" column="8" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
+      <jump line="65" column="23" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" />
+      <jump line="60" column="8" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
+      <jump line="36" column="2" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
+      <jump line="62" column="20" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,7 +276,7 @@
         <text>30.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGVjdXRlX3JlcXVlc3RcPg==</text>
+        <text encoding="base64">XDxSZXF1ZXN0RGF0YVw+</text>
       </register>
       <register name="0" type="4">
         <text>LoggerInstance</text>
@@ -316,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleGVjdXRlX3JlcXVlc3RcPg==</last-search>
+      <last-search encoding="base64">XDxSZXF1ZXN0RGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjdXRlX3JlcXVlc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSZXF1ZXN0RGF0YVw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
