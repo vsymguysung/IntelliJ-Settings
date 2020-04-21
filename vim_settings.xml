@@ -130,9 +130,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowBotParameters.java" timestamp="1587415593713">
         <mark key="'" line="7" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponse.class" timestamp="1587315167125">
-        <mark key="'" line="35" column="87" />
-      </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" timestamp="1587473309751">
         <mark key="'" line="98" column="15" />
       </file>
@@ -146,13 +143,15 @@
         <mark key="'" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideUtil.java" timestamp="1587473371920" />
+      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1587473796722">
+        <mark key="'" line="51" column="41" />
+      </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/botName.js" timestamp="1587404758684" />
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587398499678">
         <mark key="'" line="153" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="82" column="56" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="65" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="125" column="42" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
@@ -252,6 +251,7 @@
       <jump line="106" column="45" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" />
       <jump line="108" column="19" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" />
       <jump line="98" column="15" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" />
+      <jump line="51" column="41" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
