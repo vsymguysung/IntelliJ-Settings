@@ -112,9 +112,6 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587403898949">
         <mark key="'" line="30" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-dialogflow-v2beta1/0.86.0/proto-google-cloud-dialogflow-v2beta1-0.86.0.jar!/com/google/cloud/dialogflow/v2beta1/StreamingDetectIntentResponseOrBuilder.class" timestamp="1587315170758">
-        <mark key="'" line="8" column="17" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/tts/v1/nuance_tts.proto" timestamp="1587398468469">
         <mark key="'" line="12" column="56" />
       </file>
