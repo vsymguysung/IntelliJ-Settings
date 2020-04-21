@@ -130,8 +130,11 @@
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" timestamp="1587473309751">
         <mark key="'" line="98" column="15" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" timestamp="1587480529444">
-        <mark key="'" line="67" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" timestamp="1587485254698">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1587416353454" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/core/BackgroundResourceAggregation.class" timestamp="1587388410189" />
@@ -152,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="35" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
       <jump line="72" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="75" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="10" column="40" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
@@ -252,15 +254,16 @@
       <jump line="38" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
       <jump line="70" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
       <jump line="133" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
+      <jump line="79" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Client</text>
       </register>
       <register name="-" type="4">
-        <text>StartResponse</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text>ASR</text>
@@ -275,10 +278,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fHx8CkNsaWVudCAtPiBETEc6IEV4ZWN1dGVSZXF1ZXN0CmFjdGl2YXRlIENsaWVudApETEcgLT4gTkxVOiBpbnRlcnByZXQKYWN0aXZhdGUgTkxVCk5MVSAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBOTFUKRExHLS0+IENsaWVudDogRXhlY3V0ZVJlc3BvbnNlCmRlYWN0aXZhdGUgQ2xpZW50Cgp8fHwKQ2xpZW50IC0+IERMRzogU3RyZWFtSW5wdXQKYWN0aXZhdGUgQ2xpZW50CgpETEcgLT4gQVNSOiByZWNvZ25pemUKYWN0aXZhdGUgQVNSCkFTUiAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBBU1IKCkRMRyAtPiBOTFU6IGludGVycHJldAphY3RpdmF0ZSBOTFUKTkxVIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIE5MVQoKRExHIC0+IFRUUzogc3ludGhlc2l6ZQphY3RpdmF0ZSBUVFMKVFRTIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIFRUUwoKRExHLS0+IENsaWVudDogU3RyZWFtT3V0cHV0CmRlYWN0aXZhdGUgQ2xpZW50</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2xpZW50Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -286,14 +289,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoKCkRMRyAtPiBOTFU6IEdFVCAvYXBpL3YxL2RpYWxvZ3NcbkNvbm5lY3Rpb246IHVwZ3JhZGVcblVwZ3JhZGU6IHdlYnNvY2tldApOTFUgLT4gQVNSOiBDcmVhdGUKYWN0aXZhdGUgQVNSCk5MVSAtPiBETEc6IEhUVFAvMS4xIDEwMSBTd2l0Y2hpbmcgUHJvdG9jb2xzCnx8fApETEcgLT4gQVNSOiBUZXh0OiB7XG4gImNvbW1hbmQiOiAib3BlbiIsXG4gIm1lZGlhIjogW1xuICB7InR5cGUiOiAiYXVkaW8iLCAiZm9ybWF0IjogIlBDTVUiLCAicmF0ZSI6IDgwMDAsICJjaGFubmVscyI6IDF9LFxuICB7InR5cGUiOiAiYXVkaW8iLCAiZm9ybWF0IjogIkwxNiIsICJyYXRlIjogODAwMCwgImNoYW5uZWxzIjogMX1cbiBdLFxuICJwYXJhbWV0ZXJzIjogey4uLn1cbn0KfHx8CkFTUiAtPiBETEc6IFRleHQ6IHtcbiAiY29tbWFuZCI6ICJvcGVuZWQiLFxuICJtZWRpYSI6IFtcbiAgeyJ0eXBlIjogImF1ZGlvIiwgImZvcm1hdCI6ICJMMTYiLCAicmF0ZSI6IDgwMDAsICJjaGFubmVscyI6IDF9XG4gXSxcbiAicGFyYW1ldGVycyI6IHsuLi59XG59CkRMRyAtLT4gQ2xpZW50OiBJRGlhbG9nU2Vzc2lvbjo6b3BlbigpIHJldHVybgp8fHwKbG9vcAphbHQgQ2xpZW50IHRvIHNlcnZlciBhdWRpbyBmcmFtZQpDbGllbnQgLT4gRExHOiBJRGlhbG9nU2Vzc2lvbjo6cHJvY2Vzc19hdWRpbygpCkRMRyAtPiBBU1I6IEJpbmFyeTogPGF1ZGlvIGRhdGE+Cnx8fAplbHNlIFNlcnZlciB0byBjbGllbnQgYXVkaW8gZnJhbWUKQVNSIC0+IERMRzogQmluYXJ5OiA8YXVkaW8gZGF0YT4KRExHIC0+IENsaWVudDogSURpYWxvZ05vdGlmeTo6b25fZGlhbG9nX25vdGlmeV9wbGF5KCkKfHx8CmVsc2UgU2VydmVyIHRvIGNsaWVudCBjYW5jZWwgcGxheQpBU1IgLT4gRExHOiBUZXh0OiB7ImNvbW1hbmQ6ICJmbHVzaC1hdWRpbyJ9CkRMRyAtPiBDbGllbnQ6IElEaWFsb2dOb3RpZnk6Om9uX2RpYWxvZ19ub3RpZnlfY2FuY2VsX3BsYXkoKQp8fHwKZWxzZSBTZXJ2ZXIgdG8gY2xpZW50IG1lc3NhZ2UvY29tbWFuZApBU1IgLT4gRExHOiBUZXh0OiB7ImNvbW1hbmQiOiAibWVzc2FnZSIsICJkYXRhIjogey4uLn19CkRMRyAtPiBDbGllbnQ6IElEaWFsb2dOb3RpZnk6Om9uX2RpYWxvZ19ub3RpZnlfbWVzc2FnZSgpCnx8fAplbHNlIENsaWVudCB0byBzZXJ2ZXIgbWVzc2FnZS9jb21tYW5kCkNsaWVudCAtPiBETEc6IElEaWFsb2dTZXNzaW9uOjpoYW5kbGVfY29tbWFuZCgpCkRMRyAtPiBBU1I6IFRleHQ6IHsiY29tbWFuZCI6ICJtZXNzYWdlIiwgImRhdGEiOiB7Li4ufX0KfHx8CmVsc2UgU2VydmVyLXNpZ25hbGVkIGVycm9yCkFTUiAtPiBETEc6IFRleHQ6IHsiY29tbWFuZCI6ICJlcnJvciIsICJkYXRhIjogey4uLn19CkRMRyAtPiBDbGllbnQ6IElEaWFsb2dOb3RpZnk6Om9uX2RpYWxvZ19lcnJvcigpCnx8fAplbHNlIFJlY3VycmluZyBjb25uZWN0aW9uIGtlZXAtYWxpdmUKRExHIC0+IEFTUjogVGV4dDogeyJjb21tYW5kIjogInBpbmcifQp8fHwKZW5kCi4uLgplbmQKfHx8CkNsaWVudCAtPiBETEc6IElEaWFsb2dTZXNzaW9uOjpjbG9zZSgpCkRMRyAtPiBBU1I6IFRleHQ6IHsiY29tbWFuZCI6ICJjbG9zZSIsIC4uLn0Kb3B0CkFTUiAtPiBETEc6IFRleHQ6IHsiY29tbWFuZCI6ICJtZXNzYWdlIiwgImRhdGEiOiB7Li4ufX0KRExHIC0+IENsaWVudDogSURpYWxvZ05vdGlmeTo6b25fZGlhbG9nX25vdGlmeV9tZXNzYWdlKCkKfHx8CmVuZApBU1IgLT4gRExHOiBUZXh0OiB7ImNvbW1hbmQiOiAiY2xvc2VkIiwgLi4ufQpETEcgLT4gQVNSOiBDbG9zZQpBU1IgLT4gRExHOiBDbG9zZQpBU1IgLT4gQVNSCmRlc3Ryb3kgQVNSCkRMRyAtLT4gQ2xpZW50OiBJRGlhbG9nU2Vzc2lvbjo6Y2xvc2UoKSByZXR1cm4KCkRMRyAtPiBETEcKZGVzdHJveSBETEc=</text>
+      <register name="7" type="2">
+        <text>deactivate DLG</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlIEFTUgo=</text>
+        <text encoding="base64">YWN0aXZhdGUgRExHCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBDbGllbnQK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
