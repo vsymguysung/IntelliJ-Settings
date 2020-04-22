@@ -95,16 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587394877273">
-        <mark key="'" line="167" column="29" />
-        <mark key="[" line="160" column="100" />
-        <mark key="]" line="162" column="37" />
-        <mark key="^" line="162" column="37" />
-        <mark key="." line="162" column="36" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1587315244510">
-        <mark key="'" line="6" column="23" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587559691663">
         <mark key="'" line="30" column="63" />
       </file>
@@ -126,22 +116,31 @@
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" timestamp="1587473309751">
         <mark key="'" line="98" column="15" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/package.json" timestamp="1587565662021">
+        <mark key="[" line="10" column="157" />
+        <mark key="]" line="10" column="157" />
+        <mark key="." line="10" column="157" />
+        <mark key="^" line="10" column="130" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" timestamp="1587495921867">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="57" column="15" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1587562308880" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1587564656720" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1587416353454" />
-      <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/core/BackgroundResourceAggregation.class" timestamp="1587388410189" />
       <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/grpc-java/io/grpc/examples/routeguide/RouteGuideGrpc.java" timestamp="1587473208069" />
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" timestamp="1587398698046">
         <mark key="'" line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1587564288978">
+        <mark key="'" line="132" column="36" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages.proto" timestamp="1587395116991">
         <mark key="'" line="62" column="20" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageVisitor.js" timestamp="1587565019122" />
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideUtil.java" timestamp="1587473371920" />
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1587473796722">
         <mark key="'" line="51" column="41" />
@@ -152,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="75" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="10" column="40" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="26" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="24" column="43" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
@@ -252,48 +249,50 @@
       <jump line="70" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
       <jump line="133" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
       <jump line="79" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
+      <jump line="77" column="37" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
+      <jump line="132" column="36" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Client</text>
+        <text>,,</text>
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text>,,</text>
       </register>
       <register name="/" type="4">
         <text>ASR</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">RExHIC0+IE5MVTogaW50ZXJwcmV0CmFjdGl2YXRlIE5MVQpOTFUgLS0+IERMRzogcmV0dXJuCmRlYWN0aXZhdGUgTkxV</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAidGVzdDplbmR0b2VuZCI6ICJueWMgLS1yZXBvcnRlcj1qc29uLXN1bW1hcnkgLS1yZXBvcnRlcj10ZXh0LXN1bW1hcnkgbW9jaGEgJy4vdGVzdC9zcGVjcy9lbmRUb0VuZC10ZXN0LyoqLyouanMnIC0tdGltZW91dCAxMjAwMDAgLS1leGl0IiwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fHx8CkNsaWVudCAtPiBETEc6IEV4ZWN1dGVSZXF1ZXN0CmFjdGl2YXRlIENsaWVudApETEcgLT4gTkxVOiBpbnRlcnByZXQKYWN0aXZhdGUgTkxVCk5MVSAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBOTFUKRExHLS0+IENsaWVudDogRXhlY3V0ZVJlc3BvbnNlCmRlYWN0aXZhdGUgQ2xpZW50Cgp8fHwKQ2xpZW50IC0+IERMRzogU3RyZWFtSW5wdXQKYWN0aXZhdGUgQ2xpZW50CgpETEcgLT4gQVNSOiByZWNvZ25pemUKYWN0aXZhdGUgQVNSCkFTUiAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBBU1IKCkRMRyAtPiBOTFU6IGludGVycHJldAphY3RpdmF0ZSBOTFUKTkxVIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIE5MVQoKRExHIC0+IFRUUzogc3ludGhlc2l6ZQphY3RpdmF0ZSBUVFMKVFRTIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIFRUUwoKRExHLS0+IENsaWVudDogU3RyZWFtT3V0cHV0CmRlYWN0aXZhdGUgQ2xpZW50</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWN0aXZhdGUgQ2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fHx8CkNsaWVudCAtPiBETEc6IEV4ZWN1dGVSZXF1ZXN0CmFjdGl2YXRlIENsaWVudApETEcgLT4gTkxVOiBpbnRlcnByZXQKYWN0aXZhdGUgTkxVCk5MVSAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBOTFUKRExHLS0+IENsaWVudDogRXhlY3V0ZVJlc3BvbnNlCmRlYWN0aXZhdGUgQ2xpZW50Cgp8fHwKQ2xpZW50IC0+IERMRzogU3RyZWFtSW5wdXQKYWN0aXZhdGUgQ2xpZW50CgpETEcgLT4gQVNSOiByZWNvZ25pemUKYWN0aXZhdGUgQVNSCkFTUiAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBBU1IKCkRMRyAtPiBOTFU6IGludGVycHJldAphY3RpdmF0ZSBOTFUKTkxVIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIE5MVQoKRExHIC0+IFRUUzogc3ludGhlc2l6ZQphY3RpdmF0ZSBUVFMKVFRTIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIFRUUwoKRExHLS0+IENsaWVudDogU3RyZWFtT3V0cHV0CmRlYWN0aXZhdGUgQ2xpZW50</text>
       </register>
       <register name="7" type="2">
-        <text>deactivate DLG</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2xpZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWN0aXZhdGUgRExHCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
