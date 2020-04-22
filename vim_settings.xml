@@ -95,12 +95,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587559691663">
-        <mark key="'" line="30" column="63" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1587572113031" />
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/tts/v1/nuance_tts.proto" timestamp="1587481535638">
         <mark key="'" line="12" column="56" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/tsconfig.json" timestamp="1587576701056" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1587416353454" />
+      <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/grpc-java/io/grpc/examples/routeguide/RouteGuideGrpc.java" timestamp="1587473208069" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/endToEnd-test/stepFunction.js" timestamp="1587565853244" />
+      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideUtil.java" timestamp="1587473371920" />
+      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1587473796722">
+        <mark key="'" line="51" column="41" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587481478528">
+        <mark key="'" line="153" column="8" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587559691663">
+        <mark key="'" line="30" column="63" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" timestamp="1587415579253">
         <mark key="'" line="40" column="48" />
@@ -110,6 +121,13 @@
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java" timestamp="1587473309751">
         <mark key="'" line="98" column="15" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/test/loopback/event-runner.spec.ts" timestamp="1587576649178">
+        <mark key="'" line="67" column="39" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/package.json" timestamp="1587565662021">
         <mark key="[" line="10" column="157" />
@@ -124,28 +142,12 @@
         <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1587564656720" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1587416353454" />
-      <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/grpc-java/io/grpc/examples/routeguide/RouteGuideGrpc.java" timestamp="1587473208069" />
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages.proto" timestamp="1587398698046">
-        <mark key="'" line="27" column="16" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/endToEnd-test/stepFunction.js" timestamp="1587565853244" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1587564288978">
         <mark key="'" line="132" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageVisitor.js" timestamp="1587565019122" />
-      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideUtil.java" timestamp="1587473371920" />
-      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1587473796722">
-        <mark key="'" line="51" column="41" />
-      </file>
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/botName.js" timestamp="1587404758684" />
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587481478528">
-        <mark key="'" line="153" column="8" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="40" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
-      <jump line="26" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="24" column="43" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/events/welcome-intent.ts" />
       <jump line="26" column="36" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/utils/intents.util.ts" />
       <jump line="3" column="26" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" />
@@ -244,12 +246,14 @@
       <jump line="79" column="0" filename="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" />
       <jump line="77" column="37" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
       <jump line="132" column="36" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
+      <jump line="39" column="12" filename="$USER_HOME$/GenDev/loopback-streaming/test/loopback/event-runner.spec.ts" />
+      <jump line="67" column="39" filename="$USER_HOME$/GenDev/loopback-streaming/test/loopback/event-runner.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="-" type="4">
         <text>,,</text>
@@ -261,28 +265,28 @@
         <text encoding="base64">ICAgICAgICAidGVzdDplbmR0b2VuZCI6ICJueWMgLS1yZXBvcnRlcj1qc29uLXN1bW1hcnkgLS1yZXBvcnRlcj10ZXh0LXN1bW1hcnkgbW9jaGEgJy4vdGVzdC9zcGVjcy9lbmRUb0VuZC10ZXN0LyoqLyouanMnIC0tdGltZW91dCAxMjAwMDAgLS1leGl0IiwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fHx8CkNsaWVudCAtPiBETEc6IEV4ZWN1dGVSZXF1ZXN0CmFjdGl2YXRlIENsaWVudApETEcgLT4gTkxVOiBpbnRlcnByZXQKYWN0aXZhdGUgTkxVCk5MVSAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBOTFUKRExHLS0+IENsaWVudDogRXhlY3V0ZVJlc3BvbnNlCmRlYWN0aXZhdGUgQ2xpZW50Cgp8fHwKQ2xpZW50IC0+IERMRzogU3RyZWFtSW5wdXQKYWN0aXZhdGUgQ2xpZW50CgpETEcgLT4gQVNSOiByZWNvZ25pemUKYWN0aXZhdGUgQVNSCkFTUiAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBBU1IKCkRMRyAtPiBOTFU6IGludGVycHJldAphY3RpdmF0ZSBOTFUKTkxVIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIE5MVQoKRExHIC0+IFRUUzogc3ludGhlc2l6ZQphY3RpdmF0ZSBUVFMKVFRTIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIFRUUwoKRExHLS0+IENsaWVudDogU3RyZWFtT3V0cHV0CmRlYWN0aXZhdGUgQ2xpZW50</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWN0aXZhdGUgQ2xpZW50Cg==</text>
+        <text encoding="base64">fHx8CkNsaWVudCAtPiBETEc6IEV4ZWN1dGVSZXF1ZXN0CmFjdGl2YXRlIENsaWVudApETEcgLT4gTkxVOiBpbnRlcnByZXQKYWN0aXZhdGUgTkxVCk5MVSAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBOTFUKRExHLS0+IENsaWVudDogRXhlY3V0ZVJlc3BvbnNlCmRlYWN0aXZhdGUgQ2xpZW50Cgp8fHwKQ2xpZW50IC0+IERMRzogU3RyZWFtSW5wdXQKYWN0aXZhdGUgQ2xpZW50CgpETEcgLT4gQVNSOiByZWNvZ25pemUKYWN0aXZhdGUgQVNSCkFTUiAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBBU1IKCkRMRyAtPiBOTFU6IGludGVycHJldAphY3RpdmF0ZSBOTFUKTkxVIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIE5MVQoKRExHIC0+IFRUUzogc3ludGhlc2l6ZQphY3RpdmF0ZSBUVFMKVFRTIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIFRUUwoKRExHLS0+IENsaWVudDogU3RyZWFtT3V0cHV0CmRlYWN0aXZhdGUgQ2xpZW50</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2xpZW50Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
