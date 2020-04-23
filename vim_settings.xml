@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ASR</entry>
-        <entry>workQueue</entry>
         <entry>wt</entry>
         <entry>fork</entry>
         <entry>qa</entry>
@@ -18,13 +16,15 @@
         <entry encoding="base64">XDxmb3JDb21tb25Qb29sT25seVw+</entry>
         <entry>forCommonPoolOnly</entry>
         <entry encoding="base64">XDxwYXJhbGxlbGlzbVw+</entry>
-        <entry encoding="base64">XDxtb2RlXD4=</entry>
         <entry>mode</entry>
         <entry encoding="base64">XDxnZXRDb21tb25Qb29sUGFyYWxsZWxpc21cPg==</entry>
         <entry encoding="base64">XDxjdGxcPg==</entry>
         <entry>static</entry>
         <entry>private ForkJoinPool</entry>
         <entry encoding="base64">XDxDT01NT05fUEFSQUxMRUxJU01cPg==</entry>
+        <entry encoding="base64">XDxhc3luY01vZGVcPg==</entry>
+        <entry encoding="base64">XDxtb2RlXD4=</entry>
+        <entry>owner</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,31 +95,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1587595405011">
-        <mark key="'" line="799" column="15" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_interface.proto" timestamp="1587559691663">
-        <mark key="'" line="30" column="63" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587611224138">
+        <mark key="'" line="37" column="96" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587610281884">
         <mark key="'" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/tts/v1/nuance_tts.proto" timestamp="1587481535638">
-        <mark key="'" line="12" column="56" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587593347496">
         <mark key="'" line="687" column="62" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1587593309869">
-        <mark key="'" line="214" column="16" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1587564288978">
-        <mark key="'" line="132" column="36" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1587610490857">
-        <mark key="'" line="2200" column="16" />
-        <mark key="[" line="2358" column="27" />
-        <mark key="]" line="2358" column="68" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1587611555462">
+        <mark key="'" line="82" column="35" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/test/loopback/event-runner.spec.ts" timestamp="1587583405830">
         <mark key="'" line="65" column="55" />
@@ -128,50 +114,43 @@
         <mark key="^" line="65" column="33" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1587473796722">
-        <mark key="'" line="51" column="41" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/package.json" timestamp="1587565662021">
         <mark key="[" line="10" column="157" />
         <mark key="]" line="10" column="157" />
         <mark key="." line="10" column="157" />
         <mark key="^" line="10" column="130" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/nuance-provider-seq-diagram" timestamp="1587495921867">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="57" column="15" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587612234451">
+        <mark key="'" line="68" column="34" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587609672915">
-        <mark key="'" line="497" column="16" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587609517995">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587612240944">
         <mark key="'" line="75" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/asr/v1/nuance_asr.proto" timestamp="1587481478528">
-        <mark key="'" line="153" column="8" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/AudioCommand.java" timestamp="1587611663612">
+        <mark key="'" line="39" column="34" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1587595405011">
+        <mark key="'" line="799" column="15" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1587611823677">
+        <mark key="'" line="77" column="13" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1587593309869">
+        <mark key="'" line="214" column="16" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1587564288978">
+        <mark key="'" line="132" column="36" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1587612563026">
+        <mark key="'" line="864" column="22" />
+        <mark key="[" line="2358" column="27" />
+        <mark key="]" line="2358" column="68" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587612289101">
+        <mark key="'" line="1820" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="12" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1807" column="31" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1806" column="27" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1901" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="3169" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2396" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="586" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1198" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1202" column="12" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1203" column="7" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1241" column="42" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1265" column="39" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1925" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1928" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2047" column="35" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2235" column="60" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2237" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2344" column="8" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2386" column="56" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2585" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="192" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -191,12 +170,8 @@
       <jump line="2376" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2198" column="43" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2201" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2302" column="44" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2317" column="14" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="968" column="39" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1303" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1304" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1370" column="21" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1545" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1609" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1810" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -209,7 +184,6 @@
       <jump line="2182" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2183" column="41" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2184" column="40" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="963" column="67" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2562" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2361" column="26" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2378" column="14" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -235,15 +209,9 @@
       <jump line="2563" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1206" column="21" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="3199" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="75" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="2014" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="2029" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1820" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1812" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="503" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="497" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="2452" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1920" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1918" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2377" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="3198" column="56" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -252,8 +220,37 @@
       <jump line="20" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="25" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="21" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="2199" column="8" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2200" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2199" column="8" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2284" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2216" column="14" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2302" column="45" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="2317" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="963" column="67" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1303" column="73" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1370" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="37" column="96" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" />
+      <jump line="721" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="82" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
+      <jump line="75" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="39" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/AudioCommand.java" />
+      <jump line="78" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
+      <jump line="2321" column="27" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
+      <jump line="882" column="14" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
+      <jump line="77" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
+      <jump line="1812" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
+      <jump line="36" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="74" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="61" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="68" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="75" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
+      <jump line="2029" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
+      <jump line="1820" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
+      <jump line="2452" column="8" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1920" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="1901" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="866" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="864" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,7 +262,7 @@
         <text>,,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT01NT05fUEFSQUxMRUxJU01cPg==</text>
+        <text>owner</text>
       </register>
       <register name="0" type="4">
         <text>Runtime.getRuntime().availableProcessors()</text>
@@ -304,12 +301,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDT01NT05fUEFSQUxMRUxJU01cPg==</last-search>
+      <last-search>owner</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT01NT05fUEFSQUxMRUxJU01cPg==</last-pattern>
+      <last-pattern>owner</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
