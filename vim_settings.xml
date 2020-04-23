@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>wt</entry>
         <entry>fork</entry>
         <entry>qa</entry>
         <entry>array</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhc3luY01vZGVcPg==</entry>
         <entry encoding="base64">XDxtb2RlXD4=</entry>
         <entry>owner</entry>
+        <entry encoding="base64">XDx3ZWJTb2NrZXRDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -107,6 +107,9 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1587611555462">
         <mark key="'" line="82" column="35" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" timestamp="1587613154026">
+        <mark key="'" line="47" column="19" />
+      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/test/loopback/event-runner.spec.ts" timestamp="1587583405830">
         <mark key="'" line="65" column="55" />
         <mark key="[" line="52" column="0" />
@@ -120,8 +123,14 @@
         <mark key="." line="10" column="157" />
         <mark key="^" line="10" column="130" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587612234451">
-        <mark key="'" line="68" column="34" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" timestamp="1587612975437">
+        <mark key="'" line="147" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587612851237">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587612240944">
         <mark key="'" line="75" column="37" />
@@ -138,9 +147,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1587593309869">
         <mark key="'" line="214" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1587564288978">
-        <mark key="'" line="132" column="36" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1587612563026">
         <mark key="'" line="864" column="22" />
         <mark key="[" line="2358" column="27" />
@@ -149,21 +155,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587612289101">
         <mark key="'" line="1820" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" timestamp="1587612937053">
+        <mark key="'" line="113" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2386" column="56" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2585" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="192" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="193" column="36" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="298" column="35" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="740" column="21" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="919" column="46" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="947" column="26" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="956" column="41" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1377" column="41" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1589" column="65" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1881" column="42" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2335" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2336" column="12" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2360" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2358" column="59" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -242,7 +238,6 @@
       <jump line="36" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="74" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="61" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="68" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="75" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="2029" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="1820" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
@@ -251,48 +246,62 @@
       <jump line="1901" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="866" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="864" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="68" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="53" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="56" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="54" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
+      <jump line="25" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
+      <jump line="153" column="6" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
+      <jump line="149" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
+      <jump line="113" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.21.RELEASE/spring-websocket-4.3.21.RELEASE-sources.jar!/org/springframework/web/socket/client/jetty/JettyWebSocketClient.java" />
+      <jump line="147" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" />
+      <jump line="22" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" />
+      <jump line="46" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Runtime.getRuntime().availableProcessors()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9vcGJhY2tCb3RDbGllbnQuCg==</text>
       </register>
       <register name="-" type="4">
         <text>,,</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text encoding="base64">XDx3ZWJTb2NrZXRDbGllbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Runtime.getRuntime().availableProcessors()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9vcGJhY2tCb3RDbGllbnQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fHx8CkNsaWVudCAtPiBETEc6IEV4ZWN1dGVSZXF1ZXN0CmFjdGl2YXRlIENsaWVudApETEcgLT4gTkxVOiBpbnRlcnByZXQKYWN0aXZhdGUgTkxVCk5MVSAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBOTFUKRExHLS0+IENsaWVudDogRXhlY3V0ZVJlc3BvbnNlCmRlYWN0aXZhdGUgQ2xpZW50Cgp8fHwKQ2xpZW50IC0+IERMRzogU3RyZWFtSW5wdXQKYWN0aXZhdGUgQ2xpZW50CgpETEcgLT4gQVNSOiByZWNvZ25pemUKYWN0aXZhdGUgQVNSCkFTUiAtLT4gRExHOiByZXR1cm4KZGVhY3RpdmF0ZSBBU1IKCkRMRyAtPiBOTFU6IGludGVycHJldAphY3RpdmF0ZSBOTFUKTkxVIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIE5MVQoKRExHIC0+IFRUUzogc3ludGhlc2l6ZQphY3RpdmF0ZSBUVFMKVFRTIC0tPiBETEc6IHJldHVybgpkZWFjdGl2YXRlIFRUUwoKRExHLS0+IENsaWVudDogU3RyZWFtT3V0cHV0CmRlYWN0aXZhdGUgQ2xpZW50</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -301,12 +310,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>owner</last-search>
+      <last-search encoding="base64">XDx3ZWJTb2NrZXRDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWJTb2NrZXRDbGllbnRcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
