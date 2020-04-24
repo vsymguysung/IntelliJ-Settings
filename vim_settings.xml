@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Executor</entry>
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry>async</entry>
         <entry>FIFO</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjbGVhblN0YWNrXD4=</entry>
         <entry>a</entry>
         <entry encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</entry>
+        <entry encoding="base64">XDxzdGFydF9yZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -96,6 +96,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1587747073823" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587759273333">
+        <mark key="'" line="64" column="4" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587732914742">
         <mark key="'" line="65" column="45" />
         <mark key="[" line="25" column="12" />
@@ -108,28 +111,11 @@
         <mark key="[" line="77" column="4" />
         <mark key="]" line="80" column="5" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587735839528">
-        <mark key="'" line="384" column="16" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" timestamp="1587737836699">
         <mark key="'" line="940" column="50" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" timestamp="1587672678464">
-        <mark key="'" line="47" column="19" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Phaser.java" timestamp="1587685265516">
         <mark key="'" line="580" column="15" />
-      </file>
-      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" timestamp="1587686462793">
-        <mark key="'" line="25" column="35" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587675986512">
         <mark key="'" line="27" column="36" />
@@ -147,9 +133,6 @@
         <mark key="." line="21" column="70" />
         <mark key="^" line="21" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587736533448">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1587739578555">
         <mark key="'" line="176" column="21" />
       </file>
@@ -158,25 +141,33 @@
         <mark key="[" line="2358" column="27" />
         <mark key="]" line="2358" column="68" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1587672644863">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="18" />
-        <mark key="." line="143" column="17" />
-        <mark key="^" line="143" column="18" />
+      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" timestamp="1587686923408">
+        <mark key="'" line="57" column="68" />
+      </file>
+      <file name="/Python Console" timestamp="1587760855996">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587735839528">
+        <mark key="'" line="384" column="16" />
+      </file>
+      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" timestamp="1587686462793">
+        <mark key="'" line="25" column="35" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587760766217">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587737469980">
         <mark key="'" line="2029" column="20" />
-      </file>
-      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" timestamp="1587686923408">
-        <mark key="'" line="57" column="68" />
       </file>
       <file name="/fragment.java" timestamp="1587736533435">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3202" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2563" column="22" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2360" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2302" column="44" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2311" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -275,6 +266,8 @@
       <jump line="68" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="1868" column="50" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1906" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="69" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,7 +279,7 @@
         <text>before long running action</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</text>
+        <text encoding="base64">XDxzdGFydF9yZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Ly8gRm9yIHRlc3RpbmcKICAgIHB1YmxpYyB2b2lkIHNldE1lc3NhZ2VFeGVjdXRvcihTZXJpYWxpemVkRXhlY3V0b3IgZXhlY3V0b3IpIHsKICAgICAgICB0aGlzLm1lc3NhZ2VFeGVjdXRvciA9IGV4ZWN1dG9yOwogICAgfQo=</text>
@@ -325,9 +318,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</last-search>
+      <last-search encoding="base64">XDxzdGFydF9yZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF9yZXF1ZXN0XD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
