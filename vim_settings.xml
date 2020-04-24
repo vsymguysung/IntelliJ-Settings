@@ -45,8 +45,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,6 +114,19 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" timestamp="1587737836699">
         <mark key="'" line="940" column="50" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587767458532">
+        <mark key="[" line="10" column="95" />
+        <mark key="]" line="10" column="95" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="10" column="95" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" timestamp="1587767570618">
+        <mark key="'" line="5" column="16" />
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="52" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
@@ -133,20 +146,13 @@
       <file name="/dlg_client" timestamp="1587761459055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587765042537">
+      <file name="/Python Console" timestamp="1587765921836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587735839528">
         <mark key="'" line="384" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" timestamp="1587686462793">
-        <mark key="'" line="25" column="35" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587764958581">
+      <file name="/Dummy.txt" timestamp="1587768021228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587737469980">
@@ -157,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2360" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2302" column="44" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2311" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="222" column="30" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/SharedBlockingCallback.java" />
       <jump line="1775" column="25" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
@@ -257,51 +261,53 @@
       <jump line="1906" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="69" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="64" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="4" column="3" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
+      <jump line="5" column="16" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gRm9yIHRlc3RpbmcKICAgIHB1YmxpYyB2b2lkIHNldE1lc3NhZ2VFeGVjdXRvcihTZXJpYWxpemVkRXhlY3V0b3IgZXhlY3V0b3IpIHsKICAgICAgICB0aGlzLm1lc3NhZ2VFeGVjdXRvciA9IGV4ZWN1dG9yOwogICAgfQo=</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>before long running action</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9yZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Ly8gRm9yIHRlc3RpbmcKICAgIHB1YmxpYyB2b2lkIHNldE1lc3NhZ2VFeGVjdXRvcihTZXJpYWxpemVkRXhlY3V0b3IgZXhlY3V0b3IpIHsKICAgICAgICB0aGlzLm1lc3NhZ2VFeGVjdXRvciA9IGV4ZWN1dG9yOwogICAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">fCBweXRob24gLWMgJ2ltcG9ydCBzeXMsIGpzb247IHByaW50KCJhY2Nlc3NfdG9rZW49IiArIGpzb24ubG9hZChzeXMuc3RkaW4pWyJhY2Nlc3NfdG9rZW4iXSknYCIgPiAuZW52Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fCBweXRob24gLWMgJ2ltcG9ydCBzeXMsIGpzb247IHByaW50KCJhY2Nlc3NfdG9rZW49IiArIGpzb24ubG9hZChzeXMuc3RkaW4pWyJhY2Nlc3NfdG9rZW4iXSknYCIgPiAuZW52Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB0aGlzLnByb3BlcnR5U2VydmljZS5nZXRQcm9wZXJ0eVJlZ2lzdHJ5KCkuZ2V0U3RyaW5nKExvcXVlbnRpYUNvbmZpZ0tleS5Mb29wYmFja1VSTC5rZXkoKSwgImh0dHBzOi8vbG9vcGJhY2stc3RyZWFtaW5nLnVzLWVhc3QtMS5pbmluZGNhLmNvbSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9vcGJhY2tCb3RDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB0aGlzLnByb3BlcnR5U2VydmljZS5nZXRQcm9wZXJ0eVJlZ2lzdHJ5KCkuZ2V0U3RyaW5nKExvcXVlbnRpYUNvbmZpZ0tleS5Mb29wYmFja1VSTC5rZXkoKSwgImh0dHBzOi8vbG9vcGJhY2stc3RyZWFtaW5nLnVzLWVhc3QtMS5pbmluZGNhLmNvbSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9vcGJhY2tCb3RDbGllbnQuCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAvLyJ0ZXN0OmVuZHRvZW5kIjogIm55YyAtLXJlcG9ydGVyPWpzb24tc3VtbWFyeSAtLXJlcG9ydGVyPXRleHQtc3VtbWFyeSBtb2NoYSAnLi90ZXN0L3NwZWNzL2VuZFRvRW5kLXRlc3QvKiovKi5qcycgLS10aW1lb3V0IDEyMDAwMCAtLWV4aXQiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
