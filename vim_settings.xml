@@ -117,9 +117,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587681224877">
         <mark key="'" line="703" column="34" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1587611555462">
-        <mark key="'" line="82" column="35" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackProvider.java" timestamp="1587672678464">
         <mark key="'" line="47" column="19" />
         <mark key="[" line="38" column="0" />
@@ -127,8 +124,15 @@
         <mark key="^" line="38" column="18" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackBotClient.java" timestamp="1587612975437">
-        <mark key="'" line="147" column="24" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Phaser.java" timestamp="1587685265516">
+        <mark key="'" line="580" column="15" />
+      </file>
+      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" timestamp="1587686462793">
+        <mark key="'" line="25" column="35" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" timestamp="1587675986512">
         <mark key="'" line="27" column="36" />
@@ -139,8 +143,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587651608193">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/AudioCommand.java" timestamp="1587611663612">
-        <mark key="'" line="39" column="34" />
+      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" timestamp="1587685970801">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="21" column="71" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="21" column="71" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1587672353297">
         <mark key="'" line="81" column="43" />
@@ -148,9 +156,6 @@
         <mark key="]" line="83" column="19" />
         <mark key="^" line="83" column="19" />
         <mark key="." line="83" column="18" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSettings.java" timestamp="1587614470049">
-        <mark key="'" line="57" column="41" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1587680396298">
         <mark key="'" line="867" column="17" />
@@ -166,6 +171,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587672088381">
         <mark key="'" line="2324" column="39" />
       </file>
+      <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" timestamp="1587686923408">
+        <mark key="'" line="57" column="68" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/SharedBlockingCallback.java" timestamp="1587657889752">
         <mark key="'" line="222" column="30" />
       </file>
@@ -177,20 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1206" column="21" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="3199" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2014" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="503" column="28" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="497" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1918" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2377" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="3198" column="56" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="20" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="25" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="2200" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2284" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2216" column="14" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="2317" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="963" column="67" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1303" column="73" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1370" column="29" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -277,21 +271,35 @@
       <jump line="867" column="17" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="700" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" />
       <jump line="703" column="34" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" />
+      <jump line="24" column="20" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="23" column="44" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="11" column="11" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" />
+      <jump line="580" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Phaser.java" />
+      <jump line="28" column="16" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="32" column="47" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="24" column="43" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="25" column="35" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
+      <jump line="20" column="70" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" />
+      <jump line="44" column="46" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" />
+      <jump line="57" column="68" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>before long running action</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>before long running action</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhblN0YWNrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Runtime.getRuntime().availableProcessors()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRocmVhZCAiICsgdGhyZWFkTmFtZSArICIgYmVmb3JlIGxvbmcgcnVubmluZyBhY3Rpb24iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
