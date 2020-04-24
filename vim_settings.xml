@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>array</entry>
         <entry>Executor</entry>
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry>async</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx3ZWJTb2NrZXRDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxjbGVhblN0YWNrXD4=</entry>
         <entry>a</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,9 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/CustomForkJoinWorkerThreadFactory.java" timestamp="1587651841411">
-        <mark key="'" line="37" column="96" />
-      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1587747073823" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587732914742">
         <mark key="'" line="65" column="45" />
         <mark key="[" line="25" column="12" />
@@ -105,11 +103,13 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1587662077543">
-        <mark key="'" line="108" column="30" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1587672468354">
         <mark key="'" line="135" column="44" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1587747847243">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="80" column="5" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587735839528">
         <mark key="'" line="384" column="16" />
@@ -139,6 +139,9 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
+        <mark key="'" line="75" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" timestamp="1587685970801">
         <mark key="'" line="11" column="11" />
@@ -177,16 +180,11 @@
       <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" timestamp="1587686923408">
         <mark key="'" line="57" column="68" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.14.v20181114/jetty-util-9.4.14.v20181114-sources.jar!/org/eclipse/jetty/util/SharedBlockingCallback.java" timestamp="1587657889752">
-        <mark key="'" line="222" column="30" />
-      </file>
       <file name="/fragment.java" timestamp="1587736533435">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
-      <jump line="56" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="75" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="859" column="35" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="3202" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -285,21 +283,23 @@
       <jump line="776" column="33" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1175" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1880" column="47" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="69" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="68" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>before long running action</text>
+        <text encoding="base64">Ly8gRm9yIHRlc3RpbmcKICAgIHB1YmxpYyB2b2lkIHNldE1lc3NhZ2VFeGVjdXRvcihTZXJpYWxpemVkRXhlY3V0b3IgZXhlY3V0b3IpIHsKICAgICAgICB0aGlzLm1lc3NhZ2VFeGVjdXRvciA9IGV4ZWN1dG9yOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>before long running action</text>
       </register>
       <register name="/" type="4">
-        <text>a</text>
+        <text encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRocmVhZCAiICsgdGhyZWFkTmFtZSArICIgYmVmb3JlIGxvbmcgcnVubmluZyBhY3Rpb24iKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Ly8gRm9yIHRlc3RpbmcKICAgIHB1YmxpYyB2b2lkIHNldE1lc3NhZ2VFeGVjdXRvcihTZXJpYWxpemVkRXhlY3V0b3IgZXhlY3V0b3IpIHsKICAgICAgICB0aGlzLm1lc3NhZ2VFeGVjdXRvciA9IGV4ZWN1dG9yOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -335,12 +335,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>a</last-search>
+      <last-search encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</last-search>
       <last-offset />
-      <last-pattern>a</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
