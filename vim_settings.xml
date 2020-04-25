@@ -150,6 +150,12 @@
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="1219" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/run.sh" timestamp="1587773018534">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" timestamp="1587686923408">
         <mark key="'" line="57" column="68" />
       </file>
