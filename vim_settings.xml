@@ -95,17 +95,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587822498904">
+      <file name="/Dummy.txt" timestamp="1587824456229">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587822448000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587822216793">
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587824686638">
         <mark key="'" line="238" column="11" />
-        <mark key="[" line="236" column="47" />
-        <mark key="]" line="236" column="47" />
-        <mark key="." line="236" column="47" />
+        <mark key="[" line="108" column="7" />
+        <mark key="]" line="108" column="7" />
+        <mark key="." line="108" column="7" />
         <mark key="^" line="109" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587732914742">
@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587823845651">
+      <file name="/dlg_client" timestamp="1587824349424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587736533435">
@@ -285,10 +285,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>textInput</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>textInput</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
