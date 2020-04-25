@@ -98,15 +98,14 @@
       <file name="/Dummy.txt" timestamp="1587828616974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587822448000">
+      <file name="/Python Console" timestamp="1587829051878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587828549425">
-        <mark key="'" line="261" column="14" />
-        <mark key="[" line="256" column="41" />
-        <mark key="]" line="256" column="42" />
-        <mark key="." line="256" column="42" />
-        <mark key="^" line="117" column="32" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587829367039">
+        <mark key="[" line="106" column="33" />
+        <mark key="]" line="114" column="30" />
+        <mark key="^" line="114" column="30" />
+        <mark key="." line="114" column="29" />
       </file>
       <file name="/fragment.py" timestamp="1587828104910">
         <mark key="[" line="0" column="0" />
@@ -115,6 +114,9 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
         <mark key="'" line="723" column="38" />
+      </file>
+      <file name="/a.dummy" timestamp="1587829354125">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1587753063539">
         <mark key="'" line="68" column="8" />
@@ -129,9 +131,6 @@
         <mark key="]" line="18" column="241" />
         <mark key="^" line="18" column="139" />
         <mark key="." line="18" column="138" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587735839528">
-        <mark key="'" line="384" column="16" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1587739578555">
         <mark key="'" line="176" column="21" />
@@ -170,7 +169,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587824349424">
+      <file name="/dlg_client" timestamp="1587829164962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587736533435">
@@ -283,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>os.environ[&quot;NUANCE_MODEL_URN&quot;]</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text>os.environ[&quot;NUANCE_MODEL_URN&quot;]</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
@@ -295,28 +294,28 @@
         <text>curl -s -u &quot;$CLIENT_ID:$SECRET&quot; &quot;https://auth.crt.nuance.com/oauth2/token&quot; -d 'grant_type=client_credentials' -d 'scope=dlg' | python -m json.tool |  python -c 'import sys, json; print(json.load(sys.stdin)[&quot;access_token&quot;])'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdCgiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIsIGRhdGE9ZGF0YSwgYXV0aD0oY2xpZW50SWQsIGNsaWVudFNlY3JldCkpCiAgICB0b2tlbiA9IHJlc3BvbnNlLmpzb24oKVsnYWNjZXNzX3Rva2VuJ10K</text>
+        <text encoding="base64">ICAgIG1haW4odG9rZW4sIHNlcnZlclVybCwgbW9kZWxVcm4sIG0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW4odG9rZW4sIHNlcnZlclVybCwgbW9kZWxVcm4sIG0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbih0b2tlbiwgc2VydmVyVXJsLCBtb2RlbFVybiwgbSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRva2VuID0gZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpzb24uZGVjb2RlcihyZXNwb25zZS4pCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZXhwb3J0IFRPS0VOPSJgY3VybCAtcyAtdSAiJENMSUVOVF9JRDokU0VDUkVUIiAiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIgLWQgJ2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWxzJyAtZCAnc2NvcGU9ZGxnJyB8IHB5dGhvbiAtbSBqc29uLnRvb2wgfCAgcHl0aG9uIC1jICdpbXBvcnQgc3lzLCBqc29uOyBwcmludChqc29uLmxvYWQoc3lzLnN0ZGluKVsiYWNjZXNzX3Rva2VuIl0pJ2AiCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbCgiL1VzZXJzL2draW0vLmJhc2hfcHJvZmlsZSIsIHNoZWxsPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdCgiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIsIGRhdGE9ZGF0YSwgYXV0aD0oY2xpZW50SWQsIGNsaWVudFNlY3JldCkpCiAgICB0b2tlbiA9IHJlc3BvbnNlLmpzb24oKVsnYWNjZXNzX3Rva2VuJ10K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
