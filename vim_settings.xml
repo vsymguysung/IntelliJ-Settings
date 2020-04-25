@@ -101,22 +101,15 @@
       <file name="/Python Console" timestamp="1587822448000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587825573747">
-        <mark key="'" line="116" column="31" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="114" column="22" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587825755156">
+        <mark key="'" line="117" column="31" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="243" column="59" />
+        <mark key="." line="243" column="58" />
+        <mark key="^" line="243" column="59" />
       </file>
       <file name="/fragment.py" timestamp="1587825180537">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587732914742">
-        <mark key="'" line="65" column="45" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
         <mark key="'" line="723" column="38" />
@@ -149,6 +142,9 @@
       <file name="/" timestamp="1587775076015">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py" timestamp="1587825700968">
+        <mark key="'" line="678" column="23" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" timestamp="1587767570618">
         <mark key="'" line="5" column="16" />
         <mark key="[" line="5" column="53" />
@@ -180,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="83" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
       <jump line="61" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="2324" column="39" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
@@ -280,6 +275,7 @@
       <jump line="31" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="125" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="116" column="31" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="678" column="23" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
