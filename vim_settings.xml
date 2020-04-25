@@ -95,21 +95,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587825443317">
+      <file name="/Dummy.txt" timestamp="1587826887159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587822448000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587825755156">
-        <mark key="'" line="117" column="31" />
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="243" column="59" />
-        <mark key="." line="243" column="58" />
-        <mark key="^" line="243" column="59" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587827841738">
+        <mark key="'" line="254" column="108" />
+        <mark key="[" line="254" column="109" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="11" />
       </file>
-      <file name="/fragment.py" timestamp="1587825180537">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.py" timestamp="1587825989262">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
         <mark key="'" line="723" column="38" />
@@ -122,9 +124,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" timestamp="1587737836699">
         <mark key="'" line="940" column="50" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587772733844">
-        <mark key="[" line="18" column="136" />
-        <mark key="]" line="18" column="139" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587826938860">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="241" />
         <mark key="^" line="18" column="139" />
         <mark key="." line="18" column="138" />
       </file>
@@ -176,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
-      <jump line="61" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/loopback/LoopbackSession.java" />
       <jump line="2324" column="39" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="77" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
       <jump line="78" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
@@ -276,48 +276,50 @@
       <jump line="125" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="116" column="31" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="678" column="23" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py" />
+      <jump line="243" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="253" column="108" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>textInput</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
       </register>
       <register name="0" type="4">
-        <text>eyJhbGciOiJSUzI1NiIsImtpZCI6InB1YmxpYzo4MzQ3Zjc3OS1hMDIxLTRlMzEtYTQ4ZC1iNWU1NjdjMzg2ZmMiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOltdLCJjbGllbnRfaWQiOiJhcHBJRDpOTURQVFJJQUxfZ3V5c3VuZ19raW1fZ2VuZXN5c19jb21fMjAyMDA0MTdUMTQwODUxMjI3NDIzIiwiZXhwIjoxNTg3NzY5MzcwLCJleHQiOnt9LCJpYXQiOjE1ODc3Njg0NzAsImlzcyI6Imh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS8iLCJqdGkiOiJjMDRiMjIwNC0xMWNjLTRlYzMtODEyYy05OWI2Y2E0MDZiMjciLCJuYmYiOjE1ODc3Njg0NzAsInNjcCI6WyJkbGciXSwic3ViIjoiYXBwSUQ6Tk1EUFRSSUFMX2d1eXN1bmdfa2ltX2dlbmVzeXNfY29tXzIwMjAwNDE3VDE0MDg1MTIyNzQyMyJ9.Ahnb2WzrZgl3RyLwFdFrZJs4tplhKdwKxnT2o0oawEP95eodIuohY_D74Z6WCLpPF5mESUDxWmHNQONpNop1IHRZTS9yGQVwjWXsYikn9CcDD2OeU2X1kS1OK8jEOkZiz7P4oNHSABtgq49ofJf0rZN47W6FcH2xpbE84l8s8L_cq3hvwOXgfQVA9AMrWUanehg1_YZouUtWJH5p7rNzDfac4rnCeBHdjSP1efjcqW0B0OAGphtfKaJrEYJiSFoXNAlpVe4Z24lD7X72dNnXa1jdgguNYSd1xUxHUpuJEBOxHsa45al7WhD308gUeB4Y6y4iCP6PvPgdRoeag7HJFZG46FaMoWGTCItqA0gFmM57nfsl8bVf8S2jERprkuA1wgtS5P_zjr-SBAesvO1O31KS8bp2VrZd8gYzkyq-gwcyE26B1qP14eEJNqYrXWegkzfKV2QDKfLus20qbV5NXvVKiiv503aHZGvD8TAx-49fMqo-_MiWmbUq8UC0hApT1HiUsSQa4NwHLUrMKP5XBTW8FcYyEe5l5m8w3QE0ZvYAe5_8mtk4xF160nMShUhYKFbRLCk_AfVmzq4zZk2UXETc5BHrL0AbwjF-tvqnQxRTqwWwy56u5yrtS6uBqALtbYEsc7I8u20dv_paBM3U2OWaREGnR3W4EOBkqhA2Ljw</text>
+        <text>curl -s -u &quot;$CLIENT_ID:$SECRET&quot; &quot;https://auth.crt.nuance.com/oauth2/token&quot; -d 'grant_type=client_credentials' -d 'scope=dlg' | python -m json.tool |  python -c 'import sys, json; print(json.load(sys.stdin)[&quot;access_token&quot;])'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZXhwb3J0IFRPS0VOPSJgY3VybCAtcyAtdSAiJENMSUVOVF9JRDokU0VDUkVUIiAiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIgLWQgJ2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWxzJyAtZCAnc2NvcGU9ZGxnJyB8IHB5dGhvbiAtbSBqc29uLnRvb2wgfCAgcHl0aG9uIC1jICdpbXBvcnQgc3lzLCBqc29uOyBwcmludChqc29uLmxvYWQoc3lzLnN0ZGluKVsiYWNjZXNzX3Rva2VuIl0pJ2AiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG1lc3NhZ2U6CiAgICAgICAgYXJncy50ZXh0SW5wdXQgPSBtZXNzYWdlCg==</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb24pCg==</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbCgiL1VzZXJzL2draW0vLmJhc2hfcHJvZmlsZSIsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIG1lc3NhZ2U6CiAgICAgICAgYXJncy50ZXh0SW5wdXQgPSBtZXNzYWdlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">fCBweXRob24gLWMgJ2ltcG9ydCBzeXMsIGpzb247IHByaW50KGpzb24ubG9hZChzeXMuc3RkaW4pWyJhY2Nlc3NfdG9rZW4iXSknYCIK</text>
+        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWQgJ2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWxzJyAtZCAnc2NvcGU9ZGxnJyBcCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TVlfVE9LRU49ImBjdXJsIC1zIC11ICIkQ0xJRU5UX0lEOiRTRUNSRVQiICJodHRwczovL2F1dGguY3J0Lm51YW5jZS5jb20vb2F1dGgyL3Rva2VuIiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fCBweXRob24gLWMgJ2ltcG9ydCBzeXMsIGpzb247IHByaW50KCJhY2Nlc3NfdG9rZW49IiArIGpzb24ubG9hZChzeXMuc3RkaW4pWyJhY2Nlc3NfdG9rZW4iXSknYCIgPiAuZW52Cg==</text>
+        <text encoding="base64">fCBweXRob24gLWMgJ2ltcG9ydCBzeXMsIGpzb247IHByaW50KGpzb24ubG9hZChzeXMuc3RkaW4pWyJhY2Nlc3NfdG9rZW4iXSknYCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
