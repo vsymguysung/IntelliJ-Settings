@@ -95,10 +95,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587775034038">
+      <file name="/Dummy.txt" timestamp="1587776764113">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587770164881">
+      <file name="/Python Console" timestamp="1587776626812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587772153509">
@@ -113,6 +113,9 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
+        <mark key="'" line="723" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1587753063539">
         <mark key="'" line="68" column="8" />
@@ -176,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2454" column="35" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1949" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="1906" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="1736" column="26" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="1252" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
@@ -276,6 +277,8 @@
       <jump line="21" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="24" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="233" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="596" column="10" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
+      <jump line="723" column="38" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
