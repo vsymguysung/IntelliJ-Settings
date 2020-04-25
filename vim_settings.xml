@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587771536157">
+      <file name="/Dummy.txt" timestamp="1587772552651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587770164881">
@@ -122,11 +122,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" timestamp="1587737836699">
         <mark key="'" line="940" column="50" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587769795928">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="25" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587772733844">
+        <mark key="[" line="18" column="136" />
+        <mark key="]" line="18" column="139" />
+        <mark key="^" line="18" column="139" />
+        <mark key="." line="18" column="138" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" timestamp="1587735839528">
         <mark key="'" line="384" column="16" />
@@ -271,11 +271,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
