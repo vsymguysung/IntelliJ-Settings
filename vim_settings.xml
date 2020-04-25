@@ -95,18 +95,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587832749509">
+      <file name="/Dummy.txt" timestamp="1587834573479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587833651120">
+      <file name="/Python Console" timestamp="1587834924281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587833646582">
-        <mark key="'" line="281" column="20" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="131" column="20" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587834918798">
+        <mark key="'" line="135" column="30" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="245" column="21" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1587832840997">
         <mark key="[" line="0" column="0" />
@@ -170,7 +170,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587833386668">
+      <file name="/dlg_client" timestamp="1587834538211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587736533435">
@@ -273,57 +273,55 @@
       <jump line="9" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="34" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="125" column="37" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="139" column="37" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="120" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="279" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="267" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="278" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="139" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZidwcm9jZXNzTWVzc2FnZSBmYWlsZWQuJykK</text>
+      <register name="0" type="4">
+        <text>grant_type_scope_data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgdGhpcy5tb2RlbF9yZWZfZGljdCA9IHsKICAgICAgICAidXJpIjogdGhpcy5hcmdzLm1vZGVsVXJuLAogICAgICAgICJ0eXBlIjogMAogICAgfQogICAgdGhpcy5zZWxlY3Rvcl9kaWN0ID0gewogICAgICAgICJjaGFubmVsIjogImRlZmF1bHQiLAogICAgICAgICJsYW5ndWFnZSI6ICJlbi1VUyIsCiAgICAgICAgImxpYnJhcnkiOiAiZGVmYXVsdCIKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text># Stop request
-            response, call = stop_request(this.stub,
-                                          session_id=this.session_id
-                                          )
-            assert call.code() == StatusCode.OK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgZW5kIG9mIGNvbnZlcnNhdGlvbi4iKQo=</text>
+      <register name="5" type="4">
+        <text>log_level = logging.DEBUG
+    logging.basicConfig(
+        format='%(asctime)s %(levelname)-5s: %(message)s', level=log_level)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gcmVzcG9uc2UucGF5bG9hZC5qc29uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBoYXNhdHRyKHBheWxvYWQsICJlbmRBY3Rpb24iKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5wYXlsb2FkCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGxvZ19sZXZlbCA9IGxvZ2dpbmcuREVCVUcKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoCiAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSktNXM6ICUobWVzc2FnZSlzJywgbGV2ZWw9bG9nX2xldmVsKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
