@@ -95,13 +95,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587834573479">
+      <file name="/Dummy.txt" timestamp="1587850466907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587845028615">
+      <file name="/Python Console" timestamp="1587849844414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587849813388">
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587849910417">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="142" column="22" />
         <mark key="]" line="142" column="23" />
@@ -163,11 +163,11 @@
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="1219" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/run.sh" timestamp="1587828309732">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="44" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="4" column="43" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/run.sh" timestamp="1587850440065">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587737469980">
         <mark key="'" line="2029" column="20" />
@@ -175,7 +175,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587849699423">
+      <file name="/dlg_client" timestamp="1587849834272">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -288,11 +288,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</text>
@@ -305,31 +305,31 @@
                 assert call.code() == StatusCode.OK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXhwb3J0IE1PREVMX1VSTj11cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguZGlhbG9nCmV4cG9ydCBTRVJWRVJfVVJMPWRsZy5hcGkubnVhbmNlLmNvbTo0NDMKCi4vZW52L2Jpbi9weXRob24zIFwKICAgIGRsZ19jbGllbnQucHkgXAogICAgLS1zZXJ2ZXJVcmwgJFNFUlZFUl9VUkwgXAogICAgLS10b2tlbiAkTlVBTkNFX1RPS0VOIFwKICAgIC0tbW9kZWxVcm4gJE1PREVMX1VSTiBcCiAgICAtLXRleHRJbnB1dCAiJDEiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIHNpZ25hbF9oYW5kbGVyKHNpZ25hbCwgZnJhbWUpOgogICAgZ2xvYmFsIGdfaW50ZXJydXB0ZWQKICAgIGdfaW50ZXJydXB0ZWQgPSBUcnVlCgoKc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWduYWxfaGFuZGxlcikK</text>
+      <register name="4" type="8">
+        <text encoding="base64">JCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCA=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiR290dGEgZ28iKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIHNpZ25hbF9oYW5kbGVyKHNpZ25hbCwgZnJhbWUpOgogICAgZ2xvYmFsIGdfaW50ZXJydXB0ZWQKICAgIGdfaW50ZXJydXB0ZWQgPSBUcnVlCgoKc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWduYWxfaGFuZGxlcikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdfaW50ZXJydXB0ZWQ6Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
