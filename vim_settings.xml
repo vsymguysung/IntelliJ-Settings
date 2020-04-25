@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>static</entry>
         <entry>private ForkJoinPool</entry>
         <entry encoding="base64">XDxDT01NT05fUEFSQUxMRUxJU01cPg==</entry>
         <entry encoding="base64">XDxhc3luY01vZGVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwYXJzZWRfYXJnc1w+</entry>
         <entry encoding="base64">XDxzZXNzaW9uX2lkXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3Rvcl9kaWN0XD4=</entry>
+        <entry encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -101,12 +101,12 @@
       <file name="/Python Console" timestamp="1587845028615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587845129865">
-        <mark key="'" line="96" column="33" />
-        <mark key="[" line="270" column="52" />
-        <mark key="]" line="270" column="52" />
-        <mark key="." line="270" column="52" />
-        <mark key="^" line="276" column="67" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587847222597">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="4" />
+        <mark key="." line="102" column="4" />
+        <mark key="^" line="102" column="5" />
       </file>
       <file name="/fragment.py" timestamp="1587845047171">
         <mark key="[" line="0" column="1" />
@@ -175,20 +175,15 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587844951509">
+      <file name="/dlg_client" timestamp="1587847066863">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1820" column="24" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="2452" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1922" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1911" column="69" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="65" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="175" column="21" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" />
-      <jump line="1453" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1589" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="186" column="31" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" />
       <jump line="1654" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="2029" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="2434" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -247,7 +242,6 @@
       <jump line="250" column="8" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="247" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="240" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="249" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="23" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="248" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="241" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -278,61 +272,64 @@
       <jump line="81" column="33" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="93" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="94" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="95" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="96" column="33" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="97" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="95" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="90" column="24" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="18" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="316" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="328" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="249" column="5" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="0" column="0" filename="/dlg_client" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>args.</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>args.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3Rvcl9kaWN0XD4=</text>
+        <text encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>global channel
-        channel = channel
-        global stub
-        stub = DialogServiceStub(channel)
-
-        global model_ref_dict
-        model_ref_dict = {
-            &quot;uri&quot;: parsed_params.args.modelUrn,
-            &quot;type&quot;: 0
-        }
-
-        global selector_dict</text>
+        <text># Stop request
+                response, call = stop_request(g_stub,
+                                              session_id=g_session_id
+                                              )
+                assert call.code() == StatusCode.OK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgc2Vzc2lvbl9pZAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgc2VsZWN0b3JfZGljdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgbW9kZWxfcmVmX2RpY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgc3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiR290dGEgZ28iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsID0gY2hhbm5lbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdfaW50ZXJydXB0ZWQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgY2hhbm5lbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsb2JhbCBnX2ludGVycnVwdGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzdHViLCBtb2RlbF9yZWZfZGljdCwgc2VsZWN0b3JfZGljdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzdHViCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2xvYmFsICBnX2ludGVycnVwdGVkCiAgICAgICAgICAgIGlmIGdfaW50ZXJydXB0ZWQ6CiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWxlY3Rvcl9kaWN0XD4=</last-search>
+      <last-search encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3Rvcl9kaWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
