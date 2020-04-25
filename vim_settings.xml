@@ -101,11 +101,12 @@
       <file name="/Python Console" timestamp="1587829051878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587829367039">
-        <mark key="[" line="106" column="33" />
-        <mark key="]" line="114" column="30" />
-        <mark key="^" line="114" column="30" />
-        <mark key="." line="114" column="29" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587830283018">
+        <mark key="'" line="300" column="4" />
+        <mark key="[" line="319" column="4" />
+        <mark key="]" line="319" column="8" />
+        <mark key="." line="319" column="7" />
+        <mark key="^" line="319" column="8" />
       </file>
       <file name="/fragment.py" timestamp="1587828104910">
         <mark key="[" line="0" column="0" />
@@ -169,7 +170,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587829164962">
+      <file name="/dlg_client" timestamp="1587829701119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587736533435">
@@ -177,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
       <jump line="84" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
       <jump line="81" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" />
       <jump line="116" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
@@ -277,48 +277,52 @@
       <jump line="115" column="21" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="268" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="261" column="14" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="306" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>U</text>
+        <text>preprocess_main</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>preprocess_main</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
       </register>
-      <register name="0" type="4">
-        <text>curl -s -u &quot;$CLIENT_ID:$SECRET&quot; &quot;https://auth.crt.nuance.com/oauth2/token&quot; -d 'grant_type=client_credentials' -d 'scope=dlg' | python -m json.tool |  python -c 'import sys, json; print(json.load(sys.stdin)[&quot;access_token&quot;])'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZidTZXNzaW9uOiB7c2Vzc2lvbl9pZH0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1haW4odG9rZW4sIHNlcnZlclVybCwgbW9kZWxVcm4sIG0pCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLnRleHRJbnB1dCA9IG1lc3NhZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1haW4odG9rZW4sIHNlcnZlclVybCwgbW9kZWxVcm4sIG0pCg==</text>
+        <text encoding="base64">ICAgIGlmIG1lc3NhZ2U6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbih0b2tlbiwgc2VydmVyVXJsLCBtb2RlbFVybiwgbSkK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2FsbC5jb2RlKCkgPT0gU3RhdHVzQ29kZS5PSwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZidTZXNzaW9uOiB7c2Vzc2lvbl9pZH0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZidTZXNzaW9uOiB7c2Vzc2lvbl9pZH0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdCgiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIsIGRhdGE9ZGF0YSwgYXV0aD0oY2xpZW50SWQsIGNsaWVudFNlY3JldCkpCiAgICB0b2tlbiA9IHJlc3BvbnNlLmpzb24oKVsnYWNjZXNzX3Rva2VuJ10K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>response, call = stop_request(stub,
+                                      session_id=session_id
+                                      )
+        assert call.code() == StatusCode.OK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
