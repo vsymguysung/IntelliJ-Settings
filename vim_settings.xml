@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587773920101">
+      <file name="/Dummy.txt" timestamp="1587775034038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587770164881">
@@ -138,6 +138,9 @@
         <mark key="'" line="1906" column="4" />
         <mark key="[" line="2358" column="27" />
         <mark key="]" line="2358" column="68" />
+      </file>
+      <file name="/" timestamp="1587775076015">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" timestamp="1587767570618">
         <mark key="'" line="5" column="16" />
