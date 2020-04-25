@@ -95,17 +95,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587776764113">
+      <file name="/Dummy.txt" timestamp="1587822498904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587776626812">
+      <file name="/Python Console" timestamp="1587822448000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587772153509">
-        <mark key="'" line="232" column="4" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587822216793">
+        <mark key="'" line="238" column="11" />
+        <mark key="[" line="236" column="47" />
+        <mark key="]" line="236" column="47" />
+        <mark key="." line="236" column="47" />
+        <mark key="^" line="109" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1587732914742">
         <mark key="'" line="65" column="45" />
@@ -171,7 +172,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587761459055">
+      <file name="/dlg_client" timestamp="1587822516384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587736533435">
@@ -179,13 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1906" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1736" column="26" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="1252" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="601" column="18" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="511" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="474" column="64" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
-      <jump line="882" column="14" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="2319" column="11" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="2321" column="32" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
       <jump line="880" column="12" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" />
@@ -272,22 +266,29 @@
       <jump line="64" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="4" column="3" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
       <jump line="5" column="16" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
-      <jump line="106" column="12" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="3" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="21" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="24" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="233" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="596" column="10" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
       <jump line="723" column="38" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
+      <jump line="106" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="38" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="19" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="23" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="232" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="235" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
