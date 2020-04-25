@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JDb21tb25Qb29sT25seVw+</entry>
-        <entry>forCommonPoolOnly</entry>
-        <entry encoding="base64">XDxwYXJhbGxlbGlzbVw+</entry>
-        <entry>mode</entry>
-        <entry encoding="base64">XDxnZXRDb21tb25Qb29sUGFyYWxsZWxpc21cPg==</entry>
         <entry encoding="base64">XDxjdGxcPg==</entry>
         <entry>static</entry>
         <entry>private ForkJoinPool</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxvc1w+</entry>
         <entry>os</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry encoding="base64">XDxpbml0aWFsX21lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxfYWNjZXNzX3Rva2VuXD4=</entry>
+        <entry encoding="base64">XDxhY2Nlc3NfdG9rZW5cPg==</entry>
+        <entry encoding="base64">XDxwYXJzZWRfYXJnc1w+</entry>
+        <entry encoding="base64">XDxzZXNzaW9uX2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -101,12 +101,12 @@
       <file name="/Python Console" timestamp="1587834924281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587834918798">
-        <mark key="'" line="135" column="30" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="245" column="21" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587844470554">
+        <mark key="'" line="145" column="35" />
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="150" column="26" />
+        <mark key="^" line="148" column="21" />
+        <mark key="." line="150" column="26" />
       </file>
       <file name="/fragment.py" timestamp="1587832840997">
         <mark key="[" line="0" column="0" />
@@ -116,13 +116,18 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
         <mark key="'" line="723" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1587829354125">
+      <file name="/a.dummy" timestamp="1587842932208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1587753063539">
         <mark key="'" line="68" column="8" />
         <mark key="[" line="77" column="4" />
         <mark key="]" line="80" column="5" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/config.py" timestamp="1587843386193">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" timestamp="1587737836699">
         <mark key="'" line="940" column="50" />
@@ -170,35 +175,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587834538211">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1587736533435">
+      <file name="/dlg_client" timestamp="1587843469082">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="700" column="30" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" />
-      <jump line="703" column="34" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" />
-      <jump line="24" column="20" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" />
-      <jump line="19" column="24" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="23" column="44" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="11" column="11" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/main/java/com/baeldung/concurrent/phaser/LongRunningAction.java" />
-      <jump line="580" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Phaser.java" />
-      <jump line="28" column="16" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="33" column="35" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="32" column="47" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="24" column="43" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="25" column="35" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/phaser/PhaserUnitTest.java" />
-      <jump line="20" column="70" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" />
-      <jump line="44" column="46" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" />
-      <jump line="57" column="68" filename="$USER_HOME$/GenDev/tutorials/core-java-modules/core-java-concurrency-advanced/src/test/java/com/baeldung/concurrent/countdownlatch/CountdownLatchExampleIntegrationTest.java" />
-      <jump line="1901" column="23" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="866" column="46" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="867" column="36" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="878" column="8" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="862" column="55" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="785" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="786" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -241,20 +222,16 @@
       <jump line="1868" column="50" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1906" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="69" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="64" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="4" column="3" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
       <jump line="5" column="16" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
       <jump line="3" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="21" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="24" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="233" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="596" column="10" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
       <jump line="723" column="38" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
-      <jump line="106" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="38" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="27" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="19" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="23" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="39" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="232" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="235" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -278,50 +255,73 @@
       <jump line="267" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="278" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="139" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="20" column="14" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="147" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="250" column="8" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="247" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="240" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="249" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="248" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="241" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="284" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="302" column="62" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="64" column="8" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="67" column="7" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="68" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="73" column="40" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="78" column="40" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="88" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="95" column="48" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="105" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="106" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="122" column="41" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="123" column="57" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="144" column="35" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGlzXD4=</text>
+        <text encoding="base64">XDxzZXNzaW9uX2lkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>grant_type_scope_data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlc3Npb25faWQgPSByZWFkX3Nlc3Npb25faWRfZnJvbV9yZXNwb25zZShyZXNwb25zZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlc3Npb25faWQgPSByZWFkX3Nlc3Npb25faWRfZnJvbV9yZXNwb25zZShyZXNwb25zZSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgdGhpcy5tb2RlbF9yZWZfZGljdCA9IHsKICAgICAgICAidXJpIjogdGhpcy5hcmdzLm1vZGVsVXJuLAogICAgICAgICJ0eXBlIjogMAogICAgfQogICAgdGhpcy5zZWxlY3Rvcl9kaWN0ID0gewogICAgICAgICJjaGFubmVsIjogImRlZmF1bHQiLAogICAgICAgICJsYW5ndWFnZSI6ICJlbi1VUyIsCiAgICAgICAgImxpYnJhcnkiOiAiZGVmYXVsdCIKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhcnNlZF9wYXJhbXMuYXJncyA9IHBhcnNlX2FyZ3MoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YWNjZXNzX3Rva2VuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>log_level = logging.DEBUG
-    logging.basicConfig(
-        format='%(asctime)s %(levelname)-5s: %(message)s', level=log_level)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFyc2VkX2FyZ3VtZW50cwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGxvZ19sZXZlbCA9IGxvZ2dpbmcuREVCVUcKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoCiAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSktNXM6ICUobWVzc2FnZSlzJywgbGV2ZWw9bG9nX2xldmVsKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFyc2VkX2FyZ3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -330,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uX2lkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uX2lkXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
