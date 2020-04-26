@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587850466907">
+      <file name="/Dummy.txt" timestamp="1587850517241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587849844414">
@@ -175,7 +175,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
       </file>
-      <file name="/dlg_client" timestamp="1587849834272">
+      <file name="/dlg_client" timestamp="1587850536479">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
