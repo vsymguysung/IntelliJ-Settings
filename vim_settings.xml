@@ -95,11 +95,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587850517241">
+      <file name="/Dummy.txt" timestamp="1587913954655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587849844414">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/install.sh" timestamp="1587914187829">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587849910417">
         <mark key="'" line="25" column="0" />
@@ -129,8 +135,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" timestamp="1587737836699">
-        <mark key="'" line="940" column="50" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/prebuild.sh" timestamp="1587914160593">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587826938860">
         <mark key="[" line="16" column="0" />
@@ -168,9 +177,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1587737469980">
-        <mark key="'" line="2029" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1587747410976">
         <mark key="'" line="75" column="33" />
@@ -311,13 +317,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZXhwb3J0IE1PREVMX1VSTj11cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguZGlhbG9nCmV4cG9ydCBTRVJWRVJfVVJMPWRsZy5hcGkubnVhbmNlLmNvbTo0NDMKCi4vZW52L2Jpbi9weXRob24zIFwKICAgIGRsZ19jbGllbnQucHkgXAogICAgLS1zZXJ2ZXJVcmwgJFNFUlZFUl9VUkwgXAogICAgLS10b2tlbiAkTlVBTkNFX1RPS0VOIFwKICAgIC0tbW9kZWxVcm4gJE1PREVMX1VSTiBcCiAgICAtLXRleHRJbnB1dCAiJDEiCg==</text>
+        <text encoding="base64">c291cmNlIGVudi9iaW4vYWN0aXZhdGUKcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcApwaXAgaW5zdGFsbCBncnBjaW8KcGlwIGluc3RhbGwgZ3JwY2lvLXRvb2xzCnBpcCBpbnN0YWxsIHV1aWQKcGlwIHJlcXVlc3RzCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">JCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -326,10 +332,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZGVmIHNpZ25hbF9oYW5kbGVyKHNpZ25hbCwgZnJhbWUpOgogICAgZ2xvYmFsIGdfaW50ZXJydXB0ZWQKICAgIGdfaW50ZXJydXB0ZWQgPSBUcnVlCgoKc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWduYWxfaGFuZGxlcikK</text>
+        <text encoding="base64">ZXhwb3J0IE1PREVMX1VSTj11cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguZGlhbG9nCmV4cG9ydCBTRVJWRVJfVVJMPWRsZy5hcGkubnVhbmNlLmNvbTo0NDMKCi4vZW52L2Jpbi9weXRob24zIFwKICAgIGRsZ19jbGllbnQucHkgXAogICAgLS1zZXJ2ZXJVcmwgJFNFUlZFUl9VUkwgXAogICAgLS10b2tlbiAkTlVBTkNFX1RPS0VOIFwKICAgIC0tbW9kZWxVcm4gJE1PREVMX1VSTiBcCiAgICAtLXRleHRJbnB1dCAiJDEiCg==</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+        <text encoding="base64">JCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCAKJCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
