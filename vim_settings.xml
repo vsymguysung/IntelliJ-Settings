@@ -101,11 +101,11 @@
       <file name="/Python Console" timestamp="1587849844414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/install.sh" timestamp="1587914187829">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/install.sh" timestamp="1587914309048">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587849910417">
         <mark key="'" line="25" column="0" />
