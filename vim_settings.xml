@@ -107,8 +107,8 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587991135344">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1587996927610">
+        <mark key="'" line="92" column="18" />
         <mark key="[" line="142" column="22" />
         <mark key="]" line="142" column="23" />
         <mark key="^" line="142" column="23" />
@@ -146,9 +146,6 @@
         <mark key="]" line="18" column="241" />
         <mark key="^" line="18" column="139" />
         <mark key="." line="18" column="138" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1587739578555">
-        <mark key="'" line="176" column="21" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1587753097416">
         <mark key="'" line="1906" column="4" />
@@ -188,11 +185,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" timestamp="1587996954053">
+        <mark key="'" line="1425" column="62" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2434" column="16" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1920" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1881" column="31" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1872" column="35" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="940" column="50" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java" />
       <jump line="176" column="21" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinWorkerThread.java" />
@@ -290,6 +287,9 @@
       <jump line="167" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="25" column="3" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="26" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="92" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="1422" column="23" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
+      <jump line="1425" column="62" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
