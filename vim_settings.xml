@@ -104,8 +104,8 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588009967757">
-        <mark key="'" line="54" column="40" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588013504713">
+        <mark key="'" line="59" column="26" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="141" column="23" />
@@ -154,8 +154,8 @@
       <file name="/Dummy.txt" timestamp="1588000534389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588009980919">
-        <mark key="'" line="1629" column="28" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588013455186">
+        <mark key="'" line="1644" column="4" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
         <mark key="'" line="723" column="38" />
@@ -184,10 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="4" column="3" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
-      <jump line="5" column="16" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="21" column="28" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="233" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="596" column="10" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" />
@@ -284,6 +280,10 @@
       <jump line="54" column="40" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1629" column="28" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
       <jump line="98" column="17" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_plugin_wrapping.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="58" column="31" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="1644" column="4" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
+      <jump line="59" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
