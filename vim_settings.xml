@@ -104,8 +104,8 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588022436843">
-        <mark key="'" line="251" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588024534265">
+        <mark key="'" line="219" column="30" />
         <mark key="[" line="238" column="55" />
         <mark key="]" line="238" column="55" />
         <mark key="^" line="181" column="9" />
@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages_pb2.py" timestamp="1587999467047">
         <mark key="'" line="472" column="20" />
       </file>
-      <file name="/dlg_client" timestamp="1588022403848">
+      <file name="/dlg_client" timestamp="1588024295298">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -184,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="232" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="235" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="31" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -284,6 +283,7 @@
       <jump line="140" column="4" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" />
       <jump line="173" column="17" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" />
       <jump line="251" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="219" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
