@@ -104,8 +104,8 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588005925599">
-        <mark key="'" line="94" column="14" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588009967757">
+        <mark key="'" line="54" column="40" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="141" column="23" />
@@ -136,6 +136,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_plugin_wrapping.py" timestamp="1588009992138">
+        <mark key="'" line="98" column="17" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587826938860">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="241" />
@@ -148,25 +151,17 @@
       <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py" timestamp="1587825700968">
         <mark key="'" line="678" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" timestamp="1587767570618">
-        <mark key="'" line="5" column="16" />
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="53" />
-        <mark key="^" line="5" column="53" />
-        <mark key="." line="5" column="52" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588000534389">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588009980919">
+        <mark key="'" line="1629" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1587775559431">
         <mark key="'" line="723" column="38" />
       </file>
       <file name="/" timestamp="1587775076015">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/.env" timestamp="1587768733491">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="1219" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/run.sh" timestamp="1587850440065">
         <mark key="[" line="1" column="0" />
@@ -189,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
-      <jump line="1868" column="50" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
-      <jump line="1906" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="69" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="4" column="3" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
       <jump line="5" column="16" filename="$USER_HOME$/GenDev/nuance-sample/gen-token-env.py" />
@@ -289,15 +281,18 @@
       <jump line="1243" column="51" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1151" column="70" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="472" column="20" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages_pb2.py" />
+      <jump line="54" column="40" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="1629" column="28" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
+      <jump line="98" column="17" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_plugin_wrapping.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>bash run</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VySW5wdXRcPg==</text>
