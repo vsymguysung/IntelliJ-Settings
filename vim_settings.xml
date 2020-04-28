@@ -98,6 +98,9 @@
       <file name="/Dummy.txt" timestamp="1588000534389">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588076606572">
+        <mark key="'" line="45" column="14" />
+      </file>
       <file name="/Python Console" timestamp="1587849844414">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,11 +119,6 @@
         <mark key="]" line="238" column="55" />
         <mark key="^" line="181" column="9" />
         <mark key="." line="238" column="55" />
-      </file>
-      <file name="/fragment.py" timestamp="1587845047171">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/README.md" timestamp="1588005817243">
         <mark key="[" line="26" column="91" />
@@ -150,12 +148,6 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/gen-token-var.sh" timestamp="1587826938860">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="241" />
-        <mark key="^" line="18" column="139" />
-        <mark key="." line="18" column="138" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/descriptor.py" timestamp="1587999332084">
         <mark key="'" line="277" column="5" />
       </file>
@@ -183,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="31" column="19" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="116" column="31" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="678" column="23" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py" />
@@ -283,6 +274,7 @@
       <jump line="251" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="219" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="148" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="45" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
