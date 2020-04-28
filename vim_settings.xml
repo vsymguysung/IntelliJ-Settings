@@ -139,8 +139,8 @@
       <file name="/Dummy.txt" timestamp="1588000534389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588078340061">
-        <mark key="'" line="45" column="9" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588086028701">
+        <mark key="'" line="599" column="71" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588013726031">
         <mark key="'" line="2057" column="4" />
@@ -172,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="285" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="298" column="27" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="8" column="2" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -261,7 +260,6 @@
       <jump line="251" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="219" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="148" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="599" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="45" column="9" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="79" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="58" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -272,6 +270,8 @@
       <jump line="124" column="29" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="23" column="9" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="253" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="44" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="599" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +283,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmNsdWRpbmdfZGVmYXVsdF92YWx1ZV9maWVsZHNcPg==</text>
+        <text encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWtkaXIgLXAgZ29vZ2xlL2FwaQo=</text>
@@ -322,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbmNsdWRpbmdfZGVmYXVsdF92YWx1ZV9maWVsZHNcPg==</last-search>
+      <last-search encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmNsdWRpbmdfZGVmYXVsdF92YWx1ZV9maWVsZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
