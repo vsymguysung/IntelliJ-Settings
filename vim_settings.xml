@@ -110,8 +110,8 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588013726031">
         <mark key="'" line="2057" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588086432662">
-        <mark key="'" line="241" column="37" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588087380629">
+        <mark key="'" line="95" column="38" />
         <mark key="[" line="238" column="55" />
         <mark key="]" line="238" column="55" />
         <mark key="^" line="181" column="9" />
@@ -145,6 +145,9 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/reflection.py" timestamp="1588087455035">
+        <mark key="'" line="50" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1588077102018">
         <mark key="'" line="1214" column="10" />
       </file>
@@ -160,6 +163,9 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" timestamp="1588015130564">
         <mark key="'" line="173" column="17" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/__init__.py" timestamp="1588087442497">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="/dlg_client" timestamp="1588024295298">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -167,18 +173,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" timestamp="1587999425684">
-        <mark key="'" line="1151" column="70" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" timestamp="1588087544858">
+        <mark key="'" line="37" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="298" column="27" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="8" column="2" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="34" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="120" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="279" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="267" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="278" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="139" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -231,7 +230,6 @@
       <jump line="92" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1422" column="23" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1425" column="62" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="95" column="14" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1274" column="54" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1281" column="66" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1288" column="66" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
@@ -272,6 +270,14 @@
       <jump line="44" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="599" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="241" column="37" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="95" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="1267" column="24" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
+      <jump line="1264" column="3" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/__init__.py" />
+      <jump line="6" column="28" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/reflection.py" />
+      <jump line="32" column="9" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
+      <jump line="37" column="2" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
