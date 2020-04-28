@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3luY01vZGVcPg==</entry>
         <entry encoding="base64">XDxtb2RlXD4=</entry>
         <entry>owner</entry>
         <entry encoding="base64">XDx3ZWJTb2NrZXRDbGllbnRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</entry>
         <entry encoding="base64">XDxVc2VySW5wdXRcPg==</entry>
         <entry encoding="base64">XDxpbmNsdWRpbmdfZGVmYXVsdF92YWx1ZV9maWVsZHNcPg==</entry>
+        <entry encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,14 +95,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1588000534389">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588086028701">
+        <mark key="'" line="599" column="71" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/install.sh" timestamp="1588003032043">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="8" column="12" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588078436826">
-        <mark key="'" line="253" column="4" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588013726031">
+        <mark key="'" line="2057" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588086432662">
+        <mark key="'" line="241" column="37" />
         <mark key="[" line="238" column="55" />
         <mark key="]" line="238" column="55" />
         <mark key="^" line="181" column="9" />
@@ -130,26 +139,14 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_plugin_wrapping.py" timestamp="1588009992138">
         <mark key="'" line="98" column="17" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1588077102018">
-        <mark key="'" line="1214" column="10" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" timestamp="1588015130564">
-        <mark key="'" line="173" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588000534389">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588086028701">
-        <mark key="'" line="599" column="71" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588013726031">
-        <mark key="'" line="2057" column="4" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/.gitignore" timestamp="1588021413378">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1588077102018">
+        <mark key="'" line="1214" column="10" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages_pb2.py" timestamp="1587999467047">
         <mark key="'" line="472" column="20" />
@@ -159,6 +156,9 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1588077459977">
         <mark key="'" line="471" column="9" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" timestamp="1588015130564">
+        <mark key="'" line="173" column="17" />
       </file>
       <file name="/dlg_client" timestamp="1588024295298">
         <mark key="'" line="0" column="0" />
@@ -188,7 +188,6 @@
       <jump line="247" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="240" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="248" column="11" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="241" column="15" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="24" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="284" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="302" column="62" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -272,6 +271,7 @@
       <jump line="253" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="44" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="599" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="241" column="37" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
