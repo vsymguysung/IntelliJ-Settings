@@ -110,18 +110,18 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588013726031">
         <mark key="'" line="2057" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588093709005">
-        <mark key="'" line="230" column="18" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588093790649">
+        <mark key="'" line="29" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="180" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/README.md" timestamp="1588005817243">
-        <mark key="[" line="26" column="91" />
-        <mark key="]" line="26" column="91" />
-        <mark key="." line="26" column="91" />
-        <mark key="^" line="28" column="4" />
+      <file name="$USER_HOME$/GenDev/nuance-sample/README.md" timestamp="1588094123518">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1588077039480">
         <mark key="'" line="58" column="35" />
@@ -178,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="20" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="139" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="20" column="14" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="147" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -205,7 +204,6 @@
       <jump line="292" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="296" column="53" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="77" column="52" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="78" column="52" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="79" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="80" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -278,15 +276,17 @@
       <jump line="32" column="9" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="37" column="2" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="231" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
+      <jump line="29" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvVXNlcnMvZ2tpbS9HZW5EZXYvbnVhbmNlLXNhbXBsZS9lbnYvYmluL3B5dGhvbjMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>client_id and client_secre</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>client_id and client_secre</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</text>
