@@ -119,9 +119,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588103483568">
         <mark key="'" line="85" column="18" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" timestamp="1588015130564">
-        <mark key="'" line="173" column="17" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
         <mark key="'" line="40" column="20" />
       </file>
@@ -131,6 +128,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1588163499320">
         <mark key="'" line="76" column="37" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/jwksSecretStashReader.js" timestamp="1588166861936" />
       <file name="$USER_HOME$/GenDev/nuance-sample/.gitignore" timestamp="1588021413378">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -143,8 +141,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1588077075012">
         <mark key="'" line="304" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1588164954680">
-        <mark key="'" line="69" column="45" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1588166187666">
+        <mark key="'" line="80" column="20" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1588077459977">
         <mark key="'" line="471" column="9" />
@@ -165,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="40" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="88" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="105" column="23" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="106" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -265,6 +262,7 @@
       <jump line="69" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="39" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="40" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="80" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
