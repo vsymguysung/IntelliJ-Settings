@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588191888415">
+      <file name="/Dummy.txt" timestamp="1588193758012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588184637939">
@@ -108,11 +108,11 @@
         <mark key="^" line="180" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588192541024">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="4" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588193124999">
+        <mark key="[" line="37" column="3" />
+        <mark key="]" line="39" column="65" />
+        <mark key="." line="39" column="64" />
+        <mark key="^" line="39" column="65" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/README.md" timestamp="1588094123518">
         <mark key="[" line="10" column="14" />
@@ -122,6 +122,12 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588184672763">
         <mark key="'" line="123" column="38" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588193351424">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/.gitignore" timestamp="1588180615431">
         <mark key="[" line="2" column="5" />
@@ -269,16 +275,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>virtualenv_interpreter</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>virtualenv_interpreter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>getCachedThreadPool</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICFbQ29uZmlndXJlIHRoZSB2aXJ0dWFsIGVudiBpbnRlcnByZXRlcl0ocmVhZG1lX3Jlc291cmNlcy92aXJ0dWFsZW52X2ludGVycHJldGVyLnBuZykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0KEV4ZWN1dG9yVHlwZXMuQ0FDSEVELCBuYW1lUHJlZml4LCAtMSwgZmFsc2UpOwo=</text>
