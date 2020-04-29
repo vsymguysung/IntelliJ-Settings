@@ -116,8 +116,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1588077102018">
         <mark key="'" line="1214" column="10" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588103483568">
-        <mark key="'" line="85" column="18" />
+      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588167086089">
+        <mark key="'" line="85" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
         <mark key="'" line="40" column="20" />
@@ -250,7 +250,6 @@
       <jump line="35" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="29" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="91" column="7" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="85" column="18" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="76" column="37" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="38" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="54" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
@@ -263,6 +262,7 @@
       <jump line="39" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="40" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="80" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
+      <jump line="85" column="29" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
