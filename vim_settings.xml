@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hlZHVsZWRFeGVjdXRvclw+</entry>
         <entry encoding="base64">XDxzdGFydF9yZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxvc1w+</entry>
         <entry>os</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxrZXlzdG9yZVw+</entry>
         <entry encoding="base64">XDxnZXRKd2tzXD4=</entry>
         <entry encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</entry>
+        <entry encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -101,6 +101,9 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588184637939">
         <mark key="'" line="627" column="31" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588193801091">
+        <mark key="'" line="144" column="21" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588093790649">
         <mark key="'" line="29" column="36" />
         <mark key="[" line="0" column="0" />
@@ -138,22 +141,19 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/reflection.py" timestamp="1588087455035">
         <mark key="'" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1588194398503">
+        <mark key="'" line="73" column="40" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588187425182">
         <mark key="'" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1588174561238">
         <mark key="'" line="83" column="109" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1588077459977">
-        <mark key="'" line="471" column="9" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
         <mark key="'" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/__init__.py" timestamp="1588087442497">
-        <mark key="'" line="21" column="0" />
-      </file>
-      <file name="/dlg_client" timestamp="1588191905662">
+      <file name="/dlg_client" timestamp="1588193773814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1588163499320">
@@ -170,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="32" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="316" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="322" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="4" column="12" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="328" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -270,6 +268,8 @@
       <jump line="59" column="29" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="29" column="17" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="12" column="43" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/jwksSecretStashReader.js" />
+      <jump line="144" column="21" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
+      <jump line="73" column="40" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,7 +281,7 @@
         <text>virtualenv_interpreter</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</text>
+        <text encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICFbQ29uZmlndXJlIHRoZSB2aXJ0dWFsIGVudiBpbnRlcnByZXRlcl0ocmVhZG1lX3Jlc291cmNlcy92aXJ0dWFsZW52X2ludGVycHJldGVyLnBuZykK</text>
@@ -320,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</last-search>
+      <last-search encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
