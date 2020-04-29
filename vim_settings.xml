@@ -108,18 +108,17 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1588184479574" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588184672763">
         <mark key="'" line="123" column="38" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1588077102018">
         <mark key="'" line="1214" column="10" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588174991144">
-        <mark key="'" line="59" column="34" />
+      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588187425182">
+        <mark key="'" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
-        <mark key="'" line="36" column="20" />
+        <mark key="'" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/__init__.py" timestamp="1588087442497">
         <mark key="'" line="21" column="0" />
@@ -131,7 +130,7 @@
         <mark key="'" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588184637939">
-        <mark key="'" line="618" column="31" />
+        <mark key="'" line="627" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/.gitignore" timestamp="1588180615431">
         <mark key="[" line="2" column="5" />
@@ -142,21 +141,11 @@
       <file name="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/reflection.py" timestamp="1588087455035">
         <mark key="'" line="50" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1588077075012">
-        <mark key="'" line="304" column="19" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1588174561238">
         <mark key="'" line="83" column="109" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1588077459977">
         <mark key="'" line="471" column="9" />
-      </file>
-      <file name="/dlg_client" timestamp="1588024295298">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.7.0/caffeine-2.7.0-sources.jar!/com/github/benmanes/caffeine/cache/Caffeine.java" timestamp="1588165099969" />
       <file name="/fragment.java" timestamp="1588100011426">
@@ -245,20 +234,17 @@
       <jump line="16" column="15" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="55" column="11" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="95" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="26" column="18" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="17" column="27" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="2" column="8" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="7" column="6" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="84" column="15" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="91" column="4" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="29" column="15" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="85" column="4" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="10" column="25" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="92" column="0" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="80" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="83" column="109" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="9" column="60" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="59" column="34" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="44" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="599" column="77" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="581" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -267,6 +253,9 @@
       <jump line="116" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="135" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="123" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="26" column="27" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
+      <jump line="59" column="29" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
+      <jump line="29" column="17" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
