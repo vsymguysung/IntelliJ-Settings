@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvc1w+</entry>
         <entry>os</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsX21lc3NhZ2VcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</entry>
         <entry encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxob3N0YWRkclw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -109,11 +109,11 @@
         <mark key="^" line="181" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588245394855">
-        <mark key="[" line="53" column="108" />
-        <mark key="]" line="41" column="33" />
-        <mark key="." line="41" column="32" />
-        <mark key="^" line="41" column="33" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588279283266">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588184672763">
         <mark key="'" line="123" column="38" />
@@ -130,12 +130,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588261285927">
-        <mark key="'" line="89" column="32" />
-        <mark key="[" line="81" column="62" />
-        <mark key="]" line="81" column="71" />
-        <mark key="." line="81" column="70" />
-        <mark key="^" line="81" column="71" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588280352974">
+        <mark key="'" line="101" column="29" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588187425182">
         <mark key="'" line="29" column="17" />
@@ -175,12 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="1422" column="23" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="1425" column="62" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="1274" column="54" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="1281" column="66" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="1288" column="66" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1293" column="64" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1298" column="62" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
       <jump line="1231" column="51" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
@@ -275,48 +269,54 @@
       <jump line="8" column="7" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="88" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="89" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="92" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="65" column="15" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="104" column="29" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="101" column="29" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>audio_file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBncnBjIGltcG9ydCBTdHJlYW1DbG9zZWRFcnJvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>audio_file</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text encoding="base64">XDxob3N0YWRkclw+</text>
       </register>
       <register name="0" type="4">
         <text>server_asr_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kZWxfdXJuID0gInVybjpudWFuY2UtbWl4OnRhZzptb2RlbC9BNzkzX0MxOTc5L21peC5kaWFsb2ciCnNlcnZlcl91cmwgPSAiZGxnLmFwaS5udWFuY2UuY29tOjQ0MyIK</text>
+        <text encoding="base64">ZnJvbSBncnBjIGltcG9ydCBTdHJlYW1DbG9zZWRFcnJvcgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z19hY2Nlc3NfdG9rZW4gPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYWNjZXNzX3Rva2VuOgo=</text>
+        <text encoding="base64">bW9kZWxfdXJuID0gInVybjpudWFuY2UtbWl4OnRhZzptb2RlbC9BNzkzX0MxOTc5L21peC5kaWFsb2ciCnNlcnZlcl91cmwgPSAiZGxnLmFwaS5udWFuY2UuY29tOjQ0MyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzX3Rva2VuID0gdGYucmVhZCgpLnN0cmlwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4odG9rZW5fZmlsZSwgJ3InKSBhcyB0ZjoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYWNjZXNzX3Rva2VuOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0KEV4ZWN1dG9yVHlwZXMuQ0FDSEVELCBuYW1lUHJlZml4LCAtMSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvVXNlcnMvZ2tpbS9HZW5EZXYvbnVhbmNlLXNhbXBsZS9lbnYvYmluL3B5dGhvbjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzX3Rva2VuID0gdGYucmVhZCgpLnN0cmlwKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -325,9 +325,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxob3N0YWRkclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob3N0YWRkclw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
