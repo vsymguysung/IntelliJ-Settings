@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588249693641">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588255016625">
         <mark key="'" line="145" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588244892550">
@@ -120,14 +120,17 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588255080498">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588187425182">
         <mark key="'" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Point.java" timestamp="1588209465102">
         <mark key="'" line="16" column="36" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
-        <mark key="'" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/jwksSecretStashReader.js" timestamp="1588188877854">
         <mark key="'" line="12" column="43" />
@@ -266,16 +269,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2l0aCB0aGUgZXhpc3RpbmcgaW50ZXJwcmV0ZXIg</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aCB0aGUgZXhpc3RpbmcgaW50ZXJwcmV0ZXIg</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICFbQ29uZmlndXJlIHRoZSB2aXJ0dWFsIGVudiBpbnRlcnByZXRlcl0ocmVhZG1lX3Jlc291cmNlcy92aXJ0dWFsZW52X2ludGVycHJldGVyLnBuZykK</text>
+      <register name="0" type="4">
+        <text>nuance.asr.v1.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0KEV4ZWN1dG9yVHlwZXMuQ0FDSEVELCBuYW1lUHJlZml4LCAtMSwgZmFsc2UpOwo=</text>
