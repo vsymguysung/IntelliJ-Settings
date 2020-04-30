@@ -95,6 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588249693641">
+        <mark key="'" line="145" column="23" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588244892550">
         <mark key="'" line="30" column="36" />
         <mark key="[" line="249" column="43" />
@@ -124,11 +127,7 @@
         <mark key="'" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
-        <mark key="'" line="40" column="20" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/resources/order_coffee.json" timestamp="1588249456424" />
-      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1588163499320">
-        <mark key="'" line="76" column="37" />
+        <mark key="'" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/jwksSecretStashReader.js" timestamp="1588188877854">
         <mark key="'" line="12" column="43" />
@@ -137,7 +136,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588184637939">
-        <mark key="'" line="627" column="31" />
+        <mark key="'" line="618" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" timestamp="1588209447344">
         <mark key="'" line="16" column="12" />
@@ -162,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="5" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="0" column="0" filename="/dlg_client" />
       <jump line="168" column="38" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="167" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -262,6 +260,7 @@
       <jump line="25" column="56" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
       <jump line="16" column="12" filename="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" />
       <jump line="16" column="36" filename="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Point.java" />
+      <jump line="145" column="23" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
