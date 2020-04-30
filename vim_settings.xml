@@ -95,9 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588193801091">
-        <mark key="'" line="144" column="21" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588244892550">
         <mark key="'" line="30" column="36" />
         <mark key="[" line="249" column="43" />
@@ -105,11 +102,11 @@
         <mark key="^" line="181" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588193124999">
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="39" column="65" />
-        <mark key="." line="39" column="64" />
-        <mark key="^" line="39" column="65" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588245394855">
+        <mark key="[" line="53" column="108" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="32" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588184672763">
         <mark key="'" line="123" column="38" />
@@ -129,6 +126,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1588165024436">
         <mark key="'" line="40" column="20" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/resources/order_coffee.json" timestamp="1588249456424" />
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1588163499320">
         <mark key="'" line="76" column="37" />
       </file>
@@ -160,9 +158,6 @@
         <mark key="'" line="83" column="109" />
       </file>
       <file name="/dlg_client" timestamp="1588244934312">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1588100011426">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -272,10 +267,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>virtualenv_interpreter</text>
+        <text encoding="base64">d2l0aCB0aGUgZXhpc3RpbmcgaW50ZXJwcmV0ZXIg</text>
       </register>
       <register name="-" type="4">
-        <text>virtualenv_interpreter</text>
+        <text encoding="base64">d2l0aCB0aGUgZXhpc3RpbmcgaW50ZXJwcmV0ZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</text>
