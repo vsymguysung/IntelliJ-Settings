@@ -127,8 +127,8 @@
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588362522314">
-        <mark key="'" line="88" column="35" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588365215312">
+        <mark key="'" line="44" column="23" />
         <mark key="[" line="81" column="48" />
         <mark key="]" line="81" column="48" />
         <mark key="." line="81" column="48" />
@@ -260,13 +260,13 @@
       <jump line="142" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
       <jump line="107" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="29" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="44" column="42" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="242" column="33" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" />
       <jump line="45" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="38" column="44" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="88" column="35" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="18" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
       <jump line="17" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
+      <jump line="44" column="23" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
