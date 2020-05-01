@@ -127,17 +127,16 @@
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588355895287">
-        <mark key="'" line="44" column="42" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588361875116">
+        <mark key="'" line="88" column="44" />
         <mark key="[" line="81" column="48" />
         <mark key="]" line="81" column="48" />
-        <mark key="^" line="81" column="55" />
         <mark key="." line="81" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1588302330414">
         <mark key="'" line="17" column="58" />
       </file>
-      <file name="/asr_client" timestamp="1588355898915">
+      <file name="/asr_client" timestamp="1588361901833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Point.java" timestamp="1588209465102">
@@ -247,7 +246,6 @@
       <jump line="51" column="20" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="58" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="8" column="7" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="88" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="89" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="92" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="52" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -268,6 +266,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="44" column="42" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="242" column="33" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" />
+      <jump line="88" column="44" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,34 +281,34 @@
         <text encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>22500</text>
+        <text>AudioFormat(pcm=PCM(sample_rate_hz=wf.getframerate())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ19hY2Nlc3NfdG9rZW4gPSB0Zi5yZWFkKCkuc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb19mb3JtYXQgPSBBdWRpb0Zvcm1hdChwY209UENNKHNhbXBsZV9yYXRlX2h6PXdmLmdldGZyYW1lcmF0ZSgpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZ190b2tlbl9maWxlLCAncicpIGFzIHRmOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB3Zi5nZXRmcmFtZXJhdGUoKSA+IDE2MDAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZ19ob3N0YWRkcjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb19maWxlID0gc3lzLmFyZ3ZbM10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ19hY2Nlc3NfdG9rZW4gPSB0Zi5yZWFkKCkuc3RyaXAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnX3Rva2VuX2ZpbGUgPSBzeXMuYXJndlsyXQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZ190b2tlbl9maWxlLCAncicpIGFzIHRmOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnX2hvc3RhZGRyID0gc3lzLmFyZ3ZbMV0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZ19ob3N0YWRkcjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBnX2FjY2Vzc190b2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb19maWxlID0gc3lzLmFyZ3ZbM10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2xvYmFsIGdfYWNjZXNzX3Rva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICBnX3Rva2VuX2ZpbGUgPSBzeXMuYXJndlsyXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
