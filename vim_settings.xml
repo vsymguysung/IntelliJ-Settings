@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>os</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxfYWNjZXNzX3Rva2VuXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxob3N0YWRkclw+</entry>
+        <entry encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -105,7 +105,7 @@
         <mark key="." line="184" column="53" />
         <mark key="^" line="184" column="54" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588184637939">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588335916249">
         <mark key="'" line="618" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" timestamp="1588209447344">
@@ -134,20 +134,14 @@
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1588303107440">
-        <mark key="'" line="84" column="45" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1588335812021">
+        <mark key="'" line="142" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588193351424">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sample/.gitignore" timestamp="1588180615431">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1588194398503">
         <mark key="'" line="73" column="40" />
@@ -174,14 +168,12 @@
       <file name="/dlg_client" timestamp="1588244934312">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1588335961133" />
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/jwksSecretStashReader.js" timestamp="1588188877854">
         <mark key="'" line="12" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1151" column="70" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="472" column="20" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/dlg_messages_pb2.py" />
-      <jump line="54" column="40" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1629" column="28" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
       <jump line="98" column="17" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/_plugin_wrapping.py" />
       <jump line="57" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
@@ -279,6 +271,9 @@
       <jump line="57" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
       <jump line="17" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
       <jump line="84" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="77" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="167" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
+      <jump line="142" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -290,7 +285,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3N0YWRkclw+</text>
+        <text encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>server_asr_url</text>
@@ -329,9 +324,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxob3N0YWRkclw+</last-search>
+      <last-search encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3N0YWRkclw+</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
