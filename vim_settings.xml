@@ -95,9 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588354106652">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588259555225">
         <mark key="'" line="145" column="23" />
         <mark key="[" line="184" column="29" />
@@ -105,13 +102,9 @@
         <mark key="." line="184" column="53" />
         <mark key="^" line="184" column="54" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588335916249">
-        <mark key="'" line="639" column="31" />
+      <file name="/Python Console" timestamp="1588355167491">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" timestamp="1588209447344">
-        <mark key="'" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1588302637418" />
       <file name="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" timestamp="1588244892550">
         <mark key="'" line="30" column="36" />
         <mark key="[" line="249" column="43" />
@@ -125,39 +118,46 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588353999885">
+      <file name="/fragment.py" timestamp="1588354653686">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588354398593">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="12" />
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1588335812021">
-        <mark key="'" line="142" column="36" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588193351424">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/dlg/v1/dlg_interface_pb2_grpc.py" timestamp="1588194398503">
-        <mark key="'" line="73" column="40" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588354094357">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="16" column="81" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588355895287">
+        <mark key="'" line="44" column="42" />
+        <mark key="[" line="81" column="48" />
+        <mark key="]" line="81" column="48" />
+        <mark key="^" line="81" column="55" />
+        <mark key="." line="81" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1588302330414">
         <mark key="'" line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" timestamp="1588187425182">
-        <mark key="'" line="29" column="17" />
+      <file name="/asr_client" timestamp="1588355898915">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Point.java" timestamp="1588209465102">
         <mark key="'" line="16" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588354106652">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588335916249">
+        <mark key="'" line="639" column="31" />
+      </file>
+      <file name="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" timestamp="1588209447344">
+        <mark key="'" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1588302637418" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1588335812021">
+        <mark key="'" line="142" column="36" />
+      </file>
+      <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" timestamp="1588355147026">
+        <mark key="'" line="242" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1588208713286">
         <mark key="'" line="25" column="56" />
@@ -166,13 +166,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1588335961133" />
-      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/jwksSecretStashReader.js" timestamp="1588188877854">
-        <mark key="'" line="12" column="43" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="26" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="58" column="31" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1644" column="4" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
       <jump line="59" column="24" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
       <jump line="1909" column="4" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/grpc/__init__.py" />
@@ -271,48 +266,50 @@
       <jump line="142" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
       <jump line="107" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="29" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="44" column="42" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="242" column="33" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBnX2FjY2Vzc190b2tlbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>model_asr_urn</text>
+        <text>22500</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBnX2FjY2Vzc190b2tlbgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2xvYmFsIGdfYWNjZXNzX3Rva2VuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBncnBjLmZyYW1ld29yay5mb3VuZGF0aW9uLmZ1dHVyZSBpbXBvcnQgQ2FuY2VsbGVkRXJyb3IK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFN0cmVhbUNsb3NlZEVycm9yOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBncnBjIGltcG9ydCBTdHJlYW1DbG9zZWRFcnJvcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ19hY2Nlc3NfdG9rZW4gPSB0Zi5yZWFkKCkuc3RyaXAoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZ190b2tlbl9maWxlLCAncicpIGFzIHRmOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZ19ob3N0YWRkcjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhdWRpb19maWxlID0gc3lzLmFyZ3ZbM10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnX3Rva2VuX2ZpbGUgPSBzeXMuYXJndlsyXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBnX2hvc3RhZGRyID0gc3lzLmFyZ3ZbMV0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Z19hY2Nlc3NfdG9rZW4gPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBnX2FjY2Vzc190b2tlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kZWxfdXJuID0gInVybjpudWFuY2UtbWl4OnRhZzptb2RlbC9BNzkzX0MxOTc5L21peC5kaWFsb2ciCnNlcnZlcl91cmwgPSAiZGxnLmFwaS5udWFuY2UuY29tOjQ0MyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2xvYmFsIGdfYWNjZXNzX3Rva2VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
