@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2Nlc3NfdG9rZW5cPg==</entry>
-        <entry encoding="base64">XDxwYXJzZWRfYXJnc1w+</entry>
         <entry encoding="base64">XDxzZXNzaW9uX2lkXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3Rvcl9kaWN0XD4=</entry>
         <entry encoding="base64">XDxnX2ludGVycnVwdGVkXD4=</entry>
@@ -25,6 +23,8 @@
         <entry>final</entry>
         <entry>MessageHandlerRegistry</entry>
         <entry encoding="base64">XDxGbHVzaEF1ZGlvTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxwbGF5YmFja0luY29tcGxldGVBdWRpb0NvdW50ZXJcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,14 +95,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1588424313334">
+        <mark key="'" line="8" column="35" />
+      </file>
       <file name="/Python Console" timestamp="1588362733047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588391569269">
-        <mark key="'" line="135" column="8" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588424788542">
+        <mark key="'" line="235" column="31" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1588391433931">
-        <mark key="'" line="155" column="4" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588424831110">
+        <mark key="'" line="99" column="29" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1588424900688">
+        <mark key="'" line="391" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1588388455250">
         <mark key="'" line="108" column="36" />
@@ -119,23 +125,17 @@
         <mark key="]" line="81" column="48" />
         <mark key="." line="81" column="48" />
       </file>
-      <file name="/asr_client" timestamp="1588362358610">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
         <mark key="'" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageHandlerRegistry.java" timestamp="1588387992949" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/MessageHandler.java" timestamp="1588387871096" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/AudioCommand.java" timestamp="1588387662906" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1588424862227">
+        <mark key="'" line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/DtmfDigitDelayMessageHandler.java" timestamp="1588387777107" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/WrappedMessage.java" timestamp="1588391232758" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" timestamp="1588362592786">
-        <mark key="'" line="17" column="43" />
-      </file>
-      <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" timestamp="1588355147026">
-        <mark key="'" line="242" column="33" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingTextMessage.java" timestamp="1588390698059" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/ResponseCommand.java" timestamp="1588391524400" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/OutgoingMessageWrappedMessage.java" timestamp="1588391184565">
@@ -146,21 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="2" filename="$USER_HOME$/GenDev/nuance-sample/nuance/dlg/v1/common/dlg_common_messages_pb2.py" />
-      <jump line="231" column="18" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="29" column="36" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="76" column="37" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
-      <jump line="38" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="99" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="86" column="100" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="69" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="39" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="40" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
-      <jump line="12" column="22" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="16" column="15" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="55" column="11" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="95" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
@@ -246,6 +231,21 @@
       <jump line="96" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="155" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="135" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="96" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="8" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" />
+      <jump line="365" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
+      <jump line="76" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
+      <jump line="102" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="379" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
+      <jump line="43" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="224" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="216" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="223" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="222" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="235" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="99" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="12" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" />
+      <jump line="391" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -257,7 +257,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGbHVzaEF1ZGlvTWVzc2FnZVw+</text>
+        <text encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>AudioFormat(pcm=PCM(sample_rate_hz=wf.getframerate())</text>
@@ -296,9 +296,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxGbHVzaEF1ZGlvTWVzc2FnZVw+</last-search>
+      <last-search encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGbHVzaEF1ZGlvTWVzc2FnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
