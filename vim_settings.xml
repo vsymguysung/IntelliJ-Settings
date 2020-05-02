@@ -98,8 +98,22 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1588424313334">
         <mark key="'" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588424788542">
-        <mark key="'" line="235" column="31" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1588388455250">
+        <mark key="'" line="108" column="36" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1588390341749">
+        <mark key="'" line="52" column="79" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
+        <mark key="'" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/WrappedMessage.java" timestamp="1588391232758" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingTextMessage.java" timestamp="1588390698059" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1588390464191">
+        <mark key="'" line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588425807275">
+        <mark key="'" line="168" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588424831110">
         <mark key="'" line="99" column="29" />
@@ -107,51 +121,30 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1588424900688">
         <mark key="'" line="391" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425548669">
-        <mark key="'" line="17" column="66" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1588388455250">
-        <mark key="'" line="108" column="36" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425603086">
+        <mark key="'" line="17" column="112" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" timestamp="1588388298087">
         <mark key="'" line="37" column="82" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1588390341749">
-        <mark key="'" line="52" column="79" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588366963739">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="81" column="48" />
-        <mark key="]" line="81" column="48" />
-        <mark key="." line="81" column="48" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
-        <mark key="'" line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageHandlerRegistry.java" timestamp="1588387992949" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/MessageHandler.java" timestamp="1588387871096" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/AudioCommand.java" timestamp="1588387662906" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1588424862227">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/DtmfDigitDelayMessageHandler.java" timestamp="1588387777107" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/WrappedMessage.java" timestamp="1588391232758" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingTextMessage.java" timestamp="1588390698059" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
+        <mark key="'" line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" timestamp="1588425723187" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/ResponseCommand.java" timestamp="1588391524400" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/OutgoingMessageWrappedMessage.java" timestamp="1588391184565">
         <mark key="'" line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1588390464191">
-        <mark key="'" line="15" column="35" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" timestamp="1588425660419">
+        <mark key="'" line="23" column="66" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="11" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="95" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="17" column="27" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="2" column="8" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="84" column="15" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="91" column="4" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="85" column="4" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="10" column="25" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
@@ -245,7 +238,13 @@
       <jump line="99" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="12" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" />
       <jump line="391" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="17" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" />
+      <jump line="17" column="112" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" />
+      <jump line="23" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" />
+      <jump line="167" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="187" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="168" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="34" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
+      <jump line="37" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
