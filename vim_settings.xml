@@ -98,12 +98,6 @@
       <file name="/Python Console" timestamp="1588362733047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588279283266">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1588354653686">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,8 +107,14 @@
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="61" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1588388455250">
+        <mark key="'" line="108" column="36" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" timestamp="1588388298087">
         <mark key="'" line="37" column="82" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1588389616354">
+        <mark key="'" line="64" column="15" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588366963739">
         <mark key="'" line="44" column="23" />
@@ -122,11 +122,11 @@
         <mark key="]" line="81" column="48" />
         <mark key="." line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1588302330414">
-        <mark key="'" line="17" column="58" />
-      </file>
       <file name="/asr_client" timestamp="1588362358610">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
+        <mark key="'" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageHandlerRegistry.java" timestamp="1588387992949" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/MessageHandler.java" timestamp="1588387871096" />
@@ -138,7 +138,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588335916249">
         <mark key="'" line="639" column="31" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSession.java" timestamp="1588302637418" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1588335812021">
         <mark key="'" line="142" column="36" />
       </file>
@@ -151,12 +150,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1588335961133" />
     </filemarks>
     <jumps>
-      <jump line="173" column="17" filename="$USER_HOME$/GenDev/nuance-sample/env/lib/python3.7/site-packages/google/protobuf/json_format.py" />
-      <jump line="251" column="0" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="219" column="30" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="148" column="25" filename="$USER_HOME$/GenDev/nuance-sample/dlg_client.py" />
-      <jump line="45" column="9" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="79" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="58" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="304" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
       <jump line="1214" column="10" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
@@ -251,6 +244,12 @@
       <jump line="25" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
       <jump line="18" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
       <jump line="37" column="82" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
+      <jump line="108" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
+      <jump line="94" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
+      <jump line="28" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
+      <jump line="79" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
+      <jump line="64" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
