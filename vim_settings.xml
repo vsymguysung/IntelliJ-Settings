@@ -105,16 +105,16 @@
         <mark key="." line="381" column="70" />
         <mark key="^" line="406" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588610409485">
+      <file name="/start_script.py" timestamp="1588611698902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1588424313334">
-        <mark key="'" line="8" column="35" />
+      <file name="/Dummy.txt" timestamp="1588612029237">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588610362981">
-        <mark key="'" line="204" column="13" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588611373960">
+        <mark key="'" line="84" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1588610651821">
+      <file name="/Python Console" timestamp="1588612067935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
@@ -125,9 +125,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588425807275">
         <mark key="'" line="168" column="38" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588424831110">
-        <mark key="'" line="99" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1588424900688">
         <mark key="'" line="391" column="20" />
@@ -167,11 +164,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" timestamp="1588425660419">
         <mark key="'" line="23" column="66" />
       </file>
+      <file name="/dlg_client" timestamp="1588612043019">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="56" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
-      <jump line="16" column="12" filename="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" />
-      <jump line="16" column="36" filename="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Point.java" />
       <jump line="145" column="23" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="51" column="20" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="58" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -269,6 +266,9 @@
       <jump line="16" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
       <jump line="534" column="30" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="204" column="13" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
+      <jump line="219" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
+      <jump line="84" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
