@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRKd2tzXD4=</entry>
-        <entry encoding="base64">XDxFWEVDVVRPUl9TRVJWSUNFXD4=</entry>
-        <entry encoding="base64">XDxhZGRfRGlhbG9nU2VydmljZVNlcnZpY2VyX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxob3N0YWRkclw+</entry>
         <entry encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</entry>
@@ -20,11 +17,14 @@
         <entry>Aardvark</entry>
         <entry>user</entry>
         <entry>Leslie</entry>
-        <entry>args.token</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJVcmxcPg==</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxhdWRpb0ZpbGVcPg==</entry>
+        <entry>serverUrl</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
+        <entry>args.token</entry>
+        <entry encoding="base64">XDx0ZXh0SW5wdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -108,12 +108,12 @@
       <file name="/Dummy.txt" timestamp="1588628218736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588625588680">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588630244964">
         <mark key="'" line="191" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1588625953144">
+      <file name="/Python Console" timestamp="1588631391949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
@@ -131,11 +131,10 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588425807275">
         <mark key="'" line="168" column="38" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588628308404">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="21" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588630532275">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588626637691">
         <mark key="'" line="46" column="28" />
@@ -153,7 +152,7 @@
       <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588596507532">
         <mark key="'" line="1408" column="15" />
       </file>
-      <file name="/nlu_client" timestamp="1588628242679">
+      <file name="/nlu_client" timestamp="1588630685405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588607704710">
@@ -163,11 +162,9 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588628288254">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588630982654">
+        <mark key="'" line="14" column="10" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="/dlg_client" timestamp="1588612043019">
         <mark key="[" line="0" column="0" />
@@ -183,18 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="29" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="101" column="29" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="15" column="39" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="14" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="23" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="57" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
-      <jump line="17" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
-      <jump line="84" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="77" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="167" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="142" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="29" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="242" column="33" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" />
       <jump line="45" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -283,49 +268,76 @@
       <jump line="507" column="16" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="564" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="175" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="29" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="81" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="84" column="45" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="34" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="14" column="7" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="64" column="15" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="47" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="115" column="18" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="133" column="40" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="50" column="10" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
-      </register>
-      <register name="-" type="4">
-        <text>s</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxhdWRpb0ZpbGVcPg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VydmVyX3R0c191cmwgPSAidHRzLmFwaS5udWFuY2UuY29tOjQ0MyIK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">VGhpcyBpcyB0aGUgUHl0aG9uIGFwcCB1c2VkIGluIHRoZSBleGFtcGxlcy4gSXQgcGVyZm9ybXMgdGhlc2UgdGFza3M6CgpJbXBvcnRzIHRoZSB0aGUgY29udGVudHMgb2YgdGhlIGdlbmVyYXRlZCBjbGllbnQgc3R1YiBmaWxlcyBpbiBudWFuY2Uvbmx1L3YxLy4KQ29sbGVjdHMgcGFyYW1ldGVycyBmcm9tIHRoZSBjb21tYW5kIGxpbmU6IHRoZSBzZXJ2ZXIgVVJMLCBhIHRva2VuIHZhcmlhYmxlLCBhIHNlbWFudGljIG1vZGVsLCBhbmQgdGhlIHRleHQgdG8gaW50ZXJwcmV0LgpTZXRzIGludGVycHJldGF0aW9uIHBhcmFtZXRlcnMgc3VjaCBhcyByZXN1bHQgdHlwZSBhbmQgbG9nZ2luZyBtb2RlLgpDYWxscyBOTFUgb24gYSBzZWN1cmUgY2hhbm5lbCAoYXV0aG9yaXplZCBieSB0aGUgdG9rZW4pLCBzZW5kaW5nIGl0IHRoZSBwYXJhbWV0ZXJzLCByZXNvdXJjZSwgYW5kIGlucHV0IHRleHQuClByaW50cyB0aGUgcmVzdWx0cyB0byBKU09OIGZvcm1hdC4KUnVubmluZyB0aGUgUHl0aG9uIGFwcApUbyBydW4gdGhlIFB5dGhvbiBhcHAsIGZpcnN0IGdlbmVyYXRlIGEgdG9rZW4uIFNlZSBTdGVwIDE6IEdlbmVyYXRlIHRva2VuLgoKJCBzb3VyY2UgZ2VuLXRva2VuLXZhci5zaApUaGVuIHJ1biB0aGUgUHl0aG9uIGFwcGxpY2F0aW9uLiBUaGlzIGV4YW1wbGUgc3BlY2lmaWVzIHRoZSBVUkwgb2YgdGhlIE5MVSBzZXJ2aWNlLCB0aGUgYWNjZXNzIHRva2VuIGdlbmVyYXRlZCBieSBnZW4tdG9rZW4tdmFyLnNoLCB0aGUgVVJOIG9mIHRoZSBzZW1hbnRpYyBtb2RlbCwgYW5kIHRoZSBpbnB1dCB0byBpbnRlcnByZXQ6CgokIC4vbmx1X2NsaWVudC5weSBcCiAgICAtLXNlcnZlclVybCBubHUuYXBpLm51YW5jZS5jb206NDQzIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLXNlY3VyZSAtLXRva2VuICRUT0tFTiBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLS1tb2RlbFVybiAidXJuOm51YW5jZS1taXg6dGFnOm1vZGVsL2Jha2VyeS9taXgubmx1Pz1sYW5ndWFnZT1lbmctVVNBIiBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLXRleHRJbnB1dCAiSSdkIGxpa2UgdG8gb3JkZXIgYSBzdHJhd2JlcnJ5IGxhdHRlIgp7CiAgICAic3RhdHVzIjogewogICAgICAgICJjb2RlIjogMjAwLAogICAgICAgICJtZXNzYWdlIjogIk9LIgogICAgfSwKICAgICJyZXN1bHQiOiB7CiAgICAgICAgImxpdGVyYWwiOiAiSSdkIGxpa2UgdG8gb3JkZXIgYSBzdHJhd2JlcnJ5IGxhdHRlIiwKICAgICAgICAiaW50ZXJwcmV0YXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAic2luZ2xlSW50ZW50SW50ZXJwcmV0YXRpb24iOiB7CiAgICAgICAgICAgICAgICAgICAgImludGVudCI6ICJQTEFDRV9PUkRFUiIsCiAgICAgICAgICAgICAgICAgICAgImNvbmZpZGVuY2UiOiAwLjk5NzM3MzEwNDA5NTQ1OSwKICAgICAgICAgICAgICAgICAgICAib3JpZ2luIjogIlNUQVRJU1RJQ0FMIiwKICAgICAgICAgICAgICAgICAgICAiZW50aXRpZXMiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJGTEFWT1IiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZW50aXRpZXMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGV4dFJhbmdlIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXJ0SW5kZXgiOiAyMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJlbmRJbmRleCI6IDMwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb25maWRlbmNlIjogMC44ODgwMDE2ODAzNzQxNDU1LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAib3JpZ2luIjogIlNUQVRJU1RJQ0FMIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0cmluZ1ZhbHVlIjogInN0cmF3YmVycnkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAiUFJPRFVDVCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJlbnRpdGllcyI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0UmFuZ2UiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic3RhcnRJbmRleCI6IDMxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImVuZEluZGV4IjogMzYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbmZpZGVuY2UiOiAwLjg5NTQ2MzM0NzQzNDk5NzYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJvcmlnaW4iOiAiU1RBVElTVElDQUwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic3RyaW5nVmFsdWUiOiAibGF0dGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfQp9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text>This Go application consists of these files:</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">U2FtcGxlIEdvIGFwcAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAg</text>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
-        <text>if not parsed.audioFile:
-            g_audio_file = &quot;./resources/asr_audio.wav&quot;</text>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0ZXh0SW5wdXRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">bW9kZWxfYXNyX3VybiA9ICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguYXNyPz1sYW5ndWFnZT1lbmctVVNBIgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>if not parsed.serverUrl or 'localhost:8080':
+        parsed.serverUrl = config.server_nlu_url
+    if not parsed.modelUrn:
+        parsed.modelUrn = config.model_nlu_urn
+    if not parsed.token:
+        # Fetch an access_token.
+        grant_type_scope_data = {
+            'grant_type': 'client_credentials',
+            'scope': 'nlu'
+        }
+        response = requests.post(config.oauth_endpoint_url, data=grant_type_scope_data,
+                                 auth=(config.client_id, config.client_secret))
+        parsed.token = response.json()['access_token']
+    if not parsed.textInput:
+        parsed.textInput = 'small americano please'
+
+    return parsed</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQUJDMTIzL21peC5ubHU/PWxhbmd1YWdlPWVuZy1VU0EiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgZ19hY2Nlc3NfdG9rZW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -334,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdWRpb0ZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDx0ZXh0SW5wdXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWRpb0ZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXh0SW5wdXRcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
