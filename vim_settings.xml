@@ -104,16 +104,19 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1588390341749">
         <mark key="'" line="52" column="79" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588560820531">
-        <mark key="'" line="88" column="40" />
-        <mark key="[" line="81" column="48" />
-        <mark key="]" line="81" column="48" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588596814950">
+        <mark key="'" line="88" column="32" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="428" />
         <mark key="." line="81" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
         <mark key="'" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/WrappedMessage.java" timestamp="1588391232758" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588596507532">
+        <mark key="'" line="1408" column="15" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingTextMessage.java" timestamp="1588390698059" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1588390464191">
         <mark key="'" line="15" column="35" />
@@ -130,10 +133,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425603086">
         <mark key="'" line="17" column="112" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" timestamp="1588388298087">
-        <mark key="'" line="37" column="82" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageHandlerRegistry.java" timestamp="1588387992949" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1588424862227">
         <mark key="'" line="12" column="37" />
       </file>
@@ -141,6 +140,9 @@
         <mark key="'" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowKnowledgeIntentConverter.java" timestamp="1588425723187" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" timestamp="1588596455680">
+        <mark key="'" line="20" column="88" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/ResponseCommand.java" timestamp="1588391524400" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/OutgoingMessageWrappedMessage.java" timestamp="1588391184565">
         <mark key="'" line="5" column="54" />
@@ -150,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="4" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="10" column="25" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="92" column="0" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="80" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
@@ -199,7 +199,6 @@
       <jump line="45" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="38" column="44" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="18" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
-      <jump line="17" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
       <jump line="44" column="23" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="25" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
       <jump line="18" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
@@ -249,13 +248,16 @@
       <jump line="168" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="34" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
       <jump line="37" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
-      <jump line="88" column="40" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="88" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="17" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
+      <jump line="20" column="88" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
+      <jump line="1408" column="15" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'{&quot;PLACES&quot;:[{&quot;literal&quot;:&quot;La Jolla&quot;,&quot;spoken&quot;:[&quot;la hoya&quot;,&quot;la jolla&quot;]},{&quot;literal&quot;:&quot;Llanfairpwllgwyngyll&quot;,&quot;spoken&quot;:[&quot;lan vire pool guin gill&quot;]},{&quot;literal&quot;:&quot;Abington Pigotts&quot;},{&quot;literal&quot;:&quot;Steeple Morden&quot;},{&quot;literal&quot;:&quot;Hoyland Common&quot;},{&quot;literal&quot;:&quot;Cogenhoe&quot;,&quot;spoken&quot;:[&quot;cook no&quot;]},{&quot;literal&quot;:&quot;Fordoun&quot;,&quot;spoken&quot;:[&quot;forden&quot;]},{&quot;literal&quot;:&quot;Llangollen&quot;,&quot;spoken&quot;:[&quot;lan-goth-lin&quot;,&quot;lhan-goth-luhn&quot;]},{&quot;literal&quot;:&quot;Auchenblae&quot;}]}')</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -264,7 +266,7 @@
         <text encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>AudioFormat(pcm=PCM(sample_rate_hz=wf.getframerate())</text>
+        <text>'{&quot;PLACES&quot;:[{&quot;literal&quot;:&quot;La Jolla&quot;,&quot;spoken&quot;:[&quot;la hoya&quot;,&quot;la jolla&quot;]},{&quot;literal&quot;:&quot;Llanfairpwllgwyngyll&quot;,&quot;spoken&quot;:[&quot;lan vire pool guin gill&quot;]},{&quot;literal&quot;:&quot;Abington Pigotts&quot;},{&quot;literal&quot;:&quot;Steeple Morden&quot;},{&quot;literal&quot;:&quot;Hoyland Common&quot;},{&quot;literal&quot;:&quot;Cogenhoe&quot;,&quot;spoken&quot;:[&quot;cook no&quot;]},{&quot;literal&quot;:&quot;Fordoun&quot;,&quot;spoken&quot;:[&quot;forden&quot;]},{&quot;literal&quot;:&quot;Llangollen&quot;,&quot;spoken&quot;:[&quot;lan-goth-lin&quot;,&quot;lhan-goth-luhn&quot;]},{&quot;literal&quot;:&quot;Auchenblae&quot;}]}')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
