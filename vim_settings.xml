@@ -104,6 +104,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1588390341749">
         <mark key="'" line="52" column="79" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588560820531">
+        <mark key="'" line="88" column="40" />
+        <mark key="[" line="81" column="48" />
+        <mark key="]" line="81" column="48" />
+        <mark key="." line="81" column="48" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
         <mark key="'" line="107" column="0" />
       </file>
@@ -128,7 +134,6 @@
         <mark key="'" line="37" column="82" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageHandlerRegistry.java" timestamp="1588387992949" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/MessageHandler.java" timestamp="1588387871096" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1588424862227">
         <mark key="'" line="12" column="37" />
       </file>
@@ -193,7 +198,6 @@
       <jump line="242" column="33" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" />
       <jump line="45" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="38" column="44" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="88" column="35" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="18" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
       <jump line="17" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
       <jump line="44" column="23" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -245,6 +249,7 @@
       <jump line="168" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="34" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
       <jump line="37" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
+      <jump line="88" column="40" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
