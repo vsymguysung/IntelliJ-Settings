@@ -113,14 +113,20 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1588424900688">
         <mark key="'" line="391" column="20" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588600411113">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425603086">
         <mark key="'" line="17" column="112" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1588390341749">
         <mark key="'" line="52" column="79" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588599651036">
-        <mark key="'" line="16" column="71" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588600209829">
+        <mark key="'" line="93" column="45" />
         <mark key="[" line="25" column="65" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -129,14 +135,11 @@
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" timestamp="1588596455680">
         <mark key="'" line="20" column="88" />
       </file>
-      <file name="/asr_client" timestamp="1588599572218">
+      <file name="/asr_client" timestamp="1588600421509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588596507532">
         <mark key="'" line="1408" column="15" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1588388465547">
-        <mark key="'" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/OutgoingMessageWrappedMessage.java" timestamp="1588391184565">
         <mark key="'" line="5" column="54" />
@@ -149,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="60" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.js" />
       <jump line="44" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="599" column="77" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="581" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -249,15 +251,16 @@
       <jump line="22" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="23" column="126" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="16" column="71" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
+      <jump line="93" column="45" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgaW5saW5lX3dvcmRzZXQ9J3siUExBQ0VTIjpbeyJsaXRlcmFsIjoiTGEgSm9sbGEiLCJzcG9rZW4iOlsibGEgaG95YSIsImxhIGpvbGxhIl19LHsibGl0ZXJhbCI6IkxsYW5mYWlycHdsbGd3eW5neWxsIiwic3Bva2VuIjpbImxhbiB2aXJlIHBvb2wgZ3VpbiBnaWxsIl19LHsibGl0ZXJhbCI6IkFiaW5ndG9uIFBpZ290dHMifSx7ImxpdGVyYWwiOiJTdGVlcGxlIE1vcmRlbiJ9LHsibGl0ZXJhbCI6IkhveWxhbmQgQ29tbW9uIn0seyJsaXRlcmFsIjoiQ29nZW5ob2UiLCJzcG9rZW4iOlsiY29vayBubyJdfSx7ImxpdGVyYWwiOiJGb3Jkb3VuIiwic3Bva2VuIjpbImZvcmRlbiJdfSx7ImxpdGVyYWwiOiJMbGFuZ29sbGVuIiwic3Bva2VuIjpbImxhbi1nb3RoLWxpbiIsImxoYW4tZ290aC1sdWhuIl19LHsibGl0ZXJhbCI6IkF1Y2hlbmJsYWUifV19JykK</text>
+      <register name="&quot;" type="4">
+        <text>%3A</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>%3A</text>
       </register>
       <register name="/" type="4">
         <text>Leslie</text>
@@ -266,31 +269,31 @@
         <text encoding="base64">ICAgIGlubGluZV93b3Jkc2V0PSd7IlBMQUNFUyI6W3sibGl0ZXJhbCI6IkxhIEpvbGxhIiwic3Bva2VuIjpbImxhIGhveWEiLCJsYSBqb2xsYSJdfSx7ImxpdGVyYWwiOiJMbGFuZmFpcnB3bGxnd3luZ3lsbCIsInNwb2tlbiI6WyJsYW4gdmlyZSBwb29sIGd1aW4gZ2lsbCJdfSx7ImxpdGVyYWwiOiJBYmluZ3RvbiBQaWdvdHRzIn0seyJsaXRlcmFsIjoiU3RlZXBsZSBNb3JkZW4ifSx7ImxpdGVyYWwiOiJIb3lsYW5kIENvbW1vbiJ9LHsibGl0ZXJhbCI6IkNvZ2VuaG9lIiwic3Bva2VuIjpbImNvb2sgbm8iXX0seyJsaXRlcmFsIjoiRm9yZG91biIsInNwb2tlbiI6WyJmb3JkZW4iXX0seyJsaXRlcmFsIjoiTGxhbmdvbGxlbiIsInNwb2tlbiI6WyJsYW4tZ290aC1saW4iLCJsaGFuLWdvdGgtbHVobiJdfSx7ImxpdGVyYWwiOiJBdWNoZW5ibGFlIn1dfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaW5saW5lX3dvcmRzZXQ9J3siUExBQ0VTIjpbeyJsaXRlcmFsIjoiTGEgSm9sbGEiLCJzcG9rZW4iOlsibGEgaG95YSIsImxhIGpvbGxhIl19LHsibGl0ZXJhbCI6IkxsYW5mYWlycHdsbGd3eW5neWxsIiwic3Bva2VuIjpbImxhbiB2aXJlIHBvb2wgZ3VpbiBnaWxsIl19LHsibGl0ZXJhbCI6IkFiaW5ndG9uIFBpZ290dHMifSx7ImxpdGVyYWwiOiJTdGVlcGxlIE1vcmRlbiJ9LHsibGl0ZXJhbCI6IkhveWxhbmQgQ29tbW9uIn0seyJsaXRlcmFsIjoiQ29nZW5ob2UiLCJzcG9rZW4iOlsiY29vayBubyJdfSx7ImxpdGVyYWwiOiJGb3Jkb3VuIiwic3Bva2VuIjpbImZvcmRlbiJdfSx7ImxpdGVyYWwiOiJMbGFuZ29sbGVuIiwic3Bva2VuIjpbImxhbi1nb3RoLWxpbiIsImxoYW4tZ290aC1sdWhuIl19LHsibGl0ZXJhbCI6IkF1Y2hlbmJsYWUifV19JykK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaW5saW5lX3dvcmRzZXQ9J3siUExBQ0VTIjpbeyJsaXRlcmFsIjoiTGEgSm9sbGEiLCJzcG9rZW4iOlsibGEgaG95YSIsImxhIGpvbGxhIl19LHsibGl0ZXJhbCI6IkxsYW5mYWlycHdsbGd3eW5neWxsIiwic3Bva2VuIjpbImxhbiB2aXJlIHBvb2wgZ3VpbiBnaWxsIl19LHsibGl0ZXJhbCI6IkFiaW5ndG9uIFBpZ290dHMifSx7ImxpdGVyYWwiOiJTdGVlcGxlIE1vcmRlbiJ9LHsibGl0ZXJhbCI6IkhveWxhbmQgQ29tbW9uIn0seyJsaXRlcmFsIjoiQ29nZW5ob2UiLCJzcG9rZW4iOlsiY29vayBubyJdfSx7ImxpdGVyYWwiOiJGb3Jkb3VuIiwic3Bva2VuIjpbImZvcmRlbiJdfSx7ImxpdGVyYWwiOiJMbGFuZ29sbGVuIiwic3Bva2VuIjpbImxhbi1nb3RoLWxpbiIsImxoYW4tZ290aC1sdWhuIl19LHsibGl0ZXJhbCI6IkF1Y2hlbmJsYWUifV19JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb19mb3JtYXQgPSBBdWRpb0Zvcm1hdChwY209UENNKHNhbXBsZV9yYXRlX2h6PXdmLmdldGZyYW1lcmF0ZSgpKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB3Zi5nZXRmcmFtZXJhdGUoKSA+IDE2MDAwOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhdWRpb19mb3JtYXQgPSBBdWRpb0Zvcm1hdChwY209UENNKHNhbXBsZV9yYXRlX2h6PXdmLmdldGZyYW1lcmF0ZSgpKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB3Zi5nZXRmcmFtZXJhdGUoKSA+IDE2MDAwOgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ19hY2Nlc3NfdG9rZW4gPSB0Zi5yZWFkKCkuc3RyaXAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZ190b2tlbl9maWxlLCAncicpIGFzIHRmOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ19hY2Nlc3NfdG9rZW4gPSB0Zi5yZWFkKCkuc3RyaXAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZ19ob3N0YWRkcjoK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZ190b2tlbl9maWxlLCAncicpIGFzIHRmOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb19maWxlID0gc3lzLmFyZ3ZbM10K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZ19ob3N0YWRkcjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
