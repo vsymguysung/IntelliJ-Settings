@@ -105,7 +105,7 @@
       <file name="/start_script.py" timestamp="1588617022213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588621903244">
+      <file name="/Dummy.txt" timestamp="1588624449643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588611373960">
@@ -120,19 +120,15 @@
       <file name="/fragment.py" timestamp="1588605387506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588620940920">
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588624921579" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588425807275">
         <mark key="'" line="168" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588604633428">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="41" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425603086">
         <mark key="'" line="17" column="112" />
@@ -276,43 +272,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>proven</text>
+        <text>dlg_client script</text>
       </register>
       <register name="-" type="4">
-        <text>proven</text>
+        <text>dlg_client script</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
+        <text encoding="base64">ICAgICAgIVtDcmVhdGUgc2hlbGwgY29uZmlnXShyZWFkbWVfcmVzb3VyY2VzL2FkZF9wcmVidWlsZF9hc19ydW5fYW5vdGhlcl9jb25maWcucG5nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MS4gCg==</text>
+        <text encoding="base64">ICAgICAgIVtDcmVhdGUgc2hlbGwgY29uZmlnXShyZWFkbWVfcmVzb3VyY2VzL3VzZV9wcmVidWlsZF9zaGVsbF9jb25maWcucG5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5uYW1lID0gIkV2YW4iCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5uYW1lID0gIkV2YW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">MS4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLnRva2VuID0gY29uZmlnLnRva2VuCg==</text>
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5uYW1lID0gIkV2YW4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgCg==</text>
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5uYW1lID0gIkV2YW4iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
