@@ -98,8 +98,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1588424862227">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588605366267">
-        <mark key="'" line="502" column="43" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588606295911">
+        <mark key="'" line="534" column="30" />
         <mark key="[" line="381" column="70" />
         <mark key="]" line="381" column="70" />
         <mark key="." line="381" column="70" />
@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1588424313334">
         <mark key="'" line="8" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1588605412353">
+      <file name="/Python Console" timestamp="1588606258774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
@@ -166,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="21" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="73" column="40" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/dlg/v1/dlg_interface_pb2_grpc.py" />
       <jump line="25" column="56" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
       <jump line="16" column="12" filename="$USER_HOME$/GenDev/grpc-java/examples/target/generated-sources/protobuf/java/io/grpc/examples/routeguide/Rectangle.java" />
@@ -266,6 +265,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
       <jump line="502" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="16" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
+      <jump line="534" column="30" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
