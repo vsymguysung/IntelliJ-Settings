@@ -113,7 +113,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1588631391949">
+      <file name="/Python Console" timestamp="1588633035697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
@@ -149,8 +149,8 @@
       <file name="/asr_client" timestamp="1588627176441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588596507532">
-        <mark key="'" line="1408" column="15" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588633011198">
+        <mark key="'" line="723" column="38" />
       </file>
       <file name="/nlu_client" timestamp="1588630685405">
         <mark key="[" line="0" column="0" />
@@ -180,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="242" column="33" filename="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py" />
-      <jump line="45" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="38" column="44" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="18" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
       <jump line="25" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
@@ -280,6 +277,9 @@
       <jump line="115" column="18" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="133" column="40" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="50" column="10" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="813" column="20" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
+      <jump line="825" column="30" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
+      <jump line="723" column="38" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
