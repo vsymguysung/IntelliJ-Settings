@@ -108,10 +108,12 @@
       <file name="/Dummy.txt" timestamp="1588624449643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588611373960">
-        <mark key="'" line="84" column="33" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588625588680">
+        <mark key="'" line="191" column="26" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1588612067935">
+      <file name="/Python Console" timestamp="1588625953144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
@@ -133,12 +135,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425603086">
         <mark key="'" line="17" column="112" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588602351665">
-        <mark key="'" line="93" column="45" />
-        <mark key="[" line="25" column="65" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588626064292">
+        <mark key="'" line="118" column="45" />
+        <mark key="[" line="106" column="38" />
+        <mark key="]" line="106" column="48" />
+        <mark key="." line="106" column="47" />
+        <mark key="^" line="106" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" timestamp="1588596455680">
         <mark key="'" line="20" column="88" />
@@ -167,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="23" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="51" column="20" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="58" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="8" column="7" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -267,48 +268,49 @@
       <jump line="219" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="75" column="18" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="84" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
+      <jump line="191" column="26" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dlg_client script</text>
+        <text>hostaddr</text>
       </register>
       <register name="-" type="4">
-        <text>dlg_client script</text>
+        <text>hostaddr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIVtDcmVhdGUgc2hlbGwgY29uZmlnXShyZWFkbWVfcmVzb3VyY2VzL2FkZF9wcmVidWlsZF9hc19ydW5fYW5vdGhlcl9jb25maWcucG5nKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBnX2FjY2Vzc190b2tlbiwgZ19ob3N0YWRkciwgZ19hdWRpb19maWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIVtDcmVhdGUgc2hlbGwgY29uZmlnXShyZWFkbWVfcmVzb3VyY2VzL3VzZV9wcmVidWlsZF9zaGVsbF9jb25maWcucG5nKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZ19hdWRpb19maWxlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcGFyc2VkLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCBnX2FjY2Vzc190b2tlbiwgZ19ob3N0YWRkciwgZ19hdWRpb19maWxlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">MS4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5uYW1lID0gIkV2YW4iCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWQudG9rZW4gPSBjb25maWcuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBwYXJzZWQudG9rZW46Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5uYW1lID0gIkV2YW4iCg==</text>
+        <text encoding="base64">ICAgIGYndXNhZ2U6IHtzeXMuYXJndlswXX0gPGhvc3RhZGRyPiA8dG9rZW5fZmlsZT4gPGFzcl9hdWRpby53YXY+Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
