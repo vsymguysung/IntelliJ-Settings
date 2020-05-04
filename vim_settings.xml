@@ -105,7 +105,7 @@
       <file name="/start_script.py" timestamp="1588617022213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588619338963">
+      <file name="/Dummy.txt" timestamp="1588621343082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588611373960">
@@ -137,7 +137,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" timestamp="1588425603086">
         <mark key="'" line="17" column="112" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/.idea/workspace.xml" timestamp="1588620031582" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588602351665">
         <mark key="'" line="93" column="45" />
         <mark key="[" line="25" column="65" />
@@ -165,6 +164,9 @@
         <mark key="'" line="23" column="66" />
       </file>
       <file name="/dlg_client" timestamp="1588612043019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1588621348654">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
