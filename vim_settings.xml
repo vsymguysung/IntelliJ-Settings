@@ -95,17 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588627913182">
-        <mark key="'" line="564" column="4" />
-        <mark key="[" line="381" column="70" />
-        <mark key="]" line="381" column="70" />
-        <mark key="." line="381" column="70" />
-        <mark key="^" line="406" column="20" />
-      </file>
       <file name="/start_script.py" timestamp="1588617022213">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588642314052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588630244964">
@@ -140,17 +130,8 @@
         <mark key="^" line="102" column="12" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" timestamp="1588596455680">
-        <mark key="'" line="20" column="88" />
-      </file>
       <file name="/asr_client" timestamp="1588627176441">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588681292433">
-        <mark key="'" line="1373" column="15" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588644289281">
-        <mark key="'" line="1597" column="19" />
       </file>
       <file name="/nlu_client" timestamp="1588681401690">
         <mark key="[" line="0" column="0" />
@@ -161,6 +142,23 @@
         <mark key="]" line="17" column="27" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588627913182">
+        <mark key="'" line="564" column="4" />
+        <mark key="[" line="381" column="70" />
+        <mark key="]" line="381" column="70" />
+        <mark key="." line="381" column="70" />
+        <mark key="^" line="406" column="20" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/nlu/v1/runtime.proto" timestamp="1588682659171" />
+      <file name="/Dummy.txt" timestamp="1588642314052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588681292433">
+        <mark key="'" line="1373" column="15" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588644289281">
+        <mark key="'" line="1597" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588643086909">
         <mark key="'" line="33" column="28" />
