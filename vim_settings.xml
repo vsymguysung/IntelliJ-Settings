@@ -143,8 +143,8 @@
       <file name="/Dummy.txt" timestamp="1588642314052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588689601967">
-        <mark key="'" line="292" column="55" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588689957199">
+        <mark key="'" line="506" column="66" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1588689540580">
         <mark key="'" line="9" column="163" />
@@ -170,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="56" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="75" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="89" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="5" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/OutgoingMessageWrappedMessage.java" />
@@ -270,6 +268,8 @@
       <jump line="640" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="9" column="163" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" />
       <jump line="292" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="371" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="506" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
