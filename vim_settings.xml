@@ -128,44 +128,20 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1588689400188" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588686807209">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588696663514">
         <mark key="'" line="526" column="28" />
-        <mark key="[" line="381" column="70" />
-        <mark key="]" line="381" column="70" />
-        <mark key="." line="381" column="70" />
-        <mark key="^" line="406" column="20" />
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="0" />
+        <mark key="." line="405" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/nlu/v1/runtime.proto" timestamp="1588682659171" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588693201198">
-        <mark key="'" line="513" column="60" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1588689540580">
         <mark key="'" line="9" column="163" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588681292433">
         <mark key="'" line="1373" column="15" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588644289281">
-        <mark key="'" line="1597" column="19" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" timestamp="1588694545673">
-        <mark key="'" line="68" column="44" />
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="27" />
-        <mark key="." line="66" column="26" />
-        <mark key="^" line="66" column="27" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1588692572568" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588643086909">
-        <mark key="'" line="33" column="28" />
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="25" />
-        <mark key="^" line="60" column="25" />
-        <mark key="." line="60" column="24" />
-      </file>
-      <file name="/dlg_client" timestamp="1588643164653">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="135" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
@@ -273,7 +249,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -285,31 +261,31 @@
         <text encoding="base64">cmVxdWVzdC52b2ljZS5zYW1wbGVfcmF0ZV9oeiA9IDE2MDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQuZ2V0RXZlbnRzKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICMgVmFsaWRhdGUgYXJncy4KICAgIGlmIG5vdCBhcmdzLnRva2VuOgogICAgICAgICMgRmV0Y2ggYW4gYWNjZXNzX3Rva2VuIGZvciB0dHMuCiAgICAgICAgZ3JhbnRfdHlwZV9zY29wZV9kYXRhID0gewogICAgICAgICAgICAnZ3JhbnRfdHlwZSc6ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnc2NvcGUnOiAndHRzJwogICAgICAgIH0KICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QoY29uZmlnLm9hdXRoX2VuZHBvaW50X3VybCwgZGF0YT1ncmFudF90eXBlX3Njb3BlX2RhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGg9KGNvbmZpZy5jbGllbnRfaWQsIGNvbmZpZy5jbGllbnRfc2VjcmV0KSkKICAgICAgICBhcmdzLnRva2VuID0gcmVzcG9uc2UuanNvbigpWydhY2Nlc3NfdG9rZW4nXQogICAgaWYgbm90IGFyZ3Muc2VydmVyVXJsOgogICAgICAgIGFyZ3Muc2VydmVyVXJsID0gY29uZmlnLnNlcnZlcl90dHNfdXJs</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlbnQuZ2V0RXZlbnRzKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
