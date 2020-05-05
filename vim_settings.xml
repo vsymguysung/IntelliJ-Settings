@@ -105,7 +105,7 @@
       <file name="/start_script.py" timestamp="1588617022213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588628218736">
+      <file name="/Dummy.txt" timestamp="1588642314052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588630244964">
@@ -122,11 +122,11 @@
       <file name="/fragment.py" timestamp="1588605387506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588627013751">
-        <mark key="[" line="20" column="71" />
-        <mark key="]" line="20" column="71" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588643367800">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
         <mark key="^" line="20" column="68" />
-        <mark key="." line="20" column="71" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588425807275">
         <mark key="'" line="168" column="38" />
@@ -152,7 +152,7 @@
       <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588633011198">
         <mark key="'" line="723" column="38" />
       </file>
-      <file name="/nlu_client" timestamp="1588642223502">
+      <file name="/nlu_client" timestamp="1588643311818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588607704710">
@@ -162,14 +162,14 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588642216000">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588643086909">
         <mark key="'" line="33" column="28" />
         <mark key="[" line="60" column="22" />
         <mark key="]" line="60" column="25" />
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="24" />
       </file>
-      <file name="/dlg_client" timestamp="1588612043019">
+      <file name="/dlg_client" timestamp="1588643164653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/prebuild.sh" timestamp="1588628139831">
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
       <jump line="18" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
       <jump line="37" column="82" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
       <jump line="108" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
@@ -282,16 +281,17 @@
       <jump line="723" column="38" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
       <jump line="109" column="64" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="133" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="32" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="33" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nlu</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="-" type="4">
-        <text>nlu</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
         <text>nmaid</text>
@@ -300,21 +300,24 @@
         <text encoding="base64">bW9kZWxfYXNyX3VybiA9ICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguYXNyPz1sYW5ndWFnZT1lbmctVVNBIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if not parsed.serverUrl or 'localhost:8080':
         parsed.serverUrl = config.server_nlu_url
     if not parsed.modelUrn:
@@ -333,14 +336,11 @@
 
     return parsed</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQUJDMTIzL21peC5ubHU/PWxhbmd1YWdlPWVuZy1VU0EiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgZ19hY2Nlc3NfdG9rZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
