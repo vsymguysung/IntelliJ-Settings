@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxob3N0YWRkclw+</entry>
         <entry encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</entry>
         <entry>final</entry>
         <entry>MessageHandlerRegistry</entry>
@@ -25,6 +24,7 @@
         <entry>args.token</entry>
         <entry encoding="base64">XDx0ZXh0SW5wdXRcPg==</entry>
         <entry>nmaid</entry>
+        <entry>Channel</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -116,9 +116,6 @@
       <file name="/Python Console" timestamp="1588633035697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1588426110247">
-        <mark key="'" line="37" column="19" />
-      </file>
       <file name="/fragment.py" timestamp="1588605387506">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,13 +125,13 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588425807275">
-        <mark key="'" line="168" column="38" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588630532275">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" timestamp="1588644356347">
+        <mark key="'" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" timestamp="1588626637691">
         <mark key="'" line="46" column="28" />
@@ -149,10 +146,13 @@
       <file name="/asr_client" timestamp="1588627176441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588633011198">
-        <mark key="'" line="723" column="38" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588644399495">
+        <mark key="'" line="1373" column="15" />
       </file>
-      <file name="/nlu_client" timestamp="1588643311818">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588644289281">
+        <mark key="'" line="1597" column="19" />
+      </file>
+      <file name="/nlu_client" timestamp="1588643548496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588607704710">
@@ -183,12 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
-      <jump line="37" column="82" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/MessageCommand.java" />
-      <jump line="108" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" />
-      <jump line="94" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
-      <jump line="28" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
       <jump line="64" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
       <jump line="79" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
       <jump line="52" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
@@ -283,6 +277,12 @@
       <jump line="133" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="32" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="33" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" />
+      <jump line="1596" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" />
+      <jump line="1597" column="19" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" />
+      <jump line="20" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" />
+      <jump line="1373" column="15" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,7 +294,7 @@
         <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text>nmaid</text>
+        <text>Channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kZWxfYXNyX3VybiA9ICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguYXNyPz1sYW5ndWFnZT1lbmctVVNBIgo=</text>
@@ -349,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>nmaid</last-search>
+      <last-search>Channel</last-search>
       <last-offset />
-      <last-pattern>nmaid</last-pattern>
+      <last-pattern>Channel</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
