@@ -109,16 +109,17 @@
       <file name="/fragment.py" timestamp="1588605387506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588643367800">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588683524824">
+        <mark key="[" line="21" column="64" />
+        <mark key="]" line="21" column="64" />
         <mark key="^" line="20" column="68" />
-        <mark key="." line="61" column="0" />
+        <mark key="." line="21" column="64" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588630532275">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588683840659">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" timestamp="1588644356347">
         <mark key="'" line="20" column="34" />
@@ -133,17 +134,17 @@
       <file name="/asr_client" timestamp="1588627176441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/nlu_client" timestamp="1588681401690">
+      <file name="/nlu_client" timestamp="1588683601928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588607704710">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588683981960">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588627913182">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588683796854">
         <mark key="'" line="564" column="4" />
         <mark key="[" line="381" column="70" />
         <mark key="]" line="381" column="70" />
@@ -286,16 +287,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>asr</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>asr</text>
       </register>
       <register name="/" type="4">
         <text>Channel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bW9kZWxfYXNyX3VybiA9ICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQTc5M19DMTk3OS9taXguYXNyPz1sYW5ndWFnZT1lbmctVVNBIgo=</text>
+      <register name="0" type="4">
+        <text>asr.api.nuance.com:443</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IAo=</text>
