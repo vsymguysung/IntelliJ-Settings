@@ -128,10 +128,10 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1588689400188" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588700261814">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588700982009">
         <mark key="'" line="528" column="28" />
-        <mark key="[" line="417" column="46" />
-        <mark key="]" line="419" column="27" />
+        <mark key="[" line="419" column="26" />
+        <mark key="]" line="419" column="26" />
         <mark key="." line="419" column="26" />
         <mark key="^" line="419" column="27" />
       </file>
@@ -250,10 +250,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Channel</text>
