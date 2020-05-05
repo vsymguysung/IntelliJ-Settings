@@ -95,11 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" timestamp="1588630244964">
-        <mark key="'" line="191" column="26" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-      </file>
       <file name="/Python Console" timestamp="1588685846477">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,10 +113,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588692070592" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" timestamp="1588644356347">
         <mark key="'" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentInvocationNames.java" timestamp="1588688249604" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentInvocationNames.java" timestamp="1588695258638" />
       <file name="/nlu_client" timestamp="1588683601928">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,11 +136,8 @@
         <mark key="^" line="406" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/nlu/v1/runtime.proto" timestamp="1588682659171" />
-      <file name="/Dummy.txt" timestamp="1588642314052">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588689957199">
-        <mark key="'" line="506" column="66" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588693201198">
+        <mark key="'" line="513" column="60" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1588689540580">
         <mark key="'" line="9" column="163" />
@@ -155,9 +148,14 @@
       <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" timestamp="1588644289281">
         <mark key="'" line="1597" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" timestamp="1588691806931">
-        <mark key="'" line="65" column="44" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" timestamp="1588694545673">
+        <mark key="'" line="68" column="44" />
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="66" column="27" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1588692572568" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588643086909">
         <mark key="'" line="33" column="28" />
         <mark key="[" line="60" column="22" />
@@ -170,11 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="5" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/model/OutgoingMessageWrappedMessage.java" />
-      <jump line="108" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="96" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="155" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="135" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="96" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
       <jump line="8" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" />
@@ -268,14 +261,19 @@
       <jump line="9" column="163" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" />
       <jump line="292" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="371" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="506" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="65" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" />
+      <jump line="506" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="509" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="510" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="513" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="65" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" />
+      <jump line="66" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" />
+      <jump line="68" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5zYW1wbGVfcmF0ZV9oeiA9IDE2MDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -287,47 +285,31 @@
         <text encoding="base64">cmVxdWVzdC52b2ljZS5zYW1wbGVfcmF0ZV9oeiA9IDE2MDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQuZ2V0RXZlbnRzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>if not parsed.serverUrl or 'localhost:8080':
-        parsed.serverUrl = config.server_nlu_url
-    if not parsed.modelUrn:
-        parsed.modelUrn = config.model_nlu_urn
-    if not parsed.token:
-        # Fetch an access_token.
-        grant_type_scope_data = {
-            'grant_type': 'client_credentials',
-            'scope': 'nlu'
-        }
-        response = requests.post(config.oauth_endpoint_url, data=grant_type_scope_data,
-                                 auth=(config.client_id, config.client_secret))
-        parsed.token = response.json()['access_token']
-    if not parsed.textInput:
-        parsed.textInput = 'small americano please'
-
-    return parsed</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQUJDMTIzL21peC5ubHU/PWxhbmd1YWdlPWVuZy1VU0EiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
