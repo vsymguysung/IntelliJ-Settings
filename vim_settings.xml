@@ -136,8 +136,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1588689540580">
         <mark key="'" line="9" column="163" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" timestamp="1588681292433">
-        <mark key="'" line="1373" column="15" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1588703763274">
+        <mark key="[" line="210" column="81" />
+        <mark key="]" line="211" column="27" />
+        <mark key="^" line="211" column="27" />
+        <mark key="." line="211" column="26" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1588692572568" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588702965006">
