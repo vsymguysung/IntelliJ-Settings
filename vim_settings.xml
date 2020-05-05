@@ -103,10 +103,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1588633035697">
+      <file name="/Python Console" timestamp="1588685846477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1588605387506">
+      <file name="/fragment.py" timestamp="1588685324227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588683524824">
@@ -137,15 +137,14 @@
       <file name="/nlu_client" timestamp="1588683601928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588683981960">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588685821300">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588683796854">
-        <mark key="'" line="564" column="4" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588685367552">
+        <mark key="'" line="526" column="28" />
         <mark key="[" line="381" column="70" />
         <mark key="]" line="381" column="70" />
         <mark key="." line="381" column="70" />
@@ -182,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
-      <jump line="79" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
       <jump line="52" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" />
       <jump line="10" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" />
       <jump line="16" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" />
@@ -256,7 +253,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="154" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="507" column="16" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="564" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="175" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="29" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="81" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
@@ -282,41 +278,47 @@
       <jump line="1597" column="19" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/__init__.py" />
       <jump line="20" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" />
       <jump line="1373" column="15" filename="$USER_HOME$/GenDev/nuance-sandbox/env/lib/python3.7/site-packages/grpc/_channel.py" />
+      <jump line="404" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="564" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="526" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>asr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5zYW1wbGVfcmF0ZV9oeiA9IDE2MDAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>asr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Channel</text>
       </register>
-      <register name="0" type="4">
-        <text>asr.api.nuance.com:443</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5zYW1wbGVfcmF0ZV9oeiA9IDE2MDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">cmVxdWVzdC52b2ljZS5sYW5ndWFnZSA9ICJlbi11cyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if not parsed.serverUrl or 'localhost:8080':
         parsed.serverUrl = config.server_nlu_url
     if not parsed.modelUrn:
@@ -335,11 +337,8 @@
 
     return parsed</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQUJDMTIzL21peC5ubHU/PWxhbmd1YWdlPWVuZy1VU0EiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cm46bnVhbmNlLW1peDp0YWc6bW9kZWwvQUJDMTIzL21peC5ubHU/PWxhbmd1YWdlPWVuZy1VU0EiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
