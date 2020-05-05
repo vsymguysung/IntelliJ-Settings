@@ -107,7 +107,7 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="21" column="64" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588683840659">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588700092912">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="20" />
@@ -121,18 +121,19 @@
       <file name="/nlu_client" timestamp="1588683601928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588685821300">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="36" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588700308907">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="9" column="36" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1588689400188" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588696663514">
-        <mark key="'" line="526" column="28" />
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588700261814">
+        <mark key="'" line="528" column="28" />
+        <mark key="[" line="417" column="46" />
+        <mark key="]" line="419" column="27" />
+        <mark key="." line="419" column="26" />
+        <mark key="^" line="419" column="27" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/nlu/v1/runtime.proto" timestamp="1588682659171" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1588689540580">
@@ -248,8 +249,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
