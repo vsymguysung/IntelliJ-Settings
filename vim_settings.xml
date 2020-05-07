@@ -95,15 +95,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/params.json" timestamp="1588821894705">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="81" />
+        <mark key="^" line="17" column="81" />
+        <mark key="." line="17" column="80" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1588822783354" />
       <file name="$MAVEN_REPOSITORY$/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1-sources.jar!/com/codahale/metrics/MetricRegistry.java" timestamp="1588708266164" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588819231951">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="61" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588821226325">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="78" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1588692070592" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentInvocationNames.java" timestamp="1588695258638" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588821319771" />
       <file name="/nlu_client" timestamp="1588703001702">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,30 +119,39 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1588689400188" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/config.json" timestamp="1588821438125">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588709937415">
         <mark key="'" line="532" column="28" />
         <mark key="[" line="424" column="0" />
         <mark key="]" line="424" column="0" />
         <mark key="." line="424" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1588689540580">
-        <mark key="'" line="9" column="163" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/config.json" timestamp="1588821749245" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588820195542">
+        <mark key="'" line="397" column="76" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1588708246543">
-        <mark key="'" line="352" column="60" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1588823005997">
+        <mark key="'" line="245" column="32" />
         <mark key="[" line="210" column="29" />
         <mark key="]" line="209" column="30" />
         <mark key="^" line="209" column="30" />
         <mark key="." line="209" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/roles/service-configure/templates/custom-jmx.yml.j2" timestamp="1588707119126" />
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/config.json" timestamp="1588819273002">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/config.json" timestamp="1588823033053">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1588692572568" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588822133303">
+        <mark key="'" line="172" column="41" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588729766734">
         <mark key="'" line="110" column="37" />
         <mark key="[" line="69" column="0" />
@@ -145,16 +160,11 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1588707411294" />
+      <file name="/fragment.java" timestamp="1588821428241">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="76" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="102" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="379" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="43" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="224" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="216" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="223" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="222" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="235" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="99" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
@@ -247,48 +257,56 @@
       <jump line="352" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="112" column="86" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="110" column="37" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
+      <jump line="413" column="42" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
+      <jump line="397" column="76" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
+      <jump line="363" column="29" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
+      <jump line="171" column="19" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
+      <jump line="172" column="41" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
+      <jump line="243" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="244" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="245" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>world</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IjxQcm92aWRlIFlvdXIgTWl4IEJldGEgQ2xpZW50IFNlY3JldD4i</text>
+        <text>world</text>
       </register>
       <register name="/" type="4">
         <text>Channel</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;mTz0bcsyQMH2Cs-FBz1FnRw6z2bp_zHSgMNiB2ZjMl0&quot;</text>
+        <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.nlu?=language=eng-USA&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjbGllbnRfc2VjcmV0IjogIjxQcm92aWRlIFlvdXIgTWl4IEJldGEgQ2xpZW50IFNlY3JldD4iLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAibVR6MGJjc3lRTUgyQ3MtRkJ6MUZuUnc2ejJicF96SFNnTU5pQjJaak1sMCIK</text>
+        <text encoding="base64">ICAgICJjbGllbnRfaWQiOiAiYXBwSUQ6PFByb3ZpZGUgWW91ciBNaXggQmV0YSBBcHAgSWQ+IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICJhcHBJRCUzQU5NRFBUUklBTF9ndXlzdW5nX2tpbV9nZW5lc3lzX2NvbV8yMDIwMDQxN1QxNDA4NTEyMjc0MjMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RvYy1nZW4tZ3JwYy1qYXZhLTEuMjkuMC1vc3gteDg2XzY0LmV4ZSwK</text>
+        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAibVR6MGJjc3lRTUgyQ3MtRkJ6MUZuUnc2ejJicF96SFNnTU5pQjJaak1sMCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLnBhcmFsbGVsID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICJhcHBJRCUzQU5NRFBUUklBTF9ndXlzdW5nX2tpbV9nZW5lc3lzX2NvbV8yMDIwMDQxN1QxNDA4NTEyMjc0MjMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBhcmdzLnBhcmFsbGVsOgo=</text>
+        <text encoding="base64">ICAgIHByb3RvYy1nZW4tZ3JwYy1qYXZhLTEuMjkuMC1vc3gteDg2XzY0LmV4ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkUG9vbC5nZXROCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLnBhcmFsbGVsID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBhcmdzLnBhcmFsbGVsOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkUG9vbC5nZXROCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
