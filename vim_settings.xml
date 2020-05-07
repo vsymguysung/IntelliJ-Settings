@@ -110,17 +110,18 @@
       <file name="/asr_client" timestamp="1588862465036">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/config.json" timestamp="1588877462914" />
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/config.json" timestamp="1588821438125">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="78" />
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/protoc.sh" timestamp="1588877114929">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="12" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/protoc.sh" timestamp="1588877279312">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="11" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588853281769">
         <mark key="'" line="459" column="4" />
@@ -129,9 +130,6 @@
         <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588876276181" />
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588820195542">
-        <mark key="'" line="397" column="76" />
-      </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/README.md" timestamp="1588863414003" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1588823005997">
         <mark key="'" line="245" column="32" />
@@ -160,13 +158,7 @@
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588862397930">
         <mark key="'" line="172" column="17" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588729766734">
-        <mark key="'" line="110" column="37" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="66" column="28" />
-        <mark key="." line="69" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588877397489" />
       <file name="/fragment.java" timestamp="1588821428241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -292,28 +284,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnamF2YScKICAgIGlkICdjb20uZ29vZ2xlLnByb3RvYnVmJyB2ZXJzaW9uICcwLjguMTAnCiAgICBpZCAnaWRlYScKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxLyAuLi9wcm90by92MS9udWFuY2VfdHRzLnByb3RvIC0tamF2YV9vdXQ9Li9zcmMvbWFpbi9qYXZhIC0tZ3JwYy1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL2RsZ19jb21tb25fbWVzc2FnZXMucHJvdG8gLS1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhbGxfY3JlZGVudGlhbHMgPSBOb25lCg==</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL2RsZ19tZXNzYWdlcy5wcm90byAtLWphdmFfb3V0PS4vc3JjL21haW4vamF2YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdycGMK</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL2RsZ19pbnRlcmZhY2UucHJvdG8gLS1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL3NpbmdsZS1pbnRlbnQtaW50ZXJwcmV0YXRpb24ucHJvdG8gLS1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
