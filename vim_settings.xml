@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MessageHandlerRegistry</entry>
         <entry encoding="base64">XDxGbHVzaEF1ZGlvTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxwbGF5YmFja0luY29tcGxldGVBdWRpb0NvdW50ZXJcPg==</entry>
         <entry encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>Channel</entry>
         <entry>call_credential</entry>
         <entry encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -102,8 +102,8 @@
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588881264167" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588883192003">
-        <mark key="'" line="140" column="9" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588884437681">
+        <mark key="'" line="116" column="74" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/config.json" timestamp="1588880694671" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588881291693">
@@ -152,11 +152,6 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/protoc.sh" timestamp="1588877675008">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1588879384622">
         <mark key="'" line="77" column="14" />
         <mark key="[" line="21" column="0" />
@@ -188,11 +183,11 @@
         <mark key="." line="4" column="78" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/params.json" timestamp="1588882956721" />
+      <file name="/fragment.java" timestamp="1588884325159">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="20" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="503" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="391" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="399" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="14" column="14" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="541" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
@@ -290,6 +285,9 @@
       <jump line="413" column="24" filename="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="213" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="256" column="16" filename="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
+      <jump line="118" column="92" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="68" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="116" column="74" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +299,7 @@
         <text>tokenURL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</text>
+        <text encoding="base64">XDxzZWxlY3Rvclw+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.dialog&quot;</text>
@@ -344,9 +342,9 @@ protoc -I ../proto/v1 ../proto/v1/single-intent-interpretation.proto --java_out=
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</last-search>
+      <last-search encoding="base64">XDxzZWxlY3Rvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3Rvclw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
