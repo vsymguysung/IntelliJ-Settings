@@ -102,8 +102,8 @@
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588881264167" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588884437681">
-        <mark key="'" line="116" column="74" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588885844377">
+        <mark key="'" line="182" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/config.json" timestamp="1588880694671" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588881291693">
@@ -188,10 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="28" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="14" column="14" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="541" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="537" column="37" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="26" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
       <jump line="502" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="16" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
@@ -288,6 +284,10 @@
       <jump line="118" column="92" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="68" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="116" column="74" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="275" column="34" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="218" column="25" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="260" column="37" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="182" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
