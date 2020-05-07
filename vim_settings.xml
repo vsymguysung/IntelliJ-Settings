@@ -95,30 +95,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588853281769">
-        <mark key="'" line="459" column="4" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/params.json" timestamp="1588821894705">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="81" />
         <mark key="^" line="17" column="81" />
         <mark key="." line="17" column="80" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588876276181" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588855180817">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588820195542">
-        <mark key="'" line="397" column="76" />
-      </file>
       <file name="/asr_client" timestamp="1588862465036">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/config.json" timestamp="1588821438125">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/protoc.sh" timestamp="1588877114929">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588853281769">
+        <mark key="'" line="459" column="4" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588876276181" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588820195542">
+        <mark key="'" line="397" column="76" />
       </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/README.md" timestamp="1588863414003" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1588823005997">
@@ -127,6 +139,12 @@
         <mark key="]" line="209" column="30" />
         <mark key="^" line="209" column="30" />
         <mark key="." line="209" column="29" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/protoc.sh" timestamp="1588877000799">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1588876195683">
         <mark key="[" line="20" column="0" />
@@ -139,12 +157,6 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588709813651">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588862397930">
         <mark key="'" line="172" column="17" />
       </file>
@@ -154,12 +166,6 @@
         <mark key="]" line="69" column="0" />
         <mark key="^" line="66" column="28" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/config.json" timestamp="1588821438125">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="78" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1588821428241">
         <mark key="[" line="0" column="0" />
