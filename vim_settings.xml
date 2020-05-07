@@ -107,6 +107,7 @@
         <mark key="^" line="17" column="81" />
         <mark key="." line="17" column="80" />
       </file>
+      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588876276181" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588855180817">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -127,8 +128,10 @@
         <mark key="^" line="209" column="30" />
         <mark key="." line="209" column="29" />
       </file>
-      <file name="/nlu_client" timestamp="1588703001702">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1588876195683">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/config.json" timestamp="1588823033053">
         <mark key="[" line="1" column="4" />
@@ -268,10 +271,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>world</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</text>
@@ -280,31 +283,31 @@
         <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.nlu?=language=eng-USA&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnamF2YScKICAgIGlkICdjb20uZ29vZ2xlLnByb3RvYnVmJyB2ZXJzaW9uICcwLjguMTAnCiAgICBpZCAnaWRlYScKfQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhbGxfY3JlZGVudGlhbHMgPSBOb25lCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGdycGMK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIGNhbGxfY3JlZGVudGlhbHMgPSBOb25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjbGllbnRfc2VjcmV0IjogIjxQcm92aWRlIFlvdXIgTWl4IEJldGEgQ2xpZW50IFNlY3JldD4iLAo=</text>
+        <text encoding="base64">aW1wb3J0IGdycGMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjbGllbnRfaWQiOiAiYXBwSUQ6PFByb3ZpZGUgWW91ciBNaXggQmV0YSBBcHAgSWQ+IiwK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
