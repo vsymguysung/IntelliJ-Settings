@@ -95,24 +95,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588879865925">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588881278843">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="59" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/config.json" timestamp="1588879979475" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588881264167" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/config.json" timestamp="1588880694671" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/config.json" timestamp="1588877462914" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588880348749" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/protoc.sh" timestamp="1588880572166">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588881291693">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/protoc.sh" timestamp="1588882035378">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/Config.java" timestamp="1588881229361">
+        <mark key="[" line="79" column="37" />
+        <mark key="]" line="79" column="45" />
+        <mark key="^" line="79" column="45" />
+        <mark key="." line="79" column="44" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Authenticator.java" timestamp="1588879714301">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588881349636">
+        <mark key="'" line="238" column="42" />
+        <mark key="[" line="226" column="39" />
+        <mark key="]" line="229" column="57" />
+        <mark key="^" line="229" column="57" />
+        <mark key="." line="229" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/protoc.sh" timestamp="1588877279312">
         <mark key="[" line="4" column="0" />
@@ -131,13 +150,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588876276181" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/protoc.sh" timestamp="1588877675008">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/README.md" timestamp="1588863414003" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1588879384622">
         <mark key="'" line="77" column="14" />
         <mark key="[" line="21" column="0" />
@@ -157,11 +174,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1588876195683">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/README.md" timestamp="1588881016663" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588879692213">
         <mark key="'" line="215" column="29" />
         <mark key="[" line="8" column="0" />
@@ -170,7 +183,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588877397489" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588879210337">
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588881678604">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="79" />
         <mark key="^" line="4" column="79" />
@@ -178,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
       <jump line="88" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="17" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
       <jump line="20" column="88" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
@@ -278,6 +290,7 @@
       <jump line="253" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="60" column="11" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
       <jump line="79" column="14" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
+      <jump line="234" column="42" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,13 +299,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Pcm</text>
+        <text>tokenURL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsVXJuID09IG51bGwgfHwgbW9kZWxVcm4uaXNFbXB0eSgpKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.dialog&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -303,28 +316,34 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>protoc -I ../proto/v1 ../proto/v1/dlg_interface.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/dlg_messages.proto --java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/dlg_common_messages.proto --java_out=./src/main/java
+
+protoc -I ../proto/v1 ../proto/v1/interpretation-common.proto --java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/multi-intent-interpretation.proto --java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/result.proto --java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/runtime.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/single-intent-interpretation.proto --java_out=./src/main/java
+
+protoc -I ../proto/v1 ../proto/v1/nuance_asr_resource.proto --java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/nuance_asr_result.proto --java_out=./src/main/java
+protoc -I ../proto/v1 ../proto/v1/nuance_asr.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
+
+protoc -I ../proto/v1/ ../proto/v1/nuance_tts.proto --java_out=./src/main/java --grpc-java_out=./src/main/java</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvdG9jIC1JIC4vc3JjL3YxLyAuL3NyYy92MS9udWFuY2VfdHRzLnByb3RvIC0tamF2YV9vdXQ9Li9zcmMvbWFpbi9qYXZhIC0tZ3JwYy1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>protoc -I ./src/v1 ./src/v1/nuance_asr_resource.proto --java_out=./src/main/java
-protoc -I ./src/v1 ./src/v1/nuance_asr_result.proto --java_out=./src/main/java
-protoc -I ./src/v1 ./src/v1/nuance_asr.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
-
-protoc -I ./src/v1 ./src/v1/interpretation-common.proto --java_out=./src/main/java
-protoc -I ./src/v1 ./src/v1/multi-intent-interpretation.proto --java_out=./src/main/java
-protoc -I ./src/v1 ./src/v1/result.proto --java_out=./src/main/java
-protoc -I ./src/v1 ./src/v1/runtime.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
-protoc -I ./src/v1 ./src/v1/single-intent-interpretation.proto --java_out=./src/main/java</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxLyAuLi9wcm90by92MS9udWFuY2VfdHRzLnByb3RvIC0tamF2YV9vdXQ9Li9zcmMvbWFpbi9qYXZhIC0tZ3JwYy1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
