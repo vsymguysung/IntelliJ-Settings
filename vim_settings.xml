@@ -95,43 +95,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/params.json" timestamp="1588821894705">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="81" />
-        <mark key="^" line="17" column="81" />
-        <mark key="." line="17" column="80" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1588822783354" />
-      <file name="$MAVEN_REPOSITORY$/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1-sources.jar!/com/codahale/metrics/MetricRegistry.java" timestamp="1588708266164" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588855180817">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588821319771" />
-      <file name="/nlu_client" timestamp="1588703001702">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588709813651">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/config.json" timestamp="1588821438125">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="78" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588853281769">
         <mark key="'" line="459" column="4" />
         <mark key="[" line="233" column="0" />
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/config.json" timestamp="1588821749245" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/params.json" timestamp="1588821894705">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="81" />
+        <mark key="^" line="17" column="81" />
+        <mark key="." line="17" column="80" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588855180817">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588820195542">
         <mark key="'" line="397" column="76" />
       </file>
@@ -142,15 +123,23 @@
         <mark key="^" line="209" column="30" />
         <mark key="." line="209" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/roles/service-configure/templates/custom-jmx.yml.j2" timestamp="1588707119126" />
+      <file name="/nlu_client" timestamp="1588703001702">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/config.json" timestamp="1588823033053">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="2" column="66" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588822133303">
-        <mark key="'" line="172" column="41" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/flow.py" timestamp="1588709813651">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588862397930">
+        <mark key="'" line="172" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588729766734">
         <mark key="'" line="110" column="37" />
@@ -159,7 +148,12 @@
         <mark key="^" line="66" column="28" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1588707411294" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/config.json" timestamp="1588821438125">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="/fragment.java" timestamp="1588821428241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -253,7 +247,6 @@
       <jump line="397" column="76" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="363" column="29" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="171" column="19" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
-      <jump line="172" column="41" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="243" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="244" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="245" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
@@ -265,6 +258,7 @@
       <jump line="484" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="465" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="460" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="172" column="17" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
