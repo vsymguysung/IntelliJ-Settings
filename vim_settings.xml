@@ -95,33 +95,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/params.json" timestamp="1588821894705">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="81" />
-        <mark key="^" line="17" column="81" />
-        <mark key="." line="17" column="80" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588855180817">
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588879865925">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/asr_client" timestamp="1588862465036">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/config.json" timestamp="1588879979475" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/config.json" timestamp="1588877462914" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588880348749" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/protoc.sh" timestamp="1588880572166">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Authenticator.java" timestamp="1588879714301">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/protoc.sh" timestamp="1588877279312">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588853281769">
-        <mark key="'" line="459" column="4" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/protoc.sh" timestamp="1588879953628">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/params.json" timestamp="1588880191358">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588876276181" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/protoc.sh" timestamp="1588877675008">
@@ -130,12 +138,18 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/nlu/README.md" timestamp="1588863414003" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1588823005997">
-        <mark key="'" line="245" column="32" />
-        <mark key="[" line="210" column="29" />
-        <mark key="]" line="209" column="30" />
-        <mark key="^" line="209" column="30" />
-        <mark key="." line="209" column="29" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1588879384622">
+        <mark key="'" line="77" column="14" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="48" column="8" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/request.json" timestamp="1588879226564">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="78" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/protoc.sh" timestamp="1588877000799">
         <mark key="[" line="1" column="11" />
@@ -148,24 +162,22 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/config.json" timestamp="1588823033053">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="2" column="66" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="24" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588879692213">
+        <mark key="'" line="215" column="29" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="226" column="17" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588862397930">
-        <mark key="'" line="172" column="17" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588877910269" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588877397489" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588877612961" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588879210337">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="79" />
+        <mark key="^" line="4" column="79" />
+        <mark key="." line="4" column="78" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="187" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="168" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="34" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
       <jump line="37" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
       <jump line="88" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="17" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2_grpc.py" />
@@ -262,6 +274,10 @@
       <jump line="465" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="460" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="172" column="17" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
+      <jump line="252" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
+      <jump line="253" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
+      <jump line="60" column="11" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
+      <jump line="79" column="14" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -270,13 +286,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Pcm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.nlu?=language=eng-USA&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsVXJuID09IG51bGwgfHwgbW9kZWxVcm4uaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -291,19 +307,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4vc3JjL3YxLyAuL3NyYy92MS9udWFuY2VfdHRzLnByb3RvIC0tamF2YV9vdXQ9Li9zcmMvbWFpbi9qYXZhIC0tZ3JwYy1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxLyAuLi9wcm90by92MS9udWFuY2VfdHRzLnByb3RvIC0tamF2YV9vdXQ9Li9zcmMvbWFpbi9qYXZhIC0tZ3JwYy1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
+        <text>protoc -I ./src/v1 ./src/v1/nuance_asr_resource.proto --java_out=./src/main/java
+protoc -I ./src/v1 ./src/v1/nuance_asr_result.proto --java_out=./src/main/java
+protoc -I ./src/v1 ./src/v1/nuance_asr.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
+
+protoc -I ./src/v1 ./src/v1/interpretation-common.proto --java_out=./src/main/java
+protoc -I ./src/v1 ./src/v1/multi-intent-interpretation.proto --java_out=./src/main/java
+protoc -I ./src/v1 ./src/v1/result.proto --java_out=./src/main/java
+protoc -I ./src/v1 ./src/v1/runtime.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
+protoc -I ./src/v1 ./src/v1/single-intent-interpretation.proto --java_out=./src/main/java</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL2RsZ19jb21tb25fbWVzc2FnZXMucHJvdG8gLS1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL2RsZ19tZXNzYWdlcy5wcm90byAtLWphdmFfb3V0PS4vc3JjL21haW4vamF2YQo=</text>
+        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxLyAuLi9wcm90by92MS9udWFuY2VfdHRzLnByb3RvIC0tamF2YV9vdXQ9Li9zcmMvbWFpbi9qYXZhIC0tZ3JwYy1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvdG9jIC1JIC4uL3Byb3RvL3YxIC4uL3Byb3RvL3YxL2RsZ19pbnRlcmZhY2UucHJvdG8gLS1qYXZhX291dD0uL3NyYy9tYWluL2phdmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
