@@ -95,13 +95,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1588685846477">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1-sources.jar!/com/codahale/metrics/MetricRegistry.java" timestamp="1588708266164" />
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588700092912">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="21" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588819231951">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="61" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="21" />
       </file>
@@ -134,6 +131,11 @@
         <mark key="." line="209" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/ansible/ininservice/roles/service-configure/templates/custom-jmx.yml.j2" timestamp="1588707119126" />
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/config.json" timestamp="1588819273002">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1588692572568" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" timestamp="1588729766734">
         <mark key="'" line="110" column="37" />
@@ -250,43 +252,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLnBhcmFsbGVsID0gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">IjxQcm92aWRlIFlvdXIgTWl4IEJldGEgQ2xpZW50IFNlY3JldD4i</text>
       </register>
       <register name="/" type="4">
         <text>Channel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVxdWVzdC52b2ljZS5zYW1wbGVfcmF0ZV9oeiA9IDE2MDAwCg==</text>
+      <register name="0" type="4">
+        <text>&quot;mTz0bcsyQMH2Cs-FBz1FnRw6z2bp_zHSgMNiB2ZjMl0&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLnBhcmFsbGVsID0gVHJ1ZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBhcmdzLnBhcmFsbGVsOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkUG9vbC5nZXROCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICMgVmFsaWRhdGUgYXJncy4KICAgIGlmIG5vdCBhcmdzLnRva2VuOgogICAgICAgICMgRmV0Y2ggYW4gYWNjZXNzX3Rva2VuIGZvciB0dHMuCiAgICAgICAgZ3JhbnRfdHlwZV9zY29wZV9kYXRhID0gewogICAgICAgICAgICAnZ3JhbnRfdHlwZSc6ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgICAgICAnc2NvcGUnOiAndHRzJwogICAgICAgIH0KICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QoY29uZmlnLm9hdXRoX2VuZHBvaW50X3VybCwgZGF0YT1ncmFudF90eXBlX3Njb3BlX2RhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGg9KGNvbmZpZy5jbGllbnRfaWQsIGNvbmZpZy5jbGllbnRfc2VjcmV0KSkKICAgICAgICBhcmdzLnRva2VuID0gcmVzcG9uc2UuanNvbigpWydhY2Nlc3NfdG9rZW4nXQogICAgaWYgbm90IGFyZ3Muc2VydmVyVXJsOgogICAgICAgIGFyZ3Muc2VydmVyVXJsID0gY29uZmlnLnNlcnZlcl90dHNfdXJs</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAibVR6MGJjc3lRTUgyQ3MtRkJ6MUZuUnc2ejJicF96SFNnTU5pQjJaak1sMCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICJhcHBJRCUzQU5NRFBUUklBTF9ndXlzdW5nX2tpbV9nZW5lc3lzX2NvbV8yMDIwMDQxN1QxNDA4NTEyMjc0MjMiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByb3RvYy1nZW4tZ3JwYy1qYXZhLTEuMjkuMC1vc3gteDg2XzY0LmV4ZSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhcmdzLnBhcmFsbGVsID0gVHJ1ZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBhcmdzLnBhcmFsbGVsOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkUG9vbC5nZXROCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQuZ2V0RXZlbnRzKCkK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
