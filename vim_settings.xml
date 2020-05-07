@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVNwZWVjaENvbnRleHRzQXN5bmNcPg==</entry>
-        <entry>final</entry>
         <entry>MessageHandlerRegistry</entry>
         <entry encoding="base64">XDxGbHVzaEF1ZGlvTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxwbGF5YmFja0luY29tcGxldGVBdWRpb0NvdW50ZXJcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0ZXh0SW5wdXRcPg==</entry>
         <entry>nmaid</entry>
         <entry>Channel</entry>
+        <entry>call_credential</entry>
+        <entry encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -125,11 +125,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588709937415">
-        <mark key="'" line="532" column="28" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="." line="424" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" timestamp="1588853281769">
+        <mark key="'" line="459" column="4" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/tts/config.json" timestamp="1588821749245" />
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588820195542">
@@ -165,13 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="235" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="99" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="12" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" />
-      <jump line="391" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="17" column="112" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineKnowledgeIntentConverter.java" />
-      <jump line="23" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" />
       <jump line="167" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="187" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="168" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
@@ -185,7 +178,6 @@
       <jump line="22" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="23" column="126" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="16" column="71" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
-      <jump line="6" column="13" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="522" column="20" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="503" column="31" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="391" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
@@ -265,48 +257,56 @@
       <jump line="243" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="244" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="245" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="233" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="84" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="536" column="12" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="485" column="90" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="484" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="465" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
+      <jump line="460" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>world</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhbGxfY3JlZGVudGlhbHMgPSBOb25lCg==</text>
       </register>
       <register name="-" type="4">
         <text>world</text>
       </register>
       <register name="/" type="4">
-        <text>Channel</text>
+        <text encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.nlu?=language=eng-USA&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJjbGllbnRfc2VjcmV0IjogIjxQcm92aWRlIFlvdXIgTWl4IEJldGEgQ2xpZW50IFNlY3JldD4iLAo=</text>
+        <text encoding="base64">ICAgIGNhbGxfY3JlZGVudGlhbHMgPSBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjbGllbnRfaWQiOiAiYXBwSUQ6PFByb3ZpZGUgWW91ciBNaXggQmV0YSBBcHAgSWQ+IiwK</text>
+        <text encoding="base64">aW1wb3J0IGdycGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAibVR6MGJjc3lRTUgyQ3MtRkJ6MUZuUnc2ejJicF96SFNnTU5pQjJaak1sMCIK</text>
+        <text encoding="base64">ICAgICJjbGllbnRfc2VjcmV0IjogIjxQcm92aWRlIFlvdXIgTWl4IEJldGEgQ2xpZW50IFNlY3JldD4iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICJhcHBJRCUzQU5NRFBUUklBTF9ndXlzdW5nX2tpbV9nZW5lc3lzX2NvbV8yMDIwMDQxN1QxNDA4NTEyMjc0MjMiCg==</text>
+        <text encoding="base64">ICAgICJjbGllbnRfaWQiOiAiYXBwSUQ6PFByb3ZpZGUgWW91ciBNaXggQmV0YSBBcHAgSWQ+IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RvYy1nZW4tZ3JwYy1qYXZhLTEuMjkuMC1vc3gteDg2XzY0LmV4ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLnBhcmFsbGVsID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudF9zZWNyZXQgPSAibVR6MGJjc3lRTUgyQ3MtRkJ6MUZuUnc2ejJicF96SFNnTU5pQjJaak1sMCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBhcmdzLnBhcmFsbGVsOgo=</text>
+        <text encoding="base64">ICAgIGNsaWVudF9pZCA9ICJhcHBJRCUzQU5NRFBUUklBTF9ndXlzdW5nX2tpbV9nZW5lc3lzX2NvbV8yMDIwMDQxN1QxNDA4NTEyMjc0MjMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkUG9vbC5nZXROCg==</text>
+        <text encoding="base64">ICAgIHByb3RvYy1nZW4tZ3JwYy1qYXZhLTEuMjkuMC1vc3gteDg2XzY0LmV4ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -315,12 +315,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Channel</last-search>
+      <last-search encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</last-search>
       <last-offset />
-      <last-pattern>Channel</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
