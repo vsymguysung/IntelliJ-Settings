@@ -95,9 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588943493067">
-        <mark key="'" line="447" column="21" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/README.md" timestamp="1588964739028">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="32" />
@@ -110,9 +107,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1588945749896">
-        <mark key="'" line="102" column="77" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588974047520" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/protoc.sh" timestamp="1588952694946">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -143,8 +138,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/protoc.sh" timestamp="1588974343212" />
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1588946975899">
         <mark key="'" line="261" column="73" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588974201959">
+        <mark key="'" line="59" column="50" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/NewRelicProxy.java" timestamp="1588945984811">
         <mark key="[" line="17" column="0" />
@@ -158,11 +157,23 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/protoc.sh" timestamp="1588974356233">
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="11" column="106" />
+        <mark key="^" line="11" column="106" />
+        <mark key="." line="11" column="105" />
+      </file>
       <file name="/dlg_client" timestamp="1588963147547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1588948641919">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588973858815">
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="61" column="57" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/protoc.sh" timestamp="1588946077243">
         <mark key="[" line="1" column="0" />
@@ -171,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="371" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="506" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="509" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -271,15 +281,16 @@
       <jump line="197" column="42" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="85" column="47" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="87" column="24" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="59" column="50" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>.nlu.java.client.NluClient</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.nlu.java.client.NluClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbFVyblw+</text>
