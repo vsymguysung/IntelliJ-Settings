@@ -98,6 +98,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1588945749896">
         <mark key="'" line="102" column="77" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588951822325">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="43" />
+      </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1588940339001">
         <mark key="'" line="153" column="4" />
         <mark key="[" line="194" column="0" />
@@ -118,18 +124,15 @@
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1588946975899">
         <mark key="'" line="261" column="73" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588883929053">
-        <mark key="'" line="256" column="16" />
-      </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" timestamp="1588906640586">
         <mark key="'" line="8" column="65" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588944233399" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588949823976">
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588952089656">
         <mark key="'" line="230" column="36" />
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
+        <mark key="[" line="92" column="45" />
+        <mark key="]" line="92" column="52" />
+        <mark key="." line="92" column="51" />
         <mark key="^" line="92" column="52" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/manualflowcontrol/ManualFlowControlServer.java" timestamp="1588942172023" />
@@ -270,11 +273,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU1RBVFVTOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>OmniChannel</text>
       </register>
       <register name="-" type="4">
-        <text>ivr</text>
+        <text>OmniChannel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3Rvclw+</text>
