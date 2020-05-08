@@ -102,8 +102,11 @@
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/.gitignore" timestamp="1588881264167" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588885844377">
-        <mark key="'" line="182" column="17" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588892052324">
+        <mark key="'" line="441" column="17" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/config.json" timestamp="1588880694671" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588881291693">
@@ -188,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
-      <jump line="502" column="43" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/GenDev/nuance-sandbox/flow.py" />
       <jump line="534" column="30" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="204" column="13" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="219" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
@@ -288,12 +288,15 @@
       <jump line="218" column="25" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="260" column="37" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="182" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="473" column="36" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="477" column="36" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="441" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uQnVpbGRlcjsK</text>
       </register>
       <register name="-" type="4">
         <text>tokenURL</text>
@@ -305,35 +308,31 @@
         <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.dialog&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uQnVpbGRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5hbm5vdGF0aW9ucy5TZXJpYWxpemVkTmFtZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>protoc -I ../proto/v1 ../proto/v1/interpretation-common.proto --java_out=./src/main/java
-protoc -I ../proto/v1 ../proto/v1/multi-intent-interpretation.proto --java_out=./src/main/java
-protoc -I ../proto/v1 ../proto/v1/result.proto --java_out=./src/main/java
-protoc -I ../proto/v1 ../proto/v1/runtime.proto --java_out=./src/main/java --grpc-java_out=./src/main/java
-protoc -I ../proto/v1 ../proto/v1/single-intent-interpretation.proto --java_out=./src/main/java</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdycGMuTWV0aG9kRGVzY3JpcHRvcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLmNvbW1vbi5tZXNzYWdlcy5SZXNvdXJjZVJlZmVyZW5jZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdycGMuRm9yd2FyZGluZ0NsaWVudENhbGxMaXN0ZW5lci5TaW1wbGVGb3J3YXJkaW5nQ2xpZW50Q2FsbExpc3RlbmVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IG51YW5jZS5hc3IudjEuTnVhbmNlQXNyUmVzb3VyY2UuKjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdycGMuRm9yd2FyZGluZ0NsaWVudENhbGwuU2ltcGxlRm9yd2FyZGluZ0NsaWVudENhbGw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdycGMuQ2xpZW50SW50ZXJjZXB0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5BdWRpby5BdWRpb0ZpbGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLnNlcnZpY2UubWVzc2FnZXMuKjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLmNvbW1vbi5tZXNzYWdlcy4qOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLmNvbW1vbi5tZXNzYWdlcy4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLnNlcnZpY2UuRGxnSW50ZXJmYWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
