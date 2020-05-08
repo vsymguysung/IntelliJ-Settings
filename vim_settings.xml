@@ -118,22 +118,24 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1588943493067">
         <mark key="'" line="447" column="21" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/protoc.sh" timestamp="1588952694946">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/Audio/AbstractAudioSink.java" timestamp="1588948086669">
         <mark key="'" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1588946975899">
         <mark key="'" line="261" column="73" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" timestamp="1588906640586">
-        <mark key="'" line="8" column="65" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588944233399" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588952089656">
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588953210648">
         <mark key="'" line="230" column="36" />
-        <mark key="[" line="92" column="45" />
-        <mark key="]" line="92" column="52" />
-        <mark key="." line="92" column="51" />
-        <mark key="^" line="92" column="52" />
+        <mark key="[" line="92" column="57" />
+        <mark key="]" line="92" column="60" />
+        <mark key="." line="92" column="59" />
+        <mark key="^" line="92" column="60" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/manualflowcontrol/ManualFlowControlServer.java" timestamp="1588942172023" />
       <file name="$MAVEN_REPOSITORY$/com/inin/framework/inin-logging/2.0.4-SNAPSHOT/inin-logging-2.0.4-20190509.142452-2.jar!/com/inin/logging/Utils.class" timestamp="1588943777108" />
@@ -274,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>OmniChannel</text>
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>OmniChannel</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3Rvclw+</text>
