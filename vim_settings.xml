@@ -125,8 +125,8 @@
         <mark key="'" line="8" column="65" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1588944233399" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588949347972">
-        <mark key="'" line="209" column="27" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588949823976">
+        <mark key="'" line="230" column="36" />
         <mark key="[" line="230" column="0" />
         <mark key="]" line="230" column="0" />
         <mark key="." line="230" column="0" />
@@ -166,10 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="276" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="270" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="255" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="640" column="51" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="9" column="163" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" />
       <jump line="292" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -266,6 +262,10 @@
       <jump line="198" column="24" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="209" column="27" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="69" column="16" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/Audio/AbstractAudioSink.java" />
+      <jump line="227" column="35" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="228" column="62" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="229" column="43" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
+      <jump line="230" column="36" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
