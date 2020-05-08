@@ -147,11 +147,11 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1588905562498">
-        <mark key="'" line="123" column="12" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1588908221160">
+        <mark key="'" line="85" column="23" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/protoc.sh" timestamp="1588879953628">
         <mark key="[" line="1" column="0" />
@@ -187,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
-      <jump line="191" column="26" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="90" column="22" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="44" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
       <jump line="93" column="22" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -287,12 +285,14 @@
       <jump line="123" column="12" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="58" column="40" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
       <jump line="8" column="65" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
+      <jump line="38" column="18" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
+      <jump line="85" column="23" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBncmVldENsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBHcmVldFNlcnZpY2VHcnBjLkcK</text>
       </register>
       <register name="-" type="4">
         <text>tokenURL</text>
@@ -304,31 +304,31 @@
         <text>&quot;urn:nuance-mix:tag:model/A793_C1979/mix.dialog&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBncmVldENsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBHcmVldFNlcnZpY2VHcnBjLkcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uQnVpbGRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBncmVldENsaWVudC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5hbm5vdGF0aW9ucy5TZXJpYWxpemVkTmFtZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uQnVpbGRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5hbm5vdGF0aW9ucy5TZXJpYWxpemVkTmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLmNvbW1vbi5tZXNzYWdlcy5SZXNvdXJjZVJlZmVyZW5jZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51YW5jZS5hc3IudjEuTnVhbmNlQXNyUmVzb3VyY2UuKjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLmNvbW1vbi5tZXNzYWdlcy5SZXNvdXJjZVJlZmVyZW5jZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
+        <text encoding="base64">aW1wb3J0IG51YW5jZS5hc3IudjEuTnVhbmNlQXNyUmVzb3VyY2UuKjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5BdWRpby5BdWRpb0ZpbGU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5udWFuY2UuY29yZXRlY2guZGlhbG9nLnYxLmNvbW1vbi5tZXNzYWdlcy4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5BdWRpby5BdWRpb0ZpbGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
