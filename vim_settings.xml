@@ -95,6 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" timestamp="1588906640586">
+        <mark key="'" line="8" column="65" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/config.py" timestamp="1588881278843">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="59" />
@@ -161,13 +164,6 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1588879384622">
-        <mark key="'" line="77" column="14" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="48" column="8" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/README.md" timestamp="1588882987619" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588879692213">
         <mark key="'" line="215" column="29" />
@@ -191,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="32" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
-      <jump line="75" column="18" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="84" column="33" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="191" column="26" filename="$USER_HOME$/GenDev/nuance-sandbox/dlg_client.py" />
       <jump line="90" column="22" filename="$USER_HOME$/GenDev/nuance-sandbox/asr_client.py" />
@@ -291,6 +285,8 @@
       <jump line="441" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="68" column="44" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="123" column="12" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
+      <jump line="58" column="40" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
+      <jump line="8" column="65" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
