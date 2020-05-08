@@ -107,12 +107,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588974047520" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/protoc.sh" timestamp="1588952694946">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" timestamp="1588967408395">
         <mark key="'" line="87" column="24" />
         <mark key="[" line="92" column="45" />
@@ -120,17 +114,11 @@
         <mark key="." line="92" column="51" />
         <mark key="^" line="92" column="52" />
       </file>
-      <file name="/asr_client" timestamp="1588963181812">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588968035800">
         <mark key="[" line="4" column="43" />
         <mark key="]" line="4" column="43" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="43" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/Audio/AbstractAudioSink.java" timestamp="1588948086669">
-        <mark key="'" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1588963807103">
         <mark key="[" line="18" column="0" />
@@ -139,18 +127,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/protoc.sh" timestamp="1588974343212" />
-      <file name="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" timestamp="1588946975899">
-        <mark key="'" line="261" column="73" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588974201959">
-        <mark key="'" line="59" column="50" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/NewRelicProxy.java" timestamp="1588945984811">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588975355483" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588965079962">
         <mark key="'" line="197" column="42" />
         <mark key="[" line="46" column="0" />
@@ -163,27 +140,36 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="105" />
       </file>
-      <file name="/dlg_client" timestamp="1588963147547">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1588975270121" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588975019207">
+        <mark key="'" line="394" column="80" />
+        <mark key="[" line="73" column="49" />
+        <mark key="]" line="73" column="53" />
+        <mark key="^" line="73" column="53" />
+        <mark key="." line="73" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1588948641919">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/Authenticator.java" timestamp="1588974676561" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588975101274">
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="53" />
+        <mark key="^" line="76" column="53" />
+        <mark key="." line="76" column="52" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1588975289160" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588974201959">
+        <mark key="'" line="59" column="50" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588975374666" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588974696138" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588973858815">
         <mark key="[" line="70" column="32" />
         <mark key="]" line="70" column="32" />
         <mark key="." line="70" column="32" />
         <mark key="^" line="61" column="57" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/tts/protoc.sh" timestamp="1588946077243">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/config.json" timestamp="1588975391311" />
     </filemarks>
     <jumps>
-      <jump line="371" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="506" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="509" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="510" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="513" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -282,6 +268,8 @@
       <jump line="85" column="47" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="87" column="24" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="59" column="50" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
+      <jump line="412" column="71" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
+      <jump line="394" column="80" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
