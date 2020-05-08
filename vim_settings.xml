@@ -95,7 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1588944243357" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1588945066072">
+        <mark key="'" line="98" column="18" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/protoc.sh" timestamp="1588883424314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -167,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="34" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
-      <jump line="61" column="24" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="14" column="7" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="64" column="15" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="60" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
@@ -267,6 +267,8 @@
       <jump line="268" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
       <jump line="265" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
       <jump line="447" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="95" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="98" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
