@@ -95,8 +95,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588996364970">
+        <mark key="'" line="47" column="42" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" timestamp="1589037376967">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588997166598">
+        <mark key="'" line="358" column="80" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1589038950700">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588985872579">
+        <mark key="'" line="58" column="116" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588979045202">
         <mark key="[" line="4" column="43" />
@@ -104,7 +129,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/build.gradle.kts" timestamp="1588985467392" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588985898855">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -122,44 +146,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/build.gradle.kts" timestamp="1588983676035" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/v1/dlg_common_messages.proto" timestamp="1589036341648" />
-      <file name="$USER_HOME$/GenDev/protobuf-gradle-plugin/examples/exampleKotlinDslProject/build.gradle.kts" timestamp="1588998603655" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/build.gradle.kts" timestamp="1588980163843" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588997166598">
-        <mark key="'" line="358" column="80" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588985872579">
-        <mark key="'" line="58" column="116" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589039422689">
-        <mark key="'" line="54" column="1" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1589038950700">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/settings.gradle.kts" timestamp="1588983788085" />
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588996364970">
-        <mark key="'" line="47" column="42" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/v1/dlg_interface.proto" timestamp="1589036352324" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588985760552">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -171,6 +157,13 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589064034677">
+        <mark key="'" line="55" column="1" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1588996164548">
         <mark key="[" line="0" column="0" />
@@ -282,10 +275,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Gradle build output</text>
+        <text>target&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
@@ -297,28 +290,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
+        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9wcm90b2J1Zi1ncmFkbGUtcGx1Z2luCg==</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJZ25vcmUgR3JhZGxlIGJ1aWxkIG91dHB1dCBkaXJlY3RvcnkK</text>
+        <text encoding="base64">LnZzY29kZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JhZGxlCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9wcm90b2J1Zi1ncmFkbGUtcGx1Z2luCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LnByb2plY3QK</text>
+        <text encoding="base64">IyBJZ25vcmUgR3JhZGxlIGJ1aWxkIG91dHB1dCBkaXJlY3RvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
