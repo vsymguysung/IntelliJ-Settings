@@ -95,11 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/config-tts.json" timestamp="1588977132251">
-        <mark key="[" line="3" column="59" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="59" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588979045202">
         <mark key="[" line="4" column="43" />
         <mark key="]" line="4" column="43" />
@@ -119,6 +114,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/build.gradle.kts" timestamp="1588983676035" />
+      <file name="$USER_HOME$/GenDev/protobuf-gradle-plugin/examples/exampleKotlinDslProject/build.gradle.kts" timestamp="1588998603655" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/build.gradle.kts" timestamp="1588980163843" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588997166598">
         <mark key="'" line="358" column="80" />
@@ -143,10 +139,11 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/params.json" timestamp="1588979012435" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588978985196" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588997043230">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588998645373">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="43" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588994540472">
         <mark key="[" line="10" column="0" />
@@ -281,11 +278,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>nuance</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
@@ -294,31 +291,35 @@
         <text>build/generated/source</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5wcm92aWRlci5ncmFkbGVLb3RsaW5Ec2xPZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05BcnJheTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuTWlzc2luZ09wdGlvbkV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuT3B0aW9uR3JvdXA7Cg==</text>
+      <register name="5" type="4">
+        <text>idea {
+    module {
+        generatedSourceDirs.add(file(&quot;build/generated/source&quot;))
+    }
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuQ29tbWFuZExpbmVQYXJzZXI7CmltcG9ydCBvcmcuYXBhY2hlLmNvbW1vbnMuY2xpLkRlZmF1bHRQYXJzZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGVjb2RlLnByb3RvYnVmLmZvcm1hdC5Kc29uRm9ybWF0Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05FeGNlcHRpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05BcnJheTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuTWlzc2luZ09wdGlvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
