@@ -143,18 +143,18 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/params.json" timestamp="1588979012435" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588978985196" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588985641452">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="52" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588988006482">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588985650927">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="43" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588988198120">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/settings.gradle.kts" timestamp="1588983788085" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588985760552">
@@ -279,17 +279,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLnR0cy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>dlg-</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>main.java.xaas.sample.nlu.java</text>
+        <text>&quot;main/java/xaas.sample/dlg/&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLnR0cy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
