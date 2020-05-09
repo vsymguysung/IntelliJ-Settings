@@ -95,6 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" timestamp="1589037376967">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/config.json" timestamp="1588979045202">
         <mark key="[" line="4" column="43" />
         <mark key="]" line="4" column="43" />
@@ -114,6 +117,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/build.gradle.kts" timestamp="1588983676035" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/v1/dlg_common_messages.proto" timestamp="1589036341648" />
       <file name="$USER_HOME$/GenDev/protobuf-gradle-plugin/examples/exampleKotlinDslProject/build.gradle.kts" timestamp="1588998603655" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/build.gradle.kts" timestamp="1588980163843" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588997166598">
@@ -130,20 +134,13 @@
         <mark key="^" line="36" column="53" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" timestamp="1588978392705">
-        <mark key="'" line="63" column="2" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="55" column="18" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/params.json" timestamp="1588979012435" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588978985196" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588998645373">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="44" />
-        <mark key="^" line="14" column="44" />
-        <mark key="." line="14" column="43" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589036882547">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="25" />
+        <mark key="^" line="61" column="25" />
+        <mark key="." line="61" column="24" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588994540472">
         <mark key="[" line="10" column="0" />
@@ -156,19 +153,13 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/v1/dlg_interface.proto" timestamp="1589036352324" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588985760552">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1588978150320">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/config-asr.json" timestamp="1588978298342" />
       <file name="/fragment.java" timestamp="1588996164548">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,10 +270,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
