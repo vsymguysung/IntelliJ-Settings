@@ -106,13 +106,14 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="43" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/build.gradle.kts" timestamp="1588983744919" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588977190991">
         <mark key="[" line="61" column="49" />
         <mark key="]" line="61" column="53" />
         <mark key="^" line="61" column="53" />
         <mark key="." line="61" column="52" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/build.gradle.kts" timestamp="1588980998702" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/build.gradle.kts" timestamp="1588983676035" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/build.gradle.kts" timestamp="1588980163843" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588977169863">
         <mark key="'" line="394" column="80" />
@@ -137,24 +138,14 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/params.json" timestamp="1588979012435" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588978985196" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588982273300">
-        <mark key="[" line="61" column="47" />
-        <mark key="]" line="61" column="47" />
-        <mark key="." line="61" column="47" />
-        <mark key="^" line="59" column="20" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588983689688" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588984346682">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588977619750">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="31" />
-        <mark key="^" line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588976893667">
-        <mark key="'" line="197" column="42" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/settings.gradle.kts" timestamp="1588983788085" />
       <file name="/Dummy.txt" timestamp="1588976994217">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,13 +154,6 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588976854623">
-        <mark key="'" line="59" column="50" />
-        <mark key="[" line="75" column="49" />
-        <mark key="]" line="75" column="53" />
-        <mark key="^" line="75" column="53" />
-        <mark key="." line="75" column="52" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1588978150320">
         <mark key="[" line="11" column="0" />
@@ -183,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="60" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="112" column="86" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="110" column="37" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
       <jump line="413" column="42" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="397" column="76" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
@@ -283,38 +265,43 @@
       <jump line="128" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" />
       <jump line="63" column="2" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" />
       <jump line="117" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="65" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="64" column="84" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.dlg.java.client.DlgClient</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>.dlg.java.client.DlgClient</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbFVyblw+</text>
       </register>
       <register name="0" type="4">
-        <text>(./asr/README.md)</text>
+        <text>main.java.xaas.sample.nlu.java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gRGxnCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzWyIiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gRGxnCnZhbCBqYXIgYnkgdGFza3MuZ2V0dGluZyhKYXI6OmNsYXNzKSB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlc1siTWFpbi1DbGFzcyJdID0gInhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5EbGdDbGllbnQiCiAgICB9Cn0KdmFsIGZhdEphciA9IHRhc2soImZhdEphciIsIHR5cGUgPSBKYXI6OmNsYXNzKSB7CiAgICBiYXNlTmFtZSA9ICJkbGdfY2xpZW50IgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXNbIk1haW4tQ2xhc3MiXSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50IgogICAgfQoKICAgIGZyb20oY29uZmlndXJhdGlvbnMucnVudGltZUNsYXNzcGF0aC5nZXQoKS5tYXAoeyBpZiAoaXQuaXNEaXJlY3RvcnkpIGl0IGVsc2UgemlwVHJlZShpdCkgfSkpCiAgICBrb3RsaW4ud2l0aCh0YXNrcy5qYXIuZ2V0KCkgYXMgQ29weVNwZWMpCn0KCmFwcGxpY2F0aW9uIHsKICAgIC8vIERlZmluZSB0aGUgbWFpbiBjbGFzcyBmb3IgdGhlIGFwcGxpY2F0aW9uLgogICAgbWFpbkNsYXNzTmFtZSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50Igp9Cgp0YXNrcyB7CiAgICAiYnVpbGQiIHsKICAgICAgICBkZXBlbmRzT24oZmF0SmFyKQogICAgfQkKfQo=</text>
+        <text encoding="base64">Ly8gRGxnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gImRsZ19jbGllbnQiCg==</text>
+        <text encoding="base64">Ly8gRGxnCnZhbCBqYXIgYnkgdGFza3MuZ2V0dGluZyhKYXI6OmNsYXNzKSB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlc1siTWFpbi1DbGFzcyJdID0gInhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5EbGdDbGllbnQiCiAgICB9Cn0KdmFsIGZhdEphciA9IHRhc2soImZhdEphciIsIHR5cGUgPSBKYXI6OmNsYXNzKSB7CiAgICBiYXNlTmFtZSA9ICJkbGdfY2xpZW50IgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXNbIk1haW4tQ2xhc3MiXSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50IgogICAgfQoKICAgIGZyb20oY29uZmlndXJhdGlvbnMucnVudGltZUNsYXNzcGF0aC5nZXQoKS5tYXAoeyBpZiAoaXQuaXNEaXJlY3RvcnkpIGl0IGVsc2UgemlwVHJlZShpdCkgfSkpCiAgICBrb3RsaW4ud2l0aCh0YXNrcy5qYXIuZ2V0KCkgYXMgQ29weVNwZWMpCn0KCmFwcGxpY2F0aW9uIHsKICAgIC8vIERlZmluZSB0aGUgbWFpbiBjbGFzcyBmb3IgdGhlIGFwcGxpY2F0aW9uLgogICAgbWFpbkNsYXNzTmFtZSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50Igp9Cgp0YXNrcyB7CiAgICAiYnVpbGQiIHsKICAgICAgICBkZXBlbmRzT24oZmF0SmFyKQogICAgfQkKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VOYW1lID0gImRsZ19jbGllbnQiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>// Asr
 val jar by tasks.getting(Jar::class) {
     manifest {
@@ -363,17 +350,14 @@ val fatJar = task(&quot;fatJar&quot;, type = Jar::class) {
     kotlin.with(tasks.jar.get() as CopySpec)
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>,
     manifest {
         
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dmFsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
