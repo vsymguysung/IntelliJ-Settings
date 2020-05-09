@@ -137,10 +137,11 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/params.json" timestamp="1588979012435" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588978985196" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588981156197">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588982273300">
+        <mark key="[" line="61" column="47" />
+        <mark key="]" line="61" column="47" />
+        <mark key="." line="61" column="47" />
+        <mark key="^" line="59" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588977619750">
         <mark key="[" line="9" column="25" />
@@ -286,11 +287,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gRGxnCnZhbCBqYXIgYnkgdGFza3MuZ2V0dGluZyhKYXI6OmNsYXNzKSB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlc1siTWFpbi1DbGFzcyJdID0gInhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5EbGdDbGllbnQiCiAgICB9Cn0KdmFsIGZhdEphciA9IHRhc2soImZhdEphciIsIHR5cGUgPSBKYXI6OmNsYXNzKSB7CiAgICBiYXNlTmFtZSA9ICJkbGdfY2xpZW50IgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXNbIk1haW4tQ2xhc3MiXSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50IgogICAgfQoKICAgIGZyb20oY29uZmlndXJhdGlvbnMucnVudGltZUNsYXNzcGF0aC5nZXQoKS5tYXAoeyBpZiAoaXQuaXNEaXJlY3RvcnkpIGl0IGVsc2UgemlwVHJlZShpdCkgfSkpCiAgICBrb3RsaW4ud2l0aCh0YXNrcy5qYXIuZ2V0KCkgYXMgQ29weVNwZWMpCn0KCmFwcGxpY2F0aW9uIHsKICAgIC8vIERlZmluZSB0aGUgbWFpbiBjbGFzcyBmb3IgdGhlIGFwcGxpY2F0aW9uLgogICAgbWFpbkNsYXNzTmFtZSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50Igp9Cgp0YXNrcyB7CiAgICAiYnVpbGQiIHsKICAgICAgICBkZXBlbmRzT24oZmF0SmFyKQogICAgfQkKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.dlg.java.client.DlgClient</text>
       </register>
       <register name="-" type="4">
-        <text>dlg.java.client.DlgClient</text>
+        <text>.dlg.java.client.DlgClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbFVyblw+</text>
@@ -299,18 +300,21 @@
         <text>(./asr/README.md)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gRGxnCnZhbCBqYXIgYnkgdGFza3MuZ2V0dGluZyhKYXI6OmNsYXNzKSB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlc1siTWFpbi1DbGFzcyJdID0gInhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5EbGdDbGllbnQiCiAgICB9Cn0KdmFsIGZhdEphciA9IHRhc2soImZhdEphciIsIHR5cGUgPSBKYXI6OmNsYXNzKSB7CiAgICBiYXNlTmFtZSA9ICJkbGdfY2xpZW50IgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXNbIk1haW4tQ2xhc3MiXSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50IgogICAgfQoKICAgIGZyb20oY29uZmlndXJhdGlvbnMucnVudGltZUNsYXNzcGF0aC5nZXQoKS5tYXAoeyBpZiAoaXQuaXNEaXJlY3RvcnkpIGl0IGVsc2UgemlwVHJlZShpdCkgfSkpCiAgICBrb3RsaW4ud2l0aCh0YXNrcy5qYXIuZ2V0KCkgYXMgQ29weVNwZWMpCn0KCmFwcGxpY2F0aW9uIHsKICAgIC8vIERlZmluZSB0aGUgbWFpbiBjbGFzcyBmb3IgdGhlIGFwcGxpY2F0aW9uLgogICAgbWFpbkNsYXNzTmFtZSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50Igp9Cgp0YXNrcyB7CiAgICAiYnVpbGQiIHsKICAgICAgICBkZXBlbmRzT24oZmF0SmFyKQogICAgfQkKfQo=</text>
+        <text encoding="base64">Ly8gRGxnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gImRsZ19jbGllbnQiCg==</text>
+        <text encoding="base64">Ly8gRGxnCnZhbCBqYXIgYnkgdGFza3MuZ2V0dGluZyhKYXI6OmNsYXNzKSB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlc1siTWFpbi1DbGFzcyJdID0gInhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5EbGdDbGllbnQiCiAgICB9Cn0KdmFsIGZhdEphciA9IHRhc2soImZhdEphciIsIHR5cGUgPSBKYXI6OmNsYXNzKSB7CiAgICBiYXNlTmFtZSA9ICJkbGdfY2xpZW50IgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXNbIk1haW4tQ2xhc3MiXSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50IgogICAgfQoKICAgIGZyb20oY29uZmlndXJhdGlvbnMucnVudGltZUNsYXNzcGF0aC5nZXQoKS5tYXAoeyBpZiAoaXQuaXNEaXJlY3RvcnkpIGl0IGVsc2UgemlwVHJlZShpdCkgfSkpCiAgICBrb3RsaW4ud2l0aCh0YXNrcy5qYXIuZ2V0KCkgYXMgQ29weVNwZWMpCn0KCmFwcGxpY2F0aW9uIHsKICAgIC8vIERlZmluZSB0aGUgbWFpbiBjbGFzcyBmb3IgdGhlIGFwcGxpY2F0aW9uLgogICAgbWFpbkNsYXNzTmFtZSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50Igp9Cgp0YXNrcyB7CiAgICAiYnVpbGQiIHsKICAgICAgICBkZXBlbmRzT24oZmF0SmFyKQogICAgfQkKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VOYW1lID0gImRsZ19jbGllbnQiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>// Asr
 val jar by tasks.getting(Jar::class) {
     manifest {
@@ -359,20 +363,17 @@ val fatJar = task(&quot;fatJar&quot;, type = Jar::class) {
     kotlin.with(tasks.jar.get() as CopySpec)
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>,
     manifest {
         
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dmFsIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
