@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>company</entry>
         <entry>Aardvark</entry>
         <entry>user</entry>
         <entry>Leslie</entry>
@@ -25,6 +24,7 @@
         <entry>setCustom</entry>
         <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
         <entry encoding="base64">XDxtb2RlbFVyblw+</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -106,28 +106,33 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/build.gradle.kts" timestamp="1588983744919" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588977190991">
-        <mark key="[" line="61" column="49" />
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="52" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/build.gradle.kts" timestamp="1588985467392" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588985898855">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="30" column="53" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/utils/AsrParams.java" timestamp="1588985772388">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/build.gradle.kts" timestamp="1588983676035" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/build.gradle.kts" timestamp="1588980163843" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588977169863">
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588985927853">
         <mark key="'" line="394" column="80" />
         <mark key="[" line="72" column="49" />
         <mark key="]" line="72" column="53" />
         <mark key="^" line="72" column="53" />
         <mark key="." line="72" column="52" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588978277641">
-        <mark key="'" line="96" column="116" />
-        <mark key="[" line="74" column="49" />
-        <mark key="]" line="74" column="53" />
-        <mark key="^" line="74" column="53" />
-        <mark key="." line="74" column="52" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588985872579">
+        <mark key="'" line="58" column="116" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" timestamp="1588978392705">
         <mark key="'" line="63" column="2" />
@@ -138,22 +143,25 @@
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/asr/params.json" timestamp="1588979012435" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/config.json" timestamp="1588978985196" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588983689688" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588984346682">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="8" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1588985641452">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1588985650927">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="43" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/settings.gradle.kts" timestamp="1588983788085" />
-      <file name="/Dummy.txt" timestamp="1588976994217">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/config-dlg.json" timestamp="1588976940967">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="60" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588985760552">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1588978150320">
         <mark key="[" line="11" column="0" />
@@ -167,10 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="37" filename="$USER_HOME$/GenDev/nuance-sandbox/nlu_client.py" />
-      <jump line="413" column="42" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
-      <jump line="397" column="76" filename="$USER_HOME$/GenDev/xaas-java-samples-master/asr/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
-      <jump line="363" column="29" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="171" column="19" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="243" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="244" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
@@ -267,97 +271,63 @@
       <jump line="117" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="65" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="64" column="84" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="24" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="16" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="51" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLnR0cy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>dlg-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbFVyblw+</text>
+        <text encoding="base64">XDxpbXBvcnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>main.java.xaas.sample.nlu.java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzWyIiXQo=</text>
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLnR0cy5qYXZhLmNsaWVudC5BdWRpby5GaWxlU2luazsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gRGxnCg==</text>
+        <text encoding="base64">aW1wb3J0IHhhYXMuc2FtcGxlLnR0cy5qYXZhLmNsaWVudC5QYXJhbXMuVm9pY2VQYXJhbXM7CmltcG9ydCB4YWFzLnNhbXBsZS50dHMuamF2YS5jbGllbnQuUGFyYW1zLklucHV0UGFyYW1zOwppbXBvcnQgeGFhcy5zYW1wbGUudHRzLmphdmEuY2xpZW50LlBhcmFtcy5JbnB1dERhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gRGxnCnZhbCBqYXIgYnkgdGFza3MuZ2V0dGluZyhKYXI6OmNsYXNzKSB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlc1siTWFpbi1DbGFzcyJdID0gInhhYXMuc2FtcGxlLmRsZy5qYXZhLmNsaWVudC5EbGdDbGllbnQiCiAgICB9Cn0KdmFsIGZhdEphciA9IHRhc2soImZhdEphciIsIHR5cGUgPSBKYXI6OmNsYXNzKSB7CiAgICBiYXNlTmFtZSA9ICJkbGdfY2xpZW50IgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXNbIk1haW4tQ2xhc3MiXSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50IgogICAgfQoKICAgIGZyb20oY29uZmlndXJhdGlvbnMucnVudGltZUNsYXNzcGF0aC5nZXQoKS5tYXAoeyBpZiAoaXQuaXNEaXJlY3RvcnkpIGl0IGVsc2UgemlwVHJlZShpdCkgfSkpCiAgICBrb3RsaW4ud2l0aCh0YXNrcy5qYXIuZ2V0KCkgYXMgQ29weVNwZWMpCn0KCmFwcGxpY2F0aW9uIHsKICAgIC8vIERlZmluZSB0aGUgbWFpbiBjbGFzcyBmb3IgdGhlIGFwcGxpY2F0aW9uLgogICAgbWFpbkNsYXNzTmFtZSA9ICJ4YWFzLnNhbXBsZS5kbGcuamF2YS5jbGllbnQuRGxnQ2xpZW50Igp9Cgp0YXNrcyB7CiAgICAiYnVpbGQiIHsKICAgICAgICBkZXBlbmRzT24oZmF0SmFyKQogICAgfQkKfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuTWlzc2luZ09wdGlvbkV4Y2VwdGlvbjsKaW1wb3J0IG9yZy5qc29uLkpTT05BcnJheTsKaW1wb3J0IG9yZy5qc29uLkpTT05FeGNlcHRpb247CmltcG9ydCBvcmcuanNvbi5KU09OT2JqZWN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gImRsZ19jbGllbnQiCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuT3B0aW9uR3JvdXA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jbGkuQ29tbWFuZExpbmVQYXJzZXI7CmltcG9ydCBvcmcuYXBhY2hlLmNvbW1vbnMuY2xpLkRlZmF1bHRQYXJzZXI7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>// Asr
-val jar by tasks.getting(Jar::class) {
-    manifest {
-        attributes[&quot;Main-Class&quot;] = &quot;xaas.sample.asr.java.client.AsrClient&quot;
-    }
-}
-val fatJar = task(&quot;fatJar&quot;, type = Jar::class) {
-    baseName = &quot;asr_client&quot;
-    manifest {
-        attributes[&quot;Main-Class&quot;] = &quot;xaas.sample.asr.java.client.AsrClient&quot;
-    }
-
-    from(configurations.runtimeClasspath.get().map({ if (it.isDirectory) it else zipTree(it) }))
-    kotlin.with(tasks.jar.get() as CopySpec)
-}
-
-// Nlu
-val jar by tasks.getting(Jar::class) {
-    manifest {
-        attributes[&quot;Main-Class&quot;] = &quot;xaas.sample.nlu.java.client.NluClient&quot;
-    }
-}
-val fatJar = task(&quot;fatJar&quot;, type = Jar::class) {
-    baseName = &quot;nlu_client&quot;
-    manifest {
-        attributes[&quot;Main-Class&quot;] = &quot;xaas.sample.nlu.java.client.NluClient&quot;
-    }
-
-    from(configurations.runtimeClasspath.get().map({ if (it.isDirectory) it else zipTree(it) }))
-    kotlin.with(tasks.jar.get() as CopySpec)
-}
-
-// Tts
-val jar by tasks.getting(Jar::class) {
-    manifest {
-        attributes[&quot;Main-Class&quot;] = &quot;xaas.sample.tts.java.client.TtsClient&quot;
-    }
-}
-val fatJar = task(&quot;fatJar&quot;, type = Jar::class) {
-    baseName = &quot;tts_client&quot;
-    manifest {
-        attributes[&quot;Main-Class&quot;] = &quot;xaas.sample.tts.java.client.TtsClient&quot;
-    }
-
-    from(configurations.runtimeClasspath.get().map({ if (it.isDirectory) it else zipTree(it) }))
-    kotlin.with(tasks.jar.get() as CopySpec)
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>,
-    manifest {
-        
-    }</text>
+        <text>/* Processing JSON and reading local files. */
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonIOException;
+import com.google.gson.JsonSyntaxException;
+import com.google.gson.stream.JsonReader;
+import com.google.gson.TypeAdapterFactory;
+import com.googlecode.protobuf.format.JsonFormat;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,9 +336,9 @@ val fatJar = task(&quot;fatJar&quot;, type = Jar::class) {
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtb2RlbFVyblw+</last-search>
+      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbFVyblw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
