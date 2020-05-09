@@ -152,11 +152,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1589051968121">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="9" column="15" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1589064325171">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589064034677">
         <mark key="'" line="55" column="1" />
@@ -275,7 +274,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJZ25vcmUgZ3JhZGxlIGRpcmVjdG9yeQoK</text>
       </register>
       <register name="-" type="4">
         <text>target&quot;</text>
@@ -287,31 +286,31 @@
         <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJZ25vcmUgZ3JhZGxlIGRpcmVjdG9yeQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
+        <text>gradle</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9wcm90b2J1Zi1ncmFkbGUtcGx1Z2luCg==</text>
+        <text encoding="base64">LnZzY29kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBJZ25vcmUgR3JhZGxlIGJ1aWxkIG91dHB1dCBkaXJlY3RvcnkK</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
