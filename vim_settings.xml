@@ -157,19 +157,18 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589069886025">
-        <mark key="'" line="55" column="1" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589070767149">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="90" />
       </file>
       <file name="/fragment.java" timestamp="1588996164548">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="536" column="12" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="485" column="90" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="484" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="465" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
@@ -263,34 +262,45 @@
       <jump line="51" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="8" column="34" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
-      <jump line="77" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="9" column="54" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="81" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="47" column="42" filename="$USER_HOME$/GenDev/grpc-java-course/build.gradle" />
       <jump line="54" column="1" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="72" column="10" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="1" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="77" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIiKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>//sourceSets{
 //    create(&quot;sourceSet&quot;){
 //        proto {
@@ -299,20 +309,11 @@
 //    }
 //}</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyBJZ25vcmUgZ3JhZGxlIGRpcmVjdG9yeQoK</text>
       </register>
-      <register name="5" type="2">
-        <text>gradle</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
+        <text>gradle</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
