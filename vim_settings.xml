@@ -157,12 +157,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589064034677">
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589069886025">
         <mark key="'" line="55" column="1" />
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1588996164548">
         <mark key="[" line="0" column="0" />
@@ -274,10 +273,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBJZ25vcmUgZ3JhZGxlIGRpcmVjdG9yeQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>target&quot;</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
@@ -286,31 +285,37 @@
         <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBJZ25vcmUgZ3JhZGxlIGRpcmVjdG9yeQoK</text>
-      </register>
-      <register name="2" type="2">
-        <text>gradle</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>//sourceSets{
+//    create(&quot;sourceSet&quot;){
+//        proto {
+//            srcDir(&quot;main&quot;)
+//        }
+//    }
+//}</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
+        <text encoding="base64">IyBJZ25vcmUgZ3JhZGxlIGRpcmVjdG9yeQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
+        <text>gradle</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LnZzY29kZQo=</text>
+        <text encoding="base64">cHJvamVjdC5zZXRCdWlsZERpcigidGFyZ2V0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
