@@ -149,12 +149,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1588985760552">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1589064325171">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -166,20 +160,18 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="59" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589073901139">
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="57" />
-        <mark key="." line="57" column="56" />
-        <mark key="^" line="57" column="57" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589211208597">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1588996164548">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="465" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
-      <jump line="460" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="172" column="17" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="252" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="253" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
@@ -277,15 +269,18 @@
       <jump line="1" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="77" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="121" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" />
+      <jump line="62" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="60" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="53" column="4" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>nlu|</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5wcm92aWRlci5ncmFkbGVLb3RsaW5Ec2xPZgo=</text>
       </register>
       <register name="-" type="4">
-        <text>nlu|</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
@@ -294,38 +289,31 @@
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5wcm92aWRlci5ncmFkbGVLb3RsaW5Ec2xPZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyB3aWxsIGNyZWF0ZSBhIGxhcmdlIHNldCBvZiBqYXZhIGZpbGVzIHVuZGVyIGBzcmMvbWFpbi9qYXZhL251YW5jZS8qYCBhbmQgYHNyYy9tYWluL2phdmEvY29tL2AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgc2hlbGwKJCAuL3Byb3RvYy5zaApgYGAK</text>
+        <text encoding="base64">cHJvamVjdC5wcm90b2J1Zi5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyB3aWxsIGNyZWF0ZSBhIGxhcmdlIHNldCBvZiBqYXZhIGZpbGVzIHVuZGVyIGBzcmMvbWFpbi9qYXZhL251YW5jZS8qYCBhbmQgYHNyYy9tYWluL2phdmEvY29tL2AK</text>
       </register>
-      <register name="7" type="4">
-        <text>task(&quot;showDate&quot;) {
-    evaluationDependsOn(&quot;build&quot;)
-    doLast{
-        println(&quot;&quot;)
-        println(&quot;Current Date: &quot;.plus(org.gradle.internal.impldep.org.joda.time.LocalDateTime.now()))
-        println(&quot;&quot;)
-    }
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">YGBgc2hlbGwKJCAuL3Byb3RvYy5zaApgYGAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
