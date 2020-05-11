@@ -120,6 +120,9 @@
         <mark key="]" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1589231400562">
+        <mark key="'" line="324" column="46" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589213931041" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1589223985195">
         <mark key="[" line="3" column="0" />
@@ -144,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="60" column="11" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
       <jump line="79" column="14" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
       <jump line="234" column="42" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
@@ -244,6 +246,7 @@
       <jump line="53" column="4" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="135" column="64" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="25" column="51" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
+      <jump line="324" column="46" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
