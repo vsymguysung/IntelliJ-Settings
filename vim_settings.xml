@@ -98,9 +98,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1589200740585">
         <mark key="'" line="121" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" timestamp="1589037376967">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1589073739534">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -114,6 +111,12 @@
         <mark key="]" line="60" column="18" />
         <mark key="." line="60" column="18" />
         <mark key="^" line="60" column="8" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1589223985195">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1589064325171">
         <mark key="[" line="9" column="0" />
@@ -243,10 +246,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5wcm92aWRlci5ncmFkbGVLb3RsaW5Ec2xPZgo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>minimal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
@@ -255,31 +258,31 @@
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5wcm92aWRlci5ncmFkbGVLb3RsaW5Ec2xPZgo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">Ly8gQSAgZXhhbXBsZSBKYXZhIHByb2plY3QgdGhhdCB1c2VzIHRoZSBwcm90b2J1ZiBwbHVnaW4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvamVjdC5wcm90b2J1Zi5nCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIFNhaWQgcHJvdG9idWYgcGx1Z2luIGl0c2VsZiB1c2VzIHByb3RvYy1nZW4tZ3JwYy1qYXZhIHBsdWdpbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhpcyB3aWxsIGNyZWF0ZSBhIGxhcmdlIHNldCBvZiBqYXZhIGZpbGVzIHVuZGVyIGBzcmMvbWFpbi9qYXZhL251YW5jZS8qYCBhbmQgYHNyYy9tYWluL2phdmEvY29tL2AK</text>
+        <text encoding="base64">Ly8gIFNhaWQgcHJvdG9idWYgcGx1Z2luIGl0c2VsZiB1c2VzIHByb3RvYy1nZW4tZ3JwYy1qYXZhIHBsdWdpbi4KLy8gIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvaW8uZ3JwYy9wcm90b2MtZ2VuLWdycGMtamF2YS8xLjI5LjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgc2hlbGwKJCAuL3Byb3RvYy5zaApgYGAK</text>
+        <text encoding="base64">Ly8gVG8gYnVpbGQgaXQ6Ci8vICQgLi9ncmFkbGV3IGNsZWFuIGJ1aWxkCi8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5wcm92aWRlci5ncmFkbGVLb3RsaW5Ec2xPZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
