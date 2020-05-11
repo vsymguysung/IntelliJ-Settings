@@ -100,6 +100,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1589200740585">
+        <mark key="'" line="121" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" timestamp="1589037376967">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="90" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="484" column="11" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="465" column="8" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
       <jump line="460" column="4" filename="$USER_HOME$/GenDev/nuance-sandbox/tts_client.py" />
@@ -274,6 +276,7 @@
       <jump line="72" column="10" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="1" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="77" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="121" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
