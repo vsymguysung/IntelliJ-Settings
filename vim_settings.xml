@@ -95,23 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build.gradle" timestamp="1588996364970">
-        <mark key="'" line="47" column="42" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="25" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1589200740585">
         <mark key="'" line="121" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" timestamp="1589037376967">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1588997166598">
-        <mark key="'" line="358" column="80" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/settings.gradle.kts" timestamp="1589073739534">
         <mark key="[" line="1" column="0" />
@@ -119,35 +107,18 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1588985872579">
-        <mark key="'" line="58" column="116" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" timestamp="1589074030622">
-        <mark key="[" line="60" column="18" />
-        <mark key="]" line="60" column="18" />
-        <mark key="." line="60" column="18" />
-        <mark key="^" line="60" column="8" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1588985898855">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/utils/AsrParams.java" timestamp="1588985772388">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/.gitignore" timestamp="1589051960124">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="9" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589213931041" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" timestamp="1589074030622">
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="8" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/.gitignore" timestamp="1589064325171">
         <mark key="[" line="9" column="0" />
@@ -160,6 +131,9 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1589213545246">
+        <mark key="'" line="135" column="64" />
+      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589211208597">
         <mark key="'" line="55" column="4" />
         <mark key="[" line="5" column="3" />
@@ -167,12 +141,8 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1588996164548">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="17" filename="$USER_HOME$/GenDev/xaas-java-samples-master/tts/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="252" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="253" column="29" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="60" column="11" filename="$USER_HOME$/GenDev/nuance-java-sandbox/nlu/src/main/java/xaas/sample/nlu/java/client/Config.java" />
@@ -272,6 +242,7 @@
       <jump line="62" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="60" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="53" column="4" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
+      <jump line="135" column="64" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
