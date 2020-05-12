@@ -112,6 +112,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1589310686846" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AbstractAudioSource.java" timestamp="1589285565723">
         <mark key="'" line="5" column="57" />
       </file>
@@ -121,16 +122,16 @@
         <mark key="]" line="30" column="49" />
         <mark key="." line="30" column="49" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AudioFile.java" timestamp="1589285211923">
-        <mark key="'" line="52" column="20" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" timestamp="1589311314281">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" timestamp="1589304299712">
         <mark key="'" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1589297013024" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1589231400562">
-        <mark key="'" line="324" column="46" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589296987076" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/IAudioSource.java" timestamp="1589285339380" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-dlg.json" timestamp="1589297000873" />
@@ -145,11 +146,6 @@
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1589294301795" />
     </filemarks>
     <jumps>
-      <jump line="8" column="65" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
-      <jump line="38" column="18" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="85" column="23" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="98" column="74" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="40" column="18" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="191" column="8" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="178" column="69" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="156" column="42" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
@@ -245,12 +241,17 @@
       <jump line="47" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" />
       <jump line="43" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" />
       <jump line="34" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" />
+      <jump line="36" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
+      <jump line="15" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
+      <jump line="24" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
+      <jump line="42" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
+      <jump line="37" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -262,31 +263,31 @@
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">My4gW1RUU2FhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi90dHMtZ3JwYy92MS8jdHRzLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">My4gW1RUU2FhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi90dHMtZ3JwYy92MS8jdHRzLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Mi4gW0FTUmFhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi9hc3ItZ3JwYy92MS8jYXNyLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KiBQdXJlQ29ubmVjdEF0b21pY1RhbmdlcmluZVRlYW1AZ2VuZXN5cy5jb20K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBQdXJlQ29ubmVjdEF0b21pY1RhbmdlcmluZVRlYW1AZ2VuZXN5cy5jb20K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MS4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
