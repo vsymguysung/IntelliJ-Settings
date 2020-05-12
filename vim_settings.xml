@@ -105,11 +105,12 @@
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589228122628">
-        <mark key="[" line="15" column="96" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589289696951">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AbstractAudioSource.java" timestamp="1589285565723">
         <mark key="'" line="5" column="57" />
@@ -157,9 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="37" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
-      <jump line="182" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
-      <jump line="473" column="36" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="477" column="36" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="441" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="68" column="44" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
@@ -257,15 +255,18 @@
       <jump line="109" column="20" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="33" column="49" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="243" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
+      <jump line="48" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvZ25pemVcPg==</text>
@@ -274,31 +275,31 @@
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MS4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbl91cmwiOiAiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
+        <text encoding="base64">ICAgICJ0b2tlbl91cmwiOiAiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
