@@ -105,12 +105,11 @@
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589290579226">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="21" column="119" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589290954186">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AbstractAudioSource.java" timestamp="1589285565723">
         <mark key="'" line="5" column="57" />
@@ -263,10 +262,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvZ25pemVcPg==</text>
@@ -278,28 +277,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">MS4gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">My4gW1RUU2FhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi90dHMtZ3JwYy92MS8jdHRzLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Mi4gW0FTUmFhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi9hc3ItZ3JwYy92MS8jYXNyLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiBQdXJlQ29ubmVjdEF0b21pY1RhbmdlcmluZVRlYW1AZ2VuZXN5cy5jb20K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbl91cmwiOiAiaHR0cHM6Ly9hdXRoLmNydC5udWFuY2UuY29tL29hdXRoMi90b2tlbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAidG9rZW5fdXJsIjogImh0dHBzOi8vYXV0aC5jcnQubnVhbmNlLmNvbS9vYXV0aDIvdG9rZW4iLAo=</text>
+        <text encoding="base64">MS4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
