@@ -105,12 +105,12 @@
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589289696951">
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589290579226">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="33" column="25" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="21" column="119" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AbstractAudioSource.java" timestamp="1589285565723">
         <mark key="'" line="5" column="57" />
@@ -158,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="36" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
-      <jump line="441" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="68" column="44" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="123" column="12" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="58" column="40" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
@@ -257,16 +255,18 @@
       <jump line="243" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
       <jump line="19" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="10" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="48" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">bGluZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">bGluZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvZ25pemVcPg==</text>
