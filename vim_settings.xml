@@ -95,7 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1589298650911" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-asr.json" timestamp="1589294323065">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="58" />
@@ -125,10 +124,8 @@
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AudioFile.java" timestamp="1589285211923">
         <mark key="'" line="52" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-tts.json" timestamp="1589227317622">
-        <mark key="[" line="3" column="66" />
-        <mark key="]" line="3" column="66" />
-        <mark key="." line="3" column="66" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" timestamp="1589304299712">
+        <mark key="'" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1589297013024" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1589231400562">
@@ -137,12 +134,6 @@
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589296987076" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/IAudioSource.java" timestamp="1589285339380" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-dlg.json" timestamp="1589297000873" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1589223985195">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1589294197510">
         <mark key="'" line="109" column="20" />
       </file>
@@ -154,9 +145,6 @@
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1589294301795" />
     </filemarks>
     <jumps>
-      <jump line="68" column="44" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="123" column="12" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="58" column="40" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
       <jump line="8" column="65" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetServiceImpl.java" />
       <jump line="38" column="18" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="85" column="23" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
@@ -254,6 +242,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="6" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="48" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
+      <jump line="47" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" />
+      <jump line="43" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" />
+      <jump line="34" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
