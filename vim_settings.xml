@@ -100,6 +100,7 @@
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1589297621059" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-dlg.json" timestamp="1589294310111">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="58" />
@@ -129,11 +130,13 @@
         <mark key="]" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1589297013024" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/tts/java/client/TtsClient.java" timestamp="1589231400562">
         <mark key="'" line="324" column="46" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589213931041" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589296987076" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/IAudioSource.java" timestamp="1589285339380" />
+      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-dlg.json" timestamp="1589297000873" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/build.gradle.kts" timestamp="1589223985195">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -149,13 +152,6 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1589294301795" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" timestamp="1589211208597">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="4" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="68" column="44" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
