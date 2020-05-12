@@ -95,6 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/xaas-java-samples-master/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1589315719080" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1589310686846" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" timestamp="1589304299712">
         <mark key="'" line="34" column="24" />
@@ -118,9 +119,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AbstractAudioSource.java" timestamp="1589285565723">
-        <mark key="'" line="5" column="57" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1589287483666">
         <mark key="'" line="243" column="0" />
