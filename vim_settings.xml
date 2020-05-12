@@ -95,6 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1589298650911" />
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-asr.json" timestamp="1589294323065">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="58" />
