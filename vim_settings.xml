@@ -120,12 +120,6 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" timestamp="1589287483666">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="49" />
-        <mark key="." line="30" column="49" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" timestamp="1589311314281">
         <mark key="'" line="38" column="25" />
         <mark key="[" line="25" column="0" />
@@ -140,6 +134,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589317550684">
+        <mark key="[" line="61" column="60" />
+        <mark key="]" line="61" column="63" />
+        <mark key="." line="61" column="62" />
+        <mark key="^" line="61" column="63" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1589294301795" />
     </filemarks>
@@ -248,11 +248,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvZ25pemVcPg==</text>
