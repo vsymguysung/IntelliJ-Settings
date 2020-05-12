@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>Leslie</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJVcmxcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxtb2RlbFVyblw+</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxyZWNvZ25pemVcPg==</entry>
+        <entry encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,31 +95,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1589319717743" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1589319894345">
+        <mark key="'" line="100" column="131" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1589319089802" />
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1589315719080" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1589310686846" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" timestamp="1589304299712">
         <mark key="'" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-asr.json" timestamp="1589296987076" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/params-dlg.json" timestamp="1589297000873" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-asr.json" timestamp="1589294323065">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1589319760323" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1589297621059" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1589313286463" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-dlg.json" timestamp="1589294310111">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" timestamp="1589294079377">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" timestamp="1589311314281">
         <mark key="'" line="38" column="25" />
         <mark key="[" line="25" column="0" />
@@ -127,13 +115,8 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1589297013024" />
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" timestamp="1589294197510">
-        <mark key="'" line="109" column="20" />
-      </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/config-nlu.json" timestamp="1589294314249">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1589319636493">
+        <mark key="'" line="133" column="142" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589317550684">
         <mark key="[" line="61" column="60" />
@@ -141,13 +124,8 @@
         <mark key="." line="61" column="62" />
         <mark key="^" line="61" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/Config.java" timestamp="1589294301795" />
     </filemarks>
     <jumps>
-      <jump line="191" column="8" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="178" column="69" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="156" column="42" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
-      <jump line="153" column="4" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="13" column="11" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldClient.java" />
       <jump line="268" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
       <jump line="265" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
@@ -244,6 +222,10 @@
       <jump line="24" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
       <jump line="42" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
       <jump line="37" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/OutgoingRequestFilter.java" />
+      <jump line="42" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
+      <jump line="134" column="142" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
+      <jump line="133" column="142" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
+      <jump line="100" column="131" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -255,7 +237,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNvZ25pemVcPg==</text>
+        <text encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
@@ -294,9 +276,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWNvZ25pemVcPg==</last-search>
+      <last-search encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNvZ25pemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
