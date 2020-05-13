@@ -118,22 +118,23 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589399024709">
         <mark key="[" line="51" column="81" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589398983044">
-        <mark key="[" line="46" column="96" />
-        <mark key="]" line="47" column="22" />
-        <mark key="^" line="47" column="22" />
-        <mark key="." line="47" column="21" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589401814232">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="77" />
+        <mark key="^" line="46" column="99" />
+        <mark key="." line="46" column="77" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589398009037" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/CachedValue/InlineTemplateValueVisitor.js" timestamp="1589396426988">
         <mark key="'" line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589399086784">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589401754161">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="46" column="96" />
-        <mark key="]" line="47" column="22" />
-        <mark key="^" line="47" column="22" />
-        <mark key="." line="47" column="21" />
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="78" />
+        <mark key="^" line="46" column="83" />
+        <mark key="." line="46" column="78" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1589319636493">
         <mark key="'" line="133" column="142" />
@@ -143,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="25" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
-      <jump line="52" column="10" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="38" column="22" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="108" column="16" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="189" column="64" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
@@ -243,15 +242,17 @@
       <jump line="17" column="43" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/CachedValue/InlineTemplateValueVisitor.js" />
       <jump line="45" column="20" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
       <jump line="48" column="8" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
+      <jump line="48" column="8" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
+      <jump line="45" column="20" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text encoding="base64">ICBFcnJvcjogICR7ZXJyfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">ICBFcnJvcjogICR7ZXJyfQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</text>
