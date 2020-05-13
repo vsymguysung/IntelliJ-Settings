@@ -106,7 +106,7 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589386970079" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1589319089802" />
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1589315719080" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" timestamp="1589390577469" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" timestamp="1589390807662" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1589310686846" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/parseSchemaBuildRequest.js" timestamp="1589378215366">
         <mark key="'" line="55" column="34" />
