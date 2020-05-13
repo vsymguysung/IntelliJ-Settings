@@ -96,6 +96,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589320247372" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/StartBotSchemaRequestStrategy.js" timestamp="1589378377040">
+        <mark key="'" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/google/GoogleTTSSession.java" timestamp="1589319717743" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1589319894345">
         <mark key="'" line="100" column="131" />
@@ -103,8 +106,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1589319089802" />
       <file name="$USER_HOME$/GenDev/xaas-java-samples-master/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" timestamp="1589315719080" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1589310686846" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/parseSchemaBuildRequest.js" timestamp="1589378215366">
+        <mark key="'" line="55" column="34" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ThreadPoolMetrics.java" timestamp="1589304299712">
         <mark key="'" line="34" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/StartBotSessionRequest.js" timestamp="1589378259826">
+        <mark key="'" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1589319760323" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/model/NewRelicSecret.java" timestamp="1589313286463" />
@@ -128,10 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
-      <jump line="265" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
-      <jump line="447" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="95" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="98" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="102" column="77" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="271" column="18" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
@@ -228,6 +233,10 @@
       <jump line="133" column="142" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
       <jump line="100" column="131" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="40" column="32" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/index.js" />
+      <jump line="55" column="34" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/parseSchemaBuildRequest.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/StartBotSessionRequest.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/StartBotSchemaRequestStrategy.js" />
+      <jump line="8" column="24" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/StartBotSchemaRequestStrategy.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
