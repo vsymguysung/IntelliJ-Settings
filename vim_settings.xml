@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Leslie</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJVcmxcPg==</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxyZWNvZ25pemVcPg==</entry>
         <entry encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</entry>
+        <entry encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -99,42 +99,15 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1589485856398">
         <mark key="'" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1589460496138">
-        <mark key="'" line="73" column="41" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589483423314" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/IBMWatsonAuthVisitor.js" timestamp="1589470904540" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1589461453899" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/pureConnectUtilities.js" timestamp="1589487893575" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleStartBotSessionResponse.js" timestamp="1589487798519" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Base64Value/Base64ValueVisitor.js" timestamp="1589471077404" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1589459463669">
-        <mark key="'" line="154" column="33" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1589474914273">
-        <mark key="'" line="168" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1-sources.jar!/com/codahale/metrics/MetricRegistry.java" timestamp="1589457469545">
-        <mark key="'" line="10" column="13" />
-      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1589474909847" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589459357754" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589482797187">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="51" column="25" />
         <mark key="^" line="51" column="68" />
         <mark key="." line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589483548784">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="46" column="99" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589475997653">
-        <mark key="[" line="45" column="63" />
-        <mark key="]" line="46" column="22" />
-        <mark key="^" line="46" column="22" />
-        <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589483436055">
         <mark key="'" line="150" column="30" />
@@ -150,22 +123,39 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1589457305392">
-        <mark key="'" line="469" column="11" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/template.yml" timestamp="1589484387898">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589483423314" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/IBMWatsonAuthVisitor.js" timestamp="1589470904540" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/redisOperations.js" timestamp="1589488261116" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleSendBotMessageResponse.js" timestamp="1589488435898">
+        <mark key="'" line="33" column="109" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1589474914273">
+        <mark key="'" line="168" column="19" />
+      </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" timestamp="1589488250320">
+        <mark key="'" line="140" column="49" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589483548784">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="46" column="99" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589475997653">
+        <mark key="[" line="45" column="63" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="116" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" />
-      <jump line="128" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" />
-      <jump line="63" column="2" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" />
-      <jump line="117" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="65" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="64" column="84" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="24" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
@@ -261,6 +251,11 @@
       <jump line="168" column="19" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
       <jump line="150" column="30" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
       <jump line="36" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
+      <jump line="141" column="59" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" />
+      <jump line="13" column="8" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" />
+      <jump line="136" column="38" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" />
+      <jump line="140" column="49" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" />
+      <jump line="33" column="109" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleSendBotMessageResponse.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +267,7 @@
         <text>js</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</text>
+        <text encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
@@ -311,9 +306,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</last-search>
+      <last-search encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
