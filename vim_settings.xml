@@ -119,7 +119,7 @@
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1589474909847" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589459357754" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589471447039">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589476017353">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="51" column="25" />
         <mark key="^" line="51" column="68" />
@@ -135,13 +135,13 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" timestamp="1589410970884">
         <mark key="'" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589470895461">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589475997653">
         <mark key="[" line="45" column="63" />
         <mark key="]" line="46" column="22" />
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589471313955">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589476163880">
         <mark key="'" line="48" column="8" />
         <mark key="[" line="46" column="77" />
         <mark key="]" line="46" column="78" />
