@@ -102,8 +102,8 @@
         <mark key="." line="70" column="62" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/endToEnd-test/inputPayload.js" timestamp="1589399475216" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" timestamp="1589410786335">
-        <mark key="'" line="92" column="26" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" timestamp="1589410877179">
+        <mark key="'" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/parseSchemaBuildRequest.js" timestamp="1589399304809">
         <mark key="'" line="55" column="34" />
@@ -126,7 +126,6 @@
         <mark key="^" line="35" column="84" />
         <mark key="." line="35" column="62" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema_webchat.json" timestamp="1589396155576" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/ComputedValue/TimestampVisitor.js" timestamp="1589402207260">
         <mark key="'" line="24" column="59" />
       </file>
@@ -147,6 +146,9 @@
         <mark key="^" line="46" column="99" />
         <mark key="." line="46" column="77" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" timestamp="1589410970884">
+        <mark key="'" line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/SendBotSchemaRequestStrategy.js" timestamp="1589410706264">
         <mark key="'" line="27" column="58" />
       </file>
@@ -157,9 +159,6 @@
         <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589398009037" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/CachedValue/InlineTemplateValueVisitor.js" timestamp="1589396426988">
-        <mark key="'" line="17" column="43" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589401754161">
         <mark key="'" line="48" column="8" />
         <mark key="[" line="46" column="77" />
@@ -173,11 +172,11 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/RestSchemaInterface.js" timestamp="1589410730584">
         <mark key="'" line="32" column="26" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" timestamp="1589410995262">
+        <mark key="'" line="25" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="73" filename="$USER_HOME$/GenDev/grpc-java/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java" />
-      <jump line="65" column="55" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
-      <jump line="53" column="48" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="55" column="32" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="90" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
       <jump line="105" column="87" filename="$USER_HOME$/GenDev/nuance-java-sandbox/dlg/src/main/java/xaas/sample/dlg/java/client/DlgManager.java" />
@@ -272,9 +271,12 @@
       <jump line="24" column="59" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/ComputedValue/TimestampVisitor.js" />
       <jump line="27" column="58" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/SendBotSchemaRequestStrategy.js" />
       <jump line="32" column="26" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/RestSchemaInterface.js" />
-      <jump line="108" column="19" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
-      <jump line="13" column="55" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
       <jump line="92" column="26" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
+      <jump line="108" column="24" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
+      <jump line="13" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
+      <jump line="28" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" />
+      <jump line="3" column="40" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" />
+      <jump line="25" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
