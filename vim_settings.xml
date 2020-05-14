@@ -96,40 +96,24 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589423289539" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/IBMWatsonStringArrayTranslatedResponseVisitor.js" timestamp="1589402366899">
-        <mark key="[" line="70" column="62" />
-        <mark key="]" line="70" column="62" />
-        <mark key="^" line="70" column="84" />
-        <mark key="." line="70" column="62" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1589461297975">
         <mark key="'" line="36" column="34" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1589460496138">
         <mark key="'" line="73" column="41" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/IBMWatsonAuthVisitor.js" timestamp="1589470904540" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" timestamp="1589410877179">
         <mark key="'" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/StringArrayTranslatedResponseVisitor.js" timestamp="1589402461576">
-        <mark key="[" line="62" column="70" />
-        <mark key="]" line="63" column="22" />
-        <mark key="." line="63" column="21" />
-        <mark key="^" line="63" column="22" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1589461453899" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/BooleanTranslatedResponseVisitor.js" timestamp="1589402330061">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="37" column="68" />
-        <mark key="." line="37" column="25" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/TranslatedResponseVisitor.js" timestamp="1589402486948">
         <mark key="[" line="35" column="62" />
         <mark key="]" line="35" column="62" />
         <mark key="^" line="35" column="84" />
         <mark key="." line="35" column="62" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Base64Value/Base64ValueVisitor.js" timestamp="1589471077404" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1589459463669">
         <mark key="'" line="154" column="33" />
       </file>
@@ -137,20 +121,27 @@
         <mark key="'" line="10" column="13" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589459357754" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589402292797">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="68" />
-        <mark key="." line="51" column="25" />
-      </file>
       <file name="/JavaScript Console" timestamp="1589410557890">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589470741978">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="99" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" timestamp="1589410970884">
         <mark key="'" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/SendBotSchemaRequestStrategy.js" timestamp="1589410706264">
         <mark key="'" line="27" column="58" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589470895461">
+        <mark key="[" line="45" column="63" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589467887075">
         <mark key="'" line="147" column="100" />
@@ -274,7 +265,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -286,31 +277,31 @@
         <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">My4gW1RUU2FhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi90dHMtZ3JwYy92MS8jdHRzLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">My4gW1RUU2FhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi90dHMtZ3JwYy92MS8jdHRzLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Mi4gW0FTUmFhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi9hc3ItZ3JwYy92MS8jYXNyLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">KiBQdXJlQ29ubmVjdEF0b21pY1RhbmdlcmluZVRlYW1AZ2VuZXN5cy5jb20K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBQdXJlQ29ubmVjdEF0b21pY1RhbmdlcmluZVRlYW1AZ2VuZXN5cy5jb20K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
