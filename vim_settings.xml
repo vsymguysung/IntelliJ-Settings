@@ -107,12 +107,6 @@
         <mark key="'" line="13" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java" timestamp="1589461453899" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/TranslatedResponseVisitor.js" timestamp="1589402486948">
-        <mark key="[" line="35" column="62" />
-        <mark key="]" line="35" column="62" />
-        <mark key="^" line="35" column="84" />
-        <mark key="." line="35" column="62" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Base64Value/Base64ValueVisitor.js" timestamp="1589471077404" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1589459463669">
         <mark key="'" line="154" column="33" />
@@ -121,8 +115,11 @@
         <mark key="'" line="10" column="13" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589459357754" />
-      <file name="/JavaScript Console" timestamp="1589410557890">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589471447039">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="68" />
+        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589470741978">
         <mark key="'" line="45" column="20" />
@@ -142,6 +139,13 @@
         <mark key="]" line="46" column="22" />
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="21" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589471313955">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="78" />
+        <mark key="^" line="46" column="83" />
+        <mark key="." line="46" column="78" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589467887075">
         <mark key="'" line="147" column="100" />
