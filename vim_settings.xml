@@ -111,9 +111,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" timestamp="1589459463669">
         <mark key="'" line="154" column="33" />
       </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1589474914273">
+        <mark key="'" line="168" column="19" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1-sources.jar!/com/codahale/metrics/MetricRegistry.java" timestamp="1589457469545">
         <mark key="'" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1589474909847" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589459357754" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589471447039">
         <mark key="[" line="51" column="24" />
@@ -130,9 +134,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" timestamp="1589410970884">
         <mark key="'" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/SendBotSchemaRequestStrategy.js" timestamp="1589410706264">
-        <mark key="'" line="27" column="58" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589470895461">
         <mark key="[" line="45" column="63" />
@@ -156,15 +157,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1589457305392">
         <mark key="'" line="469" column="11" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/RestSchemaInterface.js" timestamp="1589410730584">
-        <mark key="'" line="32" column="26" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" timestamp="1589410995262">
         <mark key="'" line="25" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="80" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="122" column="4" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="96" column="116" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="82" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/README.md" />
@@ -264,6 +261,7 @@
       <jump line="156" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="166" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="147" column="100" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="168" column="19" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
