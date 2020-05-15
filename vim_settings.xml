@@ -95,70 +95,74 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputWebChatVisitor.js" timestamp="1589483527664" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1589485856398">
-        <mark key="'" line="36" column="33" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputWebChatVisitor.js" timestamp="1589548359083">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/pureConnectUtilities.js" timestamp="1589487893575" />
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleStartBotSessionResponse.js" timestamp="1589487798519" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Base64Value/Base64ValueVisitor.js" timestamp="1589471077404" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_start_event.json" timestamp="1589511018411">
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_start_event.json" timestamp="1589549516926">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589548410969">
+        <mark key="'" line="150" column="30" />
+        <mark key="[" line="154" column="16" />
+        <mark key="]" line="154" column="16" />
+        <mark key="^" line="46" column="83" />
+        <mark key="." line="154" column="16" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageVisitor.js" timestamp="1589548369592">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now_sendMessage_event.json" timestamp="1589549365738">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputVisitor.js" timestamp="1589548348761">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589548375892">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/redisOperations.js" timestamp="1589488261116" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleSendBotMessageResponse.js" timestamp="1589488435898">
+        <mark key="'" line="33" column="109" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now-send_event.json" timestamp="1589549216037">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now_start_event.json" timestamp="1589549357609" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" timestamp="1589488250320">
+        <mark key="'" line="140" column="49" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589548397770">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="153" column="16" />
+        <mark key="]" line="153" column="16" />
+        <mark key="^" line="46" column="99" />
+        <mark key="." line="153" column="16" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_end_event.json" timestamp="1589549321500">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="24" />
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1589474909847" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589482797187">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="68" />
-        <mark key="." line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589483436055">
-        <mark key="'" line="150" column="30" />
-        <mark key="[" line="46" column="77" />
-        <mark key="]" line="46" column="78" />
-        <mark key="^" line="46" column="83" />
-        <mark key="." line="46" column="78" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageVisitor.js" timestamp="1589483519678" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589480221030">
-        <mark key="'" line="147" column="100" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/template.yml" timestamp="1589484387898">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589483423314" />
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/redisOperations.js" timestamp="1589488261116" />
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleSendBotMessageResponse.js" timestamp="1589488435898">
-        <mark key="'" line="33" column="109" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1589474914273">
-        <mark key="'" line="168" column="19" />
-      </file>
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" timestamp="1589488250320">
-        <mark key="'" line="140" column="49" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589483548784">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="46" column="99" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589475997653">
-        <mark key="[" line="45" column="63" />
-        <mark key="]" line="46" column="22" />
-        <mark key="^" line="46" column="22" />
-        <mark key="." line="46" column="21" />
-      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_sendMessage_event.json" timestamp="1589549210975" />
     </filemarks>
     <jumps>
       <jump line="65" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
@@ -265,8 +269,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>533</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICJhdXRoS2V5IjogImJjYmM5ZWExY2ZmMDVjYjA3OWJkMTc3ZjE4NjlhNmY3YzVlNWM3NTM3MzE0OTA5MzIzNDNiZmUzZTYyYjViN2QiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>533</text>
@@ -278,31 +282,36 @@
         <text encoding="base64">ICAgICAgICAgICJ1cmwiOiAiaHR0cDovL2dpYS1ub3cuZGVtby5nZW5lc3lzLmNvbS9maXNoLXZ1aSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgInVybCI6ICJodHRwOi8vZ2lhLWRldi5kZW1vLmdlbmVzeXMuY29tL2Zpc2gtdnVpIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICJhdXRoS2V5IjogImJjYmM5ZWExY2ZmMDVjYjA3OWJkMTc3ZjE4NjlhNmY3YzVlNWM3NTM3MzE0OTA5MzIzNDNiZmUzZTYyYjViN2QiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgImF1dGhLZXkiOiAiMjJiMWFiYTcyOTMxYTNjOWVkNzE3MDc2MjdlNzUwMmNjMTI3N2ZjZDY5MGU2N2FiNjdhNTZiY2ZjMDE0Mjc5NCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJ1cmwiOiAiaHR0cDovL2dpYS1ub3cuZGVtby5nZW5lc3lzLmNvbS9maXNoLXZ1aSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgIkpTRVNTSU9OSUQ9QjZENTBBNkUxQUYxM0E1NEE5OUQwOEM2NjY4QTJEODA7IFBhdGg9L2Zpc2gtdnVpOyBIdHRwT25seSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
+        <text encoding="base64">ICAgICJDb29raWUiOiBbCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
+      <register name="7" type="4">
+        <text>&quot;Cookie&quot;: [
+      &quot;JSESSIONID=B6D50A6E1AF13A54A99D08C6668A2D80; Path=/fish-vui; HttpOnly&quot;
+    ],</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>,
+            headers: {
+                'Cookie' : cookie
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb29raWUgPSB0aGlzLmdldENvb2tpZShub2RlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
