@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/pureConnectUtilities.js" timestamp="1589487893575" />
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleStartBotSessionResponse.js" timestamp="1589487798519" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Base64Value/Base64ValueVisitor.js" timestamp="1589471077404" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_start_event.json" timestamp="1589510856647">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="32" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_start_event.json" timestamp="1589511018411">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1589474909847" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589482797187">
@@ -266,42 +266,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>533</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>533</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IyMgVXBkYXRlIGNvbmZpZy0qLmpzb24KClVwZGF0ZSBjb25maWcuanNvbiB3aXRoIHlvdXIgTWl4IEJldGEgQ2xpZW50IElkIGFuZCBDbGllbnQgU2VjcmV0Cgo+IGNvbmZpZy1bYXNyfHR0c3xubHV8ZGxnXS5qc29uCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ1cmwiOiAiaHR0cDovL2dpYS1ub3cuZGVtby5nZW5lc3lzLmNvbS9maXNoLXZ1aSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgInVybCI6ICJodHRwOi8vZ2lhLWRldi5kZW1vLmdlbmVzeXMuY29tL2Zpc2gtdnVpIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgImF1dGhLZXkiOiAiMjJiMWFiYTcyOTMxYTNjOWVkNzE3MDc2MjdlNzUwMmNjMTI3N2ZjZDY5MGU2N2FiNjdhNTZiY2ZjMDE0Mjc5NCIsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">My4gW1RUU2FhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi90dHMtZ3JwYy92MS8jdHRzLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+        <text encoding="base64">ICAgIEBOb25OdWxsQXBpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Mi4gW0FTUmFhUyBBUEldKGh0dHBzOi8vbWl4Lm51YW5jZS5jb20vdjMvZG9jdW1lbnRhdGlvbi9hc3ItZ3JwYy92MS8jYXNyLWFzLWEtc2VydmljZS1ncnBjLWFwaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
