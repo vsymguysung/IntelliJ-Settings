@@ -102,6 +102,12 @@
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/pureConnectUtilities.js" timestamp="1589487893575" />
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleStartBotSessionResponse.js" timestamp="1589487798519" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Base64Value/Base64ValueVisitor.js" timestamp="1589471077404" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_start_event.json" timestamp="1589510856647">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="32" />
+      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1589474909847" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589482797187">
         <mark key="[" line="51" column="24" />
@@ -130,7 +136,6 @@
         <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589483423314" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/IBMWatsonAuthVisitor.js" timestamp="1589470904540" />
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/common/redisOperations.js" timestamp="1589488261116" />
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleSendBotMessageResponse.js" timestamp="1589488435898">
         <mark key="'" line="33" column="109" />
@@ -261,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>js</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</text>
