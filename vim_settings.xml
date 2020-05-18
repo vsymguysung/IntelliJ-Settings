@@ -101,7 +101,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="8" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1589805289525">
+        <mark key="'" line="32" column="66" />
+      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_webchat_start_event.json" timestamp="1589572254295" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1589805334977">
+        <mark key="'" line="73" column="19" />
+      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/unit-test/schema/GoogleOAuthJwtVisitor.spec.js" timestamp="1589569972147">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -140,12 +146,6 @@
         <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589567859172" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589551785072">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="20" column="18" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589572271985">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="48" />
@@ -170,13 +170,6 @@
       <file name="/JavaScript Console" timestamp="1589572292199">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589551610759">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="148" column="9" />
-        <mark key="]" line="149" column="8" />
-        <mark key="^" line="149" column="8" />
-        <mark key="." line="149" column="7" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_end_event.json" timestamp="1589553106857">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="24" />
@@ -191,10 +184,6 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_sendMessage_event.json" timestamp="1589553099436" />
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
-      <jump line="16" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
-      <jump line="51" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
-      <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/src/main/java/xaas/sample/dlg/java/client/DlgClient.java" />
       <jump line="8" column="34" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="9" column="54" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
       <jump line="81" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox-one-project/build.gradle.kts" />
@@ -291,6 +280,10 @@
       <jump line="33" column="109" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/botMessageConsumer/messageHandlers/handleSendBotMessageResponse.js" />
       <jump line="48" column="97" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" />
       <jump line="158" column="32" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
+      <jump line="61" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
+      <jump line="60" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
+      <jump line="32" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
+      <jump line="73" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
