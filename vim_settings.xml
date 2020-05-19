@@ -103,12 +103,7 @@
       <file name="internal/process/next_tick.js" timestamp="1589913331000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/event-runner.ts" timestamp="1589832065568">
-        <mark key="'" line="33" column="45" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1589805334977">
-        <mark key="'" line="73" column="19" />
-      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1589923394954" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589900537752">
         <mark key="^" line="46" column="15" />
       </file>
@@ -144,6 +139,13 @@
         <mark key="'" line="77" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589908015306" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1589923900761">
+        <mark key="'" line="88" column="11" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="88" column="15" />
+        <mark key="^" line="88" column="15" />
+        <mark key="." line="88" column="14" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1589921681591">
         <mark key="'" line="71" column="10" />
       </file>
@@ -155,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="82" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="147" column="4" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="109" column="20" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="33" column="49" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
@@ -255,6 +256,7 @@
       <jump line="159" column="20" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
       <jump line="163" column="8" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
       <jump line="71" column="10" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
+      <jump line="88" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
