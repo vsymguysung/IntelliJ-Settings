@@ -110,12 +110,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589552453395">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589900537752">
         <mark key="'" line="158" column="32" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="166" column="15" />
-        <mark key="." line="167" column="0" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="40" />
+        <mark key="^" line="167" column="15" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now_sendMessage_event.json" timestamp="1589579141657">
         <mark key="[" line="34" column="0" />
@@ -152,6 +152,13 @@
       <file name="/JavaScript Console" timestamp="1589818170013">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589900532881">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="40" />
+        <mark key="^" line="157" column="40" />
+        <mark key="." line="157" column="39" />
+      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_end_event.json" timestamp="1589553106857">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="27" column="24" />
@@ -163,7 +170,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_sendMessage_event.json" timestamp="1589553099436" />
     </filemarks>
     <jumps>
       <jump line="149" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
@@ -271,16 +277,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ1c2VDaGF0UGVyc29uYSI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTZXQgQ29va2llIGhlYWRlciBvcHRpb25hbGx5Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ1c2VDaGF0UGVyc29uYSI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTZXQgQ29va2llIGhlYWRlciBvcHRpb25hbGx5Lgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
