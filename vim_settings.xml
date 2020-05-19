@@ -126,12 +126,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589899454204">
         <mark key="'" line="352" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589567859172" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589906448714">
+      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589908151419">
         <mark key="'" line="57" column="70" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="49" column="39" />
+        <mark key="]" line="49" column="49" />
+        <mark key="." line="49" column="48" />
+        <mark key="^" line="49" column="49" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_webchat_sendMessage_event.json" timestamp="1589579133157">
         <mark key="[" line="34" column="0" />
@@ -148,10 +148,10 @@
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589818170013">
+      <file name="/JavaScript Console" timestamp="1589908160822">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589900532881">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589907067888">
         <mark key="'" line="45" column="20" />
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="40" />
@@ -163,6 +163,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589908015306" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589901127549">
         <mark key="[" line="61" column="24" />
         <mark key="]" line="61" column="25" />
@@ -275,11 +276,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>Cookie</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Cookie</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0c1w+</text>
