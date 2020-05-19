@@ -159,16 +159,16 @@
         <mark key="^" line="157" column="40" />
         <mark key="." line="157" column="39" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_end_event.json" timestamp="1589553106857">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="24" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589569844249">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589901127549">
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="25" />
+        <mark key="." line="61" column="25" />
+        <mark key="^" line="61" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -276,11 +276,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgQ29va2llIGhlYWRlciBvcHRpb25hbGx5Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>: ${err}</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>: ${err}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0c1w+</text>
