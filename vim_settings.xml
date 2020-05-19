@@ -127,12 +127,11 @@
         <mark key="'" line="352" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589567859172" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589898010963">
-        <mark key="'" line="58" column="70" />
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="48" />
-        <mark key="^" line="29" column="51" />
-        <mark key="." line="29" column="48" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589901975021">
+        <mark key="'" line="57" column="70" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_webchat_sendMessage_event.json" timestamp="1589579133157">
         <mark key="[" line="34" column="0" />
@@ -276,11 +275,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>: ${err}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>: ${err}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0c1w+</text>
@@ -289,37 +288,34 @@
         <text encoding="base64">ICAgICAgICAvLyBTZXQgQ29va2llIGhlYWRlciBvcHRpb25hbGx5Lgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbm9kZS5yZXNwb25zZVBheWxvYWQucmVxdWVzdC5oZWFkZXJzWydDb29raWUnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbm9kZS5yZXNwb25zZVBheWxvYWQucmVxdWVzdC5oZWFkZXJzWydDb29raWUnXTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbm9kZS5yZXNwb25zZVBheWxvYWQucmVxdWVzdC5oZWFkZXJzWydDb29raWUnXTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>if (node.responsePayload.headers['set-cookie']) {
             return node.responsePayload.headers['set-cookie'][0];
         }
         return null;</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2U7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-            headers: {
-                'Cookie' : cookie
-            }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
