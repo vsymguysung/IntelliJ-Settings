@@ -110,13 +110,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/TranslatedResponse/AttachedDataTranslatedResponseVisitor.js" timestamp="1589552089790">
-        <mark key="'" line="48" column="97" />
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="68" />
-        <mark key="." line="51" column="25" />
-      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589552453395">
         <mark key="'" line="158" column="32" />
         <mark key="[" line="167" column="0" />
@@ -130,16 +123,16 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="31" column="24" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589895554642">
+        <mark key="'" line="351" column="62" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589567859172" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589816562302">
+      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589895196610">
         <mark key="'" line="58" column="70" />
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="48" />
         <mark key="^" line="29" column="51" />
         <mark key="." line="29" column="48" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1589834152813">
-        <mark key="'" line="73" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_webchat_sendMessage_event.json" timestamp="1589579133157">
         <mark key="[" line="34" column="0" />
@@ -155,9 +148,6 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1589836681298">
-        <mark key="'" line="181" column="47" />
       </file>
       <file name="/JavaScript Console" timestamp="1589818170013">
         <mark key="[" line="0" column="0" />
@@ -176,7 +166,6 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_sendMessage_event.json" timestamp="1589553099436" />
     </filemarks>
     <jumps>
-      <jump line="324" column="46" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/tts/java/client/TtsClient.java" />
       <jump line="52" column="20" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AudioFile.java" />
       <jump line="5" column="57" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/Audio/AbstractAudioSource.java" />
       <jump line="219" column="21" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
@@ -276,6 +265,7 @@
       <jump line="180" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="63" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="181" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
+      <jump line="351" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
