@@ -123,8 +123,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589898409664">
-        <mark key="'" line="346" column="8" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589899454204">
+        <mark key="'" line="352" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1589567859172" />
       <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589898010963">
@@ -166,7 +166,6 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui_sendMessage_event.json" timestamp="1589553099436" />
     </filemarks>
     <jumps>
-      <jump line="219" column="21" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="149" column="17" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="361" column="76" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="377" column="19" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
@@ -263,9 +262,10 @@
       <jump line="180" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="63" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="181" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="351" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="347" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="346" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="351" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="352" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
