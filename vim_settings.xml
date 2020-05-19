@@ -95,11 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputWebChatVisitor.js" timestamp="1589913510090">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="51" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputWebChatVisitor.js" timestamp="1589915048384">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1589913331000">
         <mark key="[" line="0" column="0" />
@@ -116,44 +116,42 @@
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589900537752">
         <mark key="^" line="46" column="15" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageVisitor.js" timestamp="1589913606802">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="52" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageVisitor.js" timestamp="1589914845832">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589899454204">
         <mark key="'" line="352" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputVisitor.js" timestamp="1589913488274">
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputVisitor.js" timestamp="1589915035738">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="51" />
         <mark key="^" line="19" column="52" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="/fragment.js" timestamp="1589913454159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589913613796">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589914904826">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589914025239">
-        <mark key="'" line="57" column="70" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="55" column="83" />
-      </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now_end_event.json" timestamp="1589579146276">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="33" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589915222946">
+        <mark key="'" line="49" column="33" />
+        <mark key="[" line="129" column="81" />
+        <mark key="]" line="129" column="83" />
+        <mark key="." line="129" column="82" />
+        <mark key="^" line="129" column="83" />
       </file>
       <file name="/JavaScript Console" timestamp="1589913949675">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1589915571845">
+        <mark key="'" line="77" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589908015306" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589901127549">
@@ -164,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="76" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
-      <jump line="377" column="19" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="203" column="63" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="183" column="12" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="180" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
@@ -264,21 +260,23 @@
       <jump line="351" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="352" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="148" column="32" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
+      <jump line="49" column="33" filename="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" />
+      <jump line="77" column="31" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
+      <register name="&quot;" type="4">
+        <text>cookie</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>cookie</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gWyBzY2hlbWFTZXNzaW9uLnNlc3Npb24uQ29va2llIF07Cg==</text>
+      <register name="0" type="4">
+        <text>setCookie</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
