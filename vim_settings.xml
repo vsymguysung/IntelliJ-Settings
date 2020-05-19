@@ -103,9 +103,6 @@
       <file name="internal/process/next_tick.js" timestamp="1589913331000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1589805289525">
-        <mark key="'" line="32" column="66" />
-      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/event-runner.ts" timestamp="1589832065568">
         <mark key="'" line="33" column="45" />
       </file>
@@ -147,6 +144,9 @@
         <mark key="'" line="77" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589908015306" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1589921681591">
+        <mark key="'" line="71" column="10" />
+      </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589901127549">
         <mark key="[" line="61" column="24" />
         <mark key="]" line="61" column="25" />
@@ -155,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="38" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="117" column="82" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="147" column="4" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
       <jump line="109" column="20" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
@@ -255,6 +254,7 @@
       <jump line="77" column="31" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="159" column="20" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
       <jump line="163" column="8" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
+      <jump line="71" column="10" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
