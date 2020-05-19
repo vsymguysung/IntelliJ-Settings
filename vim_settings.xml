@@ -111,11 +111,7 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589900537752">
-        <mark key="'" line="158" column="32" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="40" />
-        <mark key="^" line="167" column="15" />
-        <mark key="." line="158" column="0" />
+        <mark key="^" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now_sendMessage_event.json" timestamp="1589579141657">
         <mark key="[" line="34" column="0" />
@@ -137,7 +133,6 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/unit-test/schema/RequestBehaviorNode.spec.js" timestamp="1589569737247" />
       <file name="$USER_HOME$/GenDev/bot-gateway/debug/SAM_Local/parseSchemaBuildRequest/giavui-now_start_event.json" timestamp="1589579117636">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="33" />
@@ -148,15 +143,11 @@
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589908160822">
+      <file name="/JavaScript Console" timestamp="1589909634530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589907067888">
         <mark key="'" line="45" column="20" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="40" />
-        <mark key="^" line="157" column="40" />
-        <mark key="." line="157" column="39" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/GoogleOAuthJwtVisitor.js" timestamp="1589569844249">
         <mark key="[" line="46" column="0" />
