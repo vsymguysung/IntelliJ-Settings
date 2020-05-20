@@ -137,6 +137,9 @@
         <mark key="." line="129" column="79" />
         <mark key="^" line="49" column="83" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/AnnotationCacheOperationSource.java" timestamp="1589985355342">
+        <mark key="'" line="51" column="32" />
+      </file>
       <file name="/JavaScript Console" timestamp="1589913949675">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,15 +159,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1589921681591">
         <mark key="'" line="71" column="10" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Authentication/AwsCognitoVisitor.js" timestamp="1589901127549">
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="61" column="63" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="6" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="48" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
@@ -264,6 +260,7 @@
       <jump line="69" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.18.RELEASE/spring-boot-test-1.5.18.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockitoAopProxyTargetInterceptor.java" />
       <jump line="32" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
       <jump line="88" column="5" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="51" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/AnnotationCacheOperationSource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
