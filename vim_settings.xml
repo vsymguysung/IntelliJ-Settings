@@ -269,11 +269,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>product.getId()</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0c1w+</text>
