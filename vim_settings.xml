@@ -108,15 +108,15 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1589984408747" />
       <file name="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductController.java" timestamp="1589925047180">
         <mark key="'" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1589923394954" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" timestamp="1589900537752">
-        <mark key="^" line="46" column="15" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1589984309481">
+        <mark key="'" line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1589899454204">
-        <mark key="'" line="352" column="28" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.18.RELEASE/spring-boot-test-1.5.18.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockitoAopProxyTargetInterceptor.java" timestamp="1589984244090">
+        <mark key="'" line="69" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputVisitor.js" timestamp="1589918616501">
         <mark key="[" line="21" column="25" />
@@ -147,8 +147,8 @@
         <mark key="'" line="77" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/samples/gia_rest_schema.json" timestamp="1589908015306" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1589981063987">
-        <mark key="'" line="88" column="31" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1589984349153">
+        <mark key="'" line="88" column="5" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -164,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="20" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/asr/java/client/AsrClient.java" />
-      <jump line="33" column="49" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
-      <jump line="243" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/src/main/java/xaas/sample/nlu/java/client/NluClient.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="10" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="18" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
       <jump line="6" column="0" filename="$USER_HOME$/GenDev/nuance-java-sandbox/README.md" />
@@ -263,7 +259,11 @@
       <jump line="163" column="8" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
       <jump line="71" column="10" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="28" column="30" filename="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductController.java" />
-      <jump line="88" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="27" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="42" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="69" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.18.RELEASE/spring-boot-test-1.5.18.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockitoAopProxyTargetInterceptor.java" />
+      <jump line="32" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" />
+      <jump line="88" column="5" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
