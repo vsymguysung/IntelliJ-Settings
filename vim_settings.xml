@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXh0SW5wdXRcPg==</entry>
         <entry>nmaid</entry>
         <entry>Channel</entry>
         <entry>call_credential</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxEaWFsb2dmbG93UmVzcG9uc2VPYnNlcnZlclw+</entry>
         <entry encoding="base64">XDxjbGllbnRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</entry>
+        <entry encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -97,13 +97,11 @@
     <filemarks>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/poll.js" timestamp="1590065732947" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentInvocationNames.java" timestamp="1590086467079" />
-      <file name="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductService.java" timestamp="1589925420787">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" timestamp="1590073078317">
         <mark key="'" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590094363109">
+        <mark key="'" line="32" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1589984408747" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentParameterNames.java" timestamp="1590086203546" />
@@ -150,9 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="24" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
-      <jump line="13" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
-      <jump line="28" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" />
       <jump line="3" column="40" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" />
       <jump line="25" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" />
       <jump line="469" column="11" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" />
@@ -250,6 +245,9 @@
       <jump line="382" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="370" column="103" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="438" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="33" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="124" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="32" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -261,7 +259,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</text>
+        <text encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGlkIHt9IiwgcHJvZHVjdC5nZXRJZCgpKTsK</text>
@@ -300,9 +298,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
