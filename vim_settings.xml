@@ -118,6 +118,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1590011069799">
         <mark key="'" line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotParameters.java" timestamp="1590062457187" />
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputVisitor.js" timestamp="1589918616501">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="25" />
@@ -127,8 +128,8 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" timestamp="1590013984473">
         <mark key="'" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilWelcomeMessageWebChatVisitor.js" timestamp="1589914904826">
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1590062537170">
+        <mark key="'" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589918705184">
         <mark key="'" line="49" column="33" />
@@ -136,9 +137,6 @@
         <mark key="]" line="129" column="79" />
         <mark key="." line="129" column="79" />
         <mark key="^" line="49" column="83" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1590022472044">
-        <mark key="'" line="381" column="75" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/AnnotationCacheOperationSource.java" timestamp="1589985355342">
         <mark key="'" line="51" column="32" />
@@ -148,9 +146,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" timestamp="1589917797223">
         <mark key="'" line="163" column="8" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1589915571845">
-        <mark key="'" line="77" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1589984349153">
         <mark key="'" line="88" column="5" />
@@ -166,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="62" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/ComputedValue/TimestampVisitor.js" />
       <jump line="24" column="59" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/ComputedValue/TimestampVisitor.js" />
       <jump line="27" column="58" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/SendBotSchemaRequestStrategy.js" />
       <jump line="32" column="26" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/RestSchemaInterface.js" />
@@ -266,6 +260,7 @@
       <jump line="382" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="398" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="381" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
+      <jump line="8" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
