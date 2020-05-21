@@ -95,11 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputWebChatVisitor.js" timestamp="1589918622804">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-      </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/poll.js" timestamp="1590065732947" />
       <file name="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductService.java" timestamp="1589925420787">
         <mark key="[" line="23" column="0" />
@@ -141,6 +136,12 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1590014198159">
         <mark key="'" line="29" column="51" />
+      </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/package.json" timestamp="1590083055202">
+        <mark key="[" line="6" column="145" />
+        <mark key="]" line="6" column="146" />
+        <mark key="." line="6" column="145" />
+        <mark key="^" line="6" column="146" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1589984349153">
         <mark key="'" line="88" column="5" />
@@ -260,11 +261,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</text>
