@@ -106,6 +106,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" timestamp="1590073078317">
+        <mark key="'" line="8" column="26" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1589984408747" />
       <file name="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductController.java" timestamp="1589925047180">
         <mark key="'" line="28" column="30" />
@@ -120,12 +123,6 @@
         <mark key="'" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotParameters.java" timestamp="1590062457187" />
-      <file name="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/CallUntilReadyForInputVisitor.js" timestamp="1589918616501">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="25" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="21" column="25" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" timestamp="1590013984473">
         <mark key="'" line="10" column="17" />
       </file>
@@ -159,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="59" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/ComputedValue/TimestampVisitor.js" />
-      <jump line="27" column="58" filename="$USER_HOME$/GenDev/bot-gateway/src/parseSchemaBuildRequest/SendBotSchemaRequestStrategy.js" />
       <jump line="32" column="26" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/RestSchemaInterface.js" />
       <jump line="92" column="26" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
       <jump line="108" column="24" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/SchemaInterface.js" />
@@ -259,6 +254,8 @@
       <jump line="398" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="381" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="8" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" />
+      <jump line="29" column="29" filename="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" />
+      <jump line="8" column="26" filename="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
