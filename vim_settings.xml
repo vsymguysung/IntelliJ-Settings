@@ -96,6 +96,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/poll.js" timestamp="1590065732947" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentInvocationNames.java" timestamp="1590086467079" />
       <file name="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductService.java" timestamp="1589925420787">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -105,9 +106,7 @@
         <mark key="'" line="8" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1589984408747" />
-      <file name="$USER_HOME$/GenDev/spring-boot-caching-tutorial/src/main/java/de/codeboje/springboot/tutorials/caching/ProductController.java" timestamp="1589925047180">
-        <mark key="'" line="28" column="30" />
-      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentParameterNames.java" timestamp="1590086203546" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1589984309481">
         <mark key="'" line="32" column="29" />
       </file>
@@ -124,12 +123,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1590062537170">
         <mark key="'" line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" timestamp="1589918705184">
-        <mark key="'" line="49" column="33" />
-        <mark key="[" line="129" column="79" />
-        <mark key="]" line="129" column="79" />
-        <mark key="." line="129" column="79" />
-        <mark key="^" line="49" column="83" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1590086556383">
+        <mark key="'" line="382" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/AnnotationCacheOperationSource.java" timestamp="1589985355342">
         <mark key="'" line="51" column="32" />
@@ -137,6 +132,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1590014198159">
         <mark key="'" line="29" column="51" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1590086062109" />
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/package.json" timestamp="1590083055202">
         <mark key="[" line="6" column="145" />
         <mark key="]" line="6" column="146" />
@@ -148,9 +144,6 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1589921681591">
-        <mark key="'" line="71" column="10" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowDefaultIntentConverter.java" timestamp="1590011061040">
         <mark key="'" line="70" column="19" />
@@ -251,12 +244,12 @@
       <jump line="519" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="482" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="391" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="382" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="398" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="381" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="8" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" />
       <jump line="29" column="29" filename="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" />
       <jump line="8" column="26" filename="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" />
+      <jump line="382" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
