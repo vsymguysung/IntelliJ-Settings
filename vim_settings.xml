@@ -117,7 +117,9 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" timestamp="1590158649252">
         <mark key="'" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590174920646" />
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590176047031">
+        <mark key="'" line="699" column="38" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1590062537170">
         <mark key="'" line="8" column="44" />
       </file>
@@ -155,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="19" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
       <jump line="150" column="30" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
       <jump line="36" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="141" column="59" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/poll/common/pureConnectRequests.js" />
@@ -255,6 +256,7 @@
       <jump line="28" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
       <jump line="39" column="20" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
       <jump line="79" column="32" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
+      <jump line="699" column="38" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
