@@ -111,16 +111,13 @@
         <mark key="'" line="1187" column="26" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentParameterNames.java" timestamp="1590086203546" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590159887578">
+        <mark key="'" line="14" column="57" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" timestamp="1590158649252">
         <mark key="'" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1590011069799">
-        <mark key="'" line="6" column="38" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotParameters.java" timestamp="1590062457187" />
-      <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.54.0/gax-1.54.0.jar!/com/google/api/gax/rpc/ResponseObserver.class" timestamp="1590013984473">
-        <mark key="'" line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1590062537170">
         <mark key="'" line="8" column="44" />
       </file>
@@ -138,6 +135,9 @@
         <mark key="'" line="29" column="51" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1590086062109" />
+      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590159552831">
+        <mark key="'" line="77" column="31" />
+      </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/package.json" timestamp="1590083055202">
         <mark key="[" line="6" column="145" />
         <mark key="]" line="6" column="146" />
@@ -149,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="204" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="152" column="65" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="156" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
@@ -249,6 +248,7 @@
       <jump line="155" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="152" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="14" column="61" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" />
+      <jump line="14" column="57" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
