@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNvZ25pemVcPg==</entry>
         <entry encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0Qm90TWVzc2FnZUhpc3RvcnlUb1B1cmVDb25uZWN0Rm9ybWF0XD4=</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0c1w+</entry>
@@ -25,6 +24,7 @@
         <entry>white</entry>
         <entry>dialogengine</entry>
         <entry>split</entry>
+        <entry encoding="base64">XDxDUkVERU5USUFMU19JRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -135,8 +135,11 @@
         <mark key="'" line="29" column="51" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1590086062109" />
-      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590159552831">
-        <mark key="'" line="77" column="31" />
+      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590161278578">
+        <mark key="'" line="45" column="52" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/package.json" timestamp="1590083055202">
         <mark key="[" line="6" column="145" />
@@ -149,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="152" column="65" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="156" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="166" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="147" column="100" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
@@ -249,18 +250,20 @@
       <jump line="152" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="14" column="61" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" />
       <jump line="14" column="57" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" />
+      <jump line="48" column="81" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
+      <jump line="45" column="52" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ramdom</text>
+        <text>_v2</text>
       </register>
       <register name="-" type="4">
-        <text>ramdom</text>
+        <text>_v2</text>
       </register>
       <register name="/" type="4">
-        <text>split</text>
+        <text encoding="base64">XDxDUkVERU5USUFMU19JRFw+</text>
       </register>
       <register name="0" type="4">
         <text>getDialogEngineWhiteListOrgs</text>
@@ -299,12 +302,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>split</last-search>
+      <last-search encoding="base64">XDxDUkVERU5USUFMU19JRFw+</last-search>
       <last-offset />
-      <last-pattern>split</last-pattern>
+      <last-pattern encoding="base64">XDxDUkVERU5USUFMU19JRFw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
