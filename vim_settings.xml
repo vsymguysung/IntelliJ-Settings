@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setCustom</entry>
-        <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
-        <entry encoding="base64">XDxtb2RlbFVyblw+</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxyZWNvZ25pemVcPg==</entry>
         <entry encoding="base64">XDxuZXdSZWxpY1Byb3h5XD4=</entry>
@@ -25,6 +22,9 @@
         <entry>Value</entry>
         <entry>Value for</entry>
         <entry>Unable to load</entry>
+        <entry>whiteList</entry>
+        <entry>white</entry>
+        <entry>dialogengine</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -100,8 +100,11 @@
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" timestamp="1590073078317">
         <mark key="'" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590094433261">
-        <mark key="'" line="32" column="12" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590151783294">
+        <mark key="'" line="148" column="79" />
+        <mark key="[" line="153" column="8" />
+        <mark key="]" line="153" column="8" />
+        <mark key="." line="153" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1589984408747" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentParameterNames.java" timestamp="1590086203546" />
@@ -148,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="33" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
-      <jump line="73" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="129" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="76" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
       <jump line="58" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -248,45 +249,47 @@
       <jump line="248" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="255" column="48" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="14" column="62" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" />
+      <jump line="152" column="52" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="148" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Unable to load</text>
+        <text>dialogengine</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGlkIHt9IiwgcHJvZHVjdC5nZXRJZCgpKTsK</text>
+      <register name="0" type="4">
+        <text>getDialogEngineWhiteListOrgs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
+        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -298,9 +301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Unable to load</last-search>
+      <last-search>dialogengine</last-search>
       <last-offset />
-      <last-pattern>Unable to load</last-pattern>
+      <last-pattern>dialogengine</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
