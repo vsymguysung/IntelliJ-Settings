@@ -117,8 +117,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" timestamp="1590158649252">
         <mark key="'" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotParameters.java" timestamp="1590062457187" />
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590173025008" />
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590174920646" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentAudioBotMessage.java" timestamp="1590062537170">
         <mark key="'" line="8" column="44" />
       </file>
@@ -134,6 +133,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590094460497">
         <mark key="'" line="255" column="48" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590173399787">
+        <mark key="'" line="79" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotIntent.java" timestamp="1590086062109" />
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590161278578">
@@ -153,8 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="147" column="100" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="168" column="19" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
       <jump line="150" column="30" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneWebChatVisitor.js" />
       <jump line="36" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
@@ -253,6 +253,8 @@
       <jump line="48" column="81" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="45" column="52" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="28" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
+      <jump line="39" column="20" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
+      <jump line="79" column="32" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
