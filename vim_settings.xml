@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nmaid</entry>
-        <entry>Channel</entry>
-        <entry>call_credential</entry>
-        <entry encoding="base64">XDxjYWxsX2NyZWRlbnRpYWxzXD4=</entry>
-        <entry encoding="base64">XDxhc3luY0NsaWVudFw+</entry>
         <entry>setCustom</entry>
         <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
         <entry encoding="base64">XDxtb2RlbFVyblw+</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxjbGllbnRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</entry>
         <entry encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</entry>
+        <entry>getProperty</entry>
+        <entry>Unable</entry>
+        <entry>Value</entry>
+        <entry>Value for</entry>
+        <entry>Unable to load</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -100,16 +100,13 @@
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/integration-test/specs/sendMessage.spec.js" timestamp="1590073078317">
         <mark key="'" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590094363109">
-        <mark key="'" line="32" column="23" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590094433261">
+        <mark key="'" line="32" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1589984408747" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentParameterNames.java" timestamp="1590086203546" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1589984309481">
         <mark key="'" line="32" column="29" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.18.RELEASE/spring-boot-test-1.5.18.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockitoAopProxyTargetInterceptor.java" timestamp="1589984244090">
-        <mark key="'" line="69" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentBotMessage.java" timestamp="1590011069799">
         <mark key="'" line="6" column="38" />
@@ -126,6 +123,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/cache/annotation/AnnotationCacheOperationSource.java" timestamp="1589985355342">
         <mark key="'" line="51" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590094460497">
+        <mark key="'" line="255" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1590014198159">
         <mark key="'" line="29" column="51" />
@@ -148,12 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="40" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/composites/getCompositeRegistry.js" />
-      <jump line="25" column="39" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/CompositeFactory.js" />
-      <jump line="469" column="11" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ScheduledThreadPoolExecutor.java" />
-      <jump line="233" column="34" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
-      <jump line="304" column="39" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
-      <jump line="10" column="13" filename="$MAVEN_REPOSITORY$/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1-sources.jar!/com/codahale/metrics/MetricRegistry.java" />
       <jump line="73" column="13" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
       <jump line="154" column="33" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java" />
       <jump line="73" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
@@ -247,7 +241,13 @@
       <jump line="438" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="33" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="124" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="32" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="32" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="42" column="22" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
+      <jump line="228" column="28" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
+      <jump line="237" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
+      <jump line="247" column="54" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
+      <jump line="248" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
+      <jump line="255" column="48" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -259,7 +259,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</text>
+        <text>Unable to load</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGlkIHt9IiwgcHJvZHVjdC5nZXRJZCgpKTsK</text>
@@ -298,12 +298,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</last-search>
+      <last-search>Unable to load</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBBZG1pblNlcnZpY2VcPg==</last-pattern>
+      <last-pattern>Unable to load</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
