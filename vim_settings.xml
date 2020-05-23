@@ -95,19 +95,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590206698003">
+        <mark key="'" line="774" column="94" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590199104168">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1590087289647">
+        <mark key="'" line="438" column="12" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" timestamp="1590178777132">
         <mark key="'" line="30" column="24" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/IntentInvocationNames.java" timestamp="1590086467079" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590158604841">
-        <mark key="'" line="152" column="75" />
-        <mark key="[" line="152" column="137" />
-        <mark key="]" line="152" column="137" />
-        <mark key="." line="152" column="137" />
-        <mark key="^" line="152" column="143" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java" timestamp="1590155085610">
-        <mark key="'" line="1187" column="26" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590198524941">
         <mark key="'" line="14" column="57" />
@@ -115,30 +116,30 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" timestamp="1590183880489">
         <mark key="'" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590204477068">
-        <mark key="'" line="774" column="94" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java" timestamp="1590155085610">
+        <mark key="'" line="1187" column="26" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590205407538">
+        <mark key="'" line="39" column="27" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" timestamp="1590155110947">
         <mark key="'" line="132" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaConfigKey.java" timestamp="1590157704147" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590158604841">
+        <mark key="'" line="152" column="75" />
+        <mark key="[" line="152" column="137" />
+        <mark key="]" line="152" column="137" />
+        <mark key="." line="152" column="137" />
+        <mark key="^" line="152" column="143" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590172486200">
         <mark key="'" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590201434446">
         <mark key="'" line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1590087289647">
-        <mark key="'" line="438" column="12" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590094460497">
         <mark key="'" line="255" column="48" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590205407538">
-        <mark key="'" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590161278578">
         <mark key="'" line="45" column="52" />
@@ -146,10 +147,6 @@
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590199104168">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/IntegrationTest.java" timestamp="1590178857785" />
       <file name="/fragment.java" timestamp="1590199891172">
         <mark key="[" line="0" column="0" />
       </file>
