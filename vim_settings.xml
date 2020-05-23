@@ -95,13 +95,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/java/com/proto/dummy/Dummy.java" timestamp="1590270612529" />
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590206698003">
         <mark key="'" line="774" column="94" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1590258288276" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590205407538">
+        <mark key="'" line="39" column="27" />
+      </file>
+      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionExample.java" timestamp="1590271238742" />
+      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1590258369479" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590250887977">
+        <mark key="'" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590201434446">
+        <mark key="'" line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/java/com/proto/dummy/Dummy.java" timestamp="1590270612529" />
       <file name="/Dummy.txt" timestamp="1590199104168">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,13 +126,9 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590198524941">
         <mark key="'" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1590258288276" />
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionMessageOther.java" timestamp="1590270882188" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" timestamp="1590183880489">
-        <mark key="'" line="14" column="60" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590205407538">
-        <mark key="'" line="39" column="27" />
+      <file name="$USER_HOME$/GenDev/grpc-errors/node/client.js" timestamp="1590275674667">
+        <mark key="'" line="20" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/AwsAppAdminService.class" timestamp="1590251028608">
         <mark key="'" line="35" column="47" />
@@ -127,8 +136,6 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" timestamp="1590251036818">
         <mark key="'" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionExample.java" timestamp="1590271238742" />
-      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
       <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" timestamp="1590270650083">
         <mark key="'" line="159" column="29" />
       </file>
@@ -142,19 +149,11 @@
         <mark key="." line="152" column="137" />
         <mark key="^" line="152" column="143" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1590258369479" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590250887977">
-        <mark key="'" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590201434446">
-        <mark key="'" line="19" column="31" />
-      </file>
       <file name="/fragment.java" timestamp="1590199891172">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="45" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/event-runner.ts" />
       <jump line="47" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="393" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="241" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -254,6 +253,7 @@
       <jump line="12" column="45" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" />
       <jump line="161" column="38" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" />
       <jump line="159" column="29" filename="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" />
+      <jump line="20" column="43" filename="$USER_HOME$/GenDev/grpc-errors/node/client.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
