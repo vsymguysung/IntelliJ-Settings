@@ -115,7 +115,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" timestamp="1590183880489">
         <mark key="'" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590203794770">
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590204477068">
         <mark key="'" line="774" column="94" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -137,8 +137,8 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590094460497">
         <mark key="'" line="255" column="48" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590198653768">
-        <mark key="'" line="79" column="32" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590205407538">
+        <mark key="'" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590161278578">
         <mark key="'" line="45" column="52" />
@@ -242,7 +242,6 @@
       <jump line="48" column="81" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="45" column="52" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="28" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
-      <jump line="39" column="20" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
       <jump line="79" column="32" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
       <jump line="699" column="38" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="30" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" />
@@ -255,6 +254,7 @@
       <jump line="78" column="56" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="775" column="94" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="19" column="31" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
+      <jump line="39" column="27" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
