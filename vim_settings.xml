@@ -105,8 +105,10 @@
       <file name="/Dummy.txt" timestamp="1590199104168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" timestamp="1590178777132">
-        <mark key="'" line="30" column="24" />
+      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1590271463891">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590198524941">
         <mark key="'" line="14" column="57" />
@@ -126,6 +128,7 @@
         <mark key="'" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionExample.java" timestamp="1590271238742" />
+      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
       <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" timestamp="1590270650083">
         <mark key="'" line="159" column="29" />
       </file>
@@ -145,12 +148,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590201434446">
         <mark key="'" line="19" column="31" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590161278578">
-        <mark key="'" line="45" column="52" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1590199891172">
         <mark key="[" line="0" column="0" />
@@ -262,7 +259,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
       </register>
       <register name="-" type="4">
         <text>_v2</text>
@@ -274,31 +271,31 @@
         <text>80${it.portSuffix}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
