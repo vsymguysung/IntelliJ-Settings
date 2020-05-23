@@ -104,9 +104,6 @@
       <file name="/Dummy.txt" timestamp="1590199104168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1590087289647">
-        <mark key="'" line="438" column="12" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" timestamp="1590178777132">
         <mark key="'" line="30" column="24" />
       </file>
@@ -122,24 +119,27 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590205407538">
         <mark key="'" line="39" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/AwsAppAdminService.class" timestamp="1590251028608">
+        <mark key="'" line="35" column="47" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" timestamp="1590251036818">
+        <mark key="'" line="12" column="45" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" timestamp="1590155110947">
         <mark key="'" line="132" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590158604841">
-        <mark key="'" line="152" column="75" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590250957667">
+        <mark key="'" line="33" column="13" />
         <mark key="[" line="152" column="137" />
         <mark key="]" line="152" column="137" />
         <mark key="." line="152" column="137" />
         <mark key="^" line="152" column="143" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590172486200">
-        <mark key="'" line="28" column="28" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590250887977">
+        <mark key="'" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590201434446">
         <mark key="'" line="19" column="31" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590094460497">
-        <mark key="'" line="255" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/jenkinsfile" timestamp="1590161278578">
         <mark key="'" line="45" column="52" />
@@ -152,9 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="63" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
-      <jump line="60" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
-      <jump line="32" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
       <jump line="73" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
       <jump line="58" column="70" filename="$USER_HOME$/GenDev/bot-gateway/test/specs/integration-test/GiaVui.integration.spec.js" />
       <jump line="33" column="45" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/event-runner.ts" />
@@ -217,9 +214,7 @@
       <jump line="382" column="64" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="370" column="103" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="438" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="33" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="124" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="32" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="42" column="22" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="228" column="28" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="237" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
@@ -252,6 +247,11 @@
       <jump line="775" column="94" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="19" column="31" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
       <jump line="39" column="27" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
+      <jump line="22" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
+      <jump line="35" column="47" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/AwsAppAdminService.class" />
+      <jump line="12" column="45" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
