@@ -128,8 +128,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590172486200">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590198483364">
-        <mark key="'" line="18" column="47" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590201434446">
+        <mark key="'" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1590087289647">
         <mark key="'" line="438" column="12" />
@@ -247,7 +247,6 @@
       <jump line="699" column="38" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="30" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" />
       <jump line="14" column="60" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" />
-      <jump line="19" column="34" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
       <jump line="18" column="47" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
       <jump line="779" column="16" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="829" column="0" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
@@ -255,6 +254,7 @@
       <jump line="668" column="36" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="78" column="56" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="775" column="94" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
+      <jump line="19" column="31" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
