@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590206698003">
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590371710050">
         <mark key="'" line="774" column="94" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -118,13 +118,13 @@
         <mark key="'" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/java/com/proto/dummy/Dummy.java" timestamp="1590270612529" />
-      <file name="/Dummy.txt" timestamp="1590199104168">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1590271463891">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestConfig.java" timestamp="1590371454906">
+        <mark key="'" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionMessageOther.java" timestamp="1590270882188" />
       <file name="$USER_HOME$/GenDev/grpc-errors/node/client.js" timestamp="1590275674667">
@@ -154,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="241" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="553" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="588" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -254,6 +253,7 @@
       <jump line="159" column="29" filename="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" />
       <jump line="20" column="43" filename="$USER_HOME$/GenDev/grpc-errors/node/client.js" />
       <jump line="225" column="78" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
+      <jump line="18" column="38" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
