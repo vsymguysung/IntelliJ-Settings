@@ -95,10 +95,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590378919123">
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590414671353">
         <mark key="'" line="774" column="94" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
+        <mark key="[" line="661" column="20" />
+        <mark key="]" line="661" column="112" />
         <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1590258288276" />
@@ -110,6 +110,9 @@
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1590258369479" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590250887977">
         <mark key="'" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590414546867">
+        <mark key="'" line="156" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1590278031332">
         <mark key="'" line="225" column="78" />
@@ -149,12 +152,8 @@
         <mark key="." line="152" column="137" />
         <mark key="^" line="152" column="143" />
       </file>
-      <file name="/fragment.java" timestamp="1590199891172">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="553" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="588" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="244" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -254,12 +253,13 @@
       <jump line="20" column="43" filename="$USER_HOME$/GenDev/grpc-errors/node/client.js" />
       <jump line="225" column="78" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="18" column="38" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestConfig.java" />
+      <jump line="156" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHVybD5odHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2R5bmFtb2RiLWxvY2FsL2R5bmFtb2RiX2xvY2FsXzIwMjAtMDEtMjQudGFyLmd6PC91cmw+</text>
       </register>
       <register name="-" type="4">
         <text>_v2</text>
@@ -268,7 +268,7 @@
         <text>it.debug</text>
       </register>
       <register name="0" type="4">
-        <text>80${it.portSuffix}</text>
+        <text encoding="base64">PHVybD5odHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2R5bmFtb2RiLWxvY2FsL2R5bmFtb2RiX2xvY2FsXzIwMjAtMDEtMjQudGFyLmd6PC91cmw+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
