@@ -101,6 +101,11 @@
         <mark key="]" line="661" column="112" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/runDynamoDBLocal.sh" timestamp="1590439747060">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1590258288276" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590372719492">
         <mark key="'" line="39" column="27" />
@@ -115,7 +120,7 @@
         <mark key="'" line="225" column="78" />
       </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/java/com/proto/dummy/Dummy.java" timestamp="1590270612529" />
-      <file name="/Dummy.txt" timestamp="1590432491798">
+      <file name="/Dummy.txt" timestamp="1590439225180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1590271463891">
@@ -142,14 +147,7 @@
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1590258491845">
         <mark key="'" line="161" column="38" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" timestamp="1590250957667">
-        <mark key="'" line="33" column="13" />
-        <mark key="[" line="152" column="137" />
-        <mark key="]" line="152" column="137" />
-        <mark key="." line="152" column="137" />
-        <mark key="^" line="152" column="143" />
-      </file>
-      <file name="/fragment.java" timestamp="1590432491760">
+      <file name="/fragment.java" timestamp="1590439225166">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -258,44 +256,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHVybD5odHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2R5bmFtb2RiLWxvY2FsL2R5bmFtb2RiX2xvY2FsXzIwMjAtMDEtMjQudGFyLmd6PC91cmw+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgODAwMCAtaW5NZW1vcnkK</text>
       </register>
       <register name="-" type="4">
-        <text>_v2</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>it.debug</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHVybD5odHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2R5bmFtb2RiLWxvY2FsL2R5bmFtb2RiX2xvY2FsXzIwMjAtMDEtMjQudGFyLmd6PC91cmw+</text>
+      <register name="0" type="2">
+        <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgMTIwODAgLWluTWVtb3J5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
+        <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgODAwMCAtaW5NZW1vcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZUNoYXRQZXJzb25hOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

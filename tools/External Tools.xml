@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Run DynamoDBLocal" description="Run DynamoDBLocal for LQ" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/java" />
+      <option name="PARAMETERS" value=" -Djava.library.path=./target/dynamodb-dist/DynamoDBLocal_lib  -jar ./target/dynamodb-dist/DynamoDBLocal.jar -sharedDb -port 12080 -inMemory " />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/GenDev/loquentia" />
+    </exec>
+  </tool>
+</toolSet>
