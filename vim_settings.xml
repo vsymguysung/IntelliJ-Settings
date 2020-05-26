@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb250ZXh0c1w+</entry>
-        <entry encoding="base64">XDxsYXN0Q29udGV4dHNcPg==</entry>
-        <entry encoding="base64">XDxjb250ZXh0c1w+</entry>
-        <entry encoding="base64">XDxpbnRlbnRDb252ZXJ0ZXJzXD4=</entry>
         <entry encoding="base64">XDxEaWFsb2dmbG93UmVzcG9uc2VPYnNlcnZlclw+</entry>
         <entry encoding="base64">XDxjbGllbnRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxub1NwZWVjaFF1ZXJ5SW5wdXRcPg==</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxDUkVERU5USUFMU19JRFw+</entry>
         <entry encoding="base64">XDxkeW5hbW9kYmxvY2FsXD4=</entry>
         <entry>it.debug</entry>
+        <entry>environment</entry>
+        <entry>env</entry>
+        <entry>Env</entry>
+        <entry>Environment</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -106,21 +106,26 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590372719492">
-        <mark key="'" line="39" column="27" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590519259363">
+        <mark key="'" line="67" column="44" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionExample.java" timestamp="1590271238742" />
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590519664391">
+        <mark key="'" line="28" column="26" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590414546867">
         <mark key="'" line="156" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590518322785" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590518544783" />
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1590278031332">
         <mark key="'" line="225" column="78" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/java/com/proto/dummy/Dummy.java" timestamp="1590270612529" />
       <file name="/Dummy.txt" timestamp="1590492771419">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" timestamp="1590519811654">
+        <mark key="'" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1590271463891">
         <mark key="[" line="42" column="0" />
@@ -142,21 +147,15 @@
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/websocketConnectionHandler/websocketConnectionHandler.js" timestamp="1590507143409">
         <mark key="'" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" timestamp="1590270650083">
-        <mark key="'" line="159" column="29" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1590258491845">
-        <mark key="'" line="161" column="38" />
-      </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/api_gateway.yaml" timestamp="1590506889627" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/aws/inin-aws/0.7.5-SNAPSHOT/inin-aws-0.7.5-20190123.185832-1.jar!/com/inin/data/aws/dynamodb/util/DynamoDbDataStoreImpl.class" timestamp="1590519325910">
+        <mark key="'" line="324" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1590492771520">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="244" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="396" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="552" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="73" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="180" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
@@ -228,8 +227,6 @@
       <jump line="14" column="57" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" />
       <jump line="48" column="81" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
       <jump line="45" column="52" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
-      <jump line="28" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
-      <jump line="79" column="32" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
       <jump line="699" column="38" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="30" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" />
       <jump line="14" column="60" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" />
@@ -241,7 +238,6 @@
       <jump line="78" column="56" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="775" column="94" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="19" column="31" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
-      <jump line="39" column="27" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
       <jump line="22" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
       <jump line="32" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="33" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
@@ -254,6 +250,12 @@
       <jump line="18" column="38" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestConfig.java" />
       <jump line="156" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" />
       <jump line="23" column="10" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/websocketConnectionHandler/websocketConnectionHandler.js" />
+      <jump line="39" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
+      <jump line="79" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
+      <jump line="67" column="44" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
+      <jump line="324" column="0" filename="$MAVEN_REPOSITORY$/com/inin/aws/inin-aws/0.7.5-SNAPSHOT/inin-aws-0.7.5-20190123.185832-1.jar!/com/inin/data/aws/dynamodb/util/DynamoDbDataStoreImpl.class" />
+      <jump line="28" column="26" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
+      <jump line="15" column="25" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,7 +267,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>it.debug</text>
+        <text>Environment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgMTIwODAgLWluTWVtb3J5Cg==</text>
@@ -304,9 +306,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>it.debug</last-search>
+      <last-search>Environment</last-search>
       <last-offset />
-      <last-pattern>it.debug</last-pattern>
+      <last-pattern>Environment</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
