@@ -95,8 +95,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590522998033">
-        <mark key="'" line="774" column="94" />
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590523498450">
+        <mark key="'" line="783" column="91" />
         <mark key="[" line="661" column="20" />
         <mark key="]" line="661" column="112" />
         <mark key="." line="81" column="0" />
@@ -109,13 +109,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590519259363">
         <mark key="'" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionExample.java" timestamp="1590271238742" />
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590519664391">
         <mark key="'" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590523024546">
-        <mark key="'" line="156" column="41" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590523300423">
+        <mark key="'" line="159" column="24" />
         <mark key="[" line="160" column="21" />
         <mark key="]" line="160" column="22" />
         <mark key="^" line="160" column="22" />
@@ -125,7 +124,10 @@
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1590278031332">
         <mark key="'" line="225" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590492771419">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590523362228">
+        <mark key="'" line="18" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590524793946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" timestamp="1590519811654">
@@ -136,10 +138,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590523375114">
+        <mark key="'" line="14" column="57" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestConfig.java" timestamp="1590371454906">
         <mark key="'" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionMessageOther.java" timestamp="1590270882188" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/resources/dynamic-properties/dev.json" timestamp="1590521510275">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -155,13 +159,11 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/aws/inin-aws/0.7.5-SNAPSHOT/inin-aws-0.7.5-20190123.185832-1.jar!/com/inin/data/aws/dynamodb/util/DynamoDbDataStoreImpl.class" timestamp="1590519325910">
         <mark key="'" line="324" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1590492771520">
+      <file name="/fragment.java" timestamp="1590524794002">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="73" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="180" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="63" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="181" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
@@ -234,7 +236,6 @@
       <jump line="699" column="38" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="30" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/BaseIntegrationTest.java" />
       <jump line="14" column="60" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/test/HealthCheckIT.java" />
-      <jump line="18" column="47" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
       <jump line="779" column="16" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="829" column="0" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="706" column="16" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
@@ -260,6 +261,9 @@
       <jump line="324" column="0" filename="$MAVEN_REPOSITORY$/com/inin/aws/inin-aws/0.7.5-SNAPSHOT/inin-aws-0.7.5-20190123.185832-1.jar!/com/inin/data/aws/dynamodb/util/DynamoDbDataStoreImpl.class" />
       <jump line="28" column="26" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
       <jump line="15" column="25" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" />
+      <jump line="159" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" />
+      <jump line="783" column="91" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
+      <jump line="18" column="45" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
