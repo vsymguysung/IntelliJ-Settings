@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590523498450">
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590533834433">
         <mark key="'" line="783" column="91" />
         <mark key="[" line="661" column="20" />
         <mark key="]" line="661" column="112" />
@@ -156,7 +156,7 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/aws/inin-aws/0.7.5-SNAPSHOT/inin-aws-0.7.5-20190123.185832-1.jar!/com/inin/data/aws/dynamodb/util/DynamoDbDataStoreImpl.class" timestamp="1590519325910">
         <mark key="'" line="324" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1590529440921">
+      <file name="/fragment.java" timestamp="1590533839062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590528761426">
