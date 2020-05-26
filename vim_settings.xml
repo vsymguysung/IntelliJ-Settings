@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590520683199">
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590521964010">
         <mark key="'" line="774" column="94" />
         <mark key="[" line="661" column="20" />
         <mark key="]" line="661" column="112" />
@@ -114,7 +114,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590519664391">
         <mark key="'" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590414546867">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590521894160">
         <mark key="'" line="156" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590518544783" />
@@ -136,7 +136,7 @@
         <mark key="'" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionMessageOther.java" timestamp="1590270882188" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/resources/dynamic-properties/dev.json" timestamp="1590513755779">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/resources/dynamic-properties/dev.json" timestamp="1590521510275">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
