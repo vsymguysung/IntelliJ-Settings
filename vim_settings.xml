@@ -111,7 +111,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionExample.java" timestamp="1590271238742" />
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/intermediate-intent.service.ts" timestamp="1590258369479" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590414546867">
         <mark key="'" line="156" column="41" />
       </file>
@@ -132,6 +131,11 @@
         <mark key="'" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/target/generated-sources/protobuf/java/com/example/options/OptionMessageOther.java" timestamp="1590270882188" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/resources/dynamic-properties/dev.json" timestamp="1590513755779">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/grpc-errors/node/client.js" timestamp="1590275674667">
         <mark key="'" line="20" column="43" />
       </file>
@@ -255,7 +259,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgODAwMCAtaW5NZW1vcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -267,31 +271,31 @@
         <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgMTIwODAgLWluTWVtb3J5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgODAwMCAtaW5NZW1vcnkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">amF2YSAtRGphdmEubGlicmFyeS5wYXRoPS4vdGFyZ2V0L2R5bmFtb2RiLWRpc3QvRHluYW1vREJMb2NhbF9saWIgIC1qYXIgLi90YXJnZXQvZHluYW1vZGItZGlzdC9EeW5hbW9EQkxvY2FsLmphciAtc2hhcmVkRGIgLXBvcnQgODAwMCAtaW5NZW1vcnkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZGVyMi5idWlsZCgpLndyaXRlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8aXQuZGVidWcuc2VydmljZS5wb3J0PjgwJHtpdC5wb3J0U3VmZml4fTwvaXQuZGVidWcuc2VydmljZS5wb3J0Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkob3JnYW5pemF0aW9ucykpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlMT0dHRVIuaW5mbygidXBkYXRlUHJvZHVjdCBjYWxsZWQgZm9yIGtleSB7fSIsIGtleSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQYXlsb2FkLmhlYWRlcnNbJ0Nvb2tpZSddID0gc2NoZW1hU2Vzc2lvbi5zZXNzaW9uLkNvb2tpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
