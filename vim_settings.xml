@@ -116,7 +116,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590414546867">
         <mark key="'" line="156" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590506191109" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590507005126" />
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1590278031332">
         <mark key="'" line="225" column="78" />
       </file>
@@ -136,15 +136,13 @@
       <file name="$USER_HOME$/GenDev/grpc-errors/node/client.js" timestamp="1590275674667">
         <mark key="'" line="20" column="43" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" timestamp="1590251036818">
-        <mark key="'" line="12" column="45" />
-      </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" timestamp="1590270650083">
         <mark key="'" line="159" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/loopback.gateway.ts" timestamp="1590258491845">
         <mark key="'" line="161" column="38" />
       </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/api_gateway.yaml" timestamp="1590506889627" />
       <file name="/fragment.java" timestamp="1590492771520">
         <mark key="[" line="0" column="0" />
       </file>
