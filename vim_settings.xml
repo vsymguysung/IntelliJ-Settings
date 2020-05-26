@@ -109,7 +109,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590519259363">
         <mark key="'" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/SimpleMain.java" timestamp="1590271440101" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590519664391">
         <mark key="'" line="28" column="26" />
       </file>
@@ -121,11 +120,11 @@
         <mark key="." line="160" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590518544783" />
-      <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1590278031332">
-        <mark key="'" line="225" column="78" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" timestamp="1590523362228">
         <mark key="'" line="18" column="45" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" timestamp="1590528234818">
+        <mark key="'" line="115" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1590524793946">
         <mark key="[" line="0" column="0" />
@@ -133,10 +132,8 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" timestamp="1590519811654">
         <mark key="'" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/GenDev/protobuf-example-java-maven/src/main/java/com/github/simplesteph/protobuf/ProtoToJSONMain.java" timestamp="1590271463891">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" timestamp="1590528232313">
+        <mark key="'" line="66" column="57" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590523375114">
         <mark key="'" line="14" column="57" />
@@ -149,8 +146,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/grpc-errors/node/client.js" timestamp="1590275674667">
-        <mark key="'" line="20" column="43" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" timestamp="1590528021131">
+        <mark key="'" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/websocketConnectionHandler/websocketConnectionHandler.js" timestamp="1590507143409">
         <mark key="'" line="23" column="10" />
@@ -162,13 +159,11 @@
       <file name="/fragment.java" timestamp="1590524794002">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590527991287">
+        <mark key="'" line="208" column="69" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="63" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="181" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
-      <jump line="347" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
-      <jump line="346" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="351" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="352" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
       <jump line="148" column="32" filename="$USER_HOME$/GenDev/bot-gateway/src/common/lib/schema/behaviors/Response/GIACallUntilDoneVisitor.js" />
@@ -264,6 +259,11 @@
       <jump line="159" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" />
       <jump line="783" column="91" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="18" column="45" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
+      <jump line="208" column="69" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
+      <jump line="18" column="32" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" />
+      <jump line="64" column="57" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
+      <jump line="66" column="57" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
+      <jump line="115" column="27" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
