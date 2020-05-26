@@ -106,7 +106,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/services/final-intent.service.ts" timestamp="1590258288276" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590372719492">
         <mark key="'" line="39" column="27" />
       </file>
@@ -116,7 +115,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" timestamp="1590414546867">
         <mark key="'" line="156" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590507005126" />
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/deploy/infra/cloudformation.d/lambdas.yml" timestamp="1590508885521" />
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" timestamp="1590278031332">
         <mark key="'" line="225" column="78" />
       </file>
@@ -136,6 +135,9 @@
       <file name="$USER_HOME$/GenDev/grpc-errors/node/client.js" timestamp="1590275674667">
         <mark key="'" line="20" column="43" />
       </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/websocketConnectionHandler/websocketConnectionHandler.js" timestamp="1590507143409">
+        <mark key="'" line="23" column="10" />
+      </file>
       <file name="$USER_HOME$/GenDev/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" timestamp="1590270650083">
         <mark key="'" line="159" column="29" />
       </file>
@@ -148,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="553" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="588" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="244" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="396" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
@@ -248,6 +249,7 @@
       <jump line="225" column="78" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" />
       <jump line="18" column="38" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestConfig.java" />
       <jump line="156" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/loopback/LoopbackSessionTest.java" />
+      <jump line="23" column="10" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/websocketConnectionHandler/websocketConnectionHandler.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
