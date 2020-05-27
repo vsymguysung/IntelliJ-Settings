@@ -108,12 +108,12 @@
       <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" timestamp="1590585893162">
         <mark key="'" line="138" column="72" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" timestamp="1590609421034">
+      <file name="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" timestamp="1590609587620">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="72" column="14" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="72" column="24" />
-        <mark key="^" line="72" column="25" />
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="30" />
+        <mark key="." line="78" column="29" />
+        <mark key="^" line="78" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6.jar!/com/netflix/config/DynamicPropertyFactory.class" timestamp="1590547652311">
         <mark key="'" line="135" column="45" />
@@ -263,10 +263,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXZlbnQg</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXZlbnQg</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>MixAuth</text>
