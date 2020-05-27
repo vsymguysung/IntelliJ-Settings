@@ -99,6 +99,9 @@
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/service/NluService.java" timestamp="1590588145340">
+        <mark key="'" line="46" column="33" />
+      </file>
       <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" timestamp="1590549397822">
         <mark key="'" line="78" column="43" />
       </file>
@@ -111,12 +114,9 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoDbPropertyLoader.class" timestamp="1590548582571">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590545867687">
-        <mark key="'" line="26" column="40" />
-      </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/events/UserInputEvent.java" timestamp="1590587540139" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590547219920">
-        <mark key="'" line="28" column="29" />
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1590587811555">
+        <mark key="'" line="55" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" timestamp="1590585860911">
         <mark key="'" line="101" column="84" />
@@ -124,7 +124,7 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" timestamp="1590548317564">
         <mark key="'" line="128" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590544809205">
+      <file name="/Dummy.txt" timestamp="1590588545568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" timestamp="1590547262934">
@@ -135,9 +135,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" timestamp="1590548543349">
         <mark key="'" line="131" column="36" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/config/AppAdminConfig.class" timestamp="1590546110796">
-        <mark key="'" line="343" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" timestamp="1590547236846">
         <mark key="'" line="18" column="37" />
@@ -151,14 +148,14 @@
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" timestamp="1590587601965">
         <mark key="'" line="9" column="3" />
       </file>
+      <file name="/fragment.java" timestamp="1590588545556">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590547224453">
         <mark key="'" line="208" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="48" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
-      <jump line="148" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="135" column="0" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
       <jump line="1187" column="26" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java" />
       <jump line="153" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="132" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
@@ -256,6 +253,9 @@
       <jump line="70" column="38" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" />
       <jump line="15" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
       <jump line="9" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
+      <jump line="55" column="55" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" />
+      <jump line="86" column="13" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/service/NluService.java" />
+      <jump line="46" column="33" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/service/NluService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
