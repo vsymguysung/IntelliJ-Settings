@@ -108,7 +108,9 @@
       <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" timestamp="1590549397822">
         <mark key="'" line="78" column="43" />
       </file>
-      <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" timestamp="1590549344474" />
+      <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" timestamp="1590585893162">
+        <mark key="'" line="138" column="72" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6.jar!/com/netflix/config/DynamicPropertyFactory.class" timestamp="1590547652311">
         <mark key="'" line="135" column="45" />
       </file>
@@ -121,8 +123,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590547219920">
         <mark key="'" line="28" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" timestamp="1590549437095">
-        <mark key="'" line="35" column="113" />
+      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" timestamp="1590585860911">
+        <mark key="'" line="101" column="84" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" timestamp="1590548317564">
         <mark key="'" line="128" column="29" />
@@ -159,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="22" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
-      <jump line="228" column="28" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="237" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="247" column="54" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="248" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
@@ -258,7 +258,9 @@
       <jump line="117" column="84" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
       <jump line="113" column="29" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
       <jump line="78" column="43" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
-      <jump line="35" column="113" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
+      <jump line="35" column="109" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
+      <jump line="101" column="84" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
+      <jump line="138" column="72" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
