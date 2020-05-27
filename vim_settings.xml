@@ -108,12 +108,12 @@
       <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" timestamp="1590585893162">
         <mark key="'" line="138" column="72" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" timestamp="1590604616769">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="108" column="5" />
-        <mark key="." line="108" column="4" />
-        <mark key="^" line="108" column="5" />
+      <file name="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" timestamp="1590607517092">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="107" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6.jar!/com/netflix/config/DynamicPropertyFactory.class" timestamp="1590547652311">
         <mark key="'" line="135" column="45" />
@@ -122,6 +122,9 @@
         <mark key="'" line="43" column="22" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/events/UserInputEvent.java" timestamp="1590587540139" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1590607195813">
+        <mark key="'" line="47" column="29" />
+      </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1590587811555">
         <mark key="'" line="55" column="55" />
       </file>
@@ -134,9 +137,6 @@
       <file name="/Dummy.txt" timestamp="1590588545568">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" timestamp="1590547262934">
-        <mark key="'" line="10" column="48" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/AbstractDynamoDbConfigurationSource.class" timestamp="1590548015764">
         <mark key="'" line="33" column="43" />
       </file>
@@ -144,24 +144,20 @@
         <mark key="'" line="131" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/config/CiceroProperties.java" timestamp="1590589192447" />
-      <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/DynamicPropertyConfiguration.class" timestamp="1590547316241">
-        <mark key="'" line="24" column="93" />
-      </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" timestamp="1590587162171">
         <mark key="'" line="70" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" timestamp="1590587601965">
         <mark key="'" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/model/ErrorMessage.java" timestamp="1590607258034">
+        <mark key="'" line="18" column="29" />
+      </file>
       <file name="/fragment.java" timestamp="1590588545556">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="19" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
-      <jump line="151" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="39" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="152" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="14" column="57" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" />
       <jump line="48" column="81" filename="$USER_HOME$/GenDev/loquentia/jenkinsfile" />
@@ -258,48 +254,52 @@
       <jump line="46" column="33" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/service/NluService.java" />
       <jump line="9" column="0" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
       <jump line="12" column="30" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
+      <jump line="22" column="0" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
+      <jump line="112" column="0" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
+      <jump line="47" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
+      <jump line="18" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/model/ErrorMessage.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>MMS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
       </register>
       <register name="-" type="4">
-        <text>MMS</text>
+        <text>Event</text>
       </register>
       <register name="/" type="4">
         <text>MixAuth</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWN0aXZhdGUgTFEK</text>
+      <register name="0" type="4">
+        <text encoding="base64">TFEgLT4gQ2ljZXJvOiBDcmVhdGUgVHVybjogUE9TVCBhcGkvdjEvb3JnYW5pemF0aW9ucy97b3JnYW5pemF0aW9uSWR9L3Nlc3Npb25zL3tzZXNzaW9uSWR9L3R1cm5zCmFjdGl2YXRlIExRCmFjdGl2YXRlIENpY2Vybwpub3RlIHJpZ2h0IG9mIExRCiAgewogICAgICAiaW5wdXRFdmVudCI6IHsKICAgICAgICAgICJ0eXBlIjogIk5vT3AiCiAgICAgIH0KICB9CmVuZCBub3RlCgpDaWNlcm8gLS0+IExROiBUdXJuIFJlc3BvbnNlOiBbcHJvbXB0cywgbmV4dEFjdGlvbl0KZGVhY3RpdmF0ZSBMUQpkZWFjdGl2YXRlIENpY2Vybwpub3RlIHJpZ2h0IG9mIExRCiB7CiAgICAgInByb21wdHMiOiB7CiAgICAgICAgICJ2b2ljZSI6IHsKICAgICAgICAgICAgICJzZWdtZW50cyI6IFsKICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlRleHQiLAogICAgICAgICAgICAgICAgICAgICAidGV4dCI6ICJIZWxsbywgSSBhbSBSZW50YWxDYXIgYm90LiBIb3cgbWF5IEkgaGVscCB5b3Ugd2l0aCB0b2RheT8iCiAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgXQogICAgICAgICB9LAogICAgICAgICAib3V0cHV0TGFuZ3VhZ2UiOiAiZW4tVVMiCiAgICAgfSwKICAgICAibmV4dEFjdGlvbiI6IHsKICAgICAgICAgInR5cGUiOiAiV2FpdEZvcklucHV0IiwKICAgICAgICAgIm1vZGVDb25zdHJhaW50cyI6IHsKICAgICAgICAgICAgICJ2b2ljZSI6IHsgLi4uIH0KICAgICAgICAgfQogICAgIH0sCiAgICAgImlkIjogIjIwYmQ0MTczLTU3YjEtNDFlMy05YWVkLWNiMTE2OGRhNjhhNiIKIH0KZW5kIG5vdGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWN0aXZhdGUgTFEK</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
+        <text encoding="base64">YWN0aXZhdGUgTFEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
+        <text encoding="base64">TFEgLS0+IENsaWVudDogQ2xvc2VkIGNvbW1hbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
+        <text encoding="base64">fHx8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBDaWNlcm8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBMUQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWN0aXZhdGUgTFEK</text>
+        <text encoding="base64">fHx8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWN0aXZhdGUgTFEK</text>
+        <text encoding="base64">fHx8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
