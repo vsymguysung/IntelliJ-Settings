@@ -128,8 +128,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1590607195813">
         <mark key="'" line="47" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1590613127637">
-        <mark key="'" line="303" column="20" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1590614365202">
+        <mark key="'" line="310" column="103" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1590587811555">
         <mark key="'" line="55" column="55" />
@@ -158,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="56" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
-      <jump line="775" column="94" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
       <jump line="19" column="31" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/service/MockLoquentiaService.java" />
       <jump line="32" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="33" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
@@ -258,6 +256,8 @@
       <jump line="303" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
       <jump line="86" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
       <jump line="27" column="84" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSessionParameters.java" />
+      <jump line="309" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
+      <jump line="310" column="103" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
