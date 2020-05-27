@@ -99,12 +99,6 @@
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1590533834433">
-        <mark key="'" line="783" column="91" />
-        <mark key="[" line="661" column="20" />
-        <mark key="]" line="661" column="112" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" timestamp="1590549397822">
         <mark key="'" line="78" column="43" />
       </file>
@@ -120,6 +114,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" timestamp="1590545867687">
         <mark key="'" line="26" column="40" />
       </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/events/UserInputEvent.java" timestamp="1590587540139" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" timestamp="1590547219920">
         <mark key="'" line="28" column="29" />
       </file>
@@ -144,26 +139,23 @@
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/config/AppAdminConfig.class" timestamp="1590546110796">
         <mark key="'" line="343" column="30" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/TestProperties.java" timestamp="1590523375114">
-        <mark key="'" line="14" column="57" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" timestamp="1590547236846">
         <mark key="'" line="18" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/DynamicPropertyConfiguration.class" timestamp="1590547316241">
         <mark key="'" line="24" column="93" />
       </file>
-      <file name="/fragment.java" timestamp="1590544802359">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" timestamp="1590587162171">
+        <mark key="'" line="70" column="38" />
+      </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" timestamp="1590587601965">
+        <mark key="'" line="9" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" timestamp="1590547224453">
         <mark key="'" line="208" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
-      <jump line="247" column="54" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
-      <jump line="248" column="67" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="255" column="48" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="148" column="79" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/LoquentiaProperties.java" />
       <jump line="135" column="0" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
@@ -261,6 +253,9 @@
       <jump line="35" column="109" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
       <jump line="101" column="84" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
       <jump line="138" column="72" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" />
+      <jump line="70" column="38" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" />
+      <jump line="15" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
+      <jump line="9" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
