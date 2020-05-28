@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkeW5hbW9kYmxvY2FsXD4=</entry>
-        <entry>it.debug</entry>
-        <entry>environment</entry>
-        <entry>env</entry>
         <entry>Env</entry>
         <entry>Environment</entry>
         <entry>property</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxEaWFsb2dmbG93UmVzcG9uc2VPYnNlcnZlclw+</entry>
         <entry>default</entry>
         <entry>getWebClient</entry>
+        <entry>cicero</entry>
+        <entry>dialog</entry>
+        <entry>CICERO</entry>
+        <entry encoding="base64">XDx3ZWJDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -104,8 +104,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1590612226258">
         <mark key="'" line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" timestamp="1590613065556">
-        <mark key="'" line="79" column="44" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1590696298543">
+        <mark key="'" line="292" column="33" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" timestamp="1590696525418">
+        <mark key="'" line="75" column="55" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1590613174884">
         <mark key="'" line="86" column="48" />
@@ -129,11 +132,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1590614365202">
         <mark key="'" line="310" column="103" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1590587811555">
-        <mark key="'" line="55" column="55" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590687194733">
-        <mark key="'" line="32" column="24" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590696702533">
+        <mark key="'" line="67" column="25" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
@@ -161,17 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
-      <jump line="43" column="57" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
-      <jump line="57" column="37" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
-      <jump line="26" column="40" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/App.java" />
-      <jump line="19" column="40" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
-      <jump line="22" column="31" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
-      <jump line="343" column="30" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/config/AppAdminConfig.class" />
-      <jump line="23" column="20" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/DynamicPropertyConfiguration.class" />
-      <jump line="28" column="29" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/it/config/RootConfig.java" />
       <jump line="208" column="54" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/PropertyService.class" />
       <jump line="18" column="37" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/admin/DynamoDbPropertyService.class" />
       <jump line="10" column="48" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamicDynamoConfiguration.class" />
@@ -261,6 +250,17 @@
       <jump line="83" column="22" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" />
       <jump line="62" column="79" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" />
       <jump line="30" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" />
+      <jump line="65" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" />
+      <jump line="292" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
+      <jump line="67" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" />
+      <jump line="66" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" />
+      <jump line="75" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" />
+      <jump line="40" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
+      <jump line="45" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
+      <jump line="66" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
+      <jump line="67" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +272,7 @@
         <text>Follows</text>
       </register>
       <register name="/" type="4">
-        <text>getWebClient</text>
+        <text encoding="base64">XDx3ZWJDbGllbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2VudGVyIGZvb3RlciBDcmVhdGVkIGJ5IEF0b21pYyBUYW5nZXJpbmUgVGVhbS4gW1todHRwczovL2NvbmZsdWVuY2UuaW5pbi5jb20vcGFnZXMvY3JlYXRlcGFnZS5hY3Rpb24/c3BhY2VLZXk9fmdraW0mZnJvbVBhZ2VJZD0xMjk3OTg0NDEgVGhlIGxpbmtlZCBjb25mbHVlbmNlIHBhZ2VdXQ==</text>
@@ -311,12 +311,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getWebClient</last-search>
+      <last-search encoding="base64">XDx3ZWJDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>getWebClient</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWJDbGllbnRcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
