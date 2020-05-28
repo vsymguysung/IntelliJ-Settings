@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1590613174884">
         <mark key="'" line="86" column="48" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" timestamp="1590673108304">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="36" />
+      <file name="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" timestamp="1590676990419">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="57" />
+        <mark key="^" line="119" column="57" />
+        <mark key="." line="119" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1590607195813">
         <mark key="'" line="47" column="29" />
@@ -260,11 +260,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQmFja2dyb3VuZENvbG9yIEFxdWEtQ2FkZXRCbHVlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>gray</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWFsb2dmbG93UmVzcG9uc2VPYnNlcnZlclw+</text>
@@ -273,31 +273,33 @@
         <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQmFja2dyb3VuZENvbG9yIEFxdWEtQ2FkZXRCbHVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQmFja2dyb3VuZENvbG9yIEFxdWEtQ2FkZXRCbHVlCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIEJveFBhZGRpbmcgMTUwCg==</text>
+      <register name="2" type="4">
+        <text>&quot;previousTurn&quot;: {
+          &quot;id&quot;: &quot;579733a2-b09c-437c-b3bf-eeda1cd74e42&quot;
+      },</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQmFja2dyb3VuZENvbG9yIEFxdWEtQ2FkZXRCbHVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIEJveFBhZGRpbmcgMTUwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBUVFMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fHx8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBUVFMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
