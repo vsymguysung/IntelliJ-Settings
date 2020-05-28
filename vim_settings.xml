@@ -138,6 +138,12 @@
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1590587811555">
         <mark key="'" line="55" column="55" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590686174183">
+        <mark key="[" line="104" column="31" />
+        <mark key="]" line="104" column="28" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="104" column="28" />
+      </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" timestamp="1590587162171">
         <mark key="'" line="70" column="38" />
       </file>
@@ -256,8 +262,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Follows</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkUK</text>
       </register>
       <register name="-" type="4">
         <text>Follows</text>
@@ -269,33 +275,33 @@
         <text encoding="base64">Y2VudGVyIGZvb3RlciBDcmVhdGVkIGJ5IEF0b21pYyBUYW5nZXJpbmUgVGVhbS4gW1todHRwczovL2NvbmZsdWVuY2UuaW5pbi5jb20vcGFnZXMvY3JlYXRlcGFnZS5hY3Rpb24/c3BhY2VLZXk9fmdraW0mZnJvbVBhZ2VJZD0xMjk3OTg0NDEgVGhlIGxpbmtlZCBjb25mbHVlbmNlIHBhZ2VdXQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZWdlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">ICBsZWdlbmQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">fHx8Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fHx8Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>&quot;previousTurn&quot;: {
           &quot;id&quot;: &quot;579733a2-b09c-437c-b3bf-eeda1cd74e42&quot;
       },</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQmFja2dyb3VuZENvbG9yIEFxdWEtQ2FkZXRCbHVlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIEJveFBhZGRpbmcgMTUwCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIEJveFBhZGRpbmcgMTUwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
