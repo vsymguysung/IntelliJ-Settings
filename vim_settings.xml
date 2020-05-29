@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Environment</entry>
         <entry>property</entry>
         <entry encoding="base64">XDxzYXZlTWFuYWdlZFByb3BlcnR5XD4=</entry>
         <entry encoding="base64">XDx0YWJsZVByb3BlcnR5TmFtZVw+</entry>
@@ -25,6 +24,7 @@
         <entry>CICERO</entry>
         <entry encoding="base64">XDx3ZWJDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -115,9 +115,12 @@
         <mark key="]" line="71" column="95" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590784012945">
-        <mark key="'" line="57" column="3" />
-        <mark key="^" line="72" column="48" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590784727771">
+        <mark key="'" line="88" column="55" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/HttpRequestParser.java" timestamp="1590774081138" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1590782397534">
@@ -142,10 +145,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1590780779295" />
     </filemarks>
     <jumps>
-      <jump line="123" column="28" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
-      <jump line="127" column="28" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
-      <jump line="131" column="36" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
-      <jump line="73" column="27" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoDbPropertyLoader.class" />
       <jump line="43" column="22" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoDbPropertyLoader.class" />
       <jump line="117" column="84" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
       <jump line="113" column="29" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
@@ -242,18 +241,22 @@
       <jump line="16" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="104" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" />
       <jump line="59" column="3" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="71" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="28" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="88" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5lbXB0eSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUb0RPOiBJbXBsZW1lbnRhdGlvbiBpcyBjb21pbmcgc29vbi4K</text>
@@ -310,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
