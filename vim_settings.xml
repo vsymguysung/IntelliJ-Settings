@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Env</entry>
         <entry>Environment</entry>
         <entry>property</entry>
         <entry encoding="base64">XDxzYXZlTWFuYWdlZFByb3BlcnR5XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>dialog</entry>
         <entry>CICERO</entry>
         <entry encoding="base64">XDx3ZWJDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -144,25 +144,24 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1590614365202">
         <mark key="'" line="310" column="103" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590768075869">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590768256889">
         <mark key="'" line="67" column="25" />
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="187" />
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="71" column="95" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590768087236">
-        <mark key="[" line="33" column="185" />
-        <mark key="]" line="33" column="182" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="21" column="54" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590770437356">
+        <mark key="'" line="4" column="55" />
+        <mark key="[" line="39" column="107" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/model/ErrorMessage.java" timestamp="1590607258034">
         <mark key="'" line="18" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="45" filename="$MAVEN_REPOSITORY$/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6.jar!/com/netflix/config/DynamicPropertyFactory.class" />
-      <jump line="15" column="88" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/AbstractDynamoDbConfigurationSource.class" />
       <jump line="130" column="19" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
       <jump line="62" column="11" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" />
       <jump line="61" column="82" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
@@ -261,51 +260,60 @@
       <jump line="72" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
       <jump line="70" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
       <jump line="32" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="4" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>WebClient webClient, URI serviceURI, MeterRegistry meterRegistry, ExecutorServiceFactory executorServiceFactory</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>WebClient webClient, URI serviceURI, MeterRegistry meterRegistry, ExecutorServiceFactory executorServiceFactory</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWJDbGllbnRcPg==</text>
+        <text encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>WebClient webClient, URI serviceURI, CircuitBreakerRegistry circuitBreakerRegistry, MeterRegistry meterRegistry, ExecutorServiceFactory executorServiceFactory</text>
+        <text>this.webClient = webClient;
+        this.serviceURI = serviceURI;
+        this.circuitBreaker = circuitBreakerRegistry.circuitBreaker(&quot;DialogEngineService&quot;);
+        TaggedCircuitBreakerMetrics.ofCircuitBreakerRegistry(circuitBreakerRegistry).bindTo(meterRegistry);
+        this.executorService = executorServiceFactory.getCachedThreadPool(&quot;dialogengine-proxy&quot;);</text>
       </register>
-      <register name="1" type="4">
-        <text>private final WebClient webClient;
-        private final URI serviceURI;
-        private final CircuitBreaker circuitBreaker;
-        private final ExecutorService executorService</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5jb21tb24uRnV0dXJlRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2ljZXJvUHJveHkoV2ViQ2xpZW50IHdlYkNsaWVudCwgVVJJIHNlcnZpY2VVUkksIE1ldGVyUmVnaXN0cnkgbWV0ZXJSZWdpc3RyeSwgRXhlY3V0b3JTZXJ2aWNlRmFjdG9yeSBleGVjdXRvclNlcnZpY2VGYWN0b3J5KSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyaWV2ZSgpLm9uU3RhdHVzKCkub24K</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmV0dXJuIEZ1dHVyZUV4dGVuc2lvbnMuYXN5bmMoKCkgLT4gY3JlYXRlVHVybihib3RJZCwgc2Vzc2lvbklkLCB0cmFuc2NyaXB0LCBjb25maWRlbmNlLCBib3RTZXNzaW9uQ2FsbGJhY2spLAogICAgICAgICAgICBsb3F1ZW50aWFTZXNzaW9uLAogICAgICAgICAgICBleGVjdXRvclNlcnZpY2UpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuKCkK</text>
+      <register name="6" type="4">
+        <text>/**
+     * Create a new dialog session for the specified bot and version.
+     *
+     * @param botId      the bot id
+     * @param botVersion the bot version
+     * @return the create session response
+     */</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkUK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZWdlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9xdWVudGlhU2Vzc2lvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -314,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx3ZWJDbGllbnRcPg==</last-search>
+      <last-search encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWJDbGllbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
