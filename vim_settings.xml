@@ -95,9 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590588545568">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSessionParameters.java" timestamp="1590613621706">
         <mark key="'" line="27" column="84" />
       </file>
@@ -147,11 +144,17 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1590614365202">
         <mark key="'" line="310" column="103" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590696702533">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590768075869">
         <mark key="'" line="67" column="25" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="187" />
         <mark key="." line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590768087236">
+        <mark key="[" line="33" column="185" />
+        <mark key="]" line="33" column="182" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/model/ErrorMessage.java" timestamp="1590607258034">
         <mark key="'" line="18" column="29" />
@@ -262,44 +265,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>WebClient webClient, URI serviceURI, MeterRegistry meterRegistry, ExecutorServiceFactory executorServiceFactory</text>
       </register>
       <register name="-" type="4">
-        <text>Follows</text>
+        <text>WebClient webClient, URI serviceURI, MeterRegistry meterRegistry, ExecutorServiceFactory executorServiceFactory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJDbGllbnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2VudGVyIGZvb3RlciBDcmVhdGVkIGJ5IEF0b21pYyBUYW5nZXJpbmUgVGVhbS4gW1todHRwczovL2NvbmZsdWVuY2UuaW5pbi5jb20vcGFnZXMvY3JlYXRlcGFnZS5hY3Rpb24/c3BhY2VLZXk9fmdraW0mZnJvbVBhZ2VJZD0xMjk3OTg0NDEgVGhlIGxpbmtlZCBjb25mbHVlbmNlIHBhZ2VdXQ==</text>
+        <text>WebClient webClient, URI serviceURI, CircuitBreakerRegistry circuitBreakerRegistry, MeterRegistry meterRegistry, ExecutorServiceFactory executorServiceFactory</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>private final WebClient webClient;
+        private final URI serviceURI;
+        private final CircuitBreaker circuitBreaker;
+        private final ExecutorService executorService</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyaWV2ZSgpLm9uU3RhdHVzKCkub24K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2ljZXJvUHJveHkoV2ViQ2xpZW50IHdlYkNsaWVudCwgVVJJIHNlcnZpY2VVUkksIE1ldGVyUmVnaXN0cnkgbWV0ZXJSZWdpc3RyeSwgRXhlY3V0b3JTZXJ2aWNlRmFjdG9yeSBleGVjdXRvclNlcnZpY2VGYWN0b3J5KSB7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyaWV2ZSgpLm9uU3RhdHVzKCkub24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZWdlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fHx8Cg==</text>
+        <text encoding="base64">ICBsZWdlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
