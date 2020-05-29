@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>property</entry>
-        <entry encoding="base64">XDxzYXZlTWFuYWdlZFByb3BlcnR5XD4=</entry>
         <entry encoding="base64">XDx0YWJsZVByb3BlcnR5TmFtZVw+</entry>
         <entry encoding="base64">XDxrZXlBdHRyaWJ1dGVQcm9wZXJ0eU5hbWVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVBdHRyaWJ1dGVWYWx1ZVw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx3ZWJDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0ZJTEVfTkFNRVw+</entry>
+        <entry encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -132,25 +132,21 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1590694469385">
         <mark key="'" line="30" column="23" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" timestamp="1590785902834">
+        <mark key="'" line="51" column="76" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1590774124198">
         <mark key="'" line="46" column="59" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1590780745540" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1590692700096">
-        <mark key="'" line="62" column="79" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590692969145">
         <mark key="'" line="302" column="22" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1590780779295" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1590785464408">
+        <mark key="'" line="143" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="22" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoDbPropertyLoader.class" />
-      <jump line="117" column="84" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
-      <jump line="113" column="29" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
-      <jump line="78" column="43" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/test/java/com/inin/management/initialization/DefaultDynamicPropertyLoaderTest.java" />
-      <jump line="35" column="109" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
-      <jump line="101" column="84" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/initialization/DefaultDynamicPropertyLoader.class" />
       <jump line="138" column="72" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" />
       <jump line="70" column="38" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" />
       <jump line="15" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
@@ -245,6 +241,12 @@
       <jump line="28" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="92" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="88" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="143" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" />
+      <jump line="18" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
+      <jump line="36" column="155" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
+      <jump line="19" column="125" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
+      <jump line="46" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
+      <jump line="51" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -256,7 +258,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</text>
+        <text encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUb0RPOiBJbXBsZW1lbnRhdGlvbiBpcyBjb21pbmcgc29vbi4K</text>
@@ -313,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</last-search>
+      <last-search encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
