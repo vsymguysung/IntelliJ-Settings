@@ -126,11 +126,13 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1590692700096">
         <mark key="'" line="62" column="79" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" timestamp="1590771699455">
+        <mark key="'" line="83" column="21" />
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="87" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590692969145">
         <mark key="'" line="302" column="22" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1590607195813">
-        <mark key="'" line="47" column="29" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1590680411025">
         <mark key="[" line="13" column="2" />
@@ -144,31 +146,24 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1590614365202">
         <mark key="'" line="310" column="103" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590768256889">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590773379035">
         <mark key="'" line="67" column="25" />
         <mark key="[" line="67" column="8" />
         <mark key="]" line="71" column="95" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590770437356">
-        <mark key="'" line="4" column="55" />
-        <mark key="[" line="39" column="107" />
-        <mark key="]" line="40" column="24" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="24" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1590773202248">
+        <mark key="'" line="64" column="22" />
+        <mark key="[" line="71" column="87" />
+        <mark key="]" line="72" column="65" />
+        <mark key="^" line="72" column="65" />
+        <mark key="." line="72" column="64" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/model/ErrorMessage.java" timestamp="1590607258034">
         <mark key="'" line="18" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="19" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
-      <jump line="62" column="11" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" />
-      <jump line="61" column="82" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
-      <jump line="82" column="32" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoConfigurationSource.class" />
-      <jump line="17" column="24" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/AbstractDynamoDbConfigurationSource.class" />
-      <jump line="18" column="24" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/AbstractDynamoDbConfigurationSource.class" />
-      <jump line="33" column="43" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/AbstractDynamoDbConfigurationSource.class" />
       <jump line="83" column="52" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-aws/0.6.1-SNAPSHOT/app-management-aws-0.6.1-20190119.213718-1.jar!/com/inin/management/properties/aws/DynamoDbPropertyLoader.class" />
       <jump line="120" column="49" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" />
       <jump line="7" column="40" filename="$MAVEN_REPOSITORY$/com/inin/app/management/app-management-core/0.6.1-SNAPSHOT/app-management-core-0.6.1-20190119.213702-1.jar!/com/inin/app/management/properties/ManagedProperty.class" />
@@ -262,58 +257,73 @@
       <jump line="32" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" />
       <jump line="32" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="4" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="49" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="54" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="44" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="83" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
+      <jump line="72" column="61" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="63" column="81" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="64" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>String transcript,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>String transcript,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>this.webClient = webClient;
-        this.serviceURI = serviceURI;
-        this.circuitBreaker = circuitBreakerRegistry.circuitBreaker(&quot;DialogEngineService&quot;);
-        TaggedCircuitBreakerMetrics.ofCircuitBreakerRegistry(circuitBreakerRegistry).bindTo(meterRegistry);
-        this.executorService = executorServiceFactory.getCachedThreadPool(&quot;dialogengine-proxy&quot;);</text>
+        <text encoding="base64">cmV0dXJuIEZ1dHVyZUV4dGVuc2lvbnMuYXN5bmMoKCkgLT4gewogICAgICAgICAgICAgICAgc3R0U2Vzc2lvbi5wcm9jZXNzQXVkaW8oYXVkaW9CeXRlcyk7CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGxvcXVlbnRpYVNlc3Npb24sCiAgICAgICAgICAgIGV4ZWN1dG9yU2VydmljZSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5jb21tb24uRnV0dXJlRXh0ZW5zaW9uczsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">cmV0dXJuIEZ1dHVyZUV4dGVuc2lvbnMuYXN5bmMoKCkgLT4gY3JlYXRlVHVybihib3RJZCwgc2Vzc2lvbklkLCB0cmFuc2NyaXB0LCBjb25maWRlbmNlLCBib3RTZXNzaW9uQ2FsbGJhY2spLAogICAgICAgICAgICBsb3F1ZW50aWFTZXNzaW9uLAogICAgICAgICAgICBleGVjdXRvclNlcnZpY2UpOw==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="1" type="4">
         <text>/**
-     * Create a new dialog session for the specified bot and version.
+     * Create turn async completable future.
      *
-     * @param botId      the bot id
-     * @param botVersion the bot version
-     * @return the create session response
+     * @param botId              the bot id
+     * @param sessionId          the session id
+     * @param transcript         the transcript
+     * @param confidence         the confidence
+     * @param loquentiaSession   the loquentia session
+     * @param botSessionCallback the bot session callback
+     * @return the completable future
      */</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+     * Create session async completable future.
+     *
+     * @param botId            the bot id
+     * @param botVersion       the bot version
+     * @param loquentiaSession the loquentia session
+     * @return the completable future
+     */</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>createTurn(botId, sessionId, transcript, confidence, botSessionCallback),
+            loquentiaSession</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0dFNlc3Npb24ucHJvY2Vzc0F1ZGlvKGF1ZGlvQnl0ZXMpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5jb21tb24uRnV0dXJlRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9xdWVudGlhU2Vzc2lvbiwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
