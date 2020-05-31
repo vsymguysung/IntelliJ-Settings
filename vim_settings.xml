@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZVByb3BlcnR5TmFtZVw+</entry>
         <entry encoding="base64">XDxrZXlBdHRyaWJ1dGVQcm9wZXJ0eU5hbWVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVBdHRyaWJ1dGVWYWx1ZVw+</entry>
         <entry>MixAuth</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0ZJTEVfTkFNRVw+</entry>
         <entry encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</entry>
+        <entry>subscribe</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -95,8 +95,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotSessionFactory.java" timestamp="1590780886936">
+        <mark key="'" line="37" column="53" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1590694469385">
+        <mark key="'" line="30" column="23" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" timestamp="1590785902834">
+        <mark key="'" line="51" column="76" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1590696298543">
         <mark key="'" line="292" column="33" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1590774124198">
+        <mark key="'" line="46" column="59" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/model/CreateTurnResponse.java" timestamp="1590764444769">
         <mark key="'" line="32" column="13" />
@@ -108,6 +120,12 @@
         <mark key="'" line="83" column="21" />
         <mark key="[" line="83" column="8" />
         <mark key="]" line="87" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590692969145">
+        <mark key="'" line="302" column="22" />
+      </file>
+      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" timestamp="1590887917925">
+        <mark key="'" line="36" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1590781129609">
         <mark key="'" line="125" column="47" />
@@ -122,50 +140,14 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/HttpRequestParser.java" timestamp="1590774081138" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/FutureExtensions.java" timestamp="1590782397534">
         <mark key="'" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotSessionFactory.java" timestamp="1590780886936">
-        <mark key="'" line="37" column="53" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineDefaultIntentConverter.java" timestamp="1590694469385">
-        <mark key="'" line="30" column="23" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" timestamp="1590785902834">
-        <mark key="'" line="51" column="76" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1590774124198">
-        <mark key="'" line="46" column="59" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1590780745540" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590692969145">
-        <mark key="'" line="302" column="22" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" timestamp="1590888148870">
+        <mark key="'" line="3692" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="72" filename="$USER_HOME$/GenDev/app-management/app-management-aws/src/main/java/com/inin/management/initialization/DefaultDynamicPropertyLoader.java" />
-      <jump line="70" column="38" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/TurnController.java" />
-      <jump line="15" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
-      <jump line="9" column="3" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/Action.java" />
-      <jump line="55" column="55" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" />
-      <jump line="86" column="13" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/service/NluService.java" />
-      <jump line="46" column="33" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/service/NluService.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
-      <jump line="12" column="30" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
-      <jump line="22" column="0" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
-      <jump line="112" column="0" filename="$USER_HOME$/GenDev/loquentia/cicero-provider-seq-diagram" />
-      <jump line="47" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" />
-      <jump line="18" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/model/ErrorMessage.java" />
-      <jump line="43" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="674" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="87" column="81" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" />
-      <jump line="158" column="9" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
-      <jump line="79" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowProvider.java" />
-      <jump line="179" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
-      <jump line="157" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
-      <jump line="303" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
       <jump line="86" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
       <jump line="27" column="84" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSessionParameters.java" />
       <jump line="309" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
@@ -244,6 +226,28 @@
       <jump line="19" column="125" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
       <jump line="46" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
       <jump line="51" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/SecretStash.java" />
+      <jump line="27" column="13" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" />
+      <jump line="395" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="645" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="650" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="652" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="666" column="68" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="669" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="693" column="68" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="731" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="773" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="885" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="886" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="905" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="906" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="929" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="930" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="931" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="952" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="953" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="954" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="3692" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -255,7 +259,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</text>
+        <text>subscribe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUb0RPOiBJbXBsZW1lbnRhdGlvbiBpcyBjb21pbmcgc29vbi4K</text>
@@ -312,12 +316,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</last-search>
+      <last-search>subscribe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</last-pattern>
+      <last-pattern>subscribe</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
