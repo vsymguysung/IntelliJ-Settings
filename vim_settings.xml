@@ -146,12 +146,10 @@
         <mark key="." line="110" column="24" />
         <mark key="^" line="110" column="25" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591024683817">
-        <mark key="'" line="74" column="17" />
-        <mark key="[" line="74" column="38" />
-        <mark key="]" line="74" column="38" />
-        <mark key="^" line="74" column="39" />
-        <mark key="." line="74" column="38" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591030894399">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoCombineTest.java" timestamp="1590950294263">
         <mark key="'" line="61" column="31" />
@@ -268,8 +266,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBNb25vPEludGVnZXI+IHRlc3RNb25vID0gTW9uby5qdXN0KDEpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -281,18 +279,24 @@
         <text encoding="base64">ICAgICAgICAvLyBUb0RPOiBJbXBsZW1lbnRhdGlvbiBpcyBjb21pbmcgc29vbi4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRvRE86IEltcGxlbWVudCBQT0pPIGZvbGxvd2luZyB0aGUgQVBJIGRvY3MuCg==</text>
+        <text encoding="base64">ICAgICAgICBNb25vPEludGVnZXI+IHRlc3RNb25vID0gTW9uby5qdXN0KDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5lbXB0eSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TW9uby5zdWJzY3JpYmVPbihTY2hlZHVsZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkNvbXBsZXRhYmxlRnV0dXJlOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRvRE86IEltcGxlbWVudCBQT0pPIGZvbGxvd2luZyB0aGUgQVBJIGRvY3MuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5lbXB0eSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkNvbXBsZXRhYmxlRnV0dXJlOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5jb21tb24uRnV0dXJlRXh0ZW5zaW9uczsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
      * Create turn async completable future.
      *
@@ -304,7 +308,7 @@
      * @return the completable future
      */</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
      * Create session async completable future.
      *
@@ -313,17 +317,8 @@
      * @return the completable future
      */</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBmbG93SWQgICAgICAgICAgIHRoZSBmbG93IGlkCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>String flowId,
-                                                     String versionTag</text>
-      </register>
-      <register name="9" type="4">
-        <text>String sessionId,
-                                               String previousTurnId,
-                                               String transcript,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
