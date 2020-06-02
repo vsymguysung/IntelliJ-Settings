@@ -105,12 +105,11 @@
         <mark key="^" line="482" column="26" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/FluxAndMonoControllerTest.java" timestamp="1591119854583" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591126207569">
-        <mark key="'" line="102" column="22" />
-        <mark key="[" line="100" column="11" />
-        <mark key="]" line="100" column="12" />
-        <mark key="^" line="100" column="12" />
-        <mark key="." line="100" column="11" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591130162553">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="18" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1591124346310">
         <mark key="[" line="37" column="8" />
@@ -125,6 +124,12 @@
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591129465029">
+        <mark key="[" line="70" column="54" />
+        <mark key="]" line="70" column="87" />
+        <mark key="." line="70" column="86" />
+        <mark key="^" line="70" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/socket/client/StandardWebSocketClient.java" timestamp="1591112744149">
         <mark key="'" line="110" column="41" />
@@ -274,10 +279,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, executorService</text>
+        <text>userAgentName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</text>
@@ -286,31 +291,46 @@
         <text>Executors.newCachedThreadPool(factory)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoIShvIGluc3RhbmNlb2YgQ3JlYXRlU2Vzc2lvblJlc3BvbnNlKSkgcmV0dXJuIGZhbHNlOwogICAgICAgIENyZWF0ZVNlc3Npb25SZXNwb25zZSB0aGF0ID0gKENyZWF0ZVNlc3Npb25SZXNwb25zZSkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoZ2V0RmxvdygpLCB0aGF0LmdldEZsb3coKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0VmVyc2lvbigpLCB0aGF0LmdldFZlcnNpb24oKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0Q29udmVyc2F0aW9uSWQoKSwgdGhhdC5nZXRDb252ZXJzYXRpb25JZCgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXRFeHRlcm5hbFNlc3Npb25JZCgpLCB0aGF0LmdldEV4dGVybmFsU2Vzc2lvbklkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElucHV0RGF0YSgpLCB0aGF0LmdldElucHV0RGF0YSgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXRDaGFubmVsKCksIHRoYXQuZ2V0Q2hhbm5lbCgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXREYXRlQ3JlYXRlZCgpLCB0aGF0LmdldERhdGVDcmVhdGVkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElkKCksIHRoYXQuZ2V0SWQoKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goZ2V0RmxvdygpLCBnZXRWZXJzaW9uKCksIGdldENvbnZlcnNhdGlvbklkKCksIGdldEV4dGVybmFsU2Vzc2lvbklkKCksIGdldElucHV0RGF0YSgpLCBnZXRDaGFubmVsKCksIGdldERhdGVDcmVhdGVkKCksIGdldElkKCkpOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuZnJvbUV4ZWN1dG9yU2VydmljZShleGVjdXRvclNlcnZpY2UpKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">VGhyZWFkRmFjdG9yeSBmYWN0b3J5ID0gbmV3IFRocmVhZEZhY3RvcnlCdWlsZGVyKCkuYnVpbGQoKTsKICAgICAgICBFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlID0gRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woZmFjdG9yeSk7CgogICAgICAgIHdoZW4obG9xdWVudGlhU2Vzc2lvbi5nZXRPcmdJZCgpKS50aGVuUmV0dXJuKG9yZ0lkKTsKICAgICAgICB3aGVuKGV4ZWN1dG9yU2VydmljZUZhY3RvcnkuZ2V0Q2FjaGVkVGhyZWFkUG9vbChhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4oZXhlY3V0b3JTZXJ2aWNlKTsKCiAgICAgICAgZmluYWwgU3RyaW5nIHVybCA9IFN0cmluZy5mb3JtYXQoIiVzL2FwaS92MS9vcmdhbml6YXRpb25zLyVzL3Nlc3Npb25zIiwgU0VSVklDRV9VUkkudG9TdHJpbmcoKSwgb3JnSWQpOwogICAgICAgIENpY2Vyb1Byb3h5IGNpY2Vyb1Byb3h5ID0gY3JlYXRlQ2ljZXJvUHJveHkodXJsLCBIdHRwTWV0aG9kLlBPU1QsIChyZXF1ZXN0LCByZXNwb25zZUJ1aWxkZXIpIC0+CiAgICAgICAgICAgIHJlc3BvbnNlQnVpbGRlci5ib2R5KE9iamVjdE1hcHBlckVudW0uSU5TVEFOQ0Uud3JpdGVWYWx1ZUFzU3RyaW5nKGV4cGVjdGVkKSkpOwoKICAgICAgICAvLyBBY3QKICAgICAgICBNb25vPENyZWF0ZVNlc3Npb25SZXNwb25zZT4gc2Vzc2lvblJlc3BvbnNlTW9ubyA9IGNpY2Vyb1Byb3h5LmNyZWF0ZVNlc3Npb24oc2Vzc2lvblJlcXVlc3QsIGxvcXVlbnRpYVNlc3Npb24pOwoKICAgICAgICAvLyBBc3NlcnQKICAgICAgICBTdGVwVmVyaWZpZXIuY3JlYXRlKHNlc3Npb25SZXNwb25zZU1vbm8ubG9nKCkpCiAgICAgICAgICAgIC5hc3NlcnROZXh0KChDcmVhdGVTZXNzaW9uUmVzcG9uc2UgcmVzcG9uc2UpIC0+IHsKICAgICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkLCByZXNwb25zZSk7CiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC52ZXJpZnlDb21wbGV0ZSgpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLmFueTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdE51bGw7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGZpbmFsIFN0cmluZyBjaGFubmVsTmFtZSA9ICJQaG9uZSI7CiAgICAgICAgZmluYWwgU3RyaW5nW10gaW5wdXRNb2RlcyA9IHsgInZvaWNlIn07CiAgICAgICAgZmluYWwgU3RyaW5nW10gb3V0cHV0TW9kZXMgPSB7ICJ2b2ljZSJ9OwogICAgICAgIGZpbmFsIFN0cmluZyB1c2VyQWdlbnROYW1lID0gIlBob25lIjs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2VuZXN5cy5sb3F1ZW50aWEuVGVzdFV0aWxzLmFzc2VydEpTT05FcXVhbHM7Cg==</text>
+      <register name="7" type="4">
+        <text>// Assume
+        final String orgId = &quot;77777777777777777&quot;;
+        final String flowId = &quot;1234567890123456&quot;;
+        final String versionTag = &quot;production&quot;;
+        final String conversationId = &quot;9876543210987654&quot;;
+        final String externalSessionId = &quot;999999999999999&quot;;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlYWN0b3IuY29yZS5zY2hlZHVsZXIuU2NoZWR1bGVyczsK</text>
+      <register name="8" type="4">
+        <text>final CreateSessionResponse expected = CreateSessionResponse.create()
+            .withFlow(Flow.create().withId(flowId))
+            .withVersion(Version.create().withTag(versionTag))
+            .withConversationId(conversationId)
+            .withExternalSessionId(externalSessionId)
+            .withInputData(InputData.create().withVariables(mockInputData))
+            .withChannel(Channel.create().withName(channelName).withOutputModes(outputModes)
+                .withInputModes(inputModes)
+                .withUserAgent(UserAgent.create().withName(userAgentName)))
+            .withId(&quot;sessionIdGoesHere&quot;)
+            .withDateCreated(new Date());</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdE5leHQoZXhwZWN0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuZnJvbUV4ZWN1dG9yU2VydmljZShleGVjdXRvclNlcnZpY2UpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
