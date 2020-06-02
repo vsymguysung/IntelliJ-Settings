@@ -116,22 +116,15 @@
         <mark key="[" line="37" column="8" />
         <mark key="]" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591126021805">
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="104" column="4" />
-        <mark key="." line="104" column="4" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591129076451">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Flow.java" timestamp="1591126296668">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591127349909">
-        <mark key="'" line="67" column="66" />
-        <mark key="[" line="100" column="98" />
-        <mark key="]" line="100" column="98" />
-        <mark key="." line="100" column="98" />
-        <mark key="^" line="71" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/socket/client/StandardWebSocketClient.java" timestamp="1591112744149">
         <mark key="'" line="110" column="41" />
@@ -280,8 +273,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, executorService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>, executorService</text>
@@ -293,42 +286,31 @@
         <text>Executors.newCachedThreadPool(factory)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuZnJvbUV4ZWN1dG9yU2VydmljZShleGVjdXRvclNlcnZpY2UpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLmFueTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdE51bGw7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoIShvIGluc3RhbmNlb2YgQ3JlYXRlU2Vzc2lvblJlc3BvbnNlKSkgcmV0dXJuIGZhbHNlOwogICAgICAgIENyZWF0ZVNlc3Npb25SZXNwb25zZSB0aGF0ID0gKENyZWF0ZVNlc3Npb25SZXNwb25zZSkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoZ2V0RmxvdygpLCB0aGF0LmdldEZsb3coKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0VmVyc2lvbigpLCB0aGF0LmdldFZlcnNpb24oKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0Q29udmVyc2F0aW9uSWQoKSwgdGhhdC5nZXRDb252ZXJzYXRpb25JZCgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXRFeHRlcm5hbFNlc3Npb25JZCgpLCB0aGF0LmdldEV4dGVybmFsU2Vzc2lvbklkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElucHV0RGF0YSgpLCB0aGF0LmdldElucHV0RGF0YSgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXRDaGFubmVsKCksIHRoYXQuZ2V0Q2hhbm5lbCgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXREYXRlQ3JlYXRlZCgpLCB0aGF0LmdldERhdGVDcmVhdGVkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElkKCksIHRoYXQuZ2V0SWQoKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goZ2V0RmxvdygpLCBnZXRWZXJzaW9uKCksIGdldENvbnZlcnNhdGlvbklkKCksIGdldEV4dGVybmFsU2Vzc2lvbklkKCksIGdldElucHV0RGF0YSgpLCBnZXRDaGFubmVsKCksIGdldERhdGVDcmVhdGVkKCksIGdldElkKCkpOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2VuZXN5cy5sb3F1ZW50aWEuVGVzdFV0aWxzLmFzc2VydEpTT05FcXVhbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuZnJvbUV4ZWN1dG9yU2VydmljZShleGVjdXRvclNlcnZpY2UpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlYWN0b3IuY29yZS5zY2hlZHVsZXIuU2NoZWR1bGVyczsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLmFueTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE5vdE51bGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2VuZXN5cy5sb3F1ZW50aWEuVGVzdFV0aWxzLmFzc2VydEpTT05FcXVhbHM7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHJlYWN0b3IuY29yZS5zY2hlZHVsZXIuU2NoZWR1bGVyczsK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdE5leHQoZXhwZWN0ZWQpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>@Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Flow)) return false;
-        Flow flow = (Flow) o;
-        return getId().equals(flow.getId());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getId());
-    }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoIShvIGluc3RhbmNlb2YgQ3JlYXRlU2Vzc2lvblJlc3BvbnNlKSkgcmV0dXJuIGZhbHNlOwogICAgICAgIENyZWF0ZVNlc3Npb25SZXNwb25zZSB0aGF0ID0gKENyZWF0ZVNlc3Npb25SZXNwb25zZSkgbzsKICAgICAgICByZXR1cm4gZ2V0RmxvdygpLmVxdWFscyh0aGF0LmdldEZsb3coKSkgJiYKICAgICAgICAgICAgZ2V0VmVyc2lvbigpLmVxdWFscyh0aGF0LmdldFZlcnNpb24oKSkgJiYKICAgICAgICAgICAgZ2V0Q29udmVyc2F0aW9uSWQoKS5lcXVhbHModGhhdC5nZXRDb252ZXJzYXRpb25JZCgpKSAmJgogICAgICAgICAgICBnZXRFeHRlcm5hbFNlc3Npb25JZCgpLmVxdWFscyh0aGF0LmdldEV4dGVybmFsU2Vzc2lvbklkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElucHV0RGF0YSgpLCB0aGF0LmdldElucHV0RGF0YSgpKSAmJgogICAgICAgICAgICBnZXRDaGFubmVsKCkuZXF1YWxzKHRoYXQuZ2V0Q2hhbm5lbCgpKSAmJgogICAgICAgICAgICBnZXREYXRlQ3JlYXRlZCgpLmVxdWFscyh0aGF0LmdldERhdGVDcmVhdGVkKCkpICYmCiAgICAgICAgICAgIGdldElkKCkuZXF1YWxzKHRoYXQuZ2V0SWQoKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goZ2V0RmxvdygpLCBnZXRWZXJzaW9uKCksIGdldENvbnZlcnNhdGlvbklkKCksIGdldEV4dGVybmFsU2Vzc2lvbklkKCksIGdldElucHV0RGF0YSgpLCBnZXRDaGFubmVsKCksIGdldERhdGVDcmVhdGVkKCksIGdldElkKCkpOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoIShvIGluc3RhbmNlb2YgQ3JlYXRlU2Vzc2lvblJlc3BvbnNlKSkgcmV0dXJuIGZhbHNlOwogICAgICAgIENyZWF0ZVNlc3Npb25SZXNwb25zZSB0aGF0ID0gKENyZWF0ZVNlc3Npb25SZXNwb25zZSkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoZ2V0RmxvdygpLCB0aGF0LmdldEZsb3coKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0VmVyc2lvbigpLCB0aGF0LmdldFZlcnNpb24oKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0Q29udmVyc2F0aW9uSWQoKSwgdGhhdC5nZXRDb252ZXJzYXRpb25JZCgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXRFeHRlcm5hbFNlc3Npb25JZCgpLCB0aGF0LmdldEV4dGVybmFsU2Vzc2lvbklkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElucHV0RGF0YSgpLCB0aGF0LmdldElucHV0RGF0YSgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXRDaGFubmVsKCksIHRoYXQuZ2V0Q2hhbm5lbCgpKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhnZXREYXRlQ3JlYXRlZCgpLCB0aGF0LmdldERhdGVDcmVhdGVkKCkpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldElkKCksIHRoYXQuZ2V0SWQoKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goZ2V0RmxvdygpLCBnZXRWZXJzaW9uKCksIGdldENvbnZlcnNhdGlvbklkKCksIGdldEV4dGVybmFsU2Vzc2lvbklkKCksIGdldElucHV0RGF0YSgpLCBnZXRDaGFubmVsKCksIGdldERhdGVDcmVhdGVkKCksIGdldElkKCkpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
