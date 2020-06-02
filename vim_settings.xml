@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUVFNFbmdpbmVWb2ljZVw+</entry>
         <entry encoding="base64">XDxzZXRUdHNMYW5ndWFnZU1hcHBpbmdzXD4=</entry>
         <entry>DetectIntent</entry>
         <entry>DetectIntentRequest</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry>polymor</entry>
         <entry encoding="base64">XDxvdXRwdXRNb2Rlc1w+</entry>
+        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -116,10 +116,10 @@
       <file name="/IntelliJ Default" timestamp="1591046256821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/Flow.java" timestamp="1591041529982">
-        <mark key="'" line="6" column="9" />
-      </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/SessionRequest.java" timestamp="1591041681571" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.class" timestamp="1591066863750">
+        <mark key="'" line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591043853164">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
@@ -127,8 +127,8 @@
         <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/UserAgent.java" timestamp="1591045818951" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1591066035398">
-        <mark key="'" line="10" column="30" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1591066807799">
+        <mark key="'" line="9" column="8" />
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="27" />
         <mark key="^" line="14" column="27" />
@@ -184,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" />
-      <jump line="395" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
       <jump line="645" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
       <jump line="650" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
       <jump line="652" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.6.RELEASE/124ddf154061da1b082017c493abd6e9b94374d9/reactor-core-3.2.6.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
@@ -284,6 +282,8 @@
       <jump line="23" column="51" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="17" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" />
       <jump line="10" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" />
+      <jump line="9" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" />
+      <jump line="18" column="20" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +295,7 @@
         <text encoding="base64">bmV3IEhhc2hNYXA8Pigp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRwdXRNb2Rlc1w+</text>
+        <text encoding="base64">XDxpbmNsdWRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKGFjdHVhbCk7Cg==</text>
@@ -347,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvdXRwdXRNb2Rlc1w+</last-search>
+      <last-search encoding="base64">XDxpbmNsdWRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRwdXRNb2Rlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxpbmNsdWRlXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
