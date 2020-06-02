@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dialog</entry>
         <entry>CICERO</entry>
         <entry encoding="base64">XDx3ZWJDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxleGVjdXRvclNjaGVkdWxlclw+</entry>
         <entry encoding="base64">XDxFeGVjdXRvclNjaGVkdWxlclw+</entry>
         <entry>subscribe</entry>
+        <entry encoding="base64">XDxjcmVhdGVEaWFsb2dFbmdpbmVQcm94eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -116,24 +116,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.24.0/b93f11824ee89d1283801dce8145bc54e1b8e94e/grpc-netty-shaded-1.24.0.jar!/io/grpc/netty/shaded/io/grpc/netty/NettyServerBuilder.class" timestamp="1591105739269">
         <mark key="'" line="321" column="79" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Flow.java" timestamp="1591104191392">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591104199075">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="6" column="30" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591113092325">
-        <mark key="'" line="92" column="13" />
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="19" />
-        <mark key="." line="105" column="18" />
-        <mark key="^" line="105" column="19" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591113614608">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591110006640">
         <mark key="'" line="97" column="93" />
@@ -165,6 +152,12 @@
       <file name="$MAVEN_REPOSITORY$/io/github/resilience4j/resilience4j-circuitbreaker/0.16.0/resilience4j-circuitbreaker-0.16.0-sources.jar!/io/github/resilience4j/circuitbreaker/CircuitBreakerRegistry.java" timestamp="1591106280800">
         <mark key="'" line="81" column="37" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1591113938663">
+        <mark key="'" line="81" column="37" />
+      </file>
+      <file name="/" timestamp="1591114160900">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.2.RELEASE/reactor-core-3.2.2.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" timestamp="1591113102474">
         <mark key="'" line="3666" column="25" />
         <mark key="[" line="3666" column="25" />
@@ -173,12 +166,10 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1591109583347">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591104182856">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" timestamp="1591113853523">
+        <mark key="'" line="147" column="53" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="30" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/README.md" timestamp="1591112199276">
         <mark key="[" line="0" column="0" />
@@ -188,13 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="31" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoCombineTest.java" />
-      <jump line="21" column="20" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" />
-      <jump line="29" column="10" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/FluxAndMonoControllerTest.java" />
-      <jump line="80" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.3.RELEASE/c5c56bc081d89e2929ffd335b9feb5ac31d7bbf8/spring-test-5.1.3.RELEASE-sources.jar!/org/springframework/test/web/reactive/server/WebTestClient.java" />
-      <jump line="21" column="107" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/RouterFunctionConfig.java" />
-      <jump line="19" column="21" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/RouterFunctionConfig.java" />
-      <jump line="17" column="48" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/RouterFunctionConfig.java" />
       <jump line="20" column="19" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/RouterFunctionConfig.java" />
       <jump line="108" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/5.1.3.RELEASE/781285bd5b7724196893007b677cf237e67b4628/spring-webflux-5.1.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/RouterFunctions.java" />
       <jump line="86" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
@@ -282,54 +266,61 @@
       <jump line="75" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="39" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="31" column="45" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.2.0/rxjava-1.2.0-sources.jar!/rx/internal/schedulers/ExecutorScheduler.java" />
-      <jump line="93" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="110" column="41" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/socket/client/StandardWebSocketClient.java" />
       <jump line="94" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="68" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
-      <jump line="92" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="3666" column="25" filename="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.2.RELEASE/reactor-core-3.2.2.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
+      <jump line="93" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="92" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="103" column="100" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="82" column="61" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="90" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="85" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="146" column="30" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
+      <jump line="147" column="53" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
+      <jump line="81" column="37" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>subscribe</text>
+        <text encoding="base64">XDxjcmVhdGVEaWFsb2dFbmdpbmVQcm94eVw+</text>
       </register>
       <register name="0" type="4">
         <text>reactor.core.scheduler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTY2hlZHVsZXIgZXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2NoZWR1bGVyID0gbmV3IEV4ZWN1dG9yU2NoZWR1bGVyKGV4ZWN1dG9yU2VydmljZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlYWN0b3IuY29yZS5zY2hlZHVsZXIuKjsK</text>
+        <text encoding="base64">aW1wb3J0IHJ4LmludGVybmFsLnNjaGVkdWxlcnMuRXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmlvLnByb2plY3RyZWFjdG9yPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5yZWFjdG9yLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuMy40LlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTY2hlZHVsZXIgZXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4LmludGVybmFsLnNjaGVkdWxlcnMuRXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2NoZWR1bGVyID0gbmV3IEV4ZWN1dG9yU2NoZWR1bGVyKGV4ZWN1dG9yU2VydmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4LmludGVybmFsLnNjaGVkdWxlcnMuRXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlYWN0b3IuY29yZS5zY2hlZHVsZXIuKjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4LmludGVybmFsLnNjaGVkdWxlcnMuRXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly8gQnVpbGQgUmVxdWVzdCBVUkkKICAgICAgICAgICAgU3RyaW5nIHVyaSA9IFN0cmluZy5mb3JtYXQoIiVzLyVzL29yZ2FuaXphdGlvbnMvJXMvc2Vzc2lvbnMiLAogICAgICAgICAgICAgICAgc2VydmljZVVSSS50b1N0cmluZygpLCBCQVNFX1BBVEgsIGxvcXVlbnRpYVNlc3Npb24uZ2V0T3JnSWQoKSk7CiAgICAgICAgICAgIExPRy5pbmZvKCJDcmVhdGluZyBhIG5ldyBDaWNlcm8gc2Vzc2lvbiBmb3IgW29yZ2FuaXphdGlvbiA9e31dIiwgbG9xdWVudGlhU2Vzc2lvbi5nZXRPcmdJZCgpKTsKCiAgICAgICAgICAgIC8vIE1ha2UgQ3JlYXRlU2Vzc2lvblJlcXVlc3QKICAgICAgICAgICAgcmV0dXJuIHdlYkNsaWVudC5wb3N0KCkKICAgICAgICAgICAgICAgIC51cmkodXJpKQogICAgICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHNlc3Npb25SZXF1ZXN0KSwgQ3JlYXRlU2Vzc2lvblJlcXVlc3QuY2xhc3MpCiAgICAgICAgICAgICAgICAuZXhjaGFuZ2UoKQogICAgICAgICAgICAgICAgLmZsYXRNYXAocmVzcG9uc2UgLT4gewogICAgICAgICAgICAgICAgICAgIEh0dHBTdGF0dXMgaHR0cFN0YXR1cyA9IHJlc3BvbnNlLnN0YXR1c0NvZGUoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoIWh0dHBTdGF0dXMuaXNFcnJvcigpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZS5ib2R5VG9Nb25vKENyZWF0ZVNlc3Npb25SZXNwb25zZS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybiBNb25vLmVycm9yKEV4dGVybmFsU2VydmljZUV4Y2VwdGlvbkZhY3RvcnkuY3JlYXRlRXhjZXB0aW9uKGh0dHBTdGF0dXMpKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oZXhlY3V0b3JTY2hlZHVsZXIpOw==</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmlvLnByb2plY3RyZWFjdG9yPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5yZWFjdG9yLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuMy40LlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -338,12 +329,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>subscribe</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVEaWFsb2dFbmdpbmVQcm94eVw+</last-search>
       <last-offset />
-      <last-pattern>subscribe</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVEaWFsb2dFbmdpbmVQcm94eVw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
