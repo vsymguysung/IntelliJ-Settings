@@ -146,21 +146,20 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1591045833597">
-        <mark key="'" line="79" column="49" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591104199075">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591106460141">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591107788680">
         <mark key="'" line="55" column="100" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="75" column="11" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591107771281" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1591066807799">
         <mark key="'" line="9" column="8" />
         <mark key="[" line="14" column="15" />
@@ -303,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb0RPOiBJbXBsZW1lbnRhdGlvbiBpcyBjb21pbmcgc29vbi4K</text>
       </register>
       <register name="-" type="4">
         <text>Channel</text>
@@ -315,10 +314,10 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKGFjdHVhbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb0RPOiBJbXBsZW1lbnRhdGlvbiBpcyBjb21pbmcgc29vbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5lbXB0eSgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,7 +328,13 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>public CreateSessionResponse(Flow flow, Version version, String conversationId, String externalSessionId,
                                  InputData inputData, Channel channel, Date dateCreated, String id) {
         this.flow = flow;
@@ -342,14 +347,8 @@
         this.id = id;
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBwdWJsaWMgRmxvdyBjcmVhdGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBGbG93KCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBwdWJsaWMgSW5wdXREYXRhIGNyZWF0ZSgpIHsKICAgICAgICByZXR1cm4gbmV3IElucHV0RGF0YSgpOwogICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBwdWJsaWMgRmxvdyBjcmVhdGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBGbG93KCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
