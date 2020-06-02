@@ -98,26 +98,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591112610770">
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="0" />
-        <mark key="." line="479" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591120648328">
+        <mark key="[" line="483" column="26" />
+        <mark key="]" line="483" column="34" />
+        <mark key="." line="483" column="33" />
+        <mark key="^" line="483" column="34" />
       </file>
+      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/FluxAndMonoControllerTest.java" timestamp="1591119854583" />
       <file name="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetingServer.java" timestamp="1591105753658">
         <mark key="'" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591117023127">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591119864750">
+        <mark key="'" line="70" column="40" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="81" column="22" />
+        <mark key="^" line="81" column="22" />
+        <mark key="." line="81" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/github/resilience4j/resilience4j-circuitbreaker/0.16.0/resilience4j-circuitbreaker-0.16.0-sources.jar!/io/github/resilience4j/circuitbreaker/CircuitBreaker.java" timestamp="1591109096736">
         <mark key="'" line="206" column="34" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.24.0/b93f11824ee89d1283801dce8145bc54e1b8e94e/grpc-netty-shaded-1.24.0.jar!/io/grpc/netty/shaded/io/grpc/netty/NettyServerBuilder.class" timestamp="1591105739269">
-        <mark key="'" line="321" column="79" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/github/resilience4j/resilience4j-circuitbreaker/0.16.0/resilience4j-circuitbreaker-0.16.0-sources.jar!/io/github/resilience4j/circuitbreaker/CircuitBreakerRegistry.java" timestamp="1591106280800">
         <mark key="'" line="81" column="37" />
@@ -136,11 +135,12 @@
         <mark key="[" line="3666" column="25" />
         <mark key="]" line="3666" column="35" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591113614608">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591120411558">
+        <mark key="'" line="86" column="16" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591110006640">
         <mark key="'" line="97" column="93" />
@@ -157,10 +157,10 @@
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" timestamp="1591118375837">
-        <mark key="'" line="143" column="75" />
-        <mark key="[" line="146" column="4" />
-        <mark key="]" line="149" column="4" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" timestamp="1591118716837">
+        <mark key="'" line="53" column="62" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="60" column="42" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/README.md" timestamp="1591112199276">
         <mark key="[" line="0" column="0" />
@@ -173,10 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
-      <jump line="83" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
-      <jump line="24" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" />
-      <jump line="96" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
       <jump line="83" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="163" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" />
       <jump line="17" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSession.java" />
@@ -273,48 +269,52 @@
       <jump line="302" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" />
       <jump line="136" column="46" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
       <jump line="143" column="75" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
+      <jump line="109" column="8" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
+      <jump line="53" column="62" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
+      <jump line="75" column="51" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="72" column="40" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DialogEngineProxy</text>
+        <text>.RELEASE</text>
       </register>
       <register name="-" type="4">
-        <text>DialogEngineProxy</text>
+        <text>.RELEASE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVEaWFsb2dFbmdpbmVQcm94eVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSBEaWFsb2dFbmdpbmVQcm94eSBjcmVhdGVEaWFsb2dFbmdpbmVQcm94eShTdHJpbmcgdXJsLCBIdHRwTWV0aG9kIGh0dHBNZXRob2QsIEJpQ29uc3VtZXI8Q2xpZW50UmVxdWVzdCwgQ2xpZW50UmVzcG9uc2UuQnVpbGRlcj4gY29uc3VtZXIpIHsKICAgICAgICByZXR1cm4gbmV3IERpYWxvZ0VuZ2luZVByb3h5KFRlc3RVdGlscy5jcmVhdGVXZWJDbGllbnQodXJsLCBodHRwTWV0aG9kLCBjb25zdW1lciksCiAgICAgICAgICAgIFNFUlZJQ0VfVVJJLCBuZXcgU2ltcGxlTWV0ZXJSZWdpc3RyeSgpLCBleGVjdXRvclNlcnZpY2VGYWN0b3J5KTsKICAgIH0=</text>
+        <text encoding="base64">TW9ubzxDcmVhdGVTZXNzaW9uUmVzcG9uc2U+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDcmVhdGVTZXNzaW9uUmVzcG9uc2UgZXhwZWN0ZWQgPSBuZXcgQ3JlYXRlU2Vzc2lvblJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4LmludGVybmFsLnNjaGVkdWxlcnMuRXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5ib3Rwcm92aWRlcnMuZGlhbG9nZW5naW5lLkRpYWxvZ0VuZ2luZVByb3h5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZXh0ZXJuYWxTZXNzaW9uSWQgPSAiIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTY2hlZHVsZXIgZXhlY3V0b3JTY2hlZHVsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgY29udmVyc2F0aW9uSWQgPSAiIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2NoZWR1bGVyID0gbmV3IEV4ZWN1dG9yU2NoZWR1bGVyKGV4ZWN1dG9yU2VydmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgdmVyc2lvblRhZyA9ICJwcm9kdWN0aW9uIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlYWN0b3IuY29yZS5zY2hlZHVsZXIuKjsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZmxvd0lkID0gIjEyMzQ1Njc4OTAxMjM0NTYiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBhc3N1bWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
