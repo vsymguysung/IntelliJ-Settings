@@ -98,35 +98,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591048167219">
-        <mark key="'" line="27" column="51" />
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="70" />
-        <mark key="." line="27" column="69" />
-        <mark key="^" line="27" column="70" />
-      </file>
-      <file name="/a.dummy" timestamp="1591043721694">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionRequest.java" timestamp="1591047749616">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionRequest.java" timestamp="1591103184873">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="/IntelliJ Default" timestamp="1591046256821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/SessionRequest.java" timestamp="1591041681571" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591103259972">
+        <mark key="'" line="27" column="51" />
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="22" column="75" />
+        <mark key="." line="22" column="74" />
+        <mark key="^" line="22" column="75" />
+      </file>
+      <file name="/a.dummy" timestamp="1591043721694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591103232333">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="43" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.class" timestamp="1591066863750">
         <mark key="'" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591043853164">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="9" column="11" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Flow.java" timestamp="1591103141065">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/UserAgent.java" timestamp="1591045818951" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591102934350">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1591045833597">
+        <mark key="'" line="79" column="49" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591103297402">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1591066807799">
         <mark key="'" line="9" column="8" />
         <mark key="[" line="14" column="15" />
@@ -134,10 +155,22 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591047921710">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591103092407">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputData.java" timestamp="1591103126371">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/InputData.java" timestamp="1591046774282">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="34" column="4" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" timestamp="1591047951865">
         <mark key="[" line="59" column="0" />
@@ -145,39 +178,6 @@
       </file>
       <file name="/Builder" timestamp="1591046256826">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591046611541">
-        <mark key="'" line="58" column="14" />
-        <mark key="[" line="14" column="109" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Flow.java" timestamp="1591043937859">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/controller/SessionController.java" timestamp="1591045833597">
-        <mark key="'" line="79" column="49" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591043891545">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputData.java" timestamp="1591043928398">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="15" column="5" />
-        <mark key="." line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/InputData.java" timestamp="1591046774282">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="34" column="4" />
       </file>
       <file name="/BuilderWithPrefix" timestamp="1591046305543">
         <mark key="[" line="0" column="0" />
@@ -289,10 +289,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEhhc2hNYXA8Pigp</text>
+        <text>Channel</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEhhc2hNYXA8Pigp</text>
+        <text>Channel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlXD4=</text>
@@ -300,45 +300,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKGFjdHVhbCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgKHNlc3Npb25SZXF1ZXN0LCBzZXNzaW9uUmVxdWVzdCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>public Channel(String name, String[] inputModes, String[] outputModes, UserAgent userAgent) {
-        this.name = name;
-        this.inputModes = inputModes;
-        this.outputModes = outputModes;
-        this.userAgent = userAgent;
-    }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgKHNlc3Npb25SZXF1ZXN0LCBzZXNzaW9uUmVxdWVzdCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>public CreateSessionRequest(Flow flow, Version version, String conversationId, String externalSessionId,
-                                InputData inputData, Channel channel) {
+      <register name="1" type="4">
+        <text>public CreateSessionResponse(Flow flow, Version version, String conversationId, String externalSessionId,
+                                 InputData inputData, Channel channel, Date dateCreated, String id) {
         this.flow = flow;
         this.version = version;
         this.conversationId = conversationId;
         this.externalSessionId = externalSessionId;
         this.inputData = inputData;
         this.channel = channel;
+        this.dateCreated = dateCreated;
+        this.id = id;
+    }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBwdWJsaWMgRmxvdyBjcmVhdGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBGbG93KCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBwdWJsaWMgSW5wdXREYXRhIGNyZWF0ZSgpIHsKICAgICAgICByZXR1cm4gbmV3IElucHV0RGF0YSgpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBwdWJsaWMgQ2hhbm5lbCBjcmVhdGUoKSB7CiAgICAgICByZXR1cm4gbmV3IENoYW5uZWwoKTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>@Override
+    public String toString() {
+        return &quot;CreateSessionRequest{&quot; +
+            &quot;flow=&quot; + flow +
+            &quot;, version=&quot; + version +
+            &quot;, conversationId='&quot; + conversationId + '\'' +
+            &quot;, externalSessionId='&quot; + externalSessionId + '\'' +
+            &quot;, channel=&quot; + channel +
+            '}';
     }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgKHNlc3Npb25SZXF1ZXN0LCBzZXNzaW9uUmVxdWVzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
