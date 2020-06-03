@@ -125,6 +125,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1591193449275">
         <mark key="'" line="1411" column="13" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnRequest.java" timestamp="1591203801419">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClient.java" timestamp="1591201373047">
         <mark key="'" line="85" column="30" />
       </file>
@@ -135,13 +141,8 @@
         <mark key="." line="58" column="79" />
         <mark key="^" line="58" column="80" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591192436322">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="19" column="3" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591197042401" />
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/TurnRequest.java" timestamp="1591205504370" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/IntentBotMessageTest.java" timestamp="1591192743169" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineSession.java" timestamp="1591196646694">
         <mark key="'" line="24" column="49" />
@@ -155,12 +156,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultExchangeStrategiesBuilder.java" timestamp="1591202851838">
         <mark key="'" line="71" column="27" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591192456742">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="19" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1591203175032">
         <mark key="'" line="225" column="48" />
