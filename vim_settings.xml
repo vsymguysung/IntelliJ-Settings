@@ -104,23 +104,41 @@
         <mark key="." line="482" column="25" />
         <mark key="^" line="482" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/FluxAndMonoControllerTest.java" timestamp="1591119854583" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591188827036">
-        <mark key="'" line="72" column="17" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591189466929">
+        <mark key="'" line="48" column="41" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1591124346310">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="44" column="53" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-test/3.3.5.RELEASE/reactor-test-3.3.5.RELEASE.jar!/reactor/test/StepVerifier.class" timestamp="1591125350339">
+        <mark key="'" line="187" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591129076451">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1591117973511">
+        <mark key="'" line="58" column="25" />
+      </file>
+      <file name="/" timestamp="1591116661162">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1591186192735">
+        <mark key="'" line="302" column="33" />
+        <mark key="[" line="481" column="19" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Flow.java" timestamp="1591126296668">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591126084993">
+        <mark key="[" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591188037398">
         <mark key="'" line="90" column="36" />
@@ -132,31 +150,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591126074982">
         <mark key="[" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1591186218062">
+        <mark key="'" line="60" column="32" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.2.RELEASE/reactor-core-3.2.2.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" timestamp="1591188069345">
         <mark key="'" line="110" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputData.java" timestamp="1591126064508">
         <mark key="[" line="19" column="5" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-test/3.3.5.RELEASE/reactor-test-3.3.5.RELEASE.jar!/reactor/test/StepVerifier.class" timestamp="1591125350339">
-        <mark key="'" line="187" column="48" />
-      </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/build.gradle" timestamp="1591123945796" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1591117973511">
-        <mark key="'" line="58" column="25" />
-      </file>
-      <file name="/" timestamp="1591116661162">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1591186192735">
-        <mark key="'" line="302" column="33" />
-        <mark key="[" line="481" column="19" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591126084993">
-        <mark key="[" line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1591186218062">
-        <mark key="'" line="60" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591126342312">
         <mark key="[" line="46" column="5" />
@@ -171,9 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
-      <jump line="8" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
-      <jump line="5" column="21" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
       <jump line="42" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
       <jump line="13" column="59" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="23" column="51" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
@@ -229,7 +227,6 @@
       <jump line="146" column="30" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
       <jump line="81" column="37" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" />
       <jump line="69" column="46" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="38" column="30" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="137" column="12" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
       <jump line="147" column="52" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
@@ -271,12 +268,16 @@
       <jump line="93" column="81" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="89" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="72" column="17" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="96" column="42" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="50" column="4" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="48" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="-" type="4">
         <text>3033</text>
@@ -288,35 +289,31 @@
         <text>mockExecutorService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLmFueVN0cmluZzsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZEZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLmFueVN0cmluZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5UaHJlYWRGYWN0b3J5QnVpbGRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ThreadFactory factory = new ThreadFactoryBuilder().build();
-        ExecutorService mockExecutorService = Executors.newCachedThreadPool(factory);
-
-        when(loquentiaSession.getOrgId()).thenReturn(orgId);
-        when(executorServiceFactory.getCachedThreadPool(anyString())).thenReturn(mockExecutorService);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
