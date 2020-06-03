@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJDbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxDcmVhdGVUdXJuUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0ZJTEVfTkFNRVw+</entry>
         <entry encoding="base64">XDxHT09HTEVfQ0xPVURfUExBVEZPUk1fU0VSVklDRV9BQ0NPVU5UX0xPQ0FMX1JFU09VUkNFXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxjcmVhdGVEaWFsb2dFbmdpbmVQcm94eVw+</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVDaWNlcm9Qcm94eVw+</entry>
+        <entry>5.1.1</entry>
+        <entry>5.1.2</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -98,7 +98,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591122360016">
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591195155931">
+        <mark key="'" line="61" column="31" />
         <mark key="[" line="482" column="25" />
         <mark key="]" line="482" column="26" />
         <mark key="." line="482" column="25" />
@@ -115,17 +116,10 @@
         <mark key="[" line="37" column="8" />
         <mark key="]" line="44" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-test/3.3.5.RELEASE/reactor-test-3.3.5.RELEASE.jar!/reactor/test/StepVerifier.class" timestamp="1591125350339">
-        <mark key="'" line="187" column="48" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591129076451">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1591186192735">
-        <mark key="'" line="302" column="33" />
-        <mark key="[" line="481" column="19" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1591193449275">
         <mark key="'" line="1411" column="13" />
@@ -136,11 +130,8 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591192456742">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="19" column="3" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClient.java" timestamp="1591194136339">
+        <mark key="'" line="317" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591193566657">
         <mark key="'" line="81" column="53" />
@@ -155,14 +146,28 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1591186218062">
-        <mark key="'" line="60" column="32" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.2.RELEASE/reactor-core-3.2.2.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" timestamp="1591188069345">
         <mark key="'" line="110" column="28" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputData.java" timestamp="1591192421177">
         <mark key="[" line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/IntentBotMessageTest.java" timestamp="1591192743169" />
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-test/3.3.5.RELEASE/reactor-test-3.3.5.RELEASE.jar!/reactor/test/StepVerifier.class" timestamp="1591125350339">
+        <mark key="'" line="187" column="48" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1591186192735">
+        <mark key="'" line="302" column="33" />
+        <mark key="[" line="481" column="19" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Version.java" timestamp="1591192456742">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1591186218062">
+        <mark key="'" line="60" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591192393987">
         <mark key="[" line="49" column="5" />
@@ -170,15 +175,14 @@
         <mark key="^" line="50" column="4" />
         <mark key="." line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/IntentBotMessageTest.java" timestamp="1591192743169" />
+      <file name="/fragment.java" timestamp="1591194432877">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java" timestamp="1591190581289">
         <mark key="'" line="137" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.class" />
-      <jump line="10" column="3" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
       <jump line="48" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
       <jump line="67" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionRequest.java" />
       <jump line="14" column="30" filename="$USER_HOME$/GenDev/grpc-java-course/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetingServer.java" />
@@ -276,6 +280,9 @@
       <jump line="1411" column="13" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="90" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="81" column="53" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="317" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
+      <jump line="61" column="31" filename="$USER_HOME$/GenDev/loquentia/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,7 +294,7 @@
         <text encoding="base64">RXhlY3V0b3JTZXJ2aWNlIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVDaWNlcm9Qcm94eVw+</text>
+        <text>5.1.2</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">RXhlY3V0b3JTZXJ2aWNlIG1vY2tFeGVjdXRvclNlcnZpY2Ug</text>
@@ -326,12 +333,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVDaWNlcm9Qcm94eVw+</last-search>
+      <last-search>5.1.2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVDaWNlcm9Qcm94eVw+</last-pattern>
+      <last-pattern>5.1.2</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
