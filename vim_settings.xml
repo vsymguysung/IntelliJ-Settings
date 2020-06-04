@@ -98,22 +98,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/PromptSegmentType.java" timestamp="1591214758760">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="42" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestSessionControllerIT.java" timestamp="1591216625847">
-        <mark key="'" line="39" column="20" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/ActionType.java" timestamp="1591215214051">
-        <mark key="'" line="37" column="6" />
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="45" column="5" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="4" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591274208377">
         <mark key="'" line="131" column="32" />
         <mark key="[" line="10" column="0" />
@@ -127,29 +111,11 @@
         <mark key="^" line="43" column="5" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputMode.java" timestamp="1591220606442">
-        <mark key="'" line="37" column="52" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEventType.java" timestamp="1591215177893">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="50" column="5" />
-        <mark key="^" line="50" column="5" />
-        <mark key="." line="50" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/OutputPrompts.java" timestamp="1591214696597">
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="11" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/TurnReference.java" timestamp="1591220686501">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="17" column="37" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionResponse.java" timestamp="1591276043899">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnRequest.java" timestamp="1591220195302">
         <mark key="'" line="13" column="15" />
@@ -168,6 +134,36 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591274004436">
         <mark key="'" line="79" column="66" />
       </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" timestamp="1591216639923">
+        <mark key="'" line="117" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591274012211">
+        <mark key="'" line="54" column="15" />
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="57" column="42" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateSessionRequest.java" timestamp="1591276023444">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestSessionControllerIT.java" timestamp="1591216625847">
+        <mark key="'" line="39" column="20" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputMode.java" timestamp="1591220606442">
+        <mark key="'" line="37" column="52" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/SessionRequest.java" timestamp="1591276028908" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/TurnReference.java" timestamp="1591220686501">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="36" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" timestamp="1591216460369">
         <mark key="'" line="20" column="15" />
         <mark key="[" line="56" column="5" />
@@ -175,23 +171,21 @@
         <mark key="^" line="59" column="37" />
         <mark key="." line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" timestamp="1591216639923">
-        <mark key="'" line="117" column="24" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" timestamp="1591272540873">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="137" column="64" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591274012211">
-        <mark key="'" line="54" column="15" />
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="57" column="42" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" timestamp="1591276248119">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="5" column="77" />
+        <mark key="^" line="5" column="77" />
+        <mark key="." line="5" column="76" />
       </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/SessionResponse.java" timestamp="1591276063403" />
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="72" column="17" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="96" column="42" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="10" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="50" column="4" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
@@ -290,6 +284,8 @@
       <jump line="79" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="54" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
       <jump line="131" column="32" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" />
+      <jump line="12" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
