@@ -98,6 +98,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591283218354" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591274208377">
         <mark key="'" line="131" column="32" />
         <mark key="[" line="10" column="0" />
@@ -105,6 +106,7 @@
         <mark key="^" line="101" column="76" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/github/resilience4j/resilience4j-circuitbreaker/0.16.0/resilience4j-circuitbreaker-0.16.0-sources.jar!/io/github/resilience4j/circuitbreaker/CircuitBreaker.java" timestamp="1591282596398" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/TextPromptSegment.java" timestamp="1591281703523">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="22" />
@@ -160,9 +162,6 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="72" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestSessionControllerIT.java" timestamp="1591216625847">
-        <mark key="'" line="39" column="20" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/PromptSegment.java" timestamp="1591281689745">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -180,13 +179,6 @@
         <mark key="]" line="17" column="37" />
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" timestamp="1591216460369">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="59" column="37" />
-        <mark key="^" line="59" column="37" />
-        <mark key="." line="59" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" timestamp="1591272540873">
         <mark key="'" line="0" column="0" />
