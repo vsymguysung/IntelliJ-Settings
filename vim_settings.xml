@@ -132,6 +132,7 @@
         <mark key="." line="34" column="36" />
         <mark key="^" line="34" column="37" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1591289272581" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591216780459">
         <mark key="'" line="5" column="38" />
         <mark key="[" line="12" column="0" />
@@ -141,9 +142,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591282403980">
         <mark key="'" line="92" column="30" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" timestamp="1591216639923">
-        <mark key="'" line="117" column="24" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591274012211">
         <mark key="'" line="54" column="15" />
