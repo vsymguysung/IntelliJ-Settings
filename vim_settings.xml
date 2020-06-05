@@ -98,17 +98,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591389651799">
-        <mark key="'" line="66" column="24" />
-        <mark key="[" line="195" column="43" />
-        <mark key="]" line="195" column="43" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="195" column="43" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591391016120">
+        <mark key="'" line="222" column="40" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="^" line="223" column="8" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/TextPromptSegment.java" timestamp="1591386049981">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591391008872">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591387221056">
         <mark key="'" line="113" column="86" />
@@ -183,20 +190,11 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/ModeOutputPrompts.java" timestamp="1591386023538">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1591389673678">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxyTest.java" />
       <jump line="77" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="74" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="143" column="13" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
@@ -293,15 +291,30 @@
       <jump line="199" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="73" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="41" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="48" column="32" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="222" column="40" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="16" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>@Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof InputEvent)) return false;
+        InputEvent that = (InputEvent) o;
+        return Objects.equals(getType(), that.getType());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getType());
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>conversationId</text>
@@ -309,32 +322,50 @@
       <register name="0" type="4">
         <text>InputMode.VOICE</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPcmRlcig0KQo=</text>
+      <register name="1" type="4">
+        <text>@Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof InputEvent)) return false;
+        InputEvent that = (InputEvent) o;
+        return Objects.equals(getType(), that.getType());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getType());
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPcmRlcigzKQo=</text>
+      <register name="2" type="4">
+        <text>public InputEventType getType() {
+        return type;
+    }
+
+    public InputEvent withType(InputEventType type) {
+        this.type = type;
+        return this;
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPcmRlcigyKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrVHVyblJlcXVlc3Qud2l0aElucHV0RXZlbnQoSW5wdXRFdmVudFR5cGUuTk9fT1ApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPcmRlcigxKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5ib3Rwcm92aWRlcnMuQm90U2Vzc2lvbkNhbGxiYWNrOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPcmRlcig0KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPcmRlcigzKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNpY2Vyb1Nlc3Npb25JZDsK</text>
+        <text encoding="base64">ICAgIEBPcmRlcigyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPcmRlcigxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5ib3Rwcm92aWRlcnMuQm90U2Vzc2lvbkNhbGxiYWNrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
