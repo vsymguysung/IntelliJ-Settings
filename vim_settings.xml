@@ -98,12 +98,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java" timestamp="1591298595272">
+        <mark key="'" line="2715" column="11" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591296919510">
         <mark key="'" line="59" column="8" />
         <mark key="[" line="496" column="21" />
         <mark key="]" line="502" column="21" />
         <mark key="^" line="502" column="21" />
         <mark key="." line="502" column="20" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/RequestResponsePair.java" timestamp="1591296741912">
+        <mark key="'" line="50" column="16" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591304719530">
         <mark key="'" line="41" column="83" />
@@ -115,8 +125,25 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java" timestamp="1591305853770">
         <mark key="'" line="44" column="31" />
       </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/pom.xml" timestamp="1591296980840">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="49" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/client/HttpStatusCodeException.java" timestamp="1591319616432" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/websocketservice/message/TextMessageTest.java" timestamp="1591298198995">
         <mark key="'" line="139" column="16" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Error.java" timestamp="1591305550122">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="35" column="36" />
+      </file>
+      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestTurnControllerIT.java" timestamp="1591298338121">
+        <mark key="'" line="95" column="37" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1591300391881">
+        <mark key="[" line="88" column="5" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicerorequest/create-session-request.json" timestamp="1591300579553">
         <mark key="[" line="8" column="27" />
@@ -124,8 +151,11 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591306089910">
-        <mark key="'" line="91" column="67" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.22.RELEASE/spring-websocket-4.3.22.RELEASE.jar!/org/springframework/web/socket/TextMessage.class" timestamp="1591298227038">
+        <mark key="'" line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591319160903">
+        <mark key="'" line="91" column="70" />
         <mark key="[" line="91" column="93" />
         <mark key="]" line="91" column="93" />
         <mark key="." line="91" column="93" />
@@ -138,50 +168,16 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591305874368">
-        <mark key="'" line="57" column="86" />
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="57" column="42" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/ExpectedRespose.java" timestamp="1591296497760" />
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/pom.xml" timestamp="1591296980840">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="49" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1591300391881">
-        <mark key="[" line="88" column="5" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/Error.java" timestamp="1591305506141" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.22.RELEASE/spring-websocket-4.3.22.RELEASE.jar!/org/springframework/web/socket/TextMessage.class" timestamp="1591298227038">
-        <mark key="'" line="14" column="14" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java" timestamp="1591298595272">
-        <mark key="'" line="2715" column="11" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/RequestResponsePair.java" timestamp="1591296741912">
-        <mark key="'" line="50" column="16" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="56" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Error.java" timestamp="1591305550122">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="36" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestTurnControllerIT.java" timestamp="1591298338121">
-        <mark key="'" line="95" column="37" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/resources/responseTests/turn/goodGetPart1.json" timestamp="1591298307007" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicerorequest/create-session-response.json" timestamp="1591300582936" />
       <file name="/fragment.java" timestamp="1591304931689">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591319181864">
+        <mark key="'" line="32" column="70" />
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="57" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="43" column="69" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="64" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/client/reactive/JettyClientHttpConnector.java" />
       <jump line="66" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
@@ -280,7 +276,8 @@
       <jump line="57" column="86" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
       <jump line="93" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="92" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
-      <jump line="91" column="67" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="91" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="32" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
