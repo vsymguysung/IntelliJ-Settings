@@ -101,12 +101,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java" timestamp="1591298595272">
         <mark key="'" line="2715" column="11" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591360774201">
-        <mark key="'" line="132" column="4" />
-        <mark key="[" line="116" column="111" />
-        <mark key="]" line="117" column="8" />
-        <mark key="^" line="117" column="8" />
-        <mark key="." line="117" column="7" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591361001552">
+        <mark key="'" line="133" column="4" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java" timestamp="1591305853770">
         <mark key="'" line="44" column="31" />
@@ -274,8 +273,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwZWN0ZWQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmV4Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZXhwZWN0ZWQg</text>
@@ -287,31 +286,31 @@
         <text>mockResponseErrorBody</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwU2VydmVyRXJyb3JFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5odHRwLkh0dHBSZXNwb25zZUV4Y2VwdGlvbjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNb25vLmVycm9yKEV4dGVybmFsU2VydmljZUV4Y2VwdGlvbkZhY3RvcnkuY3JlYXRlRXhjZXB0aW9uKGh0dHBTdGF0dXMpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmluZm8oU3RyaW5nLmZvcm1hdCgiVW5hYmxlIHRvIHBlcmZvcm0gc3BlZWNoIHN5bnRoZXNpcyBmb3IgWyVzXTogWyVzXSIsIHN5bnRoZXNpemVSZXF1ZXN0LCBlcnJvckJvZHkpKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwU2VydmVyRXJyb3JFeGNlcHRpb247Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5odHRwLkh0dHBSZXNwb25zZUV4Y2VwdGlvbjsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNb25vLmVycm9yKEV4dGVybmFsU2VydmljZUV4Y2VwdGlvbkZhY3RvcnkuY3JlYXRlRXhjZXB0aW9uKGh0dHBTdGF0dXMpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmluZm8oU3RyaW5nLmZvcm1hdCgiVW5hYmxlIHRvIHBlcmZvcm0gc3BlZWNoIHN5bnRoZXNpcyBmb3IgWyVzXTogWyVzXSIsIHN5bnRoZXNpemVSZXF1ZXN0LCBlcnJvckJvZHkpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwU2VydmVyRXJyb3JFeGNlcHRpb247Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5leGNlcHRpb24uRXh0ZXJuYWxTZXJ2aWNlRXhjZXB0aW5GYWN0b3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5odHRwLkh0dHBSZXNwb25zZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
