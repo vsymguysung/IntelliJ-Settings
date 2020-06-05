@@ -101,20 +101,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java" timestamp="1591298595272">
         <mark key="'" line="2715" column="11" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591296919510">
-        <mark key="'" line="59" column="8" />
-        <mark key="[" line="496" column="21" />
-        <mark key="]" line="502" column="21" />
-        <mark key="^" line="502" column="21" />
-        <mark key="." line="502" column="20" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/RequestResponsePair.java" timestamp="1591296741912">
-        <mark key="'" line="50" column="16" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="56" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591304719530">
         <mark key="'" line="41" column="83" />
         <mark key="[" line="119" column="68" />
@@ -124,10 +110,6 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java" timestamp="1591305853770">
         <mark key="'" line="44" column="31" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/pom.xml" timestamp="1591296980840">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/client/HttpStatusCodeException.java" timestamp="1591319616432" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/websocketservice/message/TextMessageTest.java" timestamp="1591298198995">
@@ -142,6 +124,9 @@
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestTurnControllerIT.java" timestamp="1591298338121">
         <mark key="'" line="95" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/BodyExtractors.java" timestamp="1591357641626">
+        <mark key="'" line="85" column="58" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/TestUtils.java" timestamp="1591300391881">
         <mark key="[" line="88" column="5" />
       </file>
@@ -154,11 +139,19 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.22.RELEASE/spring-websocket-4.3.22.RELEASE.jar!/org/springframework/web/socket/TextMessage.class" timestamp="1591298227038">
         <mark key="'" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591324129139">
-        <mark key="'" line="33" column="24" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591358765893">
+        <mark key="'" line="134" column="25" />
+        <mark key="[" line="77" column="66" />
+        <mark key="]" line="77" column="66" />
+        <mark key="^" line="91" column="54" />
+        <mark key="." line="77" column="66" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSDKAuthorizer.java" timestamp="1591358363569">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="72" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultClientResponse.java" timestamp="1591357585622">
+        <mark key="'" line="112" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" timestamp="1591298387856">
         <mark key="'" line="93" column="56" />
@@ -177,15 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="211" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="234" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="235" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="222" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="225" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="56" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/client/reactive/ReactorClientHttpConnector.java" />
-      <jump line="41" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/client/reactive/ReactorClientHttpConnector.java" />
-      <jump line="70" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/client/reactive/JettyClientHttpConnector.java" />
       <jump line="133" column="8" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-client/9.4.15.v20190215/jetty-client-9.4.15.v20190215.jar!/org/eclipse/jetty/client/HttpClient.class" />
       <jump line="172" column="0" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-client/9.4.15.v20190215/jetty-client-9.4.15.v20190215.jar!/org/eclipse/jetty/client/HttpClient.class" />
       <jump line="174" column="57" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-client/9.4.15.v20190215/jetty-client-9.4.15.v20190215.jar!/org/eclipse/jetty/client/HttpClient.class" />
@@ -277,21 +261,30 @@
       <jump line="118" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="113" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="33" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="120" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="126" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="105" column="86" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="125" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="84" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="112" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultClientResponse.java" />
+      <jump line="69" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/BodyExtractors.java" />
+      <jump line="85" column="58" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/BodyExtractors.java" />
+      <jump line="134" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwU2VydmVyRXJyb3JFeGNlcHRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>jcabi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZS5ib2R5VG9Nb25vKEVycm9yLmNsYXNzKQogICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwKGVycm9yQm9keSAtPiBNb25vLmVycm9yKG5ldyBDbGllbnRFcnJvckV4Y2VwdGlvbihlcnJvckJvZHkuZ2V0TWVzc2FnZSgpLCBodHRwU3RhdHVzLCBudWxsKSkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmV0dXJuIHJlc3BvbnNlLmJvZHlUb01vbm8oRXJyb3IuY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgLmZsYXRNYXAoZXJyb3JCb2R5IC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmluZm8oIkNpY2VybyBBUEkgcmVxdWVzdCBmYWlsZWQgW2NvZGU9e30gbWVzc2FnZT17fV0uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yQm9keS5nZXRDb2RlKCksIGVycm9yQm9keS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gTW9uby5lcnJvcihFeHRlcm5hbFNlcnZpY2VFeGNlcHRpb25GYWN0b3J5LmNyZWF0ZUV4Y2VwdGlvbihodHRwU3RhdHVzKSk7CiAgICAgICAgICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwU2VydmVyRXJyb3JFeGNlcHRpb247Cg==</text>
@@ -303,36 +296,22 @@
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5odHRwLkh0dHBSZXNwb25zZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5leGNlcHRpb24uRXh0ZXJuYWxTZXJ2aWNlRXhjZXB0aW5GYWN0b3J5Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5leGNlcHRpb24uRXh0ZXJuYWxTZXJ2aWNlRXhjZXB0aW5GYWN0b3J5OwppbXBvcnQgY29tLmdlbmVzeXMubG9xdWVudGlhLnNlcnZpY2UuTG9xdWVudGlhU2Vzc2lvbjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNb25vLmVycm9yKEV4dGVybmFsU2VydmljZUV4Y2VwdGlvbkZhY3RvcnkuY3JlYXRlRXhjZXB0aW9uKGh0dHBTdGF0dXMpKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmluZm8oU3RyaW5nLmZvcm1hdCgiVW5hYmxlIHRvIHBlcmZvcm0gc3BlZWNoIHN5bnRoZXNpcyBmb3IgWyVzXTogWyVzXSIsIHN5bnRoZXNpemVSZXF1ZXN0LCBlcnJvckJvZHkpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwU2VydmVyRXJyb3JFeGNlcHRpb247Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgSHR0cFJlc3BvbnNlRXhjZXB0aW9uKGh0dHBTdGF0dXMsIGVycm9yQm9keS5nZXRNZXNzYWdlKCkpKSkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5IdHRwQ2xpZW50RXJyb3JFeGNlcHRpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEV4dGVybmFsU2VydmljZUV4Y2VwdGlvbkZhY3RvcnkuY3JlYXRlRXhjZXB0aW9uKAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5odHRwLkh0dHBSZXNwb25zZUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="9" type="4">
-        <text>public String getCode() {
-        return code;
-    }
-
-    public void setCode(String code) {
-        this.code = code;
-    }
-
-    public String getMessage() {
-        return message;
-    }
-
-    public void setMessage(String message) {
-        this.message = message;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5leGNlcHRpb24uRXh0ZXJuYWxTZXJ2aWNlRXhjZXB0aW5GYWN0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
