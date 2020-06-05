@@ -98,22 +98,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591393722799">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591394154888">
         <mark key="'" line="187" column="78" />
-        <mark key="[" line="237" column="115" />
-        <mark key="]" line="238" column="21" />
-        <mark key="^" line="238" column="21" />
-        <mark key="." line="238" column="20" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="^" line="237" column="82" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userinputevent.json" timestamp="1591392438187">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591394064765">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591395944768">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="7" column="58" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591387221056">
         <mark key="'" line="113" column="86" />
@@ -196,7 +197,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1591389673678">
+      <file name="/fragment.java" timestamp="1591395743777">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -309,7 +310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>conversationId</text>
@@ -323,28 +324,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnR5cGUgPSB0eXBlOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMudHlwZSA9IHR5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFR5cGUoU3RyaW5nIHR5cGUpIHsK</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgc2V0VHlwZShTdHJpbmcgdHlwZSkgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnB1dEV2ZW50KCkge30K</text>
+        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbSBzdHJTdHJlYW0gPSBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0ocmV0LmdldEJ5dGVzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oaW5pdGlhbFN0cmluZy5nZXRCeXRlcygpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oaW5pdGlhbFN0cmluZy5nZXRCeXRlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnR5cGUgPSB0eXBlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
