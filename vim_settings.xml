@@ -154,12 +154,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.22.RELEASE/spring-websocket-4.3.22.RELEASE.jar!/org/springframework/web/socket/TextMessage.class" timestamp="1591298227038">
         <mark key="'" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591322823378">
-        <mark key="'" line="89" column="44" />
-        <mark key="[" line="91" column="93" />
-        <mark key="]" line="91" column="93" />
-        <mark key="." line="91" column="93" />
-        <mark key="^" line="91" column="95" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591323424242">
+        <mark key="'" line="96" column="54" />
+        <mark key="[" line="96" column="36" />
+        <mark key="]" line="96" column="58" />
+        <mark key="." line="96" column="57" />
+        <mark key="^" line="96" column="58" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" timestamp="1591298387856">
         <mark key="'" line="93" column="56" />
@@ -171,15 +171,13 @@
       <file name="/fragment.java" timestamp="1591320472916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591320715005">
-        <mark key="'" line="32" column="68" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" timestamp="1591323318313">
+        <mark key="'" line="57" column="19" />
         <mark key="[" line="57" column="19" />
         <mark key="]" line="57" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="69" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="64" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/client/reactive/JettyClientHttpConnector.java" />
       <jump line="66" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
       <jump line="96" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
       <jump line="166" column="65" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
@@ -272,21 +270,23 @@
       <jump line="41" column="83" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="88" column="43" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="44" column="31" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java" />
-      <jump line="57" column="86" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
-      <jump line="93" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
-      <jump line="92" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="91" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
-      <jump line="32" column="68" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
       <jump line="89" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="32" column="67" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
+      <jump line="92" column="87" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="93" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="57" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
+      <jump line="94" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
+      <jump line="96" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>HttpClientErrorException</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>HttpClientErrorException</text>
       </register>
       <register name="/" type="4">
         <text>jcabi</text>
