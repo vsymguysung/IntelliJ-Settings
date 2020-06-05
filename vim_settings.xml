@@ -98,6 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgentName.java" timestamp="1591375197600">
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="3" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591368445234">
         <mark key="'" line="69" column="53" />
         <mark key="[" line="78" column="51" />
@@ -105,31 +111,37 @@
         <mark key="^" line="78" column="69" />
         <mark key="." line="78" column="68" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/OutputMode.java" timestamp="1591375207785">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/event/KafkaEventPublisher.java" timestamp="1591369591884">
         <mark key="'" line="135" column="25" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591371063422">
-        <mark key="'" line="111" column="86" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="126" column="98" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591375450555">
+        <mark key="'" line="113" column="86" />
+        <mark key="[" line="106" column="33" />
+        <mark key="]" line="106" column="50" />
+        <mark key="^" line="106" column="50" />
+        <mark key="." line="106" column="49" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591368651971">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="97" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/ActionType.java" timestamp="1591375232915">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/Constants.java" timestamp="1591369272255">
         <mark key="[" line="10" column="80" />
         <mark key="]" line="10" column="92" />
         <mark key="." line="10" column="91" />
         <mark key="^" line="10" column="92" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/UserInputAlternative.java" timestamp="1591365673745">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/ErrorEvent.java" timestamp="1591365786711">
         <mark key="[" line="7" column="27" />
@@ -146,26 +158,32 @@
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/Channel.java" timestamp="1591367258196">
         <mark key="'" line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/Transcript.java" timestamp="1591365730395">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="32" />
-        <mark key="." line="9" column="31" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" timestamp="1591365854942">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="23" column="40" />
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591367334035">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="36" column="40" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591376145666">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="63" column="12" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/PromptSegmentType.java" timestamp="1591375221326">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1591369576406">
         <mark key="'" line="112" column="23" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEventType.java" timestamp="1591375250819">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="3" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnRequest.java" timestamp="1591365832258">
         <mark key="[" line="13" column="34" />
@@ -173,30 +191,17 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/UserDisconnectEvent.java" timestamp="1591365704511">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/UserAgent.java" timestamp="1591366302215">
         <mark key="'" line="11" column="19" />
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputMode.java" timestamp="1591373395718" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/UserInputEvent.java" timestamp="1591365639376">
-        <mark key="[" line="8" column="52" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/WaitForInputAction.java" timestamp="1591365602185">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="39" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/InputMode.java" timestamp="1591375214692">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/NoOpEvent.java" timestamp="1591365755464">
         <mark key="[" line="2" column="43" />
@@ -311,99 +316,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25Cb3RUdXJuKENvbnN0YW50cy5CT1RfSU5WT0NBVElPTl9UVVJOX0NPTVBMRVRFX1BBUkFNRVRFUlMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>BOT_INVOCATION_TURN_ERROR_PARAMETERS</text>
+        <text>(&quot;SMS&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>conversationId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25Cb3RUdXJuKENvbnN0YW50cy5CT1RfSU5WT0NBVElPTl9UVVJOX0NPTVBMRVRFX1BBUkFNRVRFUlMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJQaG9uZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25Cb3RUdXJuKENvbnN0YW50cy5CT1RfSU5WT0NBVElPTl9UVVJOX0NPTVBMRVRFX1BBUkFNRVRFUlMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmaW5hbCBTdHJpbmcgdmFsdWU7CiAgICAgICAgcHJpdmF0ZSBmaW5hbCBzdGF0aWMgTWFwPFN0cmluZywgTmFtZT4gQ09OU1RBTlRTID0gbmV3IEhhc2hNYXA8PigpOwoKICAgICAgICBzdGF0aWMgewogICAgICAgICAgICBmb3IgKENoYW5uZWwuTmFtZSBjIDogdmFsdWVzKCkpIHsKICAgICAgICAgICAgICAgIENPTlNUQU5UUy5wdXQoYy52YWx1ZSwgYyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIE5hbWUoU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnZhbHVlOwogICAgICAgIH0KCiAgICAgICAgQEpzb25WYWx1ZQogICAgICAgIHB1YmxpYyBTdHJpbmcgdmFsdWUoKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnZhbHVlOwogICAgICAgIH0KCiAgICAgICAgQEpzb25DcmVhdG9yCiAgICAgICAgcHVibGljIHN0YXRpYyBDaGFubmVsLk5hbWUgZnJvbVZhbHVlKFN0cmluZyB2YWx1ZSkgewogICAgICAgICAgICBDaGFubmVsLk5hbWUgY29uc3RhbnQgPSBDT05TVEFOVFMuZ2V0KHZhbHVlKTsKICAgICAgICAgICAgaWYgKGNvbnN0YW50ID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24odmFsdWUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbnN0YW50OwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCAgY2hhbm5lbE5hbWUgPSAiUGhvbmUiOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>public String getName() {
-        return name;
-    }
-
-    public InputMode[] getInputModes() {
-        return inputModes;
-    }
-
-    public OutputMode[] getOutputModes() {
-        return outputModes;
-    }
-
-    public UserAgent getUserAgent() {
-        return userAgent;
-    }
-
-    public Channel withName(String name) {
-        this.name = name;
-        return this;
-    }
-
-    public Channel withInputModes(InputMode[] inputModes) {
-        this.inputModes = inputModes;
-        return this;
-    }
-
-    public Channel withOutputModes(OutputMode[] outputModes) {
-        this.outputModes = outputModes;
-        return this;
-    }
-
-    public Channel withUserAgent(UserAgent userAgent) {
-        this.userAgent = userAgent;
-        return this;
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwppbXBvcnQgamF2YS51dGlsLk1hcDsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoIShvIGluc3RhbmNlb2YgQ2hhbm5lbCkpIHJldHVybiBmYWxzZTsKICAgICAgICBDaGFubmVsIGNoYW5uZWwgPSAoQ2hhbm5lbCkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoZ2V0TmFtZSgpLCBjaGFubmVsLmdldE5hbWUoKSkgJiYKICAgICAgICAgICAgQXJyYXlzLmVxdWFscyhnZXRJbnB1dE1vZGVzKCksIGNoYW5uZWwuZ2V0SW5wdXRNb2RlcygpKSAmJgogICAgICAgICAgICBBcnJheXMuZXF1YWxzKGdldE91dHB1dE1vZGVzKCksIGNoYW5uZWwuZ2V0T3V0cHV0TW9kZXMoKSkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoZ2V0VXNlckFnZW50KCksIGNoYW5uZWwuZ2V0VXNlckFnZW50KCkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICBpbnQgcmVzdWx0ID0gT2JqZWN0cy5oYXNoKGdldE5hbWUoKSwgZ2V0VXNlckFnZW50KCkpOwogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgQXJyYXlzLmhhc2hDb2RlKGdldElucHV0TW9kZXMoKSk7CiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBBcnJheXMuaGFzaENvZGUoZ2V0T3V0cHV0TW9kZXMoKSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25WYWx1ZTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>@Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Version)) return false;
-        Version version = (Version) o;
-        return Objects.equals(getTag(), version.getTag());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getTag());
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25DcmVhdG9yOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>@Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof UserAgent)) return false;
-        UserAgent userAgent = (UserAgent) o;
-        return getName() == userAgent.getName();
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getName());
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
