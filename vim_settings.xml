@@ -98,7 +98,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591463508597">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591463784194">
         <mark key="'" line="222" column="70" />
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
@@ -115,7 +115,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591398942908">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591463951008">
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="75" />
         <mark key="." line="7" column="74" />
@@ -302,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, visible = true</text>
       </register>
       <register name="-" type="4">
-        <text>errorBody.getCode(), errorBody.getMessage()</text>
+        <text>, visible = true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUFTT05fUFJFRklYX1RSSUdHRVJFRF9CWV9VU0VSXD4=</text>
