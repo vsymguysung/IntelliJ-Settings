@@ -98,12 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591400499709">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591400558984">
         <mark key="'" line="223" column="40" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="^" line="223" column="80" />
-        <mark key="." line="225" column="0" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="229" column="32" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userinputevent.json" timestamp="1591392438187">
         <mark key="[" line="1" column="0" />
@@ -305,45 +305,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZFR1cm5SZXNwb25zZS5nZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>CLASS</text>
+        <text>expectedTurnResponse</text>
       </register>
       <register name="/" type="4">
         <text>conversationId</text>
       </register>
       <register name="0" type="4">
-        <text>public String getType() {
-        return type;
-    }</text>
+        <text>expectedTurnResponse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZFR1cm5SZXNwb25zZS5nZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnl0ZUFycmF5SW5wdXRTdHJlYW07Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5ib3Rwcm92aWRlcnMuY2ljZXJvLm1vZGVsLmV2ZW50cy5JbnB1dEV2ZW50VHlwZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Qcm9wZXJ0eTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnl0ZUFycmF5SW5wdXRTdHJlYW07Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nZW5lc3lzLmxvcXVlbnRpYS5ib3Rwcm92aWRlcnMuY2ljZXJvLm1vZGVsLmV2ZW50cy5JbnB1dEV2ZW50VHlwZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Qcm9wZXJ0eTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMudHlwZSA9IHR5cGU7Cg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgc2V0VHlwZShTdHJpbmcgdHlwZSkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMudHlwZSA9IHR5cGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
