@@ -98,12 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591535146218">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591537280918">
         <mark key="'" line="216" column="83" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-        <mark key="^" line="254" column="8" />
+        <mark key="[" line="208" column="47" />
+        <mark key="]" line="200" column="36" />
+        <mark key="." line="200" column="35" />
+        <mark key="^" line="200" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/TextPromptSegment.java" timestamp="1591533258332">
         <mark key="[" line="7" column="11" />
