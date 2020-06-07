@@ -98,12 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591463784194">
-        <mark key="'" line="222" column="70" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="229" column="32" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591467690918">
+        <mark key="'" line="183" column="71" />
+        <mark key="[" line="186" column="97" />
+        <mark key="]" line="186" column="98" />
+        <mark key="." line="186" column="97" />
+        <mark key="^" line="186" column="98" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userinputevent.json" timestamp="1591392438187">
         <mark key="[" line="1" column="0" />
@@ -198,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="4" filename="$USER_HOME$/GenDev/loquentia/src/test/java/Request.java" />
-      <jump line="62" column="12" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" />
       <jump line="133" column="8" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" />
       <jump line="15" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/RequestResponsePair.java" />
       <jump line="172" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/RequestResponsePair.java" />
@@ -298,15 +296,17 @@
       <jump line="110" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="222" column="70" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="13" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnRequest.java" />
+      <jump line="184" column="27" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="183" column="71" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, visible = true</text>
+        <text>withType(InputEventType.USER_INPUT.toString()).</text>
       </register>
       <register name="-" type="4">
-        <text>, visible = true</text>
+        <text>withType(InputEventType.USER_INPUT.toString()).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUFTT05fUFJFRklYX1RSSUdHRVJFRF9CWV9VU0VSXD4=</text>
@@ -315,31 +315,39 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygiQ2ljZXJvUHJveHkgU2Vzc2lvbiBBUEkgcmVxdWVzdCBmYWlsZWQgW2NvZGU9e30gbWVzc2FnZT17fV0uIiwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JCb2R5LmdldENvZGUoKSwgZXJyb3JCb2R5LmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlcklucHV0RXZlbnQuY3JlYXRlKCkud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfUkVDT0dOSVRJT05fRkFJTFVSRSA9ICJSZWNvZ25pdGlvbkZhaWx1cmUiOwo=</text>
+      <register name="2" type="4">
+        <text>InputStream inputStreamReq =
+            CiceroProxyTest.class.getResourceAsStream(&quot;/cicero-payloads/create-turn-request-userinputevent.json&quot;);
+        CreateTurnRequest mockTurnRequest =
+            ObjectMapperEnum.INSTANCE.get().readValue(inputStreamReq, CreateTurnRequest.class);
+
+        InputStream inputStreamRes =
+            CiceroProxyTest.class.getResourceAsStream(&quot;/cicero-payloads/create-turn-response-userinputevent.json&quot;);
+        CreateTurnResponse expectedTurnResponse =
+            ObjectMapperEnum.INSTANCE.get().readValue(inputStreamRes, CreateTurnResponse.class);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfVFJJR0dFUkVEX0JZX0ZMT1cgPSAiVHJpZ2dlcmVkQnlGbG93IjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfVFJJR0dFUkVEX0JZX1VTRVIgPSAiVHJpZ2dlcmVkQnlVc2VyIjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfRVJST1IgPSAiRXJyb3IiOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfU0VTU0lPTl9FWFBJUkVEID0gIlNlc3Npb25FeHBpcmVkIjsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfUkVDT0dOSVRJT05fRkFJTFVSRSA9ICJSZWNvZ25pdGlvbkZhaWx1cmUiOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfVFJJR0dFUkVEX0JZX0ZMT1cgPSAiVHJpZ2dlcmVkQnlGbG93IjsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfVFJJR0dFUkVEX0JZX1VTRVIgPSAiVHJpZ2dlcmVkQnlVc2VyIjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfRVJST1IgPSAiRXJyb3IiOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFQVNPTl9QUkVGSVhfU0VTU0lPTl9FWFBJUkVEID0gIlNlc3Npb25FeHBpcmVkIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
