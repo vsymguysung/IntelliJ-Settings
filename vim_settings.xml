@@ -104,17 +104,19 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591632703802">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="166" column="56" />
-        <mark key="." line="187" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591637715935">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="496" column="21" />
+        <mark key="]" line="502" column="21" />
+        <mark key="^" line="502" column="21" />
+        <mark key="." line="502" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userinputevent.json" timestamp="1591629888585">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591637969394">
+        <mark key="'" line="87" column="47" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="45" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591630028225">
         <mark key="[" line="11" column="66" />
@@ -195,7 +197,6 @@
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/resources/responseTests/turn/goodHardcodedSecondTurn.json" timestamp="1591631748793" />
     </filemarks>
     <jumps>
-      <jump line="44" column="31" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java" />
       <jump line="91" column="70" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="89" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="93" column="47" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
@@ -295,12 +296,13 @@
       <jump line="157" column="8" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="142" column="46" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="187" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="84" column="47" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFRlc3RNZXRob2RPcmRlcihPcmRlckFubm90YXRpb24uY2xhc3MpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -309,19 +311,19 @@
         <text encoding="base64">XDxleHBlY3RlZFR1cm5SZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJpZCI6ICI1NTU1NTU1NS0yNjczLTRiMzYtYjU5Yi1hMmRkOTJhZmE0N2EiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpY2Vyb1Nlc3Npb25JZCA9IHJlc3BvbnNlLmdldElkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFRlc3RNZXRob2RPcmRlcihPcmRlckFubm90YXRpb24uY2xhc3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpZCI6ICIke3R1cm5JZH0iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICJpZCI6ICIke3R1cm5JZH0iLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiaWQiOiAiOTk5OTk5OTk5OTk5OTk5IiwK</text>
+        <text encoding="base64">ICAgICJpZCI6ICIke3R1cm5JZH0iLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAiaWQiOiAiOTk5OTk5OTk5OTk5OTk5IiwK</text>
@@ -330,13 +332,13 @@
         <text encoding="base64">ICAiaWQiOiAiOTk5OTk5OTk5OTk5OTk5IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiaWQiOiAiUkVHRVg6L15bQS1aYS16MC05LV0rJC8iLAo=</text>
+        <text encoding="base64">ICAiaWQiOiAiOTk5OTk5OTk5OTk5OTk5IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaWQiOiAiUkVHRVg6L15bQS1aYS16MC05LV0rJC8iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBc3N1bWUgVXNlcklucHV0RXZlbnQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
