@@ -98,7 +98,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591646397962">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591647190011">
         <mark key="'" line="257" column="16" />
         <mark key="[" line="213" column="16" />
         <mark key="]" line="213" column="25" />
@@ -111,11 +111,11 @@
         <mark key="^" line="27" column="42" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591646749107">
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="10" column="70" />
-        <mark key="." line="10" column="70" />
-        <mark key="^" line="10" column="73" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591647489599">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/PromptSegment.java" timestamp="1591640922047">
         <mark key="'" line="50" column="0" />
@@ -148,7 +148,7 @@
         <mark key="." line="66" column="4" />
         <mark key="^" line="83" column="18" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" timestamp="1591640790850">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" timestamp="1591647068307">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
         <mark key="^" line="8" column="75" />
@@ -318,11 +318,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Qcm9wZXJ0eTsK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>Property(&quot;type&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZFR1cm5SZXNwb25zZVw+</text>
@@ -331,31 +331,31 @@
         <text encoding="base64">ICAgICAgICBzdXBlcihJbnB1dEV2ZW50VHlwZS5VU0VSX0RJU0NPTk5FQ1QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihJbnB1dEV2ZW50VHlwZS5VKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Qcm9wZXJ0eTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uU3ViVHlwZXMuVHlwZSh2YWx1ZSA9IFVzZXJJbnB1dEV2ZW50LmNsYXNzLCBuYW1lID0gIlVzZXJJbnB1dCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihJbnB1dEV2ZW50VHlwZS5VKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9ESVNDT05ORUNUKQo=</text>
+        <text encoding="base64">ICAgIEBKc29uU3ViVHlwZXMuVHlwZSh2YWx1ZSA9IFVzZXJJbnB1dEV2ZW50LmNsYXNzLCBuYW1lID0gIlVzZXJJbnB1dCIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuTk9fT1ApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9ESVNDT05ORUNUKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuTk9fT1ApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQcmV2ZW50IGRpcmVjdCBpbnN0YW50aWF0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBQcmV2ZW50IGRpcmVjdCBpbnN0YW50aWF0aW9uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQcmV2ZW50IGRpcmVjdCBpbnN0YW50aWF0aW9uLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
