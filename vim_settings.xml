@@ -111,7 +111,7 @@
         <mark key="^" line="502" column="21" />
         <mark key="." line="502" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591637969394">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591638632201">
         <mark key="'" line="87" column="47" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -123,12 +123,6 @@
         <mark key="]" line="11" column="80" />
         <mark key="." line="11" column="79" />
         <mark key="^" line="11" column="80" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userdisconnectevent.json" timestamp="1591629921731">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-response-action-waitforinput.json" timestamp="1591630752098" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-response-noop-action.json" timestamp="1591632560308">
@@ -156,11 +150,11 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-noopevent.json" timestamp="1591629913409">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" timestamp="1591639059246">
+        <mark key="[" line="80" column="5" />
+        <mark key="]" line="83" column="18" />
+        <mark key="." line="83" column="17" />
+        <mark key="^" line="83" column="18" />
       </file>
       <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/resources/responseTests/turn/goodHardcodedInitialTurn.json" timestamp="1591631692185" />
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-noop-event.json" timestamp="1591632421796">
@@ -174,6 +168,13 @@
         <mark key="]" line="26" column="12" />
         <mark key="^" line="26" column="12" />
         <mark key="." line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnRequest.java" timestamp="1591639070997">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="17" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-response-disconnect-action.json" timestamp="1591632481988">
         <mark key="[" line="9" column="8" />
