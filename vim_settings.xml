@@ -98,8 +98,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591537280918">
-        <mark key="'" line="216" column="83" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591547252421">
+        <mark key="'" line="200" column="23" />
         <mark key="[" line="208" column="47" />
         <mark key="]" line="200" column="36" />
         <mark key="." line="200" column="35" />
@@ -142,9 +142,6 @@
         <mark key="]" line="10" column="40" />
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="39" />
-      </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/Channel.java" timestamp="1591386400932">
-        <mark key="'" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/Channel.java" timestamp="1591387909003">
         <mark key="'" line="41" column="16" />
@@ -192,12 +189,16 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/FlowLocation.java" timestamp="1591547392622">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1591395743777">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="38" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" />
       <jump line="95" column="37" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestTurnControllerIT.java" />
       <jump line="93" column="56" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" />
       <jump line="72" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
@@ -297,23 +298,13 @@
       <jump line="206" column="50" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="216" column="83" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="24" column="4" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
+      <jump line="200" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>@Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof PromptSegment)) return false;
-        PromptSegment that = (PromptSegment) o;
-        return Objects.equals(getText(), that.getText());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getText());
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -324,7 +315,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9ja1R1cm5SZXF1ZXN0SnNvbiA9IE9iamVjdE1hcHBlckVudW0uSU5TVEFOQ0Uud3JpdGVWYWx1ZUFzU3RyaW5nKG1vY2tUdXJuUmVxdWVzdCk7CiAgICAgICAgU3RyaW5nIGV4cGVjdGVkVHVyblJlc3BvbnNlSnNvbiA9IE9iamVjdE1hcHBlckVudW0uSU5TVEFOQ0Uud3JpdGVWYWx1ZUFzU3RyaW5nKGV4cGVjdGVkVHVyblJlc3BvbnNlKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>public FlowLocation(String actionName, int actionNumber, String sequenceName) {
+        this.actionName = actionName;
+        this.actionNumber = actionNumber;
+        this.sequenceName = sequenceName;
+    }</text>
+      </register>
+      <register name="4" type="4">
         <text>@Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -338,34 +342,20 @@
         return Objects.hash(getText());
     }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhQcmV2aW91c1R1cm4obnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.withInputEvent(
-            UserInputEvent.create().withAlternatives(List.of(
-                UserInputAlternative.create().withTranscript(Transcript.create().withText(&quot;Hello tanscript&quot;))))
-                .withMode(InputMode.VOICE)
-                .withType(InputEventType.USER_INPUT.toString())
-        ).withPreviousTurn(null);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhQcmV2aW91c1R1cm4obnVsbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VySW5wdXRFdmVudC5jcmVhdGUoKS53aXRoQWx0ZXJuYXRpdmVzKCkud2l0aE1vZGUoKS53aXRoVHlwZShJbnB1dEV2ZW50VHlwZS5VU0VSX0lOUFVUKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
