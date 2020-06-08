@@ -98,14 +98,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591617826342" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" timestamp="1591623173192">
+        <mark key="'" line="146" column="79" />
+        <mark key="[" line="152" column="37" />
+        <mark key="]" line="152" column="126" />
+        <mark key="^" line="152" column="126" />
+        <mark key="." line="152" column="125" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/TextPromptSegment.java" timestamp="1591533258332">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userinputevent.json" timestamp="1591392438187">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/resources/cicero-payloads/create-turn-request-userinputevent.json" timestamp="1591622056633">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -193,13 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="37" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/it/com/genesys/cicero/test/TestTurnControllerIT.java" />
-      <jump line="93" column="56" filename="$USER_HOME$/GenDev/cicero/cicero-runtime/src/test/java/com/genesys/cicero/test/RequestResponsePair.java" />
-      <jump line="72" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="2715" column="11" filename="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java" />
-      <jump line="108" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="116" column="84" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="120" column="74" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="121" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
       <jump line="117" column="34" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="41" column="83" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
@@ -293,63 +292,80 @@
       <jump line="216" column="83" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
       <jump line="24" column="4" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
       <jump line="200" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="109" column="28" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="111" column="64" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="114" column="64" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="116" column="52" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="115" column="51" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
+      <jump line="146" column="79" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZFR1cm5SZXNwb25zZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9ja1R1cm5SZXF1ZXN0SnNvbiA9IE9iamVjdE1hcHBlckVudW0uSU5TVEFOQ0Uud3JpdGVWYWx1ZUFzU3RyaW5nKG1vY2tUdXJuUmVxdWVzdCk7CiAgICAgICAgU3RyaW5nIGV4cGVjdGVkVHVyblJlc3BvbnNlSnNvbiA9IE9iamVjdE1hcHBlckVudW0uSU5TVEFOQ0Uud3JpdGVWYWx1ZUFzU3RyaW5nKGV4cGVjdGVkVHVyblJlc3BvbnNlKTsK</text>
+      <register name="0" type="4">
+        <text>@Test
+    public void testPolymorphicTypeHandlingForNoOpEvent() throws IOException {
+        // Assume.
+        InputStream inputStreamReq =
+            CiceroProxyTest.class.getResourceAsStream(&quot;/cicero-payloads/create-turn-request-userinputevent.json&quot;);
+        CreateTurnRequest mockTurnRequest =
+            ObjectMapperEnum.INSTANCE.get().readValue(inputStreamReq, CreateTurnRequest.class);
+
+        // Act.
+        String mockTurnRequestString = ObjectMapperEnum.INSTANCE.writeValueAsString(mockTurnRequest);
+        CreateTurnRequest mockTurnRequestRebuiltFromJsonString = ObjectMapperEnum.INSTANCE.get()
+            .readValue(mockTurnRequestString, CreateTurnRequest.class);
+
+        // Assert.
+        assertEquals(mockTurnRequest, mockTurnRequestRebuiltFromJsonString);
+
+//        String mockTurnRequestJsonString = StringUtils.normalizeSpace(FileUtils.readFileToString(
+//            new File(CiceroProxyTest.class.getResource(
+//                &quot;/cicero-payloads/create-turn-request-userinputevent.json&quot;).getFile()), StandardCharsets.UTF_8));
+//
+//        InputStream inputStreamRes =
+//            CiceroProxyTest.class.getResourceAsStream(&quot;/cicero-payloads/create-turn-response-userinputevent.json&quot;);
+//        CreateSessionResponse expectedSessionResponse =
+//            ObjectMapperEnum.INSTANCE.get().readValue(inputStreamRes, CreateSessionResponse.class);
+
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3MK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>public FlowLocation(String actionName, int actionNumber, String sequenceName) {
-        this.actionName = actionName;
-        this.actionNumber = actionNumber;
-        this.sequenceName = sequenceName;
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>@Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof PromptSegment)) return false;
-        PromptSegment that = (PromptSegment) o;
-        return Objects.equals(getText(), that.getText());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getText());
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBY3QuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGxvcXVlbnRpYVNlc3Npb24uZ2V0T3JnSWQoKSkudGhlblJldHVybihvcmdJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFR5cGUoSW5wdXRFdmVudFR5cGUuVVNFUl9JTlBVVC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgb3JnSWQgPSAiNzc3Nzc3Nzc3Nzc3Nzc3NzciOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhQcmV2aW91c1R1cm4obnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9ja1R1cm5SZXF1ZXN0U3RyaW5nID0gU3RyaW5nVXRpbHMKICAgICAgICAgICAgLm5vcm1hbGl6ZVNwYWNlKE9iamVjdE1hcHBlckVudW0uSU5TVEFOQ0Uud3JpdGVWYWx1ZUFzU3RyaW5nKG1vY2tUdXJuUmVxdWVzdCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9ja1R1cm5SZXF1ZXN0U3RyaW5nID0gU3RyaW5nVXRpbHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
