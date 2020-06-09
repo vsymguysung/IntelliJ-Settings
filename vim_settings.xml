@@ -128,13 +128,10 @@
         <mark key="^" line="133" column="37" />
         <mark key="." line="133" column="36" />
       </file>
-      <file name="$USER_HOME$/GenDev/cicero/cicero-runtime/src/main/java/com/genesys/cicero/contracts/nextactions/ActionType.java" timestamp="1591711662447" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1591733902722">
-        <mark key="'" line="154" column="30" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1591734290453">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
-        <mark key="^" line="155" column="12" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/pom.xml" timestamp="1591726505605">
         <mark key="'" line="59" column="8" />
@@ -154,7 +151,7 @@
         <mark key="'" line="58" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/resources/google_cloud_platform_service_account.json" timestamp="1591728337104" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroIntentConverter.java" timestamp="1591728688279">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroIntentConverter.java" timestamp="1591736094398">
         <mark key="[" line="17" column="53" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="20" />
