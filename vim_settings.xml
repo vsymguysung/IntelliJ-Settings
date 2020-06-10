@@ -139,11 +139,11 @@
         <mark key="^" line="116" column="48" />
         <mark key="." line="116" column="47" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591791725558">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591792730277">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="10" column="80" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="80" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591725697483">
         <mark key="[" line="155" column="0" />
@@ -274,11 +274,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWcK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;UserInput&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>nore()</text>
+        <text>&quot;UserInput&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</text>
