@@ -177,11 +177,11 @@
         <mark key="^" line="709" column="4" />
         <mark key="." line="709" column="3" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591821684486">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591822541318">
         <mark key="'" line="95" column="8" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="131" column="41" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="102" />
+        <mark key="." line="131" column="0" />
         <mark key="^" line="46" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1591797898939">
@@ -293,8 +293,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnRTdHJlYW0gPSBzcGVlY2hDbGllbnQuc3RyZWFtaW5nUmVjb2duaXplQ2FsbGFibGUoKS5zcGxpdENhbGwoZ2V0UmVzcG9uc2VPYnNlcnZlcigpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAuc2V0SW50ZXJpbVJlc3VsdHModHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRTdHJlYW0gPSBzcGVlY2hDbGllbnQuc3RyZWFtaW5nUmVjb2duaXplQ2FsbGFibGUoKS5zcGxpdENhbGwoZ2V0UmVzcG9uc2VPYnNlcnZlcigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50U3RyZWFtID0gc3BlZWNoQ2xpZW50LnN0cmVhbWluZ1JlY29nbml6ZUNhbGxhYmxlKCkuc3BsaXRDYWxsKGdldFJlc3BvbnNlT2JzZXJ2ZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50U3RyZWFtID0gc3BlZWNoQ2xpZW50LnN0cmVhbWluZ1JlY29nbml6ZUNhbGxhYmxlKCkuc3BsaXRDYWxsKGdldFJlc3BvbnNlT2JzZXJ2ZXIoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJvZHlUb01vbm8oQ3JlYXRlVHVyblJlcXVlc3QuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJvZHlUb01vbm8oQ3JlYXRlVHVyblJlcXVlc3QuY2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHR1cm5SZXF1ZXN0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJvCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHR1cm5SZXF1ZXN0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHR1cm5SZXF1ZXN0KSwgQ3JlYXRlVHVyblJlcXVlc3QuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHR1cm5SZXF1ZXN0KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJpZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHR1cm5SZXF1ZXN0KSwgQ3JlYXRlVHVyblJlcXVlc3QuY2xhc3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
