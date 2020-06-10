@@ -125,6 +125,12 @@
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="97" />
       </file>
+      <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591800688332">
+        <mark key="'" line="199" column="25" />
+        <mark key="[" line="193" column="38" />
+        <mark key="]" line="193" column="38" />
+        <mark key="." line="193" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591797872926">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,12 +171,12 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591733725622">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591800969907">
         <mark key="'" line="134" column="36" />
-        <mark key="[" line="133" column="21" />
-        <mark key="]" line="133" column="37" />
-        <mark key="^" line="133" column="37" />
-        <mark key="." line="133" column="36" />
+        <mark key="[" line="46" column="57" />
+        <mark key="]" line="46" column="58" />
+        <mark key="^" line="46" column="58" />
+        <mark key="." line="46" column="57" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroIntentConverter.java" timestamp="1591736094398">
         <mark key="[" line="17" column="53" />
@@ -183,10 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="69" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" />
-      <jump line="22" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
-      <jump line="31" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
-      <jump line="39" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
       <jump line="53" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="135" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="116" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
@@ -283,48 +285,52 @@
       <jump line="307" column="18" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
       <jump line="627" column="62" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/Recognize.java" />
       <jump line="713" column="2" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/Recognize.java" />
+      <jump line="126" column="44" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
+      <jump line="120" column="64" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
+      <jump line="130" column="71" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
+      <jump line="199" column="25" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>resources/</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>resources/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>google-cloud-speech</text>
       </register>
       <register name="0" type="4">
-        <text>getNextAction</text>
+        <text>fixedCredentialsProvider</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKHRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uVHlwZUlkCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBKc29uVHlwZUlkCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWcK</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
