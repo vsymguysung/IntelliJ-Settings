@@ -123,11 +123,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1591806137174">
         <mark key="'" line="128" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591800688332">
-        <mark key="'" line="199" column="25" />
-        <mark key="[" line="193" column="38" />
-        <mark key="]" line="193" column="38" />
-        <mark key="." line="193" column="38" />
+      <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591809894799">
+        <mark key="'" line="203" column="25" />
+        <mark key="[" line="128" column="50" />
+        <mark key="]" line="129" column="6" />
+        <mark key="." line="129" column="5" />
+        <mark key="^" line="129" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1591797872926">
         <mark key="[" line="0" column="0" />
@@ -283,8 +284,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -296,31 +297,32 @@
         <text>fixedCredentialsProvider</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKHRydWUpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
+      <register name="2" type="4">
+        <text>SpeechSettings.newBuilder()
+        .setCredentialsProvider(fixedCredentialsProvider)</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uVHlwZUlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWcK</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uVHlwZUlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
