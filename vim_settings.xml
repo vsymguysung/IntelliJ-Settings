@@ -129,9 +129,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1591716822100">
         <mark key="'" line="51" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1591713069647">
-        <mark key="'" line="74" column="45" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1591727619601">
         <mark key="'" line="50" column="31" />
         <mark key="[" line="116" column="48" />
@@ -152,6 +149,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591713469279">
         <mark key="'" line="58" column="56" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1591794080458">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591733725622">
         <mark key="'" line="134" column="36" />
         <mark key="[" line="133" column="21" />
@@ -165,7 +168,7 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1591733999233">
+      <file name="/fragment.java" timestamp="1591793938108">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -275,10 +278,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;UserInput&quot;</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;UserInput&quot;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</text>
