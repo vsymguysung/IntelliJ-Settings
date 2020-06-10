@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>executor</entry>
         <entry encoding="base64">XDxFeHBlY3RlZFJlc3Bvc2VcPg==</entry>
         <entry>jcabi</entry>
         <entry>conversationId</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdGFydFJlY29nbml0aW9uXD4=</entry>
         <entry encoding="base64">XDx0dXJuUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</entry>
+        <entry>google-cloud-speech</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -129,6 +129,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1591716822100">
         <mark key="'" line="51" column="44" />
       </file>
+      <file name="$USER_HOME$/GenDev/java-speech/pom.xml" timestamp="1591795723254">
+        <mark key="'" line="307" column="18" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1591727619601">
         <mark key="'" line="50" column="31" />
         <mark key="[" line="116" column="48" />
@@ -136,18 +142,14 @@
         <mark key="^" line="116" column="48" />
         <mark key="." line="116" column="47" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591792730277">
-        <mark key="[" line="10" column="85" />
-        <mark key="]" line="10" column="80" />
-        <mark key="." line="10" column="79" />
-        <mark key="^" line="10" column="80" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591795540793">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProxy.java" timestamp="1591725697483">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="97" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591713469279">
-        <mark key="'" line="58" column="56" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" timestamp="1591794080458">
         <mark key="[" line="12" column="17" />
@@ -173,31 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingTextMessage.java" />
-      <jump line="15" column="76" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/IncomingMessage.java" />
-      <jump line="6" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/ActionType.java" />
-      <jump line="192" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="9" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/DisconnectAction.java" />
-      <jump line="10" column="86" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" />
-      <jump line="11" column="74" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/nextactions/Action.java" />
-      <jump line="184" column="12" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="162" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="165" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="166" column="12" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="190" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="193" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="194" column="12" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="125" column="20" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="128" column="54" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="129" column="8" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="65" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="319" column="34" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="257" column="20" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/UserInputAlternative.java" />
-      <jump line="4" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/UserInputAlternative.java" />
-      <jump line="345" column="56" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroProxyTest.java" />
-      <jump line="17" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" />
-      <jump line="10" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" />
       <jump line="11" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/UserInputEvent.java" />
       <jump line="91" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" />
       <jump line="107" column="69" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" />
@@ -273,48 +250,73 @@
       <jump line="134" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="129" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="154" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="204" column="0" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="308" column="17" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="309" column="17" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="310" column="17" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="311" column="12" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="312" column="12" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="4" column="14" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="6" column="50" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="152" column="29" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="171" column="26" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="172" column="62" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="176" column="26" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="177" column="62" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="181" column="26" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="182" column="62" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="186" column="25" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="187" column="61" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="191" column="25" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="192" column="61" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="196" column="25" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="197" column="61" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="201" column="20" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="305" column="18" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="306" column="18" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
+      <jump line="307" column="18" filename="$USER_HOME$/GenDev/java-speech/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</text>
+        <text>google-cloud-speech</text>
       </register>
       <register name="0" type="4">
         <text>getNextAction</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uVHlwZUlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFjdGlvbiBuZXh0QWN0aW9uID0gaW5zdGFuY2UuZ2V0TmV4dEFjdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRvRmluYWxseSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCh0dXJuUmVzcG9uc2UgLT4gdHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCh0dXJuUmVzcG9uc2UgLT4gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBRdWVyeSBzcGVlY2ggY29udGV4dCBhbmQgcGFzcyBpdCB0byBTVFQgcHJvdmlkZXIgdG8gc3RhcnQgcmVjb2duaXRpb24uCiAgICAgICAgU1RUUmVxdWVzdCBzdHRSZXF1ZXN0ID0gZ2V0U3BlZWNoQ29udGV4dHMoKTsKICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -323,12 +325,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</last-search>
+      <last-search>google-cloud-speech</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</last-pattern>
+      <last-pattern>google-cloud-speech</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
