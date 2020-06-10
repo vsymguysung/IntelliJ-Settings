@@ -110,9 +110,6 @@
         <mark key="^" line="502" column="21" />
         <mark key="." line="502" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1591713564600">
-        <mark key="'" line="45" column="57" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1591726058950">
         <mark key="'" line="69" column="37" />
         <mark key="[" line="76" column="54" />
@@ -141,6 +138,12 @@
         <mark key="]" line="116" column="48" />
         <mark key="^" line="116" column="48" />
         <mark key="." line="116" column="47" />
+      </file>
+      <file name="$USER_HOME$/GenDev/google-cloud-java/google-cloud-examples/src/main/java/com/google/cloud/examples/speech/snippets/RecognizeSpeech.java" timestamp="1591796141382">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="48" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/events/InputEvent.java" timestamp="1591795540793">
         <mark key="[" line="16" column="0" />
@@ -279,11 +282,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>resources/</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>resources/</text>
       </register>
       <register name="/" type="4">
         <text>google-cloud-speech</text>
