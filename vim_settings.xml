@@ -161,12 +161,12 @@
         <mark key="^" line="122" column="129" />
         <mark key="." line="122" column="128" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591898488848">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591899605566">
         <mark key="'" line="130" column="48" />
-        <mark key="[" line="135" column="75" />
-        <mark key="]" line="135" column="91" />
-        <mark key="^" line="134" column="8" />
-        <mark key="." line="135" column="75" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="70" />
+        <mark key="^" line="186" column="24" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591896726858">
         <mark key="'" line="89" column="19" />
@@ -180,12 +180,12 @@
         <mark key="]" line="63" column="75" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1591891188465" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591898515348">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591899870573">
         <mark key="'" line="87" column="28" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="38" />
-        <mark key="." line="110" column="20" />
-        <mark key="^" line="110" column="21" />
+        <mark key="[" line="190" column="36" />
+        <mark key="]" line="190" column="36" />
+        <mark key="." line="190" column="36" />
+        <mark key="^" line="191" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1591895249928">
         <mark key="[" line="0" column="0" />
@@ -297,43 +297,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getSpeechClient</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>getResponseObserver()</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>getSpeechClient</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExPRy5kZWJ1ZygiR29vZ2xlU1RUU2Vzc2lvbjogU2VuZGluZyBhdWRpbyBieXRlcyB0byB0aGUgYm90IHNlc3Npb24gOiBzaXplPXt9IHRvdGFsPXt9LiIsIHNpemUsIHRvdGFsQnl0ZXNTZW50KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmVzcG9uc2VPYnNlcnZlciA9IG5ldyBHb29nbGVTVFRSZXNwb25zZU9ic2VydmVyKGxvcXVlbnRpYVNlc3Npb24sIHN0dFNlc3Npb25DYWxsYmFjaywgbmV3UmVsaWNQcm94eSk7CiAgICAgICAgZ29vZ2xlU1RUU2Vzc2lvbi5nZXRTcGVlY2hDbGllbnQoKS5zdHJlYW1pbmdSZWNvZ25pemVDYWxsYWJsZSgpLnNwbGl0Q2FsbChyZXNwb25zZU9ic2VydmVyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGNsaWVudFN0cmVhbUxvY2spIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJSZWNlaXZlZCBvbkVycm9yIiwgdGhyb3dhYmxlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZWZlcmVuY2VUb1N0cmVhbUNvbnRyb2xsZXIuY2FuY2VsKCk7IC8vIHJlbW92ZSBPYnNlcnZlcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGNsaWVudFN0cmVhbUxvY2spIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJSZWNlaXZlZCBvbkVycm9yIiwgdGhyb3dhYmxlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZWZlcmVuY2VUb1N0cmVhbUNvbnRyb2xsZXIuY2FuY2VsKCk7IC8vIHJlbW92ZSBPYnNlcnZlcgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0dFNlc3Npb25DYWxsYmFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrZAo=</text>
+        <text encoding="base64">ICAgIHN0dFNlc3Npb25DYWxsYmFjawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
