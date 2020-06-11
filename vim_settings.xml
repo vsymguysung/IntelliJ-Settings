@@ -155,12 +155,12 @@
         <mark key="^" line="122" column="129" />
         <mark key="." line="122" column="128" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591910156981">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="216" column="36" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591910808021">
+        <mark key="'" line="136" column="27" />
+        <mark key="[" line="134" column="33" />
+        <mark key="]" line="134" column="35" />
+        <mark key="^" line="134" column="35" />
+        <mark key="." line="134" column="34" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591901340343">
         <mark key="'" line="88" column="19" />
@@ -173,11 +173,11 @@
         <mark key="]" line="63" column="75" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1591891188465" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591909752661">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591910962705">
         <mark key="'" line="50" column="25" />
-        <mark key="[" line="185" column="108" />
-        <mark key="]" line="186" column="45" />
-        <mark key="." line="186" column="44" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
         <mark key="^" line="186" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1591895249928">
@@ -250,7 +250,6 @@
       <jump line="131" column="48" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="128" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="53" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="136" column="38" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="138" column="16" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="228" column="12" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="130" column="48" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
@@ -285,15 +284,16 @@
       <jump line="213" column="27" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="58" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="141" column="0" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="136" column="27" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNodW5rQ250LCBpLCBzaXplLCB0b3RhbEJ5dGVzU2VudCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb0lucHV0XD4=</text>
@@ -302,31 +302,31 @@
         <text encoding="base64">dGVtcEJ5dGVTdHJpbmcgPSBCeXRlU3RyaW5nLmNvcHlGcm9tKHNoYXJlZFF1ZXVlLnRha2UoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmRlYnVnKCJQdWxsaW5nIGF1ZGlvIGJ5dGVzIGZyb20gdGhlIHNoYXJlZFF1ZXVlLi4uIik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgYXVkaW9JbnB1dC5hZGQodGVtcEJ5dGVTdHJpbmcpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxKTsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICAgICAgICAgIC8vIFNlbmQgYXVkaW8gYnl0ZXMuCi8vICAgICAgICAgICAgICAgICAgICBnb29nbGVTVFRTZXNzaW9uLnByb2Nlc3NBdWRpbyh0ZW1wQnl0ZVN0cmluZy50b0J5dGVBcnJheSgpKTsKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNodW5rQ250LCBpLCBzaXplLCB0b3RhbEJ5dGVzU2VudCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gbGFzdFRyYW5zY3JpcHRXYXNGaW5hbCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HLndhcm4oIkdvb2dsZVNUVFNlc3Npb246IFNlbmRpbmcgYXVkaW8gYnl0ZXMgdG8gdGhlIGJvdCBzZXNzaW9uIDogY2h1bmtDbnQ9e30gY3VycmVudD17fSBzaXplPXt9IHRvdGFsPXt9LiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGRvdWJsZSBicmlkZ2luZ09mZnNldCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmRlYnVnKCJRdWV1aW5nIGF1ZGlvIGJ5dGVzIGludG8gdGhlIHNoYXJlZFF1ZXVlLi4uIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gbmV3U3RyZWFtID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBmaW5hbFJlcXVlc3RFbmRUaW1lID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBpc0ZpbmFsRW5kVGltZSA9IDA7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCByZXN1bHRFbmRUaW1lSW5NUyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0cuZGVidWcoIlB1bGxpbmcgYXVkaW8gYnl0ZXMgZnJvbSB0aGUgc2hhcmVkUXVldWUuLi4iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFycmF5TGlzdDxCeXRlU3RyaW5nPiBsYXN0QXVkaW9JbnB1dCA9IG5ldyBBcnJheUxpc3Q8Qnl0ZVN0cmluZz4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFycmF5TGlzdDxCeXRlU3RyaW5nPiBsYXN0QXVkaW9JbnB1dCA9IG5ldyBBcnJheUxpc3Q8Qnl0ZVN0cmluZz4oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gbGFzdFRyYW5zY3JpcHRXYXNGaW5hbCA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
