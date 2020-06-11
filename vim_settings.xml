@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxkdG1mTG9ja1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVEZWZhdWx0SW50ZWdyYXRpb25DcmVkZW50aWFsc1w+</entry>
         <entry encoding="base64">XDxDSUNFUk9fQk9UX0ZMT1dfSU5URUdSQVRJT05fSURcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZXNwb25zZU9ic2VydmVyXD4=</entry>
         <entry encoding="base64">XDxzdHRTZXNzaW9uQ2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxzaGFyZWRRdWV1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -155,12 +155,12 @@
         <mark key="^" line="122" column="129" />
         <mark key="." line="122" column="128" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591903290516">
-        <mark key="'" line="201" column="55" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="83" column="11" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591905387853">
+        <mark key="'" line="53" column="47" />
+        <mark key="[" line="167" column="63" />
+        <mark key="]" line="168" column="24" />
+        <mark key="^" line="168" column="24" />
+        <mark key="." line="168" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591901340343">
         <mark key="'" line="88" column="19" />
@@ -173,22 +173,18 @@
         <mark key="]" line="63" column="75" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/NewRelicConfiguration.java" timestamp="1591891188465" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591903378302">
-        <mark key="'" line="87" column="28" />
-        <mark key="[" line="185" column="128" />
-        <mark key="]" line="186" column="32" />
-        <mark key="." line="186" column="31" />
-        <mark key="^" line="186" column="32" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591903554990">
+        <mark key="'" line="167" column="55" />
+        <mark key="[" line="185" column="108" />
+        <mark key="]" line="186" column="45" />
+        <mark key="." line="186" column="44" />
+        <mark key="^" line="186" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1591895249928">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/exception/ExternalServiceExceptionFactory.java" />
-      <jump line="32" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/client/HttpStatusCodeException.java" />
-      <jump line="233" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="547" column="89" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" />
       <jump line="195" column="62" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
       <jump line="291" column="4" filename="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.0/proto-google-cloud-speech-v1p1beta1-0.75.0-sources.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.java" />
       <jump line="144" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
@@ -255,7 +251,6 @@
       <jump line="227" column="29" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" />
       <jump line="58" column="72" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
       <jump line="78" column="4" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" />
-      <jump line="148" column="43" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="52" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="64" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="63" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
@@ -285,6 +280,11 @@
       <jump line="162" column="46" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="213" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="201" column="55" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="167" column="55" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
+      <jump line="148" column="43" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="200" column="61" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="53" column="47" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,49 +293,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>executorService</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</text>
+        <text encoding="base64">XDxzaGFyZWRRdWV1ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;Microphone not supported&quot;</text>
+        <text>micRunnableExecutorService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>public static String convertMillisToDate(double milliSeconds) {
-        long millis = (long) milliSeconds;
-        DecimalFormat format = new DecimalFormat();
-        format.setMinimumIntegerDigits(2);
-        return String.format(&quot;%s:%s /&quot;,
-            format.format(TimeUnit.MILLISECONDS.toMinutes(millis)),
-            format.format(TimeUnit.MILLISECONDS.toSeconds(millis)
-                - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(millis)))
-        );
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFlFTExPVyA9ICJcMDMzWzA7MzNtIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEdSRUVOID0gIlwwMzNbMDszMm0iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQuc3BlZWNoLnYxcDFiZXRhMS4qOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRCA9ICJcMDMzWzA7MzFtIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmdheC5ycGMuU3RyZWFtQ29udHJvbGxlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmdheC5ycGMuUmVzcG9uc2VPYnNlcnZlcjsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFRocmVhZCBtaWNUaHJlYWQgPSBuZXcgVGhyZWFkKG1pY3J1bm5hYmxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1pY3JvcGhvbmUgbm90IHN1cHBvcnRlZCIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbWljVGhyZWFkLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</last-search>
+      <last-search encoding="base64">XDxzaGFyZWRRdWV1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGVlY2hDbGllbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaGFyZWRRdWV1ZVw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
