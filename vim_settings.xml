@@ -141,11 +141,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591978709151">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591979016219">
         <mark key="'" line="41" column="41" />
-        <mark key="[" line="119" column="46" />
-        <mark key="]" line="119" column="51" />
-        <mark key="." line="119" column="50" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="51" />
       </file>
       <file name="/fragment.java" timestamp="1591973843181">
@@ -258,10 +258,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKGZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>// Add SttSessionCallback.</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Final</text>
@@ -270,34 +270,34 @@
         <text encoding="base64">ICAgICAgICBnb29nbGVTVFRTZXNzaW9uLmFkZFNUVFNlc3Npb25DYWxsYmFjayhzdHRTZXNzaW9uQ2FsbGJhY2spOyAvLyBBZGQgU3R0U2Vzc2lvbkNhbGxiYWNrLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKGZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ29vZ2xlU1RUU2Vzc2lvbi5jbG9zZSgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2xvc2UgdGhlIHNlc3Npb24uCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ29vZ2xlU1RUU2Vzc2lvbi5jbG9zZSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2xvc2UgdGhlIHNlc3Npb24uCg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBJCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>nstantiate GoogleSTTSession.
 //        GoogleSTTSession googleSTTSession = new GoogleSTTSession(loquentiaSession,
 //            new GoogleSTTSettings(fixedCredentialsProvider), meterRegistry, newRelicProxy);
 //        googleSTTSession.addSTTSessionCallback(sttSessionCallback); // Add SttSessionCallback.</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGVTVFRTZXNzaW9uLmFkZFNUVFNlc3Npb25DYWxsYmFjayhzdHRTZXNzaW9uQ2FsbGJhY2spOyAvLyBBZGQgU3R0U2Vzc2lvbkNhbGxiYWNrLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
