@@ -98,6 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1591895133903">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" timestamp="1591971623448">
+        <mark key="'" line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591911506907">
         <mark key="'" line="71" column="79" />
         <mark key="[" line="198" column="40" />
@@ -116,28 +122,14 @@
         <mark key="[" line="555" column="0" />
         <mark key="]" line="555" column="49" />
       </file>
-      <file name="/a.dummy" timestamp="1591895133903">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1591974316308">
+        <mark key="'" line="133" column="45" />
       </file>
       <file name="/Dummy." timestamp="1591895224922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1591892502806">
-        <mark key="'" line="77" column="29" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="84" />
-        <mark key="^" line="122" column="129" />
-        <mark key="." line="122" column="128" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1591930752281">
         <mark key="'" line="181" column="5" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" timestamp="1591971623448">
-        <mark key="'" line="19" column="20" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/service/BearerTokenExtractorTest.java" timestamp="1591895070571">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591971765370">
         <mark key="'" line="147" column="59" />
@@ -152,13 +144,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" timestamp="1591895075676">
-        <mark key="'" line="78" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="34" />
-        <mark key="^" line="79" column="9" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591971162348">
         <mark key="'" line="41" column="41" />
         <mark key="[" line="119" column="46" />
@@ -166,13 +151,11 @@
         <mark key="." line="119" column="50" />
         <mark key="^" line="119" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1591963666964">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1591973843181">
+        <mark key="[" line="0" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
-      <jump line="74" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
       <jump line="120" column="52" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" />
       <jump line="36" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="40" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
@@ -271,6 +254,8 @@
       <jump line="41" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="19" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" />
       <jump line="147" column="59" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="135" column="45" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="133" column="45" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
