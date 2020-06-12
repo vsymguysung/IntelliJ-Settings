@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>subscribeOn</entry>
         <entry>subribeOn</entry>
         <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
         <entry encoding="base64">XDxzcGVlY2hDb250ZXh0c1w+</entry>
@@ -25,6 +24,7 @@
         <entry>debug</entry>
         <entry encoding="base64">XDxtaWNydW5uYWJsZVw+</entry>
         <entry>Final</entry>
+        <entry encoding="base64">XDxzcGxpdENhbGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55,64%/&quot;/'/gc</entry>
@@ -101,8 +101,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" timestamp="1591971623448">
         <mark key="'" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591911506907">
-        <mark key="'" line="71" column="79" />
+      <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591992014641">
+        <mark key="'" line="192" column="57" />
         <mark key="[" line="198" column="40" />
         <mark key="]" line="198" column="20" />
         <mark key="." line="198" column="19" />
@@ -154,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="37" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
-      <jump line="104" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="111" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="26" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="159" column="19" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" />
@@ -254,6 +252,8 @@
       <jump line="89" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
       <jump line="49" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
       <jump line="70" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="261" column="63" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
+      <jump line="192" column="57" filename="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,7 +265,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>Final</text>
+        <text encoding="base64">XDxzcGxpdENhbGxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGVTVFRTZXNzaW9uLmFkZFNUVFNlc3Npb25DYWxsYmFjayhzdHRTZXNzaW9uQ2FsbGJhY2spOyAvLyBBZGQgU3R0U2Vzc2lvbkNhbGxiYWNrLgo=</text>
@@ -307,12 +307,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Final</last-search>
+      <last-search encoding="base64">XDxzcGxpdENhbGxcPg==</last-search>
       <last-offset />
-      <last-pattern>Final</last-pattern>
+      <last-pattern encoding="base64">XDxzcGxpdENhbGxcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
