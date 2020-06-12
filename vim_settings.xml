@@ -98,9 +98,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1591984298746">
-        <mark key="'" line="70" column="15" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" timestamp="1591971623448">
         <mark key="'" line="19" column="20" />
       </file>
@@ -122,11 +119,12 @@
         <mark key="[" line="555" column="0" />
         <mark key="]" line="555" column="49" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1591977268423">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1591989501456">
         <mark key="'" line="109" column="29" />
-      </file>
-      <file name="/Dummy." timestamp="1591895224922">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1591930752281">
         <mark key="'" line="181" column="5" />
@@ -260,11 +258,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKGZhbHNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>Final</text>
