@@ -98,12 +98,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1591891902123">
-        <mark key="'" line="26" column="38" />
-        <mark key="[" line="134" column="33" />
-        <mark key="]" line="134" column="34" />
-        <mark key="." line="134" column="34" />
-      </file>
       <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591911506907">
         <mark key="'" line="71" column="79" />
         <mark key="[" line="198" column="40" />
@@ -121,11 +115,6 @@
         <mark key="'" line="88" column="130" />
         <mark key="[" line="555" column="0" />
         <mark key="]" line="555" column="49" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" timestamp="1591891958030">
-        <mark key="'" line="159" column="19" />
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="56" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1591895133903">
         <mark key="[" line="0" column="0" />
@@ -153,11 +142,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591966281194">
-        <mark key="'" line="132" column="48" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591968471319">
+        <mark key="'" line="134" column="48" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="71" />
+        <mark key="." line="32" column="70" />
+        <mark key="^" line="32" column="71" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591901340343">
         <mark key="'" line="88" column="19" />
@@ -172,12 +162,12 @@
         <mark key="^" line="79" column="9" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591966506223">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1591968088455">
         <mark key="'" line="244" column="0" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="186" column="45" />
+        <mark key="[" line="46" column="56" />
+        <mark key="]" line="46" column="57" />
+        <mark key="." line="46" column="56" />
+        <mark key="^" line="46" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1591963666964">
         <mark key="[" line="0" column="0" />
@@ -288,11 +278,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="-" type="4">
-        <text>availableProcessors()</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWNydW5uYWJsZVw+</text>
