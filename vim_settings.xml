@@ -142,12 +142,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591968471319">
-        <mark key="'" line="134" column="48" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="71" />
-        <mark key="." line="32" column="70" />
-        <mark key="^" line="32" column="71" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591968644549">
+        <mark key="'" line="136" column="48" />
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="34" column="2" />
+        <mark key="." line="34" column="1" />
+        <mark key="^" line="34" column="2" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591901340343">
         <mark key="'" line="88" column="19" />
@@ -279,10 +279,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>This code can be referenced w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>This code can be referenced w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWNydW5uYWJsZVw+</text>
