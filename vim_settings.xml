@@ -98,8 +98,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" timestamp="1592078960797">
-        <mark key="'" line="69" column="58" />
+      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" timestamp="1592081405123">
+        <mark key="'" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" timestamp="1591971623448">
         <mark key="'" line="19" column="20" />
@@ -157,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="44" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" />
-      <jump line="227" column="29" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" />
-      <jump line="58" column="72" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
-      <jump line="78" column="4" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegration.java" />
       <jump line="52" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="64" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="63" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
@@ -257,6 +253,10 @@
       <jump line="9" column="24" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" />
       <jump line="69" column="58" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
       <jump line="7" column="61" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" />
+      <jump line="79" column="56" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
+      <jump line="116" column="55" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
+      <jump line="137" column="55" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
+      <jump line="19" column="6" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/repository/ItemReactiveRepositorytest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
