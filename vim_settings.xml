@@ -115,6 +115,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.3.RELEASE/c5c56bc081d89e2929ffd335b9feb5ac31d7bbf8/spring-test-5.1.3.RELEASE-sources.jar!/org/springframework/test/annotation/DirtiesContext.java" timestamp="1592082654364">
         <mark key="'" line="92" column="52" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/CacheConfiguration.java" timestamp="1592145619402" />
       <file name="$USER_HOME$/GenDev/java-docs-samples/speech/cloud-client/src/main/java/com/example/speech/InfiniteStreamRecognize.java" timestamp="1591992014641">
         <mark key="'" line="192" column="57" />
         <mark key="[" line="198" column="40" />
@@ -132,6 +133,9 @@
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="20" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" timestamp="1592145582283">
+        <mark key="'" line="46" column="103" />
+      </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" timestamp="1592143848569">
         <mark key="'" line="73" column="24" />
       </file>
@@ -140,13 +144,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.3.RELEASE/4d25dba20d74b389419a3a47a35fef9942794d10/reactor-core-3.2.3.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" timestamp="1592084699627">
         <mark key="'" line="3889" column="39" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" timestamp="1591971765370">
-        <mark key="'" line="147" column="59" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="36" column="115" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1591977952453">
         <mark key="'" line="49" column="24" />
@@ -169,8 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="208" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="131" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="87" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="86" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
@@ -269,6 +264,8 @@
       <jump line="83" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="73" column="24" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="15" column="8" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" />
+      <jump line="56" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
+      <jump line="46" column="103" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
