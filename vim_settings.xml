@@ -170,19 +170,18 @@
         <mark key="." line="147" column="22" />
         <mark key="^" line="147" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592254341597">
-        <mark key="'" line="481" column="12" />
-        <mark key="[" line="620" column="15" />
-        <mark key="]" line="620" column="29" />
-        <mark key="." line="627" column="0" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592256038142">
+        <mark key="'" line="337" column="8" />
+        <mark key="[" line="1309" column="9" />
+        <mark key="]" line="1310" column="23" />
+        <mark key="." line="1310" column="22" />
+        <mark key="^" line="1310" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="73" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
-      <jump line="22" column="52" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" />
       <jump line="36" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" />
       <jump line="71" column="21" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" />
       <jump line="51" column="19" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
@@ -246,7 +245,6 @@
       <jump line="19" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" />
       <jump line="168" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="61" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
-      <jump line="711" column="11" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="585" column="20" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="680" column="37" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="55" column="73" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
@@ -281,6 +279,9 @@
       <jump line="479" column="11" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="480" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="481" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="602" column="64" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="711" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="337" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
