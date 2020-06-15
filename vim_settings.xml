@@ -98,12 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592235535381">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592238160519">
         <mark key="'" line="168" column="25" />
-        <mark key="[" line="175" column="8" />
-        <mark key="]" line="175" column="36" />
-        <mark key="^" line="173" column="19" />
-        <mark key="." line="175" column="8" />
+        <mark key="[" line="168" column="14" />
+        <mark key="]" line="168" column="34" />
+        <mark key="^" line="168" column="34" />
+        <mark key="." line="168" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" timestamp="1592186776592">
         <mark key="'" line="58" column="34" />
