@@ -105,32 +105,47 @@
         <mark key="^" line="168" column="34" />
         <mark key="." line="168" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" timestamp="1592186776592">
-        <mark key="'" line="58" column="34" />
-      </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemStreamControllerTest.java" timestamp="1592188307548">
         <mark key="'" line="55" column="21" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1592249893634">
+        <mark key="'" line="32" column="36" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="44" column="9" />
+        <mark key="^" line="44" column="9" />
+        <mark key="." line="44" column="8" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.3.RELEASE/2fca1f1b82d5f3f3275d68a231ae6481facb0952/spring-data-mongodb-2.1.3.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/ReactiveMongoRepository.java" timestamp="1592188685163">
         <mark key="'" line="34" column="90" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1592250388040">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="16" />
+        <mark key="." line="94" column="15" />
+        <mark key="^" line="94" column="16" />
+      </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" timestamp="1592247383135" />
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/exception/ControllerExceptionHandler.java" timestamp="1592182059300" />
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" timestamp="1592188646089">
         <mark key="'" line="98" column="51" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/5.1.5.RELEASE/e23212880fccf6400d692dc092df9c6305f33283/spring-webflux-5.1.5.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1592179491092">
-        <mark key="'" line="484" column="24" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1592249869134">
+        <mark key="'" line="58" column="54" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" timestamp="1592234843918">
         <mark key="'" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592241662679">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592249281441">
         <mark key="'" line="41" column="41" />
-        <mark key="[" line="184" column="52" />
-        <mark key="]" line="184" column="59" />
-        <mark key="." line="184" column="58" />
-        <mark key="^" line="184" column="59" />
+        <mark key="[" line="184" column="51" />
+        <mark key="]" line="185" column="28" />
+        <mark key="." line="185" column="27" />
+        <mark key="^" line="185" column="28" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1592249523878">
+        <mark key="'" line="137" column="99" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/OutputPrompts.java" timestamp="1592231471029">
         <mark key="'" line="12" column="26" />
@@ -139,50 +154,30 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveCappedRepository.java" timestamp="1592188726288">
         <mark key="'" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592182078209">
-        <mark key="'" line="66" column="22" />
-      </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" timestamp="1592185165705">
-        <mark key="'" line="101" column="28" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="49" />
-        <mark key="^" line="35" column="49" />
-        <mark key="." line="35" column="48" />
-      </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/exception/FunctionalErrorWebExceptionHandler.java" timestamp="1592182775425">
-        <mark key="'" line="45" column="36" />
-      </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" timestamp="1592188641172">
         <mark key="'" line="47" column="43" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" timestamp="1592249814256">
+        <mark key="'" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemStreamController.java" timestamp="1592187785365">
         <mark key="'" line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592247563087">
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592248955044">
         <mark key="'" line="110" column="29" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="57" />
-        <mark key="." line="59" column="56" />
-        <mark key="^" line="59" column="57" />
+        <mark key="[" line="147" column="22" />
+        <mark key="]" line="147" column="22" />
+        <mark key="." line="147" column="22" />
+        <mark key="^" line="147" column="26" />
+      </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592247898161">
+        <mark key="'" line="680" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="164" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="193" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="166" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="118" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="110" column="92" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="152" column="8" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="105" column="92" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="104" column="53" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="74" column="81" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="41" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="19" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSession.java" />
-      <jump line="147" column="59" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/stt/GoogleSTTSessionIntegrationTest.java" />
       <jump line="135" column="45" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="133" column="45" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="109" column="29" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
@@ -270,48 +265,61 @@
       <jump line="19" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" />
       <jump line="168" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="61" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="711" column="11" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="585" column="20" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="680" column="37" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="55" column="73" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
+      <jump line="39" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="49" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="82" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="137" column="99" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="36" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="31" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="23" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
+      <jump line="58" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDIwMDAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xpZW50U3RyZWFtIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0YWxEYXRhU2V0VXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLndhcm4oIkdvb2dsZVNUVFNlc3Npb246IGNsaWVudFN0cmVhbSBpcyBudWxsIGZvciBwcm9jZXNzQXVkaW8uIERvdWJsZSBjaGVja2VkIGxvY2sgZmFpbGVkLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiUnVubmluZyBjb21tYW5kPXt9LiIsIGluY29taW5nTWVzc2FnZS5nZXRDb21tYW5kKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDIwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExPRy53YXJuKCIlJSUlJSUlJSBHb29nbGVTVFRTZXNzaW9uOiBjaHVua0NudD17fSBhdWRpb0J5dGVzPXt9IGlkeD17fSB0b3RhbEJ5dGVTZW50PXt9IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaHVua0NudCwgYXVkaW9CeXRlcy5sZW5ndGgsIGksIHRvdGFsQnl0ZXNTZW50KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDQwMDAK</text>
+        <text encoding="base64">ICAgIDIwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDY0MDAK</text>
+        <text encoding="base64">ICAgIDQwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDY0MDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDIqIDQwMDAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDIqIDQwMDAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDgwMDAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIDgwMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKHRydWUpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
