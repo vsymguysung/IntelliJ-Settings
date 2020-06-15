@@ -98,8 +98,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592243684210">
-        <mark key="'" line="61" column="57" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592246972907">
+        <mark key="'" line="61" column="54" />
         <mark key="[" line="168" column="14" />
         <mark key="]" line="168" column="34" />
         <mark key="^" line="168" column="34" />
@@ -111,14 +111,10 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemStreamControllerTest.java" timestamp="1592188307548">
         <mark key="'" line="55" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" timestamp="1592168998367">
-        <mark key="'" line="128" column="55" />
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="110" column="45" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.3.RELEASE/2fca1f1b82d5f3f3275d68a231ae6481facb0952/spring-data-mongodb-2.1.3.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/ReactiveMongoRepository.java" timestamp="1592188685163">
         <mark key="'" line="34" column="90" />
       </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" timestamp="1592247383135" />
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/exception/ControllerExceptionHandler.java" timestamp="1592182059300" />
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" timestamp="1592188646089">
         <mark key="'" line="98" column="51" />
@@ -156,18 +152,18 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/exception/FunctionalErrorWebExceptionHandler.java" timestamp="1592182775425">
         <mark key="'" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/handler/ItemHandlerTest.java" timestamp="1592177971821">
-        <mark key="'" line="105" column="22" />
-        <mark key="[" line="124" column="5" />
-        <mark key="]" line="119" column="46" />
-        <mark key="." line="119" column="46" />
-        <mark key="^" line="105" column="32" />
-      </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" timestamp="1592188641172">
         <mark key="'" line="47" column="43" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemStreamController.java" timestamp="1592187785365">
         <mark key="'" line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592247563087">
+        <mark key="'" line="110" column="29" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="57" />
+        <mark key="." line="59" column="56" />
+        <mark key="^" line="59" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
@@ -273,13 +269,13 @@
       <jump line="39" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" />
       <jump line="19" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" />
       <jump line="168" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
-      <jump line="61" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="61" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2xpZW50U3RyZWFtIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDIwMDAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xpZW50U3RyZWFtIA==</text>
@@ -291,31 +287,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLndhcm4oIkdvb2dsZVNUVFNlc3Npb246IGNsaWVudFN0cmVhbSBpcyBudWxsIGZvciBwcm9jZXNzQXVkaW8uIERvdWJsZSBjaGVja2VkIGxvY2sgZmFpbGVkLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIDIwMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgIDQwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIDY0MDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDIqIDQwMDAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKHNlZ21lbnRzID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VnbWVudHMgIT0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIDgwMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0U2luZ2xlVXR0ZXJhbmNlKHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
