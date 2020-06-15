@@ -129,12 +129,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/CreateTurnResponse.java" timestamp="1592234843918">
         <mark key="'" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592236147250">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592241662679">
         <mark key="'" line="41" column="41" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="119" column="51" />
+        <mark key="[" line="184" column="52" />
+        <mark key="]" line="184" column="59" />
+        <mark key="." line="184" column="58" />
+        <mark key="^" line="184" column="59" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/OutputPrompts.java" timestamp="1592231471029">
         <mark key="'" line="12" column="26" />
@@ -278,17 +278,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xpZW50U3RyZWFtIA==</text>
       </register>
       <register name="-" type="4">
-        <text>segments</text>
+        <text encoding="base64">Y2xpZW50U3RyZWFtIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0YWxEYXRhU2V0VXBcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxQcm9tcHRTZWdtZW50PiBzZWdtZW50cw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HLndhcm4oIkdvb2dsZVNUVFNlc3Npb246IGNsaWVudFN0cmVhbSBpcyBudWxsIGZvciBwcm9jZXNzQXVkaW8uIERvdWJsZSBjaGVja2VkIGxvY2sgZmFpbGVkLiIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
