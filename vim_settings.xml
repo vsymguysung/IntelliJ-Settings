@@ -163,8 +163,8 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemStreamController.java" timestamp="1592187785365">
         <mark key="'" line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592252161757">
-        <mark key="'" line="110" column="29" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592313312637">
+        <mark key="'" line="125" column="58" />
         <mark key="[" line="147" column="22" />
         <mark key="]" line="147" column="22" />
         <mark key="." line="147" column="22" />
@@ -182,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="28" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
-      <jump line="83" column="52" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
       <jump line="86" column="74" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
       <jump line="31" column="44" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" />
       <jump line="89" column="31" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
@@ -282,6 +280,8 @@
       <jump line="1311" column="27" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1313" column="26" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1232" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="115" column="16" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="125" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
