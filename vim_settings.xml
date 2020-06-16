@@ -170,12 +170,12 @@
         <mark key="." line="78" column="31" />
         <mark key="^" line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592320896236">
-        <mark key="'" line="1202" column="8" />
-        <mark key="[" line="1206" column="0" />
-        <mark key="]" line="1206" column="77" />
-        <mark key="." line="1313" column="70" />
-        <mark key="^" line="1313" column="71" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592321159787">
+        <mark key="'" line="1291" column="8" />
+        <mark key="[" line="1314" column="36" />
+        <mark key="]" line="1315" column="34" />
+        <mark key="." line="1315" column="33" />
+        <mark key="^" line="1315" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
@@ -278,10 +278,10 @@
       <jump line="1314" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="609" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="574" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" />
-      <jump line="1206" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1291" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1344" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1202" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1206" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1291" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
