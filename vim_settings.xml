@@ -98,8 +98,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592335295912">
-        <mark key="'" line="61" column="54" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592336534862">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="168" column="9" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemStreamControllerTest.java" timestamp="1592188307548">
         <mark key="'" line="55" column="21" />
@@ -280,7 +283,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UHJvbXB0U2VnbWVudD4gc2VnbWVudHMgPSB0dXJuUmVzcG9uc2UuZ2V0UHJvbXB0cygpLmdldFRleHRQcm9tcHRzKCkuZ2V0U2VnbWVudHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -292,31 +295,33 @@
         <text encoding="base64">ICAgICAgICBBdWRpb0NvbnRleHRDbGFzcyA9IHdpbmRvdy5BdWRpb0NvbnRleHQgfHwgd2luZG93LndlYmtpdEF1ZGlvQ29udGV4dDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UHJvbXB0U2VnbWVudD4gc2VnbWVudHMgPSB0dXJuUmVzcG9uc2UuZ2V0UHJvbXB0cygpLmdldFRleHRQcm9tcHRzKCkuZ2V0U2VnbWVudHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0NvbnRleHRDbGFzcy5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb21wdFNlZ21lbnQ+IHNlZ21lbnRzID0gdHVyblJlc3BvbnNlLmdldFByb21wdHMoKS5nZXRWb2ljZVByb21wdHMoKS5nZXRTZWdtZW50cygpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlci5pbml0aWFsaXplKCk7Cg==</text>
+      <register name="3" type="4">
+        <text>if (segments.isEmpty()) {
+            return Mono.empty();
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBCWVRFU19QRVJfQlVGRkVSID0gNDA5NiAqIDI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UHJvbXB0U2VnbWVudD4gc2VnbWVudHMgPSB0dXJuUmVzcG9uc2UuZ2V0UHJvbXB0cygpLmdldFRleHRQcm9tcHRzKCkuZ2V0U2VnbWVudHMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5ldyBGbG9hdDMyQXJyYXkob3V0cHV0U2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpb0NvbnRleHRDbGFzcy5jbG9zZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlci5pbml0aWFsaXplKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExPRy53YXJuKCIlJSUlJSUlJSBHb29nbGVTVFRTZXNzaW9uOiBjaHVua0NudD17fSBhdWRpb0J5dGVzPXt9IGlkeD17fSB0b3RhbEJ5dGVTZW50PXt9IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaHVua0NudCwgYXVkaW9CeXRlcy5sZW5ndGgsIGksIHRvdGFsQnl0ZXNTZW50KTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBCWVRFU19QRVJfQlVGRkVSID0gNDA5NiAqIDI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDIwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5ldyBGbG9hdDMyQXJyYXkob3V0cHV0U2l6ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDQwMDAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
