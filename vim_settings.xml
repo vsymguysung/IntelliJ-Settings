@@ -170,20 +170,18 @@
         <mark key="." line="147" column="22" />
         <mark key="^" line="147" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592256038142">
-        <mark key="'" line="337" column="8" />
-        <mark key="[" line="1309" column="9" />
-        <mark key="]" line="1310" column="23" />
-        <mark key="." line="1310" column="22" />
-        <mark key="^" line="1310" column="23" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592310576515">
+        <mark key="'" line="608" column="29" />
+        <mark key="[" line="608" column="125" />
+        <mark key="]" line="608" column="81" />
+        <mark key="." line="608" column="80" />
+        <mark key="^" line="608" column="81" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" />
-      <jump line="71" column="21" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/initialize/ItemDataInitializer.java" />
       <jump line="51" column="19" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
       <jump line="3889" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.3.RELEASE/4d25dba20d74b389419a3a47a35fef9942794d10/reactor-core-3.2.3.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
       <jump line="98" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
@@ -282,6 +280,8 @@
       <jump line="602" column="64" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="711" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="337" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="597" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="608" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
