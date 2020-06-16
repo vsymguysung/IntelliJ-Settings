@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>55,64%/&quot;/'/gc</entry>
         <entry>53,64 %s/&quot;/'/gc</entry>
         <entry>23,34%s/&quot;/'/gc</entry>
         <entry>29,32%s/&quot;/'/gc</entry>
@@ -46,6 +45,7 @@
         <entry>q</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -163,29 +163,25 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemStreamController.java" timestamp="1592187785365">
         <mark key="'" line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592313312637">
-        <mark key="'" line="125" column="58" />
-        <mark key="[" line="147" column="22" />
-        <mark key="]" line="147" column="22" />
-        <mark key="." line="147" column="22" />
-        <mark key="^" line="147" column="26" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592316917077">
+        <mark key="'" line="146" column="23" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="31" />
+        <mark key="^" line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592312734125">
-        <mark key="'" line="1232" column="8" />
-        <mark key="[" line="1311" column="0" />
-        <mark key="]" line="1312" column="64" />
-        <mark key="." line="1312" column="63" />
-        <mark key="^" line="1312" column="64" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592317228533">
+        <mark key="'" line="609" column="12" />
+        <mark key="[" line="1314" column="0" />
+        <mark key="]" line="1314" column="0" />
+        <mark key="." line="1314" column="0" />
+        <mark key="^" line="1313" column="71" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="74" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
-      <jump line="31" column="44" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" />
-      <jump line="89" column="31" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
-      <jump line="24" column="58" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="68" column="45" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="81" column="29" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="76" column="36" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
@@ -282,45 +278,49 @@
       <jump line="1232" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="115" column="16" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="125" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="59" column="35" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="146" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
+      <jump line="1314" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="609" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlci5pbml0aWFsaXplKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>g_playingSource</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlciA9IG5ldyBSZXNhbXBsZXIoZ19hdWRpb0NvbnRleHQuc2FtcGxlUmF0ZSwgZ190YXJnZXRTYW1wbGVSYXRlLCAxLCBuZXcgRmxvYXQzMkFycmF5KGdfYXVkaW9CdWZmZXJTaXplKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5ldyBGbG9hdDMyQXJyYXkob3V0cHV0U2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlci5pbml0aWFsaXplKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBCWVRFU19QRVJfQlVGRkVSID0gNDA5NiAqIDI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExPRy53YXJuKCIlJSUlJSUlJSBHb29nbGVTVFRTZXNzaW9uOiBjaHVua0NudD17fSBhdWRpb0J5dGVzPXt9IGlkeD17fSB0b3RhbEJ5dGVTZW50PXt9IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaHVua0NudCwgYXVkaW9CeXRlcy5sZW5ndGgsIGksIHRvdGFsQnl0ZXNTZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5ldyBGbG9hdDMyQXJyYXkob3V0cHV0U2l6ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDIwMDAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDQwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExPRy53YXJuKCIlJSUlJSUlJSBHb29nbGVTVFRTZXNzaW9uOiBjaHVua0NudD17fSBhdWRpb0J5dGVzPXt9IGlkeD17fSB0b3RhbEJ5dGVTZW50PXt9IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaHVua0NudCwgYXVkaW9CeXRlcy5sZW5ndGgsIGksIHRvdGFsQnl0ZXNTZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDY0MDAK</text>
+        <text encoding="base64">ICAgIDIwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDQwMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDIqIDQwMDAK</text>
+        <text encoding="base64">ICAgIDY0MDAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
