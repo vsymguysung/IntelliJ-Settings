@@ -170,22 +170,18 @@
         <mark key="." line="147" column="22" />
         <mark key="^" line="147" column="26" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592310576515">
-        <mark key="'" line="608" column="29" />
-        <mark key="[" line="608" column="125" />
-        <mark key="]" line="608" column="81" />
-        <mark key="." line="608" column="80" />
-        <mark key="^" line="608" column="81" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592311861803">
+        <mark key="'" line="1311" column="27" />
+        <mark key="[" line="1311" column="0" />
+        <mark key="]" line="1312" column="64" />
+        <mark key="." line="1312" column="63" />
+        <mark key="^" line="1312" column="64" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="19" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
-      <jump line="3889" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.3.RELEASE/4d25dba20d74b389419a3a47a35fef9942794d10/reactor-core-3.2.3.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" />
-      <jump line="98" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
-      <jump line="55" column="38" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
       <jump line="47" column="46" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
       <jump line="9" column="4" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/document/Item.java" />
       <jump line="149" column="28" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/controller/v1/ItemControllerTest.java" />
@@ -282,15 +278,19 @@
       <jump line="337" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="597" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="608" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="669" column="28" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="626" column="83" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1349" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1311" column="27" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>g_playingSource</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8gICAg</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</text>
