@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydFJlY29nbml0aW9uXD4=</entry>
         <entry encoding="base64">XDx0dXJuUmVzcG9uc2VcPg==</entry>
         <entry>google-cloud-speech</entry>
         <entry encoding="base64">XDxwcm9jZXNzQm90UmVzcG9uc2VcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpbml0YWxEYXRhU2V0VXBcPg==</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxBdWRpb0NvbnRleHRDbGFzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -170,10 +170,10 @@
         <mark key="." line="78" column="31" />
         <mark key="^" line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592318565442">
-        <mark key="'" line="609" column="12" />
-        <mark key="[" line="1313" column="70" />
-        <mark key="]" line="1313" column="70" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592320896236">
+        <mark key="'" line="1202" column="8" />
+        <mark key="[" line="1206" column="0" />
+        <mark key="]" line="1206" column="77" />
         <mark key="." line="1313" column="70" />
         <mark key="^" line="1313" column="71" />
       </file>
@@ -182,10 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="29" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
-      <jump line="76" column="36" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
-      <jump line="83" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
-      <jump line="73" column="24" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="15" column="8" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" />
       <jump line="56" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
       <jump line="46" column="103" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/BotCredentialCacheHandlerImpl.java" />
@@ -282,21 +278,25 @@
       <jump line="1314" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="609" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="574" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" />
+      <jump line="1206" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1291" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1344" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1202" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBdWRpb0NvbnRleHRDbGFzcyA9IHdpbmRvdy5BdWRpb0NvbnRleHQgfHwgd2luZG93LndlYmtpdEF1ZGlvQ29udGV4dDsK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</text>
+        <text encoding="base64">XDxBdWRpb0NvbnRleHRDbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlciA9IG5ldyBSZXNhbXBsZXIoZ19hdWRpb0NvbnRleHQuc2FtcGxlUmF0ZSwgZ190YXJnZXRTYW1wbGVSYXRlLCAxLCBuZXcgRmxvYXQzMkFycmF5KGdfYXVkaW9CdWZmZXJTaXplKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpb0NvbnRleHRDbGFzcyA9IHdpbmRvdy5BdWRpb0NvbnRleHQgfHwgd2luZG93LndlYmtpdEF1ZGlvQ29udGV4dDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlci5pbml0aWFsaXplKCk7Cg==</text>
@@ -332,9 +332,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</last-search>
+      <last-search encoding="base64">XDxBdWRpb0NvbnRleHRDbGFzc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBdWRpb0NvbnRleHRDbGFzc1w+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
