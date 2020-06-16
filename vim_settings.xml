@@ -144,6 +144,9 @@
         <mark key="." line="185" column="27" />
         <mark key="^" line="185" column="28" />
       </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" timestamp="1592318231550">
+        <mark key="'" line="574" column="21" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1592249523878">
         <mark key="'" line="137" column="99" />
       </file>
@@ -160,9 +163,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" timestamp="1592251715302">
         <mark key="'" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemStreamController.java" timestamp="1592187785365">
-        <mark key="'" line="19" column="33" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592316917077">
         <mark key="'" line="146" column="23" />
         <mark key="[" line="78" column="28" />
@@ -170,11 +170,11 @@
         <mark key="." line="78" column="31" />
         <mark key="^" line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592317228533">
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592318565442">
         <mark key="'" line="609" column="12" />
-        <mark key="[" line="1314" column="0" />
-        <mark key="]" line="1314" column="0" />
-        <mark key="." line="1314" column="0" />
+        <mark key="[" line="1313" column="70" />
+        <mark key="]" line="1313" column="70" />
+        <mark key="." line="1313" column="70" />
         <mark key="^" line="1313" column="71" />
       </file>
       <file name="/fragment.java" timestamp="1592234987320">
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="45" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="81" column="29" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="76" column="36" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
       <jump line="83" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" />
@@ -282,12 +281,13 @@
       <jump line="146" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="1314" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="609" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="574" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnX3Jlc2FtcGxlci5pbml0aWFsaXplKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
