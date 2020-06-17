@@ -121,8 +121,8 @@
         <mark key="^" line="94" column="16" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" timestamp="1592247383135" />
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/handler/ItemsHandler.java" timestamp="1592188646089">
-        <mark key="'" line="98" column="51" />
+      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.ts" timestamp="1592392625071">
+        <mark key="'" line="84" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1592249869134">
         <mark key="'" line="58" column="54" />
@@ -145,7 +145,7 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" timestamp="1592318231550">
         <mark key="'" line="574" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1592392474921">
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1592392717248">
         <mark key="'" line="42" column="21" />
         <mark key="j" line="21" column="4" />
       </file>
@@ -181,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="84" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" />
       <jump line="21" column="17" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/item-client/src/main/java/com/learnreactivespring/controller/ItemClientController.java" />
       <jump line="66" column="22" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
       <jump line="38" column="41" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/router/ItemsRouter.java" />
@@ -281,6 +280,7 @@
       <jump line="1306" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="54" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" />
       <jump line="42" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" />
+      <jump line="84" column="40" filename="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
