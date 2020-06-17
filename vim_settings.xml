@@ -98,8 +98,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592427056404">
-        <mark key="'" line="176" column="12" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592427577187">
+        <mark key="'" line="171" column="77" />
         <mark key="[" line="176" column="105" />
         <mark key="]" line="177" column="38" />
         <mark key="^" line="177" column="38" />
@@ -187,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="29" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveCappedRepository.java" />
-      <jump line="172" column="27" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="31" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/OutputPrompts.java" />
       <jump line="12" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/OutputPrompts.java" />
       <jump line="169" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
@@ -287,6 +285,8 @@
       <jump line="143" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="179" column="34" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="176" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="178" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="171" column="77" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
