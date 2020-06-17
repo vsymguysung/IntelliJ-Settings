@@ -145,8 +145,9 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" timestamp="1592318231550">
         <mark key="'" line="574" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1592362237190">
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1592392474921">
         <mark key="'" line="42" column="21" />
+        <mark key="j" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1592249523878">
         <mark key="'" line="137" column="99" />
