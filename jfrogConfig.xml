@@ -1,0 +1,10 @@
+<application>
+  <component name="GlobalSettings">
+    <option name="xrayConfig">
+      <XrayServerConfigImpl>
+        <option name="url" value="" />
+        <excludedPaths>**/*{.idea,test,node_modules}*</excludedPaths>
+      </XrayServerConfigImpl>
+    </option>
+  </component>
+</application>
