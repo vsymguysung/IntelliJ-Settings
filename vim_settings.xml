@@ -112,6 +112,12 @@
         <mark key="." line="44" column="8" />
         <mark key="^" line="44" column="12" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" timestamp="1592395664924">
+        <mark key="'" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592423601845">
+        <mark key="'" line="143" column="33" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" timestamp="1592408181721">
         <mark key="[" line="193" column="47" />
         <mark key="]" line="93" column="86" />
@@ -120,6 +126,13 @@
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" timestamp="1592318231550">
         <mark key="'" line="574" column="21" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592316917077">
+        <mark key="'" line="146" column="23" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="31" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1592395310524">
         <mark key="'" line="42" column="21" />
@@ -137,35 +150,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/model/prompts/OutputPrompts.java" timestamp="1592406581973">
         <mark key="'" line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.ts" timestamp="1592392625071">
-        <mark key="'" line="84" column="40" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" timestamp="1592395664924">
-        <mark key="'" line="29" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592423601845">
-        <mark key="'" line="143" column="33" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" timestamp="1592316917077">
-        <mark key="'" line="146" column="23" />
-        <mark key="[" line="78" column="28" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="31" />
-        <mark key="^" line="78" column="32" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/IntegrationValidationHandshakeInterceptor.java" timestamp="1592398484027" />
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592362218312">
-        <mark key="'" line="1306" column="8" />
-        <mark key="[" line="1315" column="0" />
-        <mark key="]" line="1315" column="0" />
-        <mark key="." line="1315" column="0" />
-        <mark key="^" line="1315" column="34" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1592249869134">
         <mark key="'" line="58" column="54" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.ts" timestamp="1592392625071">
+        <mark key="'" line="84" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" timestamp="1592399891197">
         <mark key="'" line="63" column="58" />
