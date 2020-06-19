@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdWRpb0lucHV0XD4=</entry>
-        <entry>debug</entry>
-        <entry encoding="base64">XDxtaWNydW5uYWJsZVw+</entry>
         <entry>Final</entry>
         <entry encoding="base64">XDxzcGxpdENhbGxcPg==</entry>
         <entry encoding="base64">XDxpbml0YWxEYXRhU2V0VXBcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxnX21lZGlhRGV2aWNlXD4=</entry>
         <entry encoding="base64">XDxnX3Byb2Nlc3Nvclw+</entry>
         <entry encoding="base64">XDxnX3Jlc2FtcGxlclw+</entry>
+        <entry encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</entry>
+        <entry encoding="base64">XDxKV1RfUVVFUllfUEFSQU1cPg==</entry>
+        <entry encoding="base64">XDxUVFNfUVVFUllfUEFSQU1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -138,15 +138,12 @@
         <mark key="'" line="42" column="21" />
         <mark key="j" line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1592249523878">
-        <mark key="'" line="137" column="99" />
-      </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592563446898">
-        <mark key="'" line="555" column="22" />
-        <mark key="[" line="568" column="14" />
-        <mark key="]" line="568" column="14" />
-        <mark key="." line="568" column="14" />
-        <mark key="^" line="111" column="23" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592566301681">
+        <mark key="'" line="535" column="55" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1592250388040">
         <mark key="[" line="94" column="0" />
@@ -159,6 +156,11 @@
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" timestamp="1592510849697">
         <mark key="'" line="28" column="34" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/package.json" timestamp="1592566041716">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -191,13 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="669" column="28" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="626" column="83" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1349" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1313" column="26" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1232" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="115" column="16" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="125" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="59" column="35" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
       <jump line="146" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
@@ -291,48 +286,57 @@
       <jump line="1336" column="45" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="666" column="14" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="555" column="22" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="26" column="56" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1321" column="14" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="55" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="56" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="548" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="535" column="55" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgSldUX1FVRVJZX1BBUkFNID0gJ2p3dCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnX3Jlc2FtcGxlclw+</text>
+        <text encoding="base64">XDxUVFNfUVVFUllfUEFSQU1cPg==</text>
       </register>
       <register name="0" type="4">
         <text>MediaDevices</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgSldUX1FVRVJZX1BBUkFNID0gJ2p3dCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChnX21lZGlhRGV2aWNlKSByZXR1cm47Cg==</text>
+        <text encoding="base64">Y29uc3QgQk9UX1ZFUlNJT05fUVVFUllfUEFSQU0gPSAnYm90dmVyc2lvbic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGdfbWVkaWFEZXZpY2UgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICJAcHVyZWNsb3VkL3NlcnZpY2UtZGlzY292ZXJ5LW5vZGUiOiAiXjIuMi41OSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChnX2F1ZGlvQ29udGV4dCkK</text>
+        <text encoding="base64">IGZyb20gJ0BwdXJlY2xvdWQvc2VydmljZS1kaXNjb3Zlcnktbm9kZSc7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>import {
+    InMemory as serviceDiscovery
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGF0ZW5jeUhpbnQ6ICdpbnRlcmFjdGl2ZScsCg==</text>
+        <text encoding="base64">Y29uc3QgbG9xdWVudGlhU2VydmljZUJhc2VVcmwgPSBzZXJ2aWNlRGlzY292ZXJ5LmdldFB1YmxpY1NlcnZpY2VVcmkoJ0xPUVVFTlRJQScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3BlZWNoSW50ZWdyYXRpb25TZXJ2aWNlQmFzZVVybCA9IHNlcnZpY2VEaXNjb3ZlcnkuZ2V0U2VydmljZVVyaSgnU1BFRUNIX0lOVEVHUkFUSU9OJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9xdWVudGlhU2VydmljZUJhc2VVcmwgPSBzZXJ2aWNlRGlzY292ZXJ5LmdldFB1YmxpY1NlcnZpY2VVcmkoJ0xPUVVFTlRJQScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ19hdWRpb0NvbnRleHQuc2FtcGxlUmF0ZSApCg==</text>
+        <text encoding="base64">Y29uc3Qgc3BlZWNoSW50ZWdyYXRpb25TZXJ2aWNlQmFzZVVybCA9IHNlcnZpY2VEaXNjb3ZlcnkuZ2V0U2VydmljZVVyaSgnU1BFRUNIX0lOVEVHUkFUSU9OJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnX3Jlc2FtcGxlclw+</last-search>
+      <last-search encoding="base64">XDxUVFNfUVVFUllfUEFSQU1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnX3Jlc2FtcGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxUVFNfUVVFUllfUEFSQU1cPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
