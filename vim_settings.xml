@@ -98,8 +98,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592505781395">
-        <mark key="'" line="150" column="33" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592567266128">
+        <mark key="'" line="21" column="35" />
         <mark key="[" line="176" column="105" />
         <mark key="]" line="177" column="38" />
         <mark key="^" line="177" column="38" />
@@ -115,8 +115,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" timestamp="1592395664924">
         <mark key="'" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592423601845">
-        <mark key="'" line="143" column="33" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592567449735">
+        <mark key="'" line="226" column="17" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" timestamp="1592408181721">
         <mark key="[" line="193" column="47" />
@@ -137,6 +137,9 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1592395310524">
         <mark key="'" line="42" column="21" />
         <mark key="j" line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592567328961">
+        <mark key="'" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592566301681">
         <mark key="'" line="535" column="55" />
@@ -169,12 +172,6 @@
         <mark key="[" line="10292" column="10" />
         <mark key="]" line="10292" column="21" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTResponseObserver.java" timestamp="1592249869134">
-        <mark key="'" line="58" column="54" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/auth-lambda/src/index.ts" timestamp="1592392625071">
         <mark key="'" line="84" column="40" />
       </file>
@@ -193,12 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="58" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="59" column="35" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="146" column="23" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSessionIntegrationTest.java" />
-      <jump line="609" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="574" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/ui/static/js/app.js" />
-      <jump line="1344" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1202" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1206" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1291" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -293,6 +284,12 @@
       <jump line="56" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="548" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="535" column="55" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="21" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="14" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
+      <jump line="102" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="172" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="31" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="226" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
