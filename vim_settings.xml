@@ -150,8 +150,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592568512732">
         <mark key="'" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592860169786">
-        <mark key="'" line="1084" column="35" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592860679012">
+        <mark key="'" line="333" column="8" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -176,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1189" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="557" column="10" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1279" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1343" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="556" column="22" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1344" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -276,6 +273,9 @@
       <jump line="49" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1186" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1084" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1345" column="23" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="561" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="333" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
