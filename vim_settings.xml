@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592568512732">
         <mark key="'" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592838388736">
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592839147914">
         <mark key="'" line="558" column="7" />
-        <mark key="[" line="566" column="44" />
-        <mark key="]" line="566" column="45" />
-        <mark key="." line="566" column="44" />
-        <mark key="^" line="566" column="45" />
+        <mark key="[" line="1336" column="9" />
+        <mark key="]" line="1337" column="8" />
+        <mark key="." line="1337" column="7" />
+        <mark key="^" line="1337" column="8" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/handler/ItemStreamsHandlerTest.java" timestamp="1592567846460">
         <mark key="'" line="51" column="19" />
@@ -283,7 +283,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, closing it!</text>
+        <text>configureUserMediaCallback</text>
       </register>
       <register name="-" type="4">
         <text>, closing it!</text>
@@ -291,35 +291,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnX2RpYWxvZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZShgRXhpc3RpbmcgZGlhbG9nICR7Z19kaWFsb2cuaWR9LCBjbG9zaW5nIGl0IWApOwo=</text>
+      <register name="0" type="4">
+        <text>configureUserMediaCallback</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRCb3QoYm90UGFyYW1ldGVyLmJvdElkLCBib3RQYXJhbWV0ZXIuYm90VmVyc2lvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnX2F1ZGlvQ29udGV4dCA9IG5ldyBBdWRpb0NvbnRleHRDbGFzcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBnX2F1ZGlvQ29udGV4dCA9IG5ldyBBdWRpb0NvbnRleHRDbGFzcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnX3Byb2Nlc3Nvcikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEF1ZGlvQ29udGV4dENsYXNzID0gd2luZG93LkF1ZGlvQ29udGV4dCB8fCB3aW5kb3cud2Via2l0QXVkaW9Db250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnX3Byb2Nlc3Nvcikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEF1ZGlvQ29udGV4dENsYXNzID0gd2luZG93LkF1ZGlvQ29udGV4dCB8fCB3aW5kb3cud2Via2l0QXVkaW9Db250ZXh0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
