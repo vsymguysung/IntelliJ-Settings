@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Mono.of</entry>
-        <entry encoding="base64">XDxjcmVhdGVUdXJuXD4=</entry>
-        <entry encoding="base64">XDxnX3RhcmdldFNhbXBsZVJhdGVcPg==</entry>
-        <entry>create</entry>
-        <entry encoding="base64">XDxwcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxnX2F1ZGlvSW5wdXRcPg==</entry>
         <entry encoding="base64">XDxnX21lZGlhRGV2aWNlXD4=</entry>
         <entry encoding="base64">XDxnX3Jlc2FtcGxlclw+</entry>
@@ -24,7 +19,12 @@
         <entry encoding="base64">XDxnX2RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxjb25maWd1cmVVc2VyTWVkaWFDYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxnX2F1ZGlvX3N0cmVhbV9zb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxnX3NjcmlwdFByb2Nlc3Nvclw+</entry>
+        <entry encoding="base64">XDxnX2F1ZGlvU3RyZWFtU291cmNlXD4=</entry>
         <entry encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDxnX3JlU2FtcGxlclw+</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplQXVkaW9TdHJlYW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -137,7 +137,7 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592568030868">
         <mark key="'" line="86" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592838012059">
+      <file name="/Dummy.txt" timestamp="1592841399685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" timestamp="1592568520946">
@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592568512732">
         <mark key="'" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592840446208">
-        <mark key="'" line="1216" column="8" />
-        <mark key="[" line="566" column="28" />
-        <mark key="]" line="566" column="29" />
-        <mark key="." line="566" column="28" />
-        <mark key="^" line="566" column="29" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592841810153">
+        <mark key="'" line="1218" column="16" />
+        <mark key="[" line="1216" column="0" />
+        <mark key="]" line="1217" column="49" />
+        <mark key="." line="1217" column="48" />
+        <mark key="^" line="1217" column="49" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/handler/ItemStreamsHandlerTest.java" timestamp="1592567846460">
         <mark key="'" line="51" column="19" />
@@ -173,32 +173,11 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" timestamp="1592567928038">
         <mark key="'" line="9" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1592838012021">
+      <file name="/fragment.java" timestamp="1592841399671">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" />
-      <jump line="157" column="24" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" />
-      <jump line="658" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="579" column="46" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="653" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="659" column="5" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="21" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" />
-      <jump line="28" column="34" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" />
-      <jump line="576" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1325" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="575" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="570" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="654" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="571" column="13" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="110" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="111" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="592" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="590" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="583" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="582" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="112" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="601" column="77" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1350" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1336" column="45" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -243,7 +222,6 @@
       <jump line="661" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1353" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="572" column="51" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="569" column="51" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1341" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1342" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1278" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -253,7 +231,6 @@
       <jump line="557" column="10" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1279" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1343" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="566" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="556" column="22" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1344" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1280" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -261,10 +238,7 @@
       <jump line="1191" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="666" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="665" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="589" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="578" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="577" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="108" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="558" column="7" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="681" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1338" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -276,53 +250,79 @@
       <jump line="435" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="451" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="453" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="458" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1216" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="671" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="608" column="40" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="599" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="597" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="590" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="579" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="578" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="108" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="669" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="593" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="582" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="581" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="107" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="569" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="571" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="458" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="670" column="39" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="588" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="589" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="596" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="598" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="607" column="73" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="683" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="109" column="7" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="566" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1218" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gbGV0IGdfcmVTYW1wbGVyID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>configureUserMediaCallback</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</text>
+        <text encoding="base64">XDxpbml0aWFsaXplQXVkaW9TdHJlYW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2UoYEVycm9yIGluaXRpYWxpemluZyBhdWRpbyBzdHJlYW06ICR7ZXJyfWApOwogICAgICAgICAgICAkKCcjZXJyb3JNZXNzYWdlJykudGV4dCgnVW5hYmxlIHRvIHN0YXJ0IGF1ZGlvIHN0cmVhbSBmcm9tIG1pY3JvcGhvbmUhJyk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBhdWRpb1N0cmVhbVNvdXJjZSA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gbGV0IGdfcmVTYW1wbGVyID0gbnVsbDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZG9jdW1lbnQub25yZWFkeXN0YXRlY2hhbmdlID0gKCkgPT4gewogICAgaWYgKGRvY3VtZW50LnJlYWR5U3RhdGUgPT09ICdjb21wbGV0ZScpIHsKICAgICAgICAvLyBkb2N1bWVudCByZWFkeQogICAgfQp9Owo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gbGV0IGdfc2NyaXB0UHJvY2Vzc29yID0gbnVsbDsK</text>
       </register>
-      <register name="3" type="4">
-        <text>if (!AudioContextClass) {
-        trace(`Error initializing audio stream: ${err}`);
-        $('#errorMessage').text('Unable to start audio stream from microphone!');
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gbGV0IGdfYXVkaW9TdHJlYW1Tb3VyY2UgID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnX3NjcmlwdFByb2Nlc3Nvcikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmVVc2VyTWVkaWFDYWxsYmFjayhBdWRpb0NvbnRleHRDbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnX2F1ZGlvU3RyZWFtU291cmNlKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>g_processor = g_audioContext.createScriptProcessor(g_audioBufferSize, 1, 1);
+            }
+            // Note: The resampler we're using here is a bit simplistic and doesn't does not have
+            // an antialiasing filter for downsampling.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Ly8gQ29uZmlndXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -331,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</last-search>
+      <last-search encoding="base64">XDxpbml0aWFsaXplQXVkaW9TdHJlYW1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0aWFsaXplQXVkaW9TdHJlYW1cPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
