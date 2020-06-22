@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0YWxEYXRhU2V0VXBcPg==</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxnX3BsYXlpbmdTb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxMb3F1ZW50aWFfVVJMXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxUVFNfUVVFUllfUEFSQU1cPg==</entry>
         <entry encoding="base64">XDxzZW5kRHRtZlw+</entry>
         <entry encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -146,8 +146,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592568512732">
         <mark key="'" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592828974216">
-        <mark key="'" line="535" column="55" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592830606854">
+        <mark key="'" line="104" column="4" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -178,11 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
-      <jump line="27" column="83" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
-      <jump line="29" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
-      <jump line="67" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
-      <jump line="62" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="63" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/LoquentiaAuthProxy.java" />
       <jump line="40" column="83" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
       <jump line="182" column="74" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
@@ -278,6 +273,11 @@
       <jump line="226" column="17" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="143" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="91" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="569" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="458" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="453" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="451" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="104" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +289,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</text>
+        <text encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</text>
       </register>
       <register name="0" type="4">
         <text>MediaDevices</text>
@@ -330,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
