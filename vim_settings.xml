@@ -5,15 +5,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnX2F1ZGlvSW5wdXRcPg==</entry>
-        <entry encoding="base64">XDxnX21lZGlhRGV2aWNlXD4=</entry>
-        <entry encoding="base64">XDxnX3Jlc2FtcGxlclw+</entry>
-        <entry encoding="base64">XDxCT1RfVkVSU0lPTl9RVUVSWV9QQVJBTVw+</entry>
         <entry encoding="base64">XDxKV1RfUVVFUllfUEFSQU1cPg==</entry>
         <entry encoding="base64">XDxUVFNfUVVFUllfUEFSQU1cPg==</entry>
         <entry encoding="base64">XDxzZW5kRHRtZlw+</entry>
         <entry encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxBdWRpb0NvbnRleHRDbGFzc1w+</entry>
         <entry encoding="base64">XDxnX3Byb2Nlc3Nvclw+</entry>
         <entry encoding="base64">XDxnX2RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxjb25maWd1cmVVc2VyTWVkaWFDYWxsYmFja1w+</entry>
@@ -23,7 +18,12 @@
         <entry encoding="base64">XDxnX2F1ZGlvU3RyZWFtU291cmNlXD4=</entry>
         <entry encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxnX3JlU2FtcGxlclw+</entry>
+        <entry encoding="base64">XDxzdXBwb3J0c0dldFVzZXJNZWRpYVw+</entry>
+        <entry encoding="base64">XDxBdWRpb0NvbnRleHRDbGFzc1w+</entry>
+        <entry encoding="base64">XDxnX3N1cHBvcnRzQXVkaW9Db250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxnX3N1cHBvcnRzR2V0VXNlck1lZGlhXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQXVkaW9TdHJlYW1cPg==</entry>
+        <entry encoding="base64">XDxtZWRpYVN0cmVhbVNvdXJjZVw+</entry>
         <entry encoding="base64">XDxzdGFydFNlc3Npb25cPg==</entry>
       </history-search>
       <history-cmd>
@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592568512732">
         <mark key="'" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592850431492">
-        <mark key="'" line="1220" column="16" />
-        <mark key="[" line="1041" column="1" />
-        <mark key="]" line="1042" column="0" />
-        <mark key="." line="1042" column="0" />
-        <mark key="^" line="1042" column="0" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592853338256">
+        <mark key="'" line="554" column="9" />
+        <mark key="[" line="1087" column="37" />
+        <mark key="]" line="1087" column="46" />
+        <mark key="." line="1087" column="45" />
+        <mark key="^" line="1087" column="46" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/handler/ItemStreamsHandlerTest.java" timestamp="1592567846460">
         <mark key="'" line="51" column="19" />
@@ -178,29 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1321" column="14" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="54" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="55" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="56" column="6" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="548" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="535" column="55" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="14" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
-      <jump line="102" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
-      <jump line="172" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
-      <jump line="31" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
-      <jump line="130" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
-      <jump line="133" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
-      <jump line="51" column="19" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/handler/ItemStreamsHandlerTest.java" />
-      <jump line="12" column="9" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveCappedRepository.java" />
-      <jump line="7" column="60" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" />
-      <jump line="9" column="15" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" />
-      <jump line="13" column="25" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveCappedRepository.java" />
-      <jump line="86" column="74" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
-      <jump line="21" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
-      <jump line="73" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
-      <jump line="66" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
-      <jump line="69" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
-      <jump line="22" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
       <jump line="11" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
       <jump line="76" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
       <jump line="9" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTRecognitionHandlerImplV1.java" />
@@ -218,7 +195,6 @@
       <jump line="1353" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="572" column="51" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1341" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1342" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1278" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="564" column="29" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1193" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -245,7 +221,6 @@
       <jump line="435" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="451" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="453" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1216" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="671" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="608" column="40" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="599" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -258,7 +233,6 @@
       <jump line="593" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="582" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="581" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="107" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="569" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="571" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="458" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -272,57 +246,80 @@
       <jump line="683" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="109" column="7" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="566" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1218" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="553" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1340" column="23" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="122" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1237" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1220" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="559" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="553" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1218" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1074" column="25" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1049" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1045" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1208" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1212" column="11" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1242" column="26" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1300" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1378" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1377" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1245" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1249" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1176" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1047" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1073" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1308" column="27" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="107" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1307" column="27" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1216" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1050" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1220" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1092" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1052" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1181" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1342" column="20" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="562" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="554" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly8KLy8gSW5zdGFudGlhdGUgQXVkaW9Db250ZXh0IGFuZCBjcmVhdGUgTWVkaWFTdHJlYW1BdWRpb1NvdXJjZU5vZGUgYW5kIFNjcmlwdFByb2Nlc3Nvck5vZGUuCi8vIEluc3RhbnRpYXRlIFJlc2FtcGxlciBhbmQgY29uZmlndXJlIHRoZSBvbmF1ZGlvcHJvY2VzcyBjYWxsYmFjayB3aXRoIGl0LgovLwpmdW5jdGlvbiBpbml0aWFsaXplQXVkaW9TdHJlYW0oQXVkaW9Db250ZXh0Q2xhc3MpIHsKICAgIGxldCByZVNhbXBsZXIgPSBudWxsOwogICAgbGV0IGF1ZGlvU3RyZWFtU291cmNlID0gbnVsbDsKICAgIGxldCBzY3JpcHRQcm9jZXNzb3IgPSBudWxsOwoKICAgIGdfYXVkaW9Db250ZXh0ID0gbmV3IEF1ZGlvQ29udGV4dENsYXNzKCk7CgogICAgLy8gU3RhcnQgYXVkaW8gc3RyZWFtIHRvIHNlcnZlcgogICAgbmF2aWdhdG9yLm1lZGlhRGV2aWNlcy5nZXRVc2VyTWVkaWEoeyBhdWRpbzogdHJ1ZSwgdmlkZW86IGZhbHNlIH0pCiAgICAgICAgLnRoZW4oKHN0cmVhbSkgPT4gewogICAgICAgICAgICB0cmFjZShgU3RyZWFtIGluaXRpYWxpemVkOiAke0pTT04uc3RyaW5naWZ5KHN0cmVhbSl9YCk7CgogICAgICAgICAgICBhdWRpb1N0cmVhbVNvdXJjZSA9IGdfYXVkaW9Db250ZXh0LmNyZWF0ZU1lZGlhU3RyZWFtU291cmNlKHN0cmVhbSk7CiAgICAgICAgICAgIHNjcmlwdFByb2Nlc3NvciA9IGdfYXVkaW9Db250ZXh0LmNyZWF0ZVNjcmlwdFByb2Nlc3NvcihnX2F1ZGlvQnVmZmVyU2l6ZSwgMSwgMSk7CgogICAgICAgICAgICAvLyBOb3RlOiBUaGUgcmVzYW1wbGVyIHdlJ3JlIHVzaW5nIGhlcmUgaXMgYSBiaXQgc2ltcGxpc3RpYyBhbmQgZG9lc24ndCBkb2VzIG5vdCBoYXZlCiAgICAgICAgICAgIC8vIGFuIGFudGlhbGlhc2luZyBmaWx0ZXIgZm9yIGRvd25zYW1wbGluZy4gSXQncyBwcm9iYWJseSBPSyB0byBkb3duc2FtcGxlIHRvIDE2a0h6CiAgICAgICAgICAgIC8vIGFzIHRoZXJlIHNob3VsZCBiZSB2ZXJ5IGxpdHRsZSBlbmVyZ3kgaW4gaGlnaGVyIGJhbmRzIGZvciBzcGVlY2ggYW5kIHRoZSBBU1IKICAgICAgICAgICAgLy8gZW5naW5lIHNob3VsZCBiZSBhYmxlIHRvIGRlYWwgd2l0aCBhIGJpdCBtb3JlIG5vaXNlLgogICAgICAgICAgICAvLyBUT0RPOiBCdWlsZCBiZXR0ZXIgcmVzYW1wbGVyIChwb2x5cGhhc2Uvd2luZG93ZWQgc2luYyBpbnRlcnBvbGF0b3IpIG9yIGFkZCBhIGxvd3Bhc3MgZmlsdGVyLgogICAgICAgICAgICBpZiAoIXJlU2FtcGxlcikgewogICAgICAgICAgICAgICAgcmVTYW1wbGVyID0gbmV3IFJlc2FtcGxlcihnX2F1ZGlvQ29udGV4dC5zYW1wbGVSYXRlLCBnX3RhcmdldFNhbXBsZVJhdGUsIDEsIG5ldyBGbG9hdDMyQXJyYXkoZ19hdWRpb0J1ZmZlclNpemUpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc2NyaXB0UHJvY2Vzc29yLm9uYXVkaW9wcm9jZXNzID0gKGV2ZW50KSA9PiB7CiAgICAgICAgICAgICAgICAvLyBEb3duc2FtcGxlIGFuZCBlbmNvZGUgYXVkaW8gYXMgY29uZmlndXJlZAogICAgICAgICAgICAgICAgY29uc3QgY2hhbm5lbERhdGEgPSBldmVudC5pbnB1dEJ1ZmZlci5nZXRDaGFubmVsRGF0YSgwKTsKCiAgICAgICAgICAgICAgICByZVNhbXBsZXIuaW5wdXRCdWZmZXIuc2V0KGNoYW5uZWxEYXRhKTsKCiAgICAgICAgICAgICAgICBjb25zdCBvdXRwdXRTaXplID0gcmVTYW1wbGVyLnJlc2FtcGxlcihjaGFubmVsRGF0YS5sZW5ndGgpOwogICAgICAgICAgICAgICAgbGV0IGRhdGE7CgogICAgICAgICAgICAgICAgLy8gVE9ETzogIFJlbW92ZWQgYnkgS2V2aW5XIHNvIHdlIGNhbiB0ZXN0IGJhcmdlLWluIHN1cHBvcnQuCiAgICAgICAgICAgICAgICAvL2lmKGdfcGxheWluZ1NvdXJjZSkgewogICAgICAgICAgICAgICAgLy8gICAgLy8gSEFDSzogV2hpbGUgYXVkaW8gcGxheWVyIGlzIHBsYXlpbmcsIHJlcGxhY2UgYXVkaW8gd2l0aCBzaWxlbmNlCiAgICAgICAgICAgICAgICAvLyAgICAvLyBUb28gbWFueSBlY2hvIHByb2JsZW1zIHdpdGggQ2hyb21lLCBkb24ndCBhbGxvdyBiYXJnZS1pbi4KICAgICAgICAgICAgICAgIC8vICAgIGRhdGEgPSBuZXcgRmxvYXQzMkFycmF5KG91dHB1dFNpemUpOwogICAgICAgICAgICAgICAgLy99IGVsc2UgewogICAgICAgICAgICAgICAgZGF0YSA9IG5ldyBGbG9hdDMyQXJyYXkocmVTYW1wbGVyLm91dHB1dEJ1ZmZlci5idWZmZXIsIHJlU2FtcGxlci5vdXRwdXRCdWZmZXIuYnl0ZU9mZnNldCwgb3V0cHV0U2l6ZSk7CiAgICAgICAgICAgICAgICAvL30KCiAgICAgICAgICAgICAgICBpZiAoZ19kaWFsb2cpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZ19kaWFsb2cuYXVkaW9QYXJhbWV0ZXIuY2hhbm5lbHMgPT09IDIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgYzEgPSAoZ19tb25pdG9yTGlzdGVuU3JjID09PSAnY2FsbGVyJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGMyID0gKGdfbW9uaXRvckxpc3RlblNyYyA9PT0gJ2FnZW50Jyk7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ19mb3JtYXQgPT09ICdQQ01VJykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc2l6ZSA9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdWxhdyA9IG5ldyBVaW50OEFycmF5KDIgKiBzaXplKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSAhPT0gc2l6ZTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdyA9IHVsYXdFbmNvZGVTYW1wbGUoZGF0YVtpXSAqIDMyNzY4KTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWxhd1syICogaV0gPSBjMSA/IHcgOiAweGZmOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVsYXdbMiAqIGkgKyAxXSA9IGMyID8gdyA6IDB4ZmY7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ19kaWFsb2cuc2VuZEF1ZGlvKHVsYXcpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gQ29udmVydCB0byBMaW5lYXItMTYKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHNpemUgPSBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGwxNiA9IG5ldyBJbnQxNkFycmF5KDIgKiBzaXplKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSAhPT0gc2l6ZTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdiA9IGRhdGFbaV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdyA9ICh2IDwgLTEuMCkgPyAtMzI3NjggOiAoKHYgPiAxLjApID8gMzI3NjcgOiB2ICogMzI3NjcpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsMTZbMiAqIGldID0gYzEgPyB3IDogMDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsMTVbMiAqIGkgKyAxXSA9IGMyID8gdyA6IDA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ19kaWFsb2cuc2VuZEF1ZGlvKGwxNik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ19mb3JtYXQgPT09ICdQQ01VJykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc2l6ZSA9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdWxhdyA9IG5ldyBVaW50OEFycmF5KHNpemUpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpICE9PSBzaXplOyArK2kpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bGF3W2ldID0gdWxhd0VuY29kZVNhbXBsZShkYXRhW2ldICogMzI3NjgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdfZGlhbG9nLnNlbmRBdWRpbyh1bGF3KTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENvbnZlcnQgdG8gTGluZWFyLTE2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzaXplID0gZGF0YS5sZW5ndGg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBsMTYgPSBuZXcgSW50MTZBcnJheShzaXplKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSAhPT0gc2l6ZTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdiA9IGRhdGFbaV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbDE2W2ldID0gKHYgPCAtMS4wKSA/IC0zMjc2OCA6ICgodiA+IDEuMCkgPyAzMjc2NyA6IHYgKiAzMjc2Nyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ19kaWFsb2cuc2VuZEF1ZGlvKGwxNik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CgogICAgICAgICAgICBzY3JpcHRQcm9jZXNzb3IuY29ubmVjdChnX2F1ZGlvQ29udGV4dC5kZXN0aW5hdGlvbik7CiAgICAgICAgICAgIGF1ZGlvU3RyZWFtU291cmNlIC5jb25uZWN0KHNjcmlwdFByb2Nlc3Nvcik7CiAgICAgICAgICAgIGdfbWVkaWFUcmFjayA9IHN0cmVhbS5nZXRUcmFja3MoKVswXTsKICAgICAgICB9KQogICAgICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgICAgIHRyYWNlKGBFcnJvciBpbml0aWFsaXppbmcgYXVkaW8gc3RyZWFtOiAke2Vycn1gKTsKICAgICAgICAgICAgJCgnI2Vycm9yTWVzc2FnZScpLnRleHQoJ1VuYWJsZSB0byBzdGFydCBhdWRpbyBzdHJlYW0gZnJvbSBtaWNyb3Bob25lIScpOwogICAgICAgICAgICAkKCcjZXJyb3JNZXNzYWdlQ29udGFpbmVyJykuc2hvdygpOwogICAgICAgIH0pOwp9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBzY3JpcHRQcm9jZXNzb3IgPSBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXVkaW9Db250ZXh0Q2xhc3MsIA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFNlc3Npb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBhdWRpb1N0cmVhbVNvdXJjZSA9IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>ScriptProcessorNode</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8KLy8gSW5zdGFudGlhdGUgQXVkaW9Db250ZXh0IGFuZCBjcmVhdGUgTWVkaWFTdHJlYW1BdWRpb1NvdXJjZU5vZGUgYW5kIFNjcmlwdFByb2Nlc3Nvck5vZGUuCi8vIEluc3RhbnRpYXRlIFJlc2FtcGxlciBhbmQgY29uZmlndXJlIHRoZSBvbmF1ZGlvcHJvY2VzcyBjYWxsYmFjayB3aXRoIGl0LgovLwpmdW5jdGlvbiBpbml0aWFsaXplQXVkaW9TdHJlYW0oQXVkaW9Db250ZXh0Q2xhc3MpIHsKICAgIGxldCByZVNhbXBsZXIgPSBudWxsOwogICAgbGV0IGF1ZGlvU3RyZWFtU291cmNlID0gbnVsbDsKICAgIGxldCBzY3JpcHRQcm9jZXNzb3IgPSBudWxsOwoKICAgIGdfYXVkaW9Db250ZXh0ID0gbmV3IEF1ZGlvQ29udGV4dENsYXNzKCk7CgogICAgLy8gU3RhcnQgYXVkaW8gc3RyZWFtIHRvIHNlcnZlcgogICAgbmF2aWdhdG9yLm1lZGlhRGV2aWNlcy5nZXRVc2VyTWVkaWEoeyBhdWRpbzogdHJ1ZSwgdmlkZW86IGZhbHNlIH0pCiAgICAgICAgLnRoZW4oKHN0cmVhbSkgPT4gewogICAgICAgICAgICB0cmFjZShgU3RyZWFtIGluaXRpYWxpemVkOiAke0pTT04uc3RyaW5naWZ5KHN0cmVhbSl9YCk7CgogICAgICAgICAgICBhdWRpb1N0cmVhbVNvdXJjZSA9IGdfYXVkaW9Db250ZXh0LmNyZWF0ZU1lZGlhU3RyZWFtU291cmNlKHN0cmVhbSk7CiAgICAgICAgICAgIHNjcmlwdFByb2Nlc3NvciA9IGdfYXVkaW9Db250ZXh0LmNyZWF0ZVNjcmlwdFByb2Nlc3NvcihnX2F1ZGlvQnVmZmVyU2l6ZSwgMSwgMSk7CgogICAgICAgICAgICAvLyBOb3RlOiBUaGUgcmVzYW1wbGVyIHdlJ3JlIHVzaW5nIGhlcmUgaXMgYSBiaXQgc2ltcGxpc3RpYyBhbmQgZG9lc24ndCBkb2VzIG5vdCBoYXZlCiAgICAgICAgICAgIC8vIGFuIGFudGlhbGlhc2luZyBmaWx0ZXIgZm9yIGRvd25zYW1wbGluZy4gSXQncyBwcm9iYWJseSBPSyB0byBkb3duc2FtcGxlIHRvIDE2a0h6CiAgICAgICAgICAgIC8vIGFzIHRoZXJlIHNob3VsZCBiZSB2ZXJ5IGxpdHRsZSBlbmVyZ3kgaW4gaGlnaGVyIGJhbmRzIGZvciBzcGVlY2ggYW5kIHRoZSBBU1IKICAgICAgICAgICAgLy8gZW5naW5lIHNob3VsZCBiZSBhYmxlIHRvIGRlYWwgd2l0aCBhIGJpdCBtb3JlIG5vaXNlLgogICAgICAgICAgICAvLyBUT0RPOiBCdWlsZCBiZXR0ZXIgcmVzYW1wbGVyIChwb2x5cGhhc2Uvd2luZG93ZWQgc2luYyBpbnRlcnBvbGF0b3IpIG9yIGFkZCBhIGxvd3Bhc3MgZmlsdGVyLgogICAgICAgICAgICBpZiAoIXJlU2FtcGxlcikgewogICAgICAgICAgICAgICAgcmVTYW1wbGVyID0gbmV3IFJlc2FtcGxlcihnX2F1ZGlvQ29udGV4dC5zYW1wbGVSYXRlLCBnX3RhcmdldFNhbXBsZVJhdGUsIDEsIG5ldyBGbG9hdDMyQXJyYXkoZ19hdWRpb0J1ZmZlclNpemUpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc2NyaXB0UHJvY2Vzc29yLm9uYXVkaW9wcm9jZXNzID0gKGV2ZW50KSA9PiB7CiAgICAgICAgICAgICAgICAvLyBEb3duc2FtcGxlIGFuZCBlbmNvZGUgYXVkaW8gYXMgY29uZmlndXJlZAogICAgICAgICAgICAgICAgY29uc3QgY2hhbm5lbERhdGEgPSBldmVudC5pbnB1dEJ1ZmZlci5nZXRDaGFubmVsRGF0YSgwKTsKCiAgICAgICAgICAgICAgICByZVNhbXBsZXIuaW5wdXRCdWZmZXIuc2V0KGNoYW5uZWxEYXRhKTsKCiAgICAgICAgICAgICAgICBjb25zdCBvdXRwdXRTaXplID0gcmVTYW1wbGVyLnJlc2FtcGxlcihjaGFubmVsRGF0YS5sZW5ndGgpOwogICAgICAgICAgICAgICAgbGV0IGRhdGE7CgogICAgICAgICAgICAgICAgLy8gVE9ETzogIFJlbW92ZWQgYnkgS2V2aW5XIHNvIHdlIGNhbiB0ZXN0IGJhcmdlLWluIHN1cHBvcnQuCiAgICAgICAgICAgICAgICAvL2lmKGdfcGxheWluZ1NvdXJjZSkgewogICAgICAgICAgICAgICAgLy8gICAgLy8gSEFDSzogV2hpbGUgYXVkaW8gcGxheWVyIGlzIHBsYXlpbmcsIHJlcGxhY2UgYXVkaW8gd2l0aCBzaWxlbmNlCiAgICAgICAgICAgICAgICAvLyAgICAvLyBUb28gbWFueSBlY2hvIHByb2JsZW1zIHdpdGggQ2hyb21lLCBkb24ndCBhbGxvdyBiYXJnZS1pbi4KICAgICAgICAgICAgICAgIC8vICAgIGRhdGEgPSBuZXcgRmxvYXQzMkFycmF5KG91dHB1dFNpemUpOwogICAgICAgICAgICAgICAgLy99IGVsc2UgewogICAgICAgICAgICAgICAgZGF0YSA9IG5ldyBGbG9hdDMyQXJyYXkocmVTYW1wbGVyLm91dHB1dEJ1ZmZlci5idWZmZXIsIHJlU2FtcGxlci5vdXRwdXRCdWZmZXIuYnl0ZU9mZnNldCwgb3V0cHV0U2l6ZSk7CiAgICAgICAgICAgICAgICAvL30KCiAgICAgICAgICAgICAgICBpZiAoZ19kaWFsb2cpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZ19kaWFsb2cuYXVkaW9QYXJhbWV0ZXIuY2hhbm5lbHMgPT09IDIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgYzEgPSAoZ19tb25pdG9yTGlzdGVuU3JjID09PSAnY2FsbGVyJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGMyID0gKGdfbW9uaXRvckxpc3RlblNyYyA9PT0gJ2FnZW50Jyk7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ19mb3JtYXQgPT09ICdQQ01VJykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc2l6ZSA9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdWxhdyA9IG5ldyBVaW50OEFycmF5KDIgKiBzaXplKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSAhPT0gc2l6ZTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdyA9IHVsYXdFbmNvZGVTYW1wbGUoZGF0YVtpXSAqIDMyNzY4KTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWxhd1syICogaV0gPSBjMSA/IHcgOiAweGZmOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVsYXdbMiAqIGkgKyAxXSA9IGMyID8gdyA6IDB4ZmY7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ19kaWFsb2cuc2VuZEF1ZGlvKHVsYXcpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gQ29udmVydCB0byBMaW5lYXItMTYKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHNpemUgPSBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGwxNiA9IG5ldyBJbnQxNkFycmF5KDIgKiBzaXplKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSAhPT0gc2l6ZTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdiA9IGRhdGFbaV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdyA9ICh2IDwgLTEuMCkgPyAtMzI3NjggOiAoKHYgPiAxLjApID8gMzI3NjcgOiB2ICogMzI3NjcpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsMTZbMiAqIGldID0gYzEgPyB3IDogMDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsMTVbMiAqIGkgKyAxXSA9IGMyID8gdyA6IDA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ19kaWFsb2cuc2VuZEF1ZGlvKGwxNik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ19mb3JtYXQgPT09ICdQQ01VJykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc2l6ZSA9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdWxhdyA9IG5ldyBVaW50OEFycmF5KHNpemUpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpICE9PSBzaXplOyArK2kpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bGF3W2ldID0gdWxhd0VuY29kZVNhbXBsZShkYXRhW2ldICogMzI3NjgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdfZGlhbG9nLnNlbmRBdWRpbyh1bGF3KTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENvbnZlcnQgdG8gTGluZWFyLTE2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzaXplID0gZGF0YS5sZW5ndGg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBsMTYgPSBuZXcgSW50MTZBcnJheShzaXplKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSAhPT0gc2l6ZTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdiA9IGRhdGFbaV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbDE2W2ldID0gKHYgPCAtMS4wKSA/IC0zMjc2OCA6ICgodiA+IDEuMCkgPyAzMjc2NyA6IHYgKiAzMjc2Nyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ19kaWFsb2cuc2VuZEF1ZGlvKGwxNik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CgogICAgICAgICAgICBzY3JpcHRQcm9jZXNzb3IuY29ubmVjdChnX2F1ZGlvQ29udGV4dC5kZXN0aW5hdGlvbik7CiAgICAgICAgICAgIGF1ZGlvU3RyZWFtU291cmNlIC5jb25uZWN0KHNjcmlwdFByb2Nlc3Nvcik7CiAgICAgICAgICAgIGdfbWVkaWFUcmFjayA9IHN0cmVhbS5nZXRUcmFja3MoKVswXTsKICAgICAgICB9KQogICAgICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgICAgIHRyYWNlKGBFcnJvciBpbml0aWFsaXppbmcgYXVkaW8gc3RyZWFtOiAke2Vycn1gKTsKICAgICAgICAgICAgJCgnI2Vycm9yTWVzc2FnZScpLnRleHQoJ1VuYWJsZSB0byBzdGFydCBhdWRpbyBzdHJlYW0gZnJvbSBtaWNyb3Bob25lIScpOwogICAgICAgICAgICAkKCcjZXJyb3JNZXNzYWdlQ29udGFpbmVyJykuc2hvdygpOwogICAgICAgIH0pOwp9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxldCBzY3JpcHRQcm9jZXNzb3IgPSBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gbGV0IGdfcmVTYW1wbGVyID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gbGV0IGdfc2NyaXB0UHJvY2Vzc29yID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gbGV0IGdfYXVkaW9TdHJlYW1Tb3VyY2UgID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gdHJ5IHsKICAgIC8vICAgICBBdWRpb0NvbnRleHRDbGFzcyA9IHdpbmRvdy5BdWRpb0NvbnRleHQgfHwgd2luZG93LndlYmtpdEF1ZGlvQ29udGV4dDsKICAgIC8vCiAgICAvLyAgICAgLy8gUG9seWZpbGwgbmF2aWdhdG9yLm1lZGlhRGV2aWNlcy5nZXRVc2VyTWVkaWEgZm9yIGNvbnNpc3RlbnQgaW50ZXJmYWNlCiAgICAvLyAgICAgaWYobmF2aWdhdG9yLm1lZGlhRGV2aWNlcyA9PT0gdW5kZWZpbmVkKSB7CiAgICAvLyAgICAgICAgIG5hdmlnYXRvci5tZWRpYURldmljZXMgPSB7fTsKICAgIC8vICAgICB9CiAgICAvLwogICAgLy8gICAgIGlmKG5hdmlnYXRvci5tZWRpYURldmljZXMuZ2V0VXNlck1lZGlhID09PSB1bmRlZmluZWQpIHsKICAgIC8vICAgICAgICAgc3VwcG9ydHNHZXRVc2VyTWVkaWEgPSAhIShuYXZpZ2F0b3IuZ2V0VXNlck1lZGlhIHx8IG5hdmlnYXRvci53ZWJraXRHZXRVc2VyTWVkaWEgfHwgbmF2aWdhdG9yLm1vekdldFVzZXJNZWRpYSB8fCBuYXZpZ2F0b3IubXNHZXRVc2VyTWVkaWEpOwogICAgLy8gICAgICAgICBuYXZpZ2F0b3IubWVkaWFEZXZpY2VzLmdldFVzZXJNZWRpYSA9IChjb25zdHJhaW50cykgPT4gewogICAgLy8gICAgICAgICAgICAgY29uc3QgZ2V0VXNlck1lZGlhID0gbmF2aWdhdG9yLmdldFVzZXJNZWRpYSB8fCBuYXZpZ2F0b3Iud2Via2l0R2V0VXNlck1lZGlhIHx8IG5hdmlnYXRvci5tb3pHZXRVc2VyTWVkaWEgfHwgbmF2aWdhdG9yLm1zR2V0VXNlck1lZGlhOwogICAgLy8KICAgIC8vICAgICAgICAgICAgIGlmKCFnZXRVc2VyTWVkaWEpIHsKICAgIC8vICAgICAgICAgICAgICAgICAvLyBOb3Qgc3VwcG9ydGVkIGJ5IGJyb3dzZXIsIHJlamVjdCEKICAgIC8vICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobmV3IEVycm9yKCdnZXRVc2VyTWVkaWEgaXMgbm90IGltcGxlbWVudGVkIGluIHRoaXMgYnJvd3NlcicpKTsKICAgIC8vICAgICAgICAgICAgIH0KICAgIC8vCiAgICAvLyAgICAgICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgLy8gICAgICAgICAgICAgICAgIGdldFVzZXJNZWRpYS5jYWxsKG5hdmlnYXRvciwgY29uc3RyYWludHMsIHJlc29sdmUsIHJlamVjdCk7CiAgICAvLyAgICAgICAgICAgICB9KTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgIHN1cHBvcnRzR2V0VXNlck1lZGlhID0gdHJ1ZTsKICAgIC8vICAgICB9CiAgICAvLyB9CiAgICAvLyBjYXRjaChlcnIpIHsKICAgIC8vICAgICB0cmFjZShgRXJyb3I6ICR7ZXJyfWApOwogICAgLy8gfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnX3NjcmlwdFByb2Nlc3Nvcikgewo=</text>
+        <text encoding="base64">ICAgIGxldCBzdXBwb3J0c0dldFVzZXJNZWRpYSA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGxldCBBdWRpb0NvbnRleHRDbGFzcyA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnX2F1ZGlvU3RyZWFtU291cmNlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>g_processor = g_audioContext.createScriptProcessor(g_audioBufferSize, 1, 1);
-            }
-            // Note: The resampler we're using here is a bit simplistic and doesn't does not have
-            // an antialiasing filter for downsampling.</text>
+      <register name="9" type="2">
+        <text encoding="base64">bGV0IGdfc3VwcG9ydHNBdWRpb0NvbnRleHQgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
