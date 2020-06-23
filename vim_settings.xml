@@ -172,16 +172,15 @@
       <file name="/fragment.java" timestamp="1592842067197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592918178348">
-        <mark key="'" line="107" column="22" />
-        <mark key="[" line="109" column="78" />
-        <mark key="]" line="110" column="26" />
-        <mark key="." line="110" column="25" />
-        <mark key="^" line="110" column="26" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592919906724">
+        <mark key="'" line="110" column="35" />
+        <mark key="[" line="110" column="85" />
+        <mark key="]" line="111" column="34" />
+        <mark key="." line="111" column="33" />
+        <mark key="^" line="111" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1191" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="666" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="665" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="577" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -278,15 +277,16 @@
       <jump line="333" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="83" column="50" filename="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" />
       <jump line="117" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
-      <jump line="110" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="107" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="77" column="28" filename="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" />
+      <jump line="110" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
+      <jump line="111" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRVc2VFbmhhbmNlZCh0cnVlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>AudioContext</text>
@@ -298,31 +298,31 @@
         <text>ScriptProcessorNode</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRVc2VFbmhhbmNlZCh0cnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNb2RlbChEKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNb2RlbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQk9UX1ZFUlNJT05fUVVFUllfUEFSQU0gPSAnYm90dmVyc2lvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgSldUX1FVRVJZX1BBUkFNID0gJ2p3dCc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQk9UX1ZFUlNJT05fUVVFUllfUEFSQU0gPSAnYm90dmVyc2lvbic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgSldUX1FVRVJZX1BBUkFNID0gJ2p3dCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
