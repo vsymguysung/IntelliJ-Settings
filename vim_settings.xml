@@ -139,12 +139,6 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/test/java/com/learnreactivespring/handler/ItemStreamsHandlerTest.java" timestamp="1592567846460">
         <mark key="'" line="51" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/resampler.js" timestamp="1592510849697">
-        <mark key="'" line="28" column="34" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/package.json" timestamp="1592566041716">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -163,6 +157,9 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592864029939">
         <mark key="'" line="83" column="50" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1592922694986">
+        <mark key="'" line="105" column="12" />
+      </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" timestamp="1592567928038">
         <mark key="'" line="9" column="15" />
       </file>
@@ -177,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="665" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="577" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="558" column="7" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="681" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -277,6 +273,7 @@
       <jump line="110" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="111" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="5" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/mock/MockAuthServiceProxy.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
