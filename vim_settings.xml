@@ -121,11 +121,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592568896989">
         <mark key="'" line="91" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" timestamp="1592408181721">
-        <mark key="[" line="193" column="47" />
-        <mark key="]" line="93" column="86" />
-        <mark key="^" line="93" column="86" />
-        <mark key="." line="93" column="85" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/mock/MockAuthServiceProxy.java" timestamp="1592922645350">
+        <mark key="'" line="5" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" timestamp="1592918214336">
         <mark key="'" line="77" column="28" />
@@ -180,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="666" column="33" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="665" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="577" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="558" column="7" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -280,6 +276,7 @@
       <jump line="77" column="28" filename="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" />
       <jump line="110" column="22" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
       <jump line="111" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" />
+      <jump line="5" column="41" filename="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/mock/MockAuthServiceProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
