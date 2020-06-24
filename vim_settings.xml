@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnX2F1ZGlvX3N0cmVhbV9zb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxnX3NjcmlwdFByb2Nlc3Nvclw+</entry>
         <entry encoding="base64">XDxnX2F1ZGlvU3RyZWFtU291cmNlXD4=</entry>
         <entry encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVBvbHlmaWxsXD4=</entry>
         <entry encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVw+</entry>
         <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
+        <entry encoding="base64">XDxzaWduSW5Vc2luZ0ltcGxpY2l0Rmxvd0lmTmVlZGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -108,11 +108,11 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" timestamp="1592918214336">
         <mark key="'" line="77" column="28" />
       </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593023774119">
+        <mark key="'" line="60" column="4" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
         <mark key="'" line="52" column="71" />
-      </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592864029939">
-        <mark key="'" line="83" column="50" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/lambda-iam-role.yml" timestamp="1593010848132">
         <mark key="[" line="16" column="6" />
@@ -129,8 +129,8 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1593021232243">
-        <mark key="'" line="1342" column="16" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1593023749945">
+        <mark key="'" line="1342" column="20" />
         <mark key="[" line="1068" column="24" />
         <mark key="]" line="1068" column="44" />
         <mark key="^" line="1043" column="18" />
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="590" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="579" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="578" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -247,7 +246,8 @@
       <jump line="109" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="52" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" />
       <jump line="19" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
-      <jump line="1342" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1342" column="20" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="60" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -259,7 +259,7 @@
         <text>490606849374</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZXJcPg==</text>
+        <text encoding="base64">XDxzaWduSW5Vc2luZ0ltcGxpY2l0Rmxvd0lmTmVlZGVkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>- PolicyName: LambdaExecutionAccess
@@ -310,9 +310,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZXJcPg==</last-search>
+      <last-search encoding="base64">XDxzaWduSW5Vc2luZ0ltcGxpY2l0Rmxvd0lmTmVlZGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduSW5Vc2luZ0ltcGxpY2l0Rmxvd0lmTmVlZGVkXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
