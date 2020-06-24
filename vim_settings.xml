@@ -44,8 +44,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>nohl</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>:w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -114,15 +114,20 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592864029939">
         <mark key="'" line="83" column="50" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/lambda-iam-role.yml" timestamp="1593010848132">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="28" column="16" />
+      </file>
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" timestamp="1592965824926">
         <mark key="'" line="103" column="42" />
       </file>
+      <file name="$USER_HOME$/GenDev/bot-gateway/deploy/infra/cloudformation.d/lambda_roles.yml" timestamp="1593010712706" />
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/build.gradle" timestamp="1592965806738" />
-      <file name="/Dummy.txt" timestamp="1592842067208">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592568896989">
-        <mark key="'" line="91" column="29" />
+      <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/authLambda.yml" timestamp="1593011226959">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="15" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592933692645">
         <mark key="'" line="1228" column="4" />
@@ -143,9 +148,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1592960798818">
         <mark key="'" line="72" column="8" />
-      </file>
-      <file name="/fragment.java" timestamp="1592842067197">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592920759849">
         <mark key="'" line="110" column="35" />
@@ -260,43 +262,55 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>gapic-generator</text>
+        <text>490606849374</text>
       </register>
       <register name="-" type="4">
-        <text>getUserMediaPolyfill</text>
+        <text>490606849374</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlZHVsZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>gapic-generator</text>
+        <text>- PolicyName: LambdaExecutionAccess
+        PolicyDocument:
+          Statement:
+          - Effect: Allow
+            Action:
+            - ec2:CreateNetworkInterface
+            - ec2:DescribeNetworkInterfaces
+            - ec2:DetachNetworkInterface
+            - ec2:DeleteNetworkInterface
+            - ec2:DescribeInstances
+            - autoscaling:CompleteLifecycleAction
+            Resource:
+            - &quot;*&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGF1dG9zY2FsaW5nOkNvbXBsZXRlTGlmZWN5Y2xlQWN0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXNjcmliZUluc3RhbmNlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gSUZGRTogUG9seWZpbGwgZ2V0VXNlck1lZGlhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZWxldGVOZXR3b3JrSW50ZXJmYWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXRhY2hOZXR3b3JrSW50ZXJmYWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gMS4gUG9seWZpbGwgZ2V0VXNlck1lZGlhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXNjcmliZU5ldHdvcmtJbnRlcmZhY2VzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gUG9seWZpbGwgbmF2aWdhdG9yLm1lZGlhRGV2aWNlcy5nZXRVc2VyTWVkaWEgZm9yIGNvbnNpc3RlbnQgaW50ZXJmYWNlCiAgICAgICAgaWYgKG5hdmlnYXRvci5tZWRpYURldmljZXMgPT09IHVuZGVmaW5lZCkgewogICAgICAgICAgICBuYXZpZ2F0b3IubWVkaWFEZXZpY2VzID0ge307CiAgICAgICAgfQoKICAgICAgICBpZiAobmF2aWdhdG9yLm1lZGlhRGV2aWNlcy5nZXRVc2VyTWVkaWEgPT09IHVuZGVmaW5lZCkgewogICAgICAgICAgICBnX3N1cHBvcnRzR2V0VXNlck1lZGlhID0gISEobmF2aWdhdG9yLmdldFVzZXJNZWRpYSB8fCBuYXZpZ2F0b3Iud2Via2l0R2V0VXNlck1lZGlhIHx8IG5hdmlnYXRvci5tb3pHZXRVc2VyTWVkaWEgfHwgbmF2aWdhdG9yLm1zR2V0VXNlck1lZGlhKTsKICAgICAgICAgICAgbmF2aWdhdG9yLm1lZGlhRGV2aWNlcy5nZXRVc2VyTWVkaWEgPSAoY29uc3RyYWludHMpID0+IHsKICAgICAgICAgICAgICAgIGNvbnN0IGdldFVzZXJNZWRpYSA9IG5hdmlnYXRvci5nZXRVc2VyTWVkaWEgfHwgbmF2aWdhdG9yLndlYmtpdEdldFVzZXJNZWRpYSB8fCBuYXZpZ2F0b3IubW96R2V0VXNlck1lZGlhIHx8IG5hdmlnYXRvci5tc0dldFVzZXJNZWRpYTsKCiAgICAgICAgICAgICAgICBpZiAoIWdldFVzZXJNZWRpYSkgewogICAgICAgICAgICAgICAgICAgIC8vIE5vdCBzdXBwb3J0ZWQgYnkgYnJvd3NlciwgcmVqZWN0IQogICAgICAgICAgICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgRXJyb3IoJ2dldFVzZXJNZWRpYSBpcyBub3QgaW1wbGVtZW50ZWQgaW4gdGhpcyBicm93c2VyJykpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZ2V0VXNlck1lZGlhLmNhbGwobmF2aWdhdG9yLCBjb25zdHJhaW50cywgcmVzb2x2ZSwgcmVqZWN0KTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZ19zdXBwb3J0c0dldFVzZXJNZWRpYSA9IHRydWU7CiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gSUZGRTogUG9seWZpbGwgZ2V0VXNlck1lZGlhLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
