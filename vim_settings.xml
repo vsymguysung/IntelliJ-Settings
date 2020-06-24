@@ -102,13 +102,6 @@
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1592568731373">
-        <mark key="'" line="31" column="36" />
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="8" />
-        <mark key="^" line="44" column="12" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/mock/MockAuthServiceProxy.java" timestamp="1592922645350">
         <mark key="'" line="5" column="41" />
       </file>
@@ -121,6 +114,10 @@
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592864029939">
         <mark key="'" line="83" column="50" />
       </file>
+      <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" timestamp="1592965824926">
+        <mark key="'" line="103" column="42" />
+      </file>
+      <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/build.gradle" timestamp="1592965806738" />
       <file name="/Dummy.txt" timestamp="1592842067208">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,9 +130,6 @@
         <mark key="]" line="1068" column="44" />
         <mark key="^" line="1043" column="18" />
         <mark key="." line="1068" column="24" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1592568592284">
-        <mark key="'" line="128" column="51" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1592960781485">
         <mark key="'" line="53" column="30" />
@@ -158,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="671" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="608" column="40" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="599" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="597" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -258,6 +251,7 @@
       <jump line="116" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="53" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="72" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="103" column="42" filename="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
