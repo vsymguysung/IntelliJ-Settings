@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxnX2F1ZGlvX3N0cmVhbV9zb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxnX3NjcmlwdFByb2Nlc3Nvclw+</entry>
         <entry encoding="base64">XDxnX2F1ZGlvU3RyZWFtU291cmNlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZXRVc2VyTWVkaWFQb2x5ZmlsbFw+</entry>
         <entry encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVBvbHlmaWxsXD4=</entry>
         <entry encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVw+</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -98,13 +98,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1592568309011">
-        <mark key="'" line="69" column="18" />
-        <mark key="[" line="176" column="105" />
-        <mark key="]" line="177" column="38" />
-        <mark key="^" line="177" column="38" />
-        <mark key="." line="177" column="37" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1592568731373">
         <mark key="'" line="31" column="36" />
         <mark key="[" line="44" column="8" />
@@ -118,8 +111,8 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" timestamp="1592918214336">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveCappedRepository.java" timestamp="1592567992751">
-        <mark key="'" line="13" column="25" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1592960316496">
+        <mark key="'" line="52" column="71" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592864029939">
         <mark key="'" line="83" column="50" />
@@ -146,8 +139,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1592568592284">
         <mark key="'" line="128" column="51" />
       </file>
-      <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/repository/ItemReactiveRepository.java" timestamp="1592567928038">
-        <mark key="'" line="9" column="15" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1592960781485">
+        <mark key="'" line="53" column="30" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1592960320784">
+        <mark key="'" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1592960798818">
+        <mark key="'" line="72" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1592842067197">
         <mark key="[" line="0" column="0" />
@@ -160,11 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1224" column="18" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="567" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="435" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="451" column="21" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="453" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="671" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="608" column="40" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="599" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -260,6 +254,11 @@
       <jump line="1068" column="24" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1043" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1228" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="52" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
+      <jump line="116" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="53" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -271,7 +270,7 @@
         <text>getUserMediaPolyfill</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVw+</text>
+        <text encoding="base64">XDxzY2hlZHVsZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>polyFillGetUserMedia</text>
@@ -310,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVw+</last-search>
+      <last-search encoding="base64">XDxzY2hlZHVsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb2x5RmlsbEdldFVzZXJNZWRpYVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hlZHVsZXJcPg==</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
