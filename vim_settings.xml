@@ -98,6 +98,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStub.java" timestamp="1592961820883">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="29" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1592568731373">
         <mark key="'" line="31" column="36" />
         <mark key="[" line="44" column="8" />
@@ -125,9 +129,6 @@
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1592568896989">
         <mark key="'" line="91" column="29" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1592568512732">
-        <mark key="'" line="76" column="41" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1592933692645">
         <mark key="'" line="1228" column="4" />
@@ -264,7 +265,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getUserMediaPolyfill</text>
+        <text>gapic-generator</text>
       </register>
       <register name="-" type="4">
         <text>getUserMediaPolyfill</text>
@@ -273,7 +274,7 @@
         <text encoding="base64">XDxzY2hlZHVsZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>polyFillGetUserMedia</text>
+        <text>gapic-generator</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8K</text>
