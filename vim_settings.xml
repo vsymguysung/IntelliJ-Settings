@@ -108,7 +108,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" timestamp="1592918214336">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593023774119">
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593027235408">
         <mark key="'" line="60" column="4" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
