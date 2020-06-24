@@ -135,6 +135,9 @@
         <mark key="'" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/AgentsClient.java" timestamp="1592963326636" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1593004504681">
+        <mark key="'" line="171" column="46" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1592960320784">
         <mark key="'" line="19" column="24" />
       </file>
@@ -152,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="40" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="599" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="597" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="590" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -252,6 +254,7 @@
       <jump line="53" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="72" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="103" column="42" filename="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" />
+      <jump line="171" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
