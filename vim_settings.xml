@@ -136,18 +136,9 @@
         <mark key="^" line="1043" column="18" />
         <mark key="." line="1068" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" timestamp="1592960781485">
-        <mark key="'" line="53" column="30" />
-      </file>
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/AgentsClient.java" timestamp="1592963326636" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1593004504681">
-        <mark key="'" line="171" column="46" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1593016116271">
         <mark key="'" line="19" column="24" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1593016052614">
-        <mark key="'" line="109" column="14" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592920759849">
         <mark key="'" line="110" column="35" />
