@@ -111,14 +111,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
         <mark key="'" line="52" column="71" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593028114951">
-        <mark key="'" line="86" column="20" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593028326586">
+        <mark key="'" line="53" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/lambda-iam-role.yml" timestamp="1593010848132">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1593027999386">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1593031833082">
         <mark key="'" line="302" column="19" />
       </file>
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" timestamp="1592965824926">
@@ -145,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="581" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="569" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="571" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -245,6 +244,7 @@
       <jump line="197" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
       <jump line="302" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
       <jump line="86" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
+      <jump line="53" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
