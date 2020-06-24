@@ -108,7 +108,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-speech-v1p1beta1/0.75.3/proto-google-cloud-speech-v1p1beta1-0.75.3.jar!/com/google/cloud/speech/v1p1beta1/RecognitionConfig.class" timestamp="1592918214336">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1592960316496">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
         <mark key="'" line="52" column="71" />
       </file>
       <file name="$USER_HOME$/GenDev/Teach-ReactiveSpring/learn-reactivespring/src/main/java/com/learnreactivespring/controller/v1/ItemController.java" timestamp="1592864029939">
@@ -143,11 +143,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" timestamp="1593004504681">
         <mark key="'" line="171" column="46" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1592960320784">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1593016116271">
         <mark key="'" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1592960798818">
-        <mark key="'" line="72" column="8" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" timestamp="1593016052614">
+        <mark key="'" line="109" column="14" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/google/GoogleSTTSession.java" timestamp="1592920759849">
         <mark key="'" line="110" column="35" />
@@ -157,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="599" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="597" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="590" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="579" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -250,13 +249,14 @@
       <jump line="1068" column="24" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1043" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1228" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="52" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" />
-      <jump line="19" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
       <jump line="116" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="53" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="72" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="103" column="42" filename="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" />
       <jump line="171" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/config/WebConfig.java" />
+      <jump line="109" column="14" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
+      <jump line="52" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
