@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnX2F1ZGlvU3RyZWFtU291cmNlXD4=</entry>
         <entry encoding="base64">XDxnX2F1ZGlvQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxnX3JlU2FtcGxlclw+</entry>
         <entry encoding="base64">XDxzdXBwb3J0c0dldFVzZXJNZWRpYVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
         <entry encoding="base64">XDxzaWduSW5Vc2luZ0ltcGxpY2l0Rmxvd0lmTmVlZGVkXD4=</entry>
         <entry encoding="base64">XDx0dHNFbmdpbmVMYW5ndWFnZU1hcHBpbmdcPg==</entry>
+        <entry encoding="base64">XDx0dHNTZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>53,64 %s/&quot;/'/gc</entry>
@@ -98,12 +98,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStub.java" timestamp="1592961820883">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="29" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593034827863">
+        <mark key="'" line="148" column="65" />
+        <mark key="[" line="176" column="105" />
+        <mark key="]" line="177" column="38" />
+        <mark key="^" line="177" column="38" />
+        <mark key="." line="177" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/mock/MockAuthServiceProxy.java" timestamp="1592922645350">
-        <mark key="'" line="5" column="41" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593034495453">
+        <mark key="'" line="115" column="119" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593027235408">
         <mark key="'" line="60" column="4" />
@@ -111,7 +114,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
         <mark key="'" line="52" column="71" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593028326586">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593033188779">
         <mark key="'" line="53" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/lambda-iam-role.yml" timestamp="1593010848132">
@@ -124,8 +127,15 @@
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java" timestamp="1592965824926">
         <mark key="'" line="103" column="42" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593034519525" />
       <file name="$USER_HOME$/GenDev/bot-gateway/deploy/infra/cloudformation.d/lambda_roles.yml" timestamp="1593010712706" />
       <file name="$USER_HOME$/GenDev/ccai-client-java/gapic-google-cloud-dialogflow-v2beta1/build.gradle" timestamp="1592965806738" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593033688646">
+        <mark key="'" line="91" column="29" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1593034742854">
+        <mark key="'" line="57" column="16" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/authLambda.yml" timestamp="1593011226959">
         <mark key="[" line="31" column="14" />
         <mark key="]" line="31" column="16" />
@@ -145,12 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="581" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="569" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="571" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="458" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="670" column="39" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="588" column="17" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="589" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="596" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="598" column="35" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -245,6 +249,12 @@
       <jump line="302" column="19" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" />
       <jump line="86" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
       <jump line="53" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
+      <jump line="115" column="119" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" />
+      <jump line="145" column="66" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="147" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
+      <jump line="57" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
+      <jump line="148" column="65" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -256,7 +266,7 @@
         <text>490606849374</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dHNFbmdpbmVMYW5ndWFnZU1hcHBpbmdcPg==</text>
+        <text encoding="base64">XDx0dHNTZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>- PolicyName: LambdaExecutionAccess
@@ -307,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0dHNFbmdpbmVMYW5ndWFnZU1hcHBpbmdcPg==</last-search>
+      <last-search encoding="base64">XDx0dHNTZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dHNFbmdpbmVMYW5ndWFnZU1hcHBpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0dHNTZXNzaW9uXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute encoding="base64">XDxkZWZhdWx0RXhlY3V0b3JTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
