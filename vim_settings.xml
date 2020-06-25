@@ -125,14 +125,17 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1593091646492">
         <mark key="'" line="120" column="12" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1593016116271">
-        <mark key="'" line="19" column="24" />
-      </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593027235408">
         <mark key="'" line="60" column="4" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
         <mark key="'" line="304" column="40" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593119161501">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="97" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593113195084">
         <mark key="'" line="28" column="77" />
@@ -151,7 +154,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/PrivateDomainURIConverter.java" timestamp="1593096005602" />
     </filemarks>
     <jumps>
-      <jump line="1249" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1176" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1047" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1073" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -251,60 +253,49 @@
       <jump line="572" column="22" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="263" column="52" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="28" column="77" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" />
+      <jump line="41" column="22" filename="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>490606849374</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>490606849374</text>
+        <text>UserInput</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kUnVubmVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>- PolicyName: LambdaExecutionAccess
-        PolicyDocument:
-          Statement:
-          - Effect: Allow
-            Action:
-            - ec2:CreateNetworkInterface
-            - ec2:DescribeNetworkInterfaces
-            - ec2:DetachNetworkInterface
-            - ec2:DeleteNetworkInterface
-            - ec2:DescribeInstances
-            - autoscaling:CompleteLifecycleAction
-            Resource:
-            - &quot;*&quot;</text>
+        <text encoding="base64">YWx0IFVzZXJJbnB1dCBpbnB1dEV2ZW50IGZvciBXYWl0Rm9ySW5wdXQgbmV4dEFjdGlvbgp8fHwKTFEgLT4gQ2ljZXJvOiBDcmVhdGUgVHVybjogUE9TVCBhcGkvdjEvb3JnYW5pemF0aW9ucy97b3JnYW5pemF0aW9uSWR9L3Nlc3Npb25zL3tzZXNzaW9uSWR9L3R1cm5zCm5vdGUgcmlnaHQgb2YgTFEgI0dob3N0V2hpdGUKICB7CiAgICAgICJwcmV2aW91c1R1cm4iOiB7CiAgICAgICAgICAiaWQiOiAiMjBiZDQxNzMtNTdiMS00MWUzLTlhZWQtY2IxMTY4ZGE2OGE2IgogICAgICAgfSwKICAgICAgImlucHV0RXZlbnQiOiB7CiAgICAgICAgICAidHlwZSI6ICJVc2VySW5wdXQiCiAgICAgICAgICAuLi4KICAgICAgfQogIH0KZW5kIG5vdGUKYWN0aXZhdGUgQ2ljZXJvCkNpY2VybyAtPiBOTFU6IERldGVjdFJlcXVlc3QKYWN0aXZhdGUgTkxVCk5MVSAtLT4gQ2ljZXJvOiBEZXRlY3RSZXNwb25zZQpkZWFjdGl2YXRlIE5MVQpDaWNlcm8gLS0+IExROiBUdXJuIFJlc3BvbnNlOiBbcHJldmlvdXNUdXJuLCBwcm9tcHRzLCBuZXh0QWN0aW9uXQpkZWFjdGl2YXRlIENpY2Vybwpub3RlIHJpZ2h0IG9mIExRCiB7CiAgICAgICJwcm9tcHRzIjogewogICAgICAgICAgInRleHQiOiB7CiAgICAgICAgICAgICAgInNlZ21lbnRzIjogW3sKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiVGV4dCIsCiAgICAgICAgICAgICAgICAgICJ0ZXh0IjogIkhvdyBtYW55IGNhcnMgd291bGQgeW91IGxpa2UgdG8gcmVudD8iCiAgICAgICAgICAgICAgfV0KICAgICAgICAgIH0sCiAgICAgICAgICAib3V0cHV0TGFuZ3VhZ2UiOiAiZW4tVVMiCiAgICAgIH0sCiAgICAgICJuZXh0QWN0aW9uIjogewogICAgICAgICAgInR5cGUiOiAiV2FpdEZvcklucHV0IiwKICAgICAgICAgICJtb2RlQ29uc3RyYWludHMiOiB7CiAgICAgICAgICAgICAgInRleHQiOiB7ICJsYW5ndWFnZVByZWZlcmVuY2VzIjogWyJlbi1VUyJdIH0KICAgICAgICAgIH0KICAgICAgfSwKICAgICAgImlkIjogIjkwZmQ0MTczLTI3YjEtMzFlMy00YWVkLWhiNDE2OGRhNjhhNiIKICB9CmVuZCBub3RlCkxRIC0+IFRUUzogU3ludGhlc2lzIHJlcXVlc3Q6ICJIb3cgbWFueSBjYXJzIHdvdWxkIHlvdSBsaWtlIHRvIHJlbnQ/IgphY3RpdmF0ZSBUVFMKVFRTIC0tPiBMUTogU3ludGhlc2lzIHJlc3BvbnNlIChhdWRpbyBmcmFtZXMpCmRlYWN0aXZhdGUgVFRTCkxRIC0tPiBDbGllbnQ6IFN0cmVhbWluZyBhdWRpbyBmcmFtZXMKfHx8</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGF1dG9zY2FsaW5nOkNvbXBsZXRlTGlmZWN5Y2xlQWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXNjcmliZUluc3RhbmNlcwo=</text>
+        <text encoding="base64">bm90ZSByaWdodCBvZiBMUSAjd2hpdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZWxldGVOZXR3b3JrSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGF1dG9zY2FsaW5nOkNvbXBsZXRlTGlmZWN5Y2xlQWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXRhY2hOZXR3b3JrSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXNjcmliZUluc3RhbmNlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXNjcmliZU5ldHdvcmtJbnRlcmZhY2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZWxldGVOZXR3b3JrSW50ZXJmYWNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXRhY2hOZXR3b3JrSW50ZXJmYWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtIGVjMjpEZXNjcmliZU5ldHdvcmtJbnRlcmZhY2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gSUZGRTogUG9seWZpbGwgZ2V0VXNlck1lZGlhLgo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
