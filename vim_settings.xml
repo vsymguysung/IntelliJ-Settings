@@ -109,12 +109,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593091592587">
         <mark key="'" line="141" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593027235408">
-        <mark key="'" line="60" column="4" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
-        <mark key="'" line="304" column="40" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1593051018303">
         <mark key="'" line="128" column="20" />
       </file>
@@ -129,11 +123,23 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1593031833082">
         <mark key="'" line="302" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593091278876">
-        <mark key="'" line="28" column="77" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593033688646">
         <mark key="'" line="91" column="29" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1593091646492">
+        <mark key="'" line="120" column="12" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1593016116271">
+        <mark key="'" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593027235408">
+        <mark key="'" line="60" column="4" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
+        <mark key="'" line="304" column="40" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593091278876">
+        <mark key="'" line="28" column="77" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1593034742854">
         <mark key="'" line="57" column="16" />
@@ -145,13 +151,8 @@
         <mark key="^" line="1043" column="18" />
         <mark key="." line="1068" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1593091646492">
-        <mark key="'" line="120" column="12" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/JwtValidator.java" timestamp="1593016116271">
-        <mark key="'" line="19" column="24" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1593091759900" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/PrivateDomainURIConverter.java" timestamp="1593096005602" />
     </filemarks>
     <jumps>
       <jump line="1249" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
