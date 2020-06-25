@@ -105,7 +105,8 @@
         <mark key="^" line="177" column="38" />
         <mark key="." line="177" column="37" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593049580610">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSession.java" timestamp="1593089322288" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593089313946">
         <mark key="'" line="141" column="23" />
       </file>
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/authorization.js" timestamp="1593027235408">
@@ -124,17 +125,13 @@
         <mark key="'" line="109" column="50" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1593050439474" />
-      <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/lambda-iam-role.yml" timestamp="1593010848132">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="28" column="16" />
-      </file>
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/voice_dialog_client.js" timestamp="1593089174223" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/model/OpenMessage.java" timestamp="1593031833082">
         <mark key="'" line="302" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593046841352">
-        <mark key="'" line="15" column="18" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593089671707">
+        <mark key="'" line="28" column="77" />
       </file>
-      <file name="$USER_HOME$/GenDev/bot-gateway/deploy/infra/cloudformation.d/lambda_roles.yml" timestamp="1593010712706" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593033688646">
         <mark key="'" line="91" column="29" />
       </file>
@@ -147,8 +144,8 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1593027793092">
-        <mark key="'" line="591" column="17" />
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1593089249564">
+        <mark key="'" line="263" column="52" />
         <mark key="[" line="1068" column="24" />
         <mark key="]" line="1068" column="44" />
         <mark key="^" line="1043" column="18" />
@@ -162,10 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1300" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1378" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1377" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1245" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1249" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1176" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1047" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -242,7 +235,6 @@
       <jump line="20" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
       <jump line="57" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
       <jump line="148" column="65" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
-      <jump line="28" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" />
       <jump line="15" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" />
       <jump line="39" column="39" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" />
       <jump line="118" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" />
@@ -262,6 +254,11 @@
       <jump line="127" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="128" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="109" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
+      <jump line="1344" column="40" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="1353" column="16" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="572" column="22" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="263" column="52" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
+      <jump line="28" column="77" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
