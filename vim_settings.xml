@@ -111,9 +111,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1593051018303">
         <mark key="'" line="128" column="20" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
-        <mark key="'" line="52" column="71" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593091660728">
         <mark key="'" line="109" column="50" />
       </file>
