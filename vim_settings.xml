@@ -114,14 +114,14 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
         <mark key="'" line="304" column="40" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1593050458004">
-        <mark key="'" line="190" column="49" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1593051018303">
+        <mark key="'" line="128" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/JwtHandshakeInterceptor.java" timestamp="1593016112078">
         <mark key="'" line="52" column="71" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593033188779">
-        <mark key="'" line="53" column="36" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" timestamp="1593052381953">
+        <mark key="'" line="109" column="50" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/CommandRunner.java" timestamp="1593050439474" />
       <file name="$USER_HOME$/GenDev/loquentia/deploy/infra/cloudformation.d/lambda-iam-role.yml" timestamp="1593010848132">
@@ -162,11 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1049" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1045" column="31" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1208" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1212" column="11" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1242" column="26" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1300" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1378" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1377" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -262,6 +257,11 @@
       <jump line="61" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="64" column="29" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
       <jump line="190" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="102" column="58" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="57" column="18" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="127" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="128" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" />
+      <jump line="109" column="50" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/OpenCommand.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
