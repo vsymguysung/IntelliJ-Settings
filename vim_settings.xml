@@ -98,12 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593182788134">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593184661819">
         <mark key="'" line="104" column="54" />
-        <mark key="[" line="206" column="105" />
-        <mark key="]" line="207" column="38" />
-        <mark key="^" line="207" column="38" />
-        <mark key="." line="207" column="37" />
+        <mark key="[" line="104" column="132" />
+        <mark key="]" line="105" column="8" />
+        <mark key="^" line="105" column="8" />
+        <mark key="." line="105" column="7" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSession.java" timestamp="1593089322288" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593091592587">
@@ -254,10 +254,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJvcmRlckNvbG9yIHRyYW5zcGFyZW50CnNraW5wYXJhbSBsZWdlbmRCYWNrZ3JvdW5kQ29sb3IgR2hvc3RXaGl0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShib3RWZXJzaW9uKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRWb2ljZXNcPg==</text>
@@ -266,16 +266,16 @@
         <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQm9yZGVyQ29sb3IgdHJhbnNwYXJlbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJvcmRlckNvbG9yIHRyYW5zcGFyZW50CnNraW5wYXJhbSBsZWdlbmRCYWNrZ3JvdW5kQ29sb3IgR2hvc3RXaGl0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShib3RWZXJzaW9uKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJhY2tncm91bmRDb2xvciBHaG9zdFdoaXRlCg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJvcmRlckNvbG9yIHRyYW5zcGFyZW50CnNraW5wYXJhbSBsZWdlbmRCYWNrZ3JvdW5kQ29sb3IgR2hvc3RXaGl0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQm9yZGVyUm91bmRDb3JuZXIgMQo=</text>
+        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJhY2tncm91bmRDb2xvciBHaG9zdFdoaXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQm9yZGVyUm91bmRDb3JuZXIgMQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
