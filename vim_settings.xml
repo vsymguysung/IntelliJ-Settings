@@ -138,12 +138,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593113195084">
         <mark key="'" line="28" column="77" />
       </file>
-      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1593186310169">
+      <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" timestamp="1593186503978">
         <mark key="'" line="263" column="52" />
-        <mark key="[" line="263" column="49" />
-        <mark key="]" line="263" column="50" />
+        <mark key="[" line="263" column="12" />
+        <mark key="]" line="263" column="13" />
         <mark key="^" line="263" column="50" />
-        <mark key="." line="263" column="49" />
+        <mark key="." line="263" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogengine/DialogEngineProvider.java" timestamp="1593091759900" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/PrivateDomainURIConverter.java" timestamp="1593096005602" />
@@ -253,11 +253,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShib3RWZXJzaW9uKSkK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRWb2ljZXNcPg==</text>
