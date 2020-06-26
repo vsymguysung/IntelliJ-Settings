@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
         <mark key="'" line="304" column="40" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593122124738">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="193" column="17" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593131500472">
+        <mark key="[" line="270" column="16" />
+        <mark key="]" line="270" column="28" />
+        <mark key="^" line="270" column="28" />
+        <mark key="." line="270" column="27" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593113195084">
         <mark key="'" line="28" column="77" />
@@ -262,7 +262,7 @@
         <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>inputEvent</text>
+        <text>previousTurn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kUnVubmVyXD4=</text>
@@ -283,28 +283,28 @@
         <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInByZXZpb3VzVHVybiI6IHsK</text>
+        <text encoding="base64">ICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
+        <text encoding="base64">ICAgICAgInByZXZpb3VzVHVybiI6IHsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZGVhY3RpdmF0ZSBDaWNlcm8K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">TFEgLT4gQ2ljZXJvOiBDcmVhdGUgVHVybjogUE9TVCBhcGkvdjEvb3JnYW5pemF0aW9ucy97b3JnYW5pemF0aW9uSWR9L3Nlc3Npb25zL3tzZXNzaW9uSWR9L3R1cm5zCm5vdGUgcmlnaHQgb2YgTFEgI0dob3N0V2hpdGUKICB7CiAgICAgICJwcmV2aW91c1R1cm4iOiB7CiAgICAgICAgICAiaWQiOiAiOTBmZDQxNzMtMjdiMS0zMWUzLTRhZWQtaGI0MTY4ZGE2OGE2IgogICAgICAgfSwKICAgICAgImlucHV0RXZlbnQiOiB7CiAgICAgICAgICAidHlwZSI6ICJOb09wIgogICAgICAgICAgLi4uCiAgICAgIH0KICB9CmVuZCBub3Rl</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZW5kIG5vdGUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZW5kIG5vdGUK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">TFEgLT4gQ2ljZXJvOiBDcmVhdGUgVHVybjogUE9TVCBhcGkvdjEvb3JnYW5pemF0aW9ucy97b3JnYW5pemF0aW9uSWR9L3Nlc3Npb25zL3tzZXNzaW9uSWR9L3R1cm5zCm5vdGUgcmlnaHQgb2YgTFEgI0dob3N0V2hpdGUKICB7CiAgICAgICJwcmV2aW91c1R1cm4iOiB7CiAgICAgICAgICAiaWQiOiAiOTBmZDQxNzMtMjdiMS0zMWUzLTRhZWQtaGI0MTY4ZGE2OGE2IgogICAgICAgfSwKICAgICAgImlucHV0RXZlbnQiOiB7CiAgICAgICAgICAidHlwZSI6ICJOb09wIgogICAgICAgICAgLi4uCiAgICAgIH0KICB9CmVuZCBub3Rl</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZW5kIG5vdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
