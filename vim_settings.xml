@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
         <mark key="'" line="304" column="40" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593132199735">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="31" />
+      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593132487944">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593113195084">
         <mark key="'" line="28" column="77" />
@@ -259,10 +259,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>#GhostWhite</text>
+        <text>Ivory</text>
       </register>
       <register name="-" type="4">
-        <text>#GhostWhite</text>
+        <text>Ivory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kUnVubmVyXD4=</text>
