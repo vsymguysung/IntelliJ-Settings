@@ -98,6 +98,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593182788134">
+        <mark key="'" line="104" column="54" />
+        <mark key="[" line="206" column="105" />
+        <mark key="]" line="207" column="38" />
+        <mark key="^" line="207" column="38" />
+        <mark key="." line="207" column="37" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSession.java" timestamp="1593089322288" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593091592587">
         <mark key="'" line="141" column="23" />
@@ -116,15 +123,12 @@
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2.py" timestamp="1593174686976">
         <mark key="'" line="598" column="43" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593180880657">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593182753627">
         <mark key="'" line="86" column="11" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/doc/loquentia-webAudioClient_sequence_diagram.pu" timestamp="1593178753301" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1593091646492">
         <mark key="'" line="120" column="12" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
-        <mark key="'" line="304" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593178435946">
         <mark key="[" line="11" column="0" />
@@ -145,7 +149,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/PrivateDomainURIConverter.java" timestamp="1593096005602" />
     </filemarks>
     <jumps>
-      <jump line="562" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="554" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1064" column="63" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1080" column="8" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -245,6 +248,7 @@
       <jump line="91" column="6" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" />
       <jump line="67" column="29" filename="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" />
       <jump line="86" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="104" column="54" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
