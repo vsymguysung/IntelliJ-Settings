@@ -98,19 +98,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593202244711">
-        <mark key="'" line="116" column="44" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593204747434">
+        <mark key="'" line="56" column="32" />
         <mark key="[" line="57" column="36" />
-        <mark key="]" line="57" column="40" />
-        <mark key="^" line="57" column="40" />
-        <mark key="." line="57" column="39" />
+        <mark key="]" line="57" column="41" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="57" column="40" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/TTSSession.java" timestamp="1593089322288" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593185987228">
         <mark key="'" line="141" column="23" />
-      </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/controller/WebSocketController.java" timestamp="1593051018303">
-        <mark key="'" line="128" column="20" />
       </file>
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" timestamp="1593176539919">
         <mark key="'" line="67" column="29" />
@@ -121,6 +118,12 @@
       <file name="$USER_HOME$/GenDev/audio-streaming/src/client/src/voice_dialog_client.js" timestamp="1593089174223" />
       <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/asr/v1/nuance_asr_pb2.py" timestamp="1593174686976">
         <mark key="'" line="598" column="43" />
+      </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1593204665175">
+        <mark key="[" line="112" column="33" />
+        <mark key="]" line="112" column="38" />
+        <mark key="." line="112" column="37" />
+        <mark key="^" line="112" column="38" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593182753627">
         <mark key="'" line="86" column="11" />
@@ -151,7 +154,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/PrivateDomainURIConverter.java" timestamp="1593096005602" />
     </filemarks>
     <jumps>
-      <jump line="1067" column="12" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="104" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="1357" column="0" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
@@ -251,15 +253,16 @@
       <jump line="57" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="176" column="57" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="116" column="44" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
+      <jump line="56" column="32" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>VOICE</text>
+        <text>TEXT</text>
       </register>
       <register name="-" type="4">
-        <text>VOICE</text>
+        <text>TEXT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVhUXD4=</text>
