@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
         <mark key="'" line="304" column="40" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593131500472">
-        <mark key="[" line="270" column="16" />
-        <mark key="]" line="270" column="28" />
-        <mark key="^" line="270" column="28" />
-        <mark key="." line="270" column="27" />
+      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593132199735">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593113195084">
         <mark key="'" line="28" column="77" />
@@ -258,11 +258,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
+      <register name="&quot;" type="4">
+        <text>#GhostWhite</text>
       </register>
       <register name="-" type="4">
-        <text>previousTurn</text>
+        <text>#GhostWhite</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kUnVubmVyXD4=</text>
