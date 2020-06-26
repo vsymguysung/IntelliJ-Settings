@@ -131,11 +131,10 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593046820088">
         <mark key="'" line="304" column="40" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593132487944">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/GenDev/loquentia/doc/cicero-provider-seq-diagram.pu" timestamp="1593169941654">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/ttsproviders/speechintegration/SpeechIntegrationTTSSession.java" timestamp="1593113195084">
         <mark key="'" line="28" column="77" />
@@ -258,53 +257,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ivory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJvcmRlckNvbG9yIHRyYW5zcGFyZW50CnNraW5wYXJhbSBsZWdlbmRCYWNrZ3JvdW5kQ29sb3IgR2hvc3RXaGl0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Ivory</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kUnVubmVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>note right of LQ #GhostWhite
-  {
-      &quot;previousTurn&quot;: {
-          &quot;id&quot;: &quot;90fd4173-27b1-31e3-4aed-hb4168da68a6&quot;
-       },
-      &quot;inputEvent&quot;: {
-          &quot;type&quot;: &quot;NoOp&quot;
-          ...
-      }
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQm9yZGVyQ29sb3IgdHJhbnNwYXJlbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
+        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJvcmRlckNvbG9yIHRyYW5zcGFyZW50CnNraW5wYXJhbSBsZWdlbmRCYWNrZ3JvdW5kQ29sb3IgR2hvc3RXaGl0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLgo=</text>
+        <text encoding="base64">c2tpbnBhcmFtIGxlZ2VuZEJhY2tncm91bmRDb2xvciBHaG9zdFdoaXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIH0sCg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIHRpdGxlQm9yZGVyUm91bmRDb3JuZXIgMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInByZXZpb3VzVHVybiI6IHsK</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBDaWNlcm8K</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">TFEgLT4gQ2ljZXJvOiBDcmVhdGUgVHVybjogUE9TVCBhcGkvdjEvb3JnYW5pemF0aW9ucy97b3JnYW5pemF0aW9uSWR9L3Nlc3Npb25zL3tzZXNzaW9uSWR9L3R1cm5zCm5vdGUgcmlnaHQgb2YgTFEgI0dob3N0V2hpdGUKICB7CiAgICAgICJwcmV2aW91c1R1cm4iOiB7CiAgICAgICAgICAiaWQiOiAiOTBmZDQxNzMtMjdiMS0zMWUzLTRhZWQtaGI0MTY4ZGE2OGE2IgogICAgICAgfSwKICAgICAgImlucHV0RXZlbnQiOiB7CiAgICAgICAgICAidHlwZSI6ICJOb09wIgogICAgICAgICAgLi4uCiAgICAgIH0KICB9CmVuZCBub3Rl</text>
+      <register name="7" type="2">
+        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kIG5vdGUK</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kIG5vdGUK</text>
+        <text encoding="base64">YWN0aXZhdGUgQ2ljZXJvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
