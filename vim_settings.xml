@@ -111,9 +111,6 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/speechintegration/SpeechIntegrationServiceProxy.java" timestamp="1593185987228">
         <mark key="'" line="141" column="23" />
       </file>
-      <file name="$USER_HOME$/GenDev/nuance-sandbox/nuance/tts/v1/nuance_tts_pb2_grpc.py" timestamp="1593176539919">
-        <mark key="'" line="67" column="29" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProxy.java" timestamp="1593204665175">
         <mark key="[" line="112" column="33" />
         <mark key="]" line="112" column="38" />
@@ -123,7 +120,9 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593279616870">
         <mark key="'" line="218" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/doc/loquentia-webAudioClient_sequence_diagram.pu" timestamp="1593178753301" />
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" timestamp="1593311970457">
+        <mark key="'" line="54" column="19" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroIntentConverter.java" timestamp="1593214669786">
         <mark key="'" line="8" column="47" />
       </file>
@@ -168,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1043" column="9" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
-      <jump line="1228" column="4" filename="$USER_HOME$/GenDev/audio-streaming/src/client/src/app.js" />
       <jump line="116" column="25" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
       <jump line="53" column="30" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/RSAPublicKeyReader.java" />
       <jump line="72" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/proxy/AuthServiceProxy.java" />
@@ -268,6 +265,8 @@
       <jump line="127" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="24" column="35" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="15" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" />
+      <jump line="44" column="13" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
+      <jump line="54" column="19" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
