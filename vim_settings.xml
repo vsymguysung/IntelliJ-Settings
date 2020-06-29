@@ -120,8 +120,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593279616870">
         <mark key="'" line="218" column="44" />
       </file>
-      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" timestamp="1593353385059">
-        <mark key="'" line="125" column="26" />
+      <file name="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" timestamp="1593385256826">
+        <mark key="'" line="125" column="22" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroIntentConverter.java" timestamp="1593214669786">
         <mark key="'" line="8" column="47" />
@@ -260,7 +260,6 @@
       <jump line="117" column="11" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="123" column="47" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="122" column="47" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
-      <jump line="125" column="26" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="191" column="85" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="194" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="115" column="28" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
@@ -271,6 +270,7 @@
       <jump line="175" column="82" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="179" column="71" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="178" column="85" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
+      <jump line="125" column="22" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
