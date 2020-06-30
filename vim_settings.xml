@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1593457441304">
         <mark key="'" line="227" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593464834208">
-        <mark key="'" line="414" column="27" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593547382365">
+        <mark key="'" line="413" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1593531147799">
-        <mark key="'" line="99" column="75" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1593547165473">
+        <mark key="'" line="104" column="36" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1Test.java" timestamp="1593530301017">
         <mark key="'" line="44" column="79" />
@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/MessageUtils.java" timestamp="1593529373802">
         <mark key="'" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1593461116896">
-        <mark key="'" line="19" column="16" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1593547228259">
+        <mark key="'" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593543436485">
         <mark key="'" line="237" column="23" />
@@ -165,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="347" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="343" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="51" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="115" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
@@ -216,9 +214,6 @@
       <jump line="227" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" />
       <jump line="228" column="62" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="103" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="104" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="101" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="19" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" />
       <jump line="424" column="4" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="412" column="48" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="415" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
@@ -265,15 +260,20 @@
       <jump line="242" column="15" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="245" column="8" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="237" column="23" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="102" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="101" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="104" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
+      <jump line="19" column="33" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" />
+      <jump line="413" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>Outgoing request end POST</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Outgoing request end POST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</text>
