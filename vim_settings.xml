@@ -105,8 +105,8 @@
         <mark key="^" line="104" column="64" />
         <mark key="." line="104" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1593539257230">
-        <mark key="'" line="36" column="49" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1593541059497">
+        <mark key="'" line="36" column="41" />
         <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1593439032426">
@@ -164,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="24" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="147" column="0" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="116" column="26" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
@@ -263,7 +262,8 @@
       <jump line="199" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="233" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
       <jump line="230" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
-      <jump line="36" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
+      <jump line="36" column="41" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
