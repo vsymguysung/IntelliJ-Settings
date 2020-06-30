@@ -105,12 +105,9 @@
         <mark key="^" line="104" column="64" />
         <mark key="." line="104" column="63" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1593537894914">
-        <mark key="'" line="32" column="30" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="46" column="21" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1593539257230">
+        <mark key="'" line="36" column="49" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/common/ExecutorServiceFactory.java" timestamp="1593439032426">
         <mark key="'" line="176" column="8" />
@@ -139,12 +136,11 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1593461116896">
         <mark key="'" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593537881330">
-        <mark key="'" line="233" column="38" />
-        <mark key="[" line="234" column="68" />
-        <mark key="]" line="234" column="86" />
-        <mark key="." line="234" column="85" />
-        <mark key="^" line="234" column="86" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593539109300">
+        <mark key="[" line="228" column="8" />
+        <mark key="]" line="228" column="32" />
+        <mark key="." line="228" column="31" />
+        <mark key="^" line="228" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1593527921604" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1593455693275">
@@ -168,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="32" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
-      <jump line="122" column="23" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="123" column="24" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
       <jump line="147" column="0" filename="$USER_HOME$/GenDev/loopback-streaming/src/loopback/adapters/ws-custom.adapter.ts" />
@@ -268,48 +262,50 @@
       <jump line="209" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="199" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
       <jump line="233" column="38" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="230" column="40" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
+      <jump line="36" column="49" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>AudioBotMessage</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZWRJbnRlbnRCb3RNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90U2Vzc2lvbkNhbGxiYWNrLm9uUmVzcG9uc2VSZWNlaXZlZChpbnRlbnRSZXNwb25zZS5nZXRBdWRpb0JvdE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90U2Vzc2lvbkNhbGxiYWNrLm9uUmVzcG9uc2VSZWNlaXZlZChuZXcgSW50ZW50QXVkaW9Cb3RNZXNzYWdlKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSwKICAgICAgICAgICAgICAgIGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90U2Vzc2lvbkNhbGxiYWNrLm9uUmVzcG9uc2VSZWNlaXZlZChpbnRlbnRSZXNwb25zZS5nZXRJbnRlbnRCb3RNZXNzYWdlKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSAhPSBudWxsICYmIGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpICE9IG51bGwpIHsKICAgICAgICAgICAgYm90U2Vzc2lvbkNhbGxiYWNrLm9uUmVzcG9uc2VSZWNlaXZlZChuZXcgSW50ZW50QXVkaW9Cb3RNZXNzYWdlKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSwKICAgICAgICAgICAgICAgIGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgYm90U2Vzc2lvbkNhbGxiYWNrLm9uUmVzcG9uc2VSZWNlaXZlZChpbnRlbnRSZXNwb25zZS5nZXRBdWRpb0JvdE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGJvdFNlc3Npb25DYWxsYmFjay5vblJlc3BvbnNlUmVjZWl2ZWQoaW50ZW50UmVzcG9uc2UuZ2V0SW50ZW50Qm90TWVzc2FnZSgpKTsKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoYm90U2Vzc2lvbkNhbGxiYWNrLCB0aW1lcygxKSkub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEludGVudEJvdE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoYm90U2Vzc2lvbkNhbGxiYWNrLCB0aW1lcygxKSkub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RTZXNzaW9uQ2FsbGJhY2sub25SZXNwb25zZVJlY2VpdmVkKGludGVudFJlc3BvbnNlLmdldEF1ZGlvQm90TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90U2Vzc2lvbkNhbGxiYWNrLm9uUmVzcG9uc2VSZWNlaXZlZChpbnRlbnRSZXNwb25zZS5nZXRJbnRlbnRCb3RNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
