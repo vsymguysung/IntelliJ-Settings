@@ -98,12 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593549827994">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593553885965">
         <mark key="'" line="207" column="72" />
-        <mark key="[" line="104" column="63" />
-        <mark key="]" line="104" column="64" />
-        <mark key="^" line="104" column="64" />
-        <mark key="." line="104" column="63" />
+        <mark key="[" line="135" column="36" />
+        <mark key="]" line="136" column="31" />
+        <mark key="^" line="136" column="31" />
+        <mark key="." line="136" column="30" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1593547573553">
         <mark key="'" line="36" column="52" />
@@ -112,7 +112,7 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1593457441304">
         <mark key="'" line="227" column="24" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593551377886">
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593554098736">
         <mark key="'" line="396" column="13" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" timestamp="1593551808717">
