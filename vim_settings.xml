@@ -109,6 +109,12 @@
         <mark key="'" line="36" column="50" />
         <mark key="^" line="36" column="21" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" timestamp="1593606973163">
+        <mark key="[" line="266" column="86" />
+        <mark key="]" line="266" column="87" />
+        <mark key="." line="266" column="86" />
+        <mark key="^" line="266" column="87" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowResponseObserver.java" timestamp="1593457441304">
         <mark key="'" line="227" column="24" />
       </file>
@@ -145,9 +151,6 @@
         <mark key="^" line="228" column="32" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/dialogflow/DialogflowSession.java" timestamp="1593527921604" />
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1593455693275">
-        <mark key="'" line="15" column="49" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1593525006962">
         <mark key="'" line="106" column="18" />
       </file>
@@ -282,10 +285,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>FinalIntent</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>FinalIntent</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVJbnRlbnRSZXNwb25zZVw+</text>
