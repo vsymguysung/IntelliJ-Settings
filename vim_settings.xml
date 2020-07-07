@@ -112,12 +112,6 @@
         <mark key="^" line="36" column="67" />
         <mark key="." line="36" column="66" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/botproviders/cicero/CiceroSessionTest.java" timestamp="1593616276116">
-        <mark key="[" line="266" column="86" />
-        <mark key="]" line="266" column="87" />
-        <mark key="." line="266" column="86" />
-        <mark key="^" line="266" column="87" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" timestamp="1593716560848">
         <mark key="'" line="65" column="37" />
         <mark key="[" line="86" column="0" />
@@ -154,9 +148,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/request/messagehandlers/PlaybackCompleteMessageHandler.java" timestamp="1593615372027">
-        <mark key="'" line="19" column="28" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593713585270">
         <mark key="'" line="86" column="8" />
         <mark key="[" line="232" column="7" />
@@ -176,8 +167,12 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/SttTtsBotSessionV1.java" timestamp="1593713511908">
         <mark key="'" line="15" column="49" />
       </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/common/redisOperations.js" timestamp="1594128860740" />
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" timestamp="1593721594575">
         <mark key="'" line="39" column="45" />
+      </file>
+      <file name="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" timestamp="1594128866808">
+        <mark key="'" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroDefaultIntentConverter.java" timestamp="1593722253338">
         <mark key="'" line="39" column="46" />
@@ -194,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="36" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/websocketservice/response/BotSessionCallbackImpl.java" />
-      <jump line="413" column="16" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
-      <jump line="395" column="75" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="394" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="86" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="414" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
@@ -294,6 +286,9 @@
       <jump line="39" column="45" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroProvider.java" />
       <jump line="7" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroBotParameters.java" />
       <jump line="39" column="46" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroDefaultIntentConverter.java" />
+      <jump line="9" column="17" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" />
+      <jump line="10" column="10" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" />
+      <jump line="6" column="31" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
