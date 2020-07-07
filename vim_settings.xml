@@ -98,12 +98,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1593719940677">
-        <mark key="'" line="124" column="36" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="72" column="32" />
-        <mark key="^" line="72" column="32" />
-        <mark key="." line="72" column="31" />
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" timestamp="1594130426452">
+        <mark key="'" line="73" column="24" />
+        <mark key="^" line="72" column="68" />
       </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/sttproviders/STTSessionCallbackImplV1.java" timestamp="1593711337184">
         <mark key="'" line="29" column="30" />
@@ -142,12 +139,6 @@
         <mark key="." line="112" column="37" />
         <mark key="^" line="112" column="38" />
       </file>
-      <file name="$USER_HOME$/GenDev/loquentia/src/test/java/com/genesys/loquentia/service/LoquentiaSessionTest.java" timestamp="1593633752587">
-        <mark key="'" line="124" column="33" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" timestamp="1593713585270">
         <mark key="'" line="86" column="8" />
         <mark key="[" line="232" column="7" />
@@ -184,12 +175,16 @@
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/BotParameters.java" timestamp="1594126418387">
         <mark key="'" line="46" column="75" />
       </file>
+      <file name="$USER_HOME$/GenDev/loquentia/src/main/resources/google_cloud_platform_service_account.json" timestamp="1594129850214">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroBotParameters.java" timestamp="1593721681413">
         <mark key="'" line="7" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="42" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="86" column="20" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="414" column="11" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/service/LoquentiaSession.java" />
       <jump line="240" column="31" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/AbstractBotSessionV1.java" />
@@ -289,48 +284,49 @@
       <jump line="9" column="17" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" />
       <jump line="10" column="10" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" />
       <jump line="6" column="31" filename="$USER_HOME$/GenDev/pureconnect-chat-service/src/start/startChat.js" />
+      <jump line="73" column="24" filename="$USER_HOME$/GenDev/loquentia/src/main/java/com/genesys/loquentia/botproviders/cicero/CiceroSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZW5kIFRyYW5zY3JpcHQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>turnResponse.getNextAction().getType()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXNzaW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0dFNlc3Npb24uc3RhcnRSZWNvZ25pdGlvbihzdHRSZXF1ZXN0KTsK</text>
+      <register name="0" type="4">
+        <text>nextAction</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZW5kIFRyYW5zY3JpcHQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzdHRTZXNzaW9uLnN0YXJ0UmVjb2duaXRpb24oc3R0UmVxdWVzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZsdXguZW1wdHkoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTVFRSZXF1ZXN0IHN0dFJlcXVlc3QgPSBjcmVhdGVTdHRSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R0U2Vzc2lvbi5zdG9wUmVjb2duaXRpb24oKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAvLyBQYXNzIFNUVFJlcXVlc3QgdG8gU1RUIHByb3ZpZGVyIHRvIHN0YXJ0IHJlY29nbml0aW9uLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdG9wIFNUVCByZWNvZ25pdGlvbiBiZWNhdXNlIHN0dFJlc3BvbnNlIGlzIGZpbmFsLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHRTZXNzaW9uLnN0b3BSZWNvZ25pdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicHJpdmF0ZUtleSI6ICIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
