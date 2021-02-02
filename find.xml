@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../src/main/java/com/genesys/loquentia/botproviders/nuance/StartResponseObserver.java'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/genesys/loquentia/botproviders/nuance/StartResponseObserver.java'" />
+    <option name="customScope" value="File '.../src/main/java/com/genesys/loquentia/botproviders/nuance/NuanceSession.java'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/genesys/loquentia/botproviders/nuance/NuanceSession.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/genesys/loquentia/botproviders/nuance/StartResponseObserver.java'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/genesys/loquentia/botproviders/nuance/NuanceSession.java'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
