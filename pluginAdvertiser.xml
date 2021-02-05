@@ -47,6 +47,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.al">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.android_data_binding">
           <value>
             <plugin>
@@ -157,6 +165,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cgi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -1317,6 +1333,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ph">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -1332,6 +1372,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pod">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -1739,6 +1787,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.t">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tag">
           <value>
             <plugin>
@@ -2055,6 +2111,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -2392,6 +2456,14 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
               <option name="myPluginName" value="Ruby" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="cpanfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
