@@ -11,10 +11,8 @@
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
-      <mapping ext="pm" type="Perl" />
-      <mapping ext="pl" type="Perl" />
-      <removed_mapping ext="pm" type="Perl5 Package" />
-      <removed_mapping ext="pl" type="Perl5 Script" />
+      <mapping ext="pm" type="Perl5 Package" />
+      <mapping ext="pl" type="Perl5 Script" />
       <mapping pattern="events-factory" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
