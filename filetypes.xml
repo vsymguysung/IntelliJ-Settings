@@ -9,10 +9,11 @@
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping pattern="files/logrotate" type="PLAIN_TEXT" />
       <mapping pattern="third-party-api-requests.js" type="PLAIN_TEXT" />
-      <mapping ext="pu" type="PLAIN_TEXT" />
-      <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
+      <mapping ext="pu" type="PLAIN_TEXT" />
+      <mapping ext="raw" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="events-factory" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
