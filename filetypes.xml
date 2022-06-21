@@ -4,15 +4,16 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="logrotate" type="PLAIN_TEXT" />
-      <mapping pattern="third-party-api-requests.js" type="PLAIN_TEXT" />
       <mapping pattern="nuance-provider-seq-diagram" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping pattern="files/logrotate" type="PLAIN_TEXT" />
+      <mapping pattern="third-party-api-requests.js" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="events-factory" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -22,7 +23,9 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

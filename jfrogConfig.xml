@@ -1,10 +1,15 @@
 <application>
   <component name="GlobalSettings">
-    <option name="xrayConfig">
-      <XrayServerConfigImpl>
-        <option name="url" value="" />
+    <option name="serverConfig">
+      <ServerConfigImpl>
+        <option name="url" value="https://purecloud.jfrog.io/" />
+        <option name="xrayUrl" value="https://purecloud.jfrog.io/xray" />
+        <option name="artifactoryUrl" value="https://purecloud.jfrog.io/artifactory" />
+        <option name="project" value="" />
         <excludedPaths>**/*{.idea,test,node_modules}*</excludedPaths>
-      </XrayServerConfigImpl>
+        <connectionRetries>3</connectionRetries>
+        <connectionTimeout>60</connectionTimeout>
+      </ServerConfigImpl>
     </option>
   </component>
 </application>
