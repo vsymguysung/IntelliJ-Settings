@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="needs be installed" />
+            <option value="operations are supported" />
           </set>
         </option>
       </SuppressingContext>
